@@ -89,7 +89,7 @@ def extract_key_info(title, content):
         'benefits': [],
         'optimization_tips': [],
         'redemption_info': None,
-        'category': None
+        'category': 'General Updates'  # Default category instead of None
     }
     
     if not content:
@@ -138,7 +138,7 @@ def extract_key_info(title, content):
             if keyword in content_lower or keyword in title_lower:
                 analysis['category'] = category
                 break
-        if analysis['category']:
+        if analysis['category'] != 'General Updates':  # Stop if we found a category
             break
     
     # Extract Cashback/Reward Rate
@@ -329,10 +329,14 @@ def generate_markdown_report(recent_articles):
         by_category = {}
         for article in recent_articles:
             cat = article.get('card_info', {}).get('category', 'General Updates')
+            # Ensure category is never None
+            if cat is None:
+                cat = 'General Updates'
             if cat not in by_category:
                 by_category[cat] = []
             by_category[cat].append(article)
         
+        # Sort categories (now all are strings, no None values)
         for category in sorted(by_category.keys()):
             articles = by_category[category]
             
@@ -344,7 +348,8 @@ def generate_markdown_report(recent_articles):
                 'Tricks & Tips': '💡',
                 'Annual Fee': '💵',
                 'Travel Benefits': '✈️',
-                'Cashback': '💸'
+                'Cashback': '💸',
+                'General Updates': '📰'
             }.get(category, '📊')
             
             md_content += f"\n### {category_emoji} {category}\n\n"
