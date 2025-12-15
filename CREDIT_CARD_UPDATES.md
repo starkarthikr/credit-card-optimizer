@@ -1,8 +1,21 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-15 06:38:55 IST
+**Last Updated:** 2025-12-15 12:52:29 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 🏆 Best Card
+
+#### 1. [SBI cuts FD interest rates from today: Comparisons with HDFC Bank, ICICI Bank and Canara Bank fixed deposit rates](https://economictimes.indiatimes.com/wealth/invest/sbi-cuts-fd-interest-rates-from-today-comparisons-with-hdfc-bank-icici-bank-and-canara-bank-fixed-deposit-rates/articleshow/125975909.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 15 Dec 2025 15:06:48 +0530  
+**🏦 Bank:** HDFC  
+
+**📝 Summary:** FD interest rate in December: State Bank of India has revised its fixed deposit interest rates, reducing them by 5 basis points for tenures between 2 to less than 3 years.
+
+---
 
 
 ### 📰 General Updates
