@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-14 18:31:02 IST
+**Last Updated:** 2025-12-15 01:54:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,19 +49,6 @@
 **📅 Published:** Wed, 08 Oct 2025 12:50:38 +0000  
 
 **📝 Summary:** American Express India is aggressive in promoting the Amex Platinum Charge Metal card ever since 2019 as they initially sent out the upgrade offers to &#8220;almost&#8221; all existing Amex Cardmem...
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Forex card vs credit card: Here’s how you can smartly save money on international travel with Zero Forex Markup cards?](https://economictimes.indiatimes.com/wealth/save/forex-card-vs-credit-card-heres-how-you-can-smartly-save-money-on-international-travel-with-zero-forex-markup-cards/articleshow/125943821.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 13 Dec 2025 10:13:01 +0530  
-**💳 Card:** card vs credit card  
-
-**📝 Summary:** As holiday travel abroad looms, Indians face a crucial decision on travel cards due to the rupee's depreciation.
 
 ---
 
