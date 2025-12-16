@@ -1,21 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-16 06:37:32 IST
+**Last Updated:** 2025-12-16 12:50:53 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 🏆 Best Card
-
-#### 1. [SBI cuts FD interest rates from today: Comparisons with HDFC Bank, ICICI Bank and Canara Bank fixed deposit rates](https://economictimes.indiatimes.com/wealth/invest/sbi-cuts-fd-interest-rates-from-today-comparisons-with-hdfc-bank-icici-bank-and-canara-bank-fixed-deposit-rates/articleshow/125975909.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 15 Dec 2025 15:06:48 +0530  
-**🏦 Bank:** HDFC  
-
-**📝 Summary:** FD interest rate in December: State Bank of India has revised its fixed deposit interest rates, reducing them by 5 basis points for tenures between 2 to less than 3 years.
-
----
 
 
 ### 📰 General Updates
@@ -66,15 +53,26 @@
 ---
 
 
-### ✈️ Travel Benefits
+### 💰 Reward Points
 
-#### 1. [Zero, low-fee credit cards with free airport lounge access: Want free airport lounge access without paying a rupee? Check these cards](https://economictimes.indiatimes.com/wealth/spend/zero-low-fee-credit-cards-with-free-airport-lounge-access-want-free-airport-lounge-access-without-paying-a-rupee-check-these-cards/articleshow/125970286.cms)
+#### 1. [Gold bond turns Rs 5 lakh investment into Rs 14.2 lakh in 5 years: SGB 2020-21 Series-III premature redemption date, price revealed](https://economictimes.indiatimes.com/wealth/invest/gold-bond-turns-rs-5-lakh-investment-into-rs-14-2-lakh-in-5-years-sgb-2020-21-series-iii-premature-redemption-date-price-revealed/articleshow/125998024.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 15 Dec 2025 09:53:25 +0530  
-**💳 Card:** credit card  
+**📅 Published:** Tue, 16 Dec 2025 12:37:28 +0530  
 
-**📝 Summary:** Discover top low-fee credit cards in India offering airport lounge access and attractive rewards.
+**📝 Summary:** Sovereign Gold Bonds: The Reserve Bank of India has announced the premature redemption details for Sovereign Gold Bonds issued in June 2020.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [How Times Black’s travel stack sparked praise, critique and curiosity in its first year](https://economictimes.indiatimes.com/wealth/invest/how-times-blacks-travel-stack-sparked-praise-critique-and-curiosity-in-its-first-year/articleshow/125997311.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 16 Dec 2025 12:12:53 +0530  
+
+**📝 Summary:** Indian consumers now value convenience in premium financial products.
 
 ---
 
