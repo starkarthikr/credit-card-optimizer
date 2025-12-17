@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-17 01:47:22 IST
+**Last Updated:** 2025-12-17 06:36:56 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,30 +49,6 @@
 **📅 Published:** Wed, 08 Oct 2025 12:50:38 +0000  
 
 **📝 Summary:** American Express India is aggressive in promoting the Amex Platinum Charge Metal card ever since 2019 as they initially sent out the upgrade offers to &#8220;almost&#8221; all existing Amex Cardmem...
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Gold bond turns Rs 5 lakh investment into Rs 14.2 lakh in 5 years: SGB 2020-21 Series-III premature redemption date, price revealed](https://economictimes.indiatimes.com/wealth/invest/gold-bond-turns-rs-5-lakh-investment-into-rs-14-2-lakh-in-5-years-sgb-2020-21-series-iii-premature-redemption-date-price-revealed/articleshow/125998024.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 16 Dec 2025 12:37:28 +0530  
-
-**📝 Summary:** Sovereign Gold Bonds: The Reserve Bank of India has announced the premature redemption details for Sovereign Gold Bonds issued in June 2020.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [How Times Black’s travel stack sparked praise, critique and curiosity in its first year](https://economictimes.indiatimes.com/wealth/invest/how-times-blacks-travel-stack-sparked-praise-critique-and-curiosity-in-its-first-year/articleshow/125997311.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 16 Dec 2025 12:12:53 +0530  
-
-**📝 Summary:** Indian consumers now value convenience in premium financial products.
 
 ---
 
