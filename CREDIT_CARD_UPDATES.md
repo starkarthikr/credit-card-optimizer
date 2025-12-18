@@ -1,8 +1,21 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-18 06:36:59 IST
+**Last Updated:** 2025-12-18 12:49:13 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### ⚠️ Devaluation
+
+#### 1. [HDFC Bank FD rate change 2025: Will your current FD returns be impacted as the top bank cuts interest rate by 15 BPS?](https://economictimes.indiatimes.com/wealth/invest/hdfc-bank-fd-rate-change-2025-will-your-current-fd-returns-be-impacted-as-the-top-bank-cuts-interest-rate-by-15-bps/slideshow/126057527.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 18 Dec 2025 17:07:44 +0530  
+**🏦 Bank:** HDFC  
+
+**📝 Summary:** HDFC Bank has reduced fixed deposit (FD) interest rates on select tenures on amounts less than Rs 3 crore.
+
+---
 
 
 ### 📰 General Updates
@@ -61,6 +74,29 @@
 **📅 Published:** Thu, 18 Dec 2025 11:27:51 +0530  
 
 **📝 Summary:** The Reserve Bank of India has announced the final redemption price for Sovereign Gold Bond (SGB) 2017-18 Series-XII, set at Rs 13,245 per unit.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [IRCTC luggage rules explained: Do Railway passengers need to pay for excess luggage like at airports? Minister says this](https://economictimes.indiatimes.com/wealth/save/irctc-luggage-rules-explained-do-railway-passengers-need-to-pay-for-excess-luggage-like-at-airports-minister-says-this/articleshow/126057171.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 18 Dec 2025 17:00:53 +0530  
+
+**📝 Summary:** Railway Minister Ashwini Vaishnaw announced new luggage rules for train passengers.
+
+---
+
+#### 2. [Looking for the best travel credit card? Axis Atlas vs HSBC TravelOne vs HDFC Regalia Gold vs Diners Club Black, know which one gives you highest value](https://economictimes.indiatimes.com/wealth/borrow/looking-for-best-travel-credit-card-axis-atlas-vs-hsbc-travelone-vs-hdfc-regalia-gold-vs-diners-club-black-know-which-one-gives-you-highest-value/articleshow/126053590.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 18 Dec 2025 13:46:41 +0530  
+**🏦 Bank:** HDFC  
+**💳 Card:** best travel credit card  
+
+**📝 Summary:** Credit card reward points, airport lounge access, partner conversions and milestone benefits can significantly increase the real value earned on every rupee spent.
 
 ---
 
