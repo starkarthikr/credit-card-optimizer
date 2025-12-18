@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-18 01:47:51 IST
+**Last Updated:** 2025-12-18 06:36:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Wed, 08 Oct 2025 12:50:38 +0000  
 
 **📝 Summary:** American Express India is aggressive in promoting the Amex Platinum Charge Metal card ever since 2019 as they initially sent out the upgrade offers to &#8220;almost&#8221; all existing Amex Cardmem...
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [Gold bond turns Rs 2 lakh investment into Rs 9.32 lakh on final redemption date; delivers 366% return](https://economictimes.indiatimes.com/wealth/invest/sgb-gold-bond-series-xii-2017-18-final-redemption-price-and-date-gold-bond-investors-get-366-investment-return-return/articleshow/126051476.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 18 Dec 2025 11:27:51 +0530  
+
+**📝 Summary:** The Reserve Bank of India has announced the final redemption price for Sovereign Gold Bond (SGB) 2017-18 Series-XII, set at Rs 13,245 per unit.
 
 ---
 
