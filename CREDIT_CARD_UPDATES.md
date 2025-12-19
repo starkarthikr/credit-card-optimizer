@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-19 12:46:50 IST
+**Last Updated:** 2025-12-19 18:33:20 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Redeem ITC Green Points for Diwali Hampers](https://www.cardexpert.in/redeem-itc-green-points-diwali-hampers/)
+#### 1. [Top 5 Benefits of AURUM Credit Card: Movie tickets, Rewards, Golf and more](https://www.cardexpert.in/aurum-sbicard-benefits/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 19 Dec 2025 14:09:50 +0000  
+
+**📝 Summary:** India has good number of Super Premium Credit Cards and AURUM is a noteworthy one among.
+
+---
+
+#### 2. [Redeem ITC Green Points for Diwali Hampers](https://www.cardexpert.in/redeem-itc-green-points-diwali-hampers/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 16 Oct 2025 14:03:55 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Ultimate Guide to Priority Pass Lounge Access](https://www.cardexpert.in/priority-pass-lounge-access-guide/)
+#### 3. [Ultimate Guide to Priority Pass Lounge Access](https://www.cardexpert.in/priority-pass-lounge-access-guide/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Sun, 12 Oct 2025 20:11:49 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [HSBC Premier Banking Upgraded, now avail Airport Transfers, Meet & Greet and more](https://www.cardexpert.in/hsbc-premier-upgrade-2025/)
+#### 4. [HSBC Premier Banking Upgraded, now avail Airport Transfers, Meet & Greet and more](https://www.cardexpert.in/hsbc-premier-upgrade-2025/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 09 Oct 2025 15:16:21 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [Grab 10,000 Bonus Points on HDFC Marriott Bonvoy Credit Card Spends](https://www.cardexpert.in/hdfc-marriott-card-bonus-points-offer-oct-2025/)
+#### 5. [Grab 10,000 Bonus Points on HDFC Marriott Bonvoy Credit Card Spends](https://www.cardexpert.in/hdfc-marriott-card-bonus-points-offer-oct-2025/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 09 Oct 2025 10:57:06 +0000  
 
 **📝 Summary:** HDFC Bank has rolled out a fresh festive offer on its&#160;Marriott Bonvoy Diners Credit Card&#160;for October and November 2025.
-
----
-
-#### 5. [Amex Platinum Charge Card Upgrade Offers [125K Points for Oct 2025]](https://www.cardexpert.in/amex-platinum-charge-card-upgrade-offer-125k-points/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 08 Oct 2025 12:50:38 +0000  
-
-**📝 Summary:** American Express India is aggressive in promoting the Amex Platinum Charge Metal card ever since 2019 as they initially sent out the upgrade offers to &#8220;almost&#8221; all existing Amex Cardmem...
 
 ---
 
