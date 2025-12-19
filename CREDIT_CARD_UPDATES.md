@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-19 01:50:51 IST
+**Last Updated:** 2025-12-19 06:35:27 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -68,35 +68,36 @@
 
 ### 💰 Reward Points
 
-#### 1. [Gold bond turns Rs 2 lakh investment into Rs 9.32 lakh on final redemption date; delivers 366% return](https://economictimes.indiatimes.com/wealth/invest/sgb-gold-bond-series-xii-2017-18-final-redemption-price-and-date-gold-bond-investors-get-366-investment-return-return/articleshow/126051476.cms)
+#### 1. [Earn 6% cashback with this new credit card; here’s how to maximise benefits](https://economictimes.indiatimes.com/wealth/save/earn-6-cashback-with-this-new-credit-card-heres-how-to-maximise-benefits/articleshow/126068705.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 18 Dec 2025 11:27:51 +0530  
+**📅 Published:** Fri, 19 Dec 2025 08:54:38 +0530  
+**💳 Card:** this new credit card  
 
-**📝 Summary:** The Reserve Bank of India has announced the final redemption price for Sovereign Gold Bond (SGB) 2017-18 Series-XII, set at Rs 13,245 per unit.
+**📝 Summary:** Paisabazaar and YES BANK have launched an upgraded PaisaSave credit card, offering a significant 6% cashback on dining and travel, capped at Rs 3,000 monthly.
 
 ---
 
 
 ### ✈️ Travel Benefits
 
-#### 1. [IRCTC luggage rules explained: Do Railway passengers need to pay for excess luggage like at airports? Minister says this](https://economictimes.indiatimes.com/wealth/save/irctc-luggage-rules-explained-do-railway-passengers-need-to-pay-for-excess-luggage-like-at-airports-minister-says-this/articleshow/126057171.cms)
+#### 1. [HDFC Bank doubles debit card spend limit for airport lounge access; introduces voucher system from Jan 10, 2026](https://economictimes.indiatimes.com/wealth/save/hdfc-bank-doubles-debit-card-spend-limit-for-airport-lounge-access-introduces-voucher-system-from-jan-10-2026/articleshow/126040976.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 19 Dec 2025 08:00:00 +0530  
+**🏦 Bank:** HDFC  
+**💳 Card:** debit card  
+
+**📝 Summary:** HDFC Bank is updating its debit card lounge access program from January 10, 2026.
+
+---
+
+#### 2. [IRCTC luggage rules explained: Do Railway passengers need to pay for excess luggage like at airports? Minister says this](https://economictimes.indiatimes.com/wealth/save/irctc-luggage-rules-explained-do-railway-passengers-need-to-pay-for-excess-luggage-like-at-airports-minister-says-this/articleshow/126057171.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Thu, 18 Dec 2025 17:00:53 +0530  
 
 **📝 Summary:** Railway Minister Ashwini Vaishnaw announced new luggage rules for train passengers.
-
----
-
-#### 2. [Looking for the best travel credit card? Axis Atlas vs HSBC TravelOne vs HDFC Regalia Gold vs Diners Club Black, know which one gives you highest value](https://economictimes.indiatimes.com/wealth/borrow/looking-for-best-travel-credit-card-axis-atlas-vs-hsbc-travelone-vs-hdfc-regalia-gold-vs-diners-club-black-know-which-one-gives-you-highest-value/articleshow/126053590.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 18 Dec 2025 13:46:41 +0530  
-**🏦 Bank:** HDFC  
-**💳 Card:** best travel credit card  
-
-**📝 Summary:** Credit card reward points, airport lounge access, partner conversions and milestone benefits can significantly increase the real value earned on every rupee spent.
 
 ---
 
