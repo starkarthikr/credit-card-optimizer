@@ -1,21 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-19 06:35:27 IST
+**Last Updated:** 2025-12-19 12:46:50 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### ⚠️ Devaluation
-
-#### 1. [HDFC Bank FD rate change 2025: Will your current FD returns be impacted as the top bank cuts interest rate by 15 BPS?](https://economictimes.indiatimes.com/wealth/invest/hdfc-bank-fd-rate-change-2025-will-your-current-fd-returns-be-impacted-as-the-top-bank-cuts-interest-rate-by-15-bps/slideshow/126057527.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 18 Dec 2025 17:07:44 +0530  
-**🏦 Bank:** HDFC  
-
-**📝 Summary:** HDFC Bank has reduced fixed deposit (FD) interest rates on select tenures on amounts less than Rs 3 crore.
-
----
 
 
 ### 📰 General Updates
@@ -89,15 +76,6 @@
 **💳 Card:** debit card  
 
 **📝 Summary:** HDFC Bank is updating its debit card lounge access program from January 10, 2026.
-
----
-
-#### 2. [IRCTC luggage rules explained: Do Railway passengers need to pay for excess luggage like at airports? Minister says this](https://economictimes.indiatimes.com/wealth/save/irctc-luggage-rules-explained-do-railway-passengers-need-to-pay-for-excess-luggage-like-at-airports-minister-says-this/articleshow/126057171.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 18 Dec 2025 17:00:53 +0530  
-
-**📝 Summary:** Railway Minister Ashwini Vaishnaw announced new luggage rules for train passengers.
 
 ---
 
