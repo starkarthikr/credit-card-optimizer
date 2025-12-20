@@ -1,8 +1,21 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-20 01:45:03 IST
+**Last Updated:** 2025-12-20 06:34:09 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### ⚠️ Devaluation
+
+#### 1. [Reduced return from 11.32% to 7.5% on equity arbitrage fund? Blame it on the bee, an enigmatic take on tax and other costs by Nilesh Shah of Kotak](https://economictimes.indiatimes.com/wealth/invest/reduced-return-from-11-32-to-7-5-on-equity-arbitrage-fund-blame-it-on-the-bee-an-enigmatic-take-on-tax-and-other-costs-by-nilesh-shah-of-kotak/articleshow/126088385.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 20 Dec 2025 10:20:34 +0530  
+**🏦 Bank:** KOTAK  
+
+**📝 Summary:** While equity arbitrage funds may provide steady tax-efficient returns, a stunning analysis reveals how the government collects far more than investors realize.
+
+---
 
 
 ### 📰 General Updates
@@ -62,20 +75,6 @@
 **💳 Card:** this new credit card  
 
 **📝 Summary:** Paisabazaar and YES BANK have launched an upgraded PaisaSave credit card, offering a significant 6% cashback on dining and travel, capped at Rs 3,000 monthly.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [HDFC Bank doubles debit card spend limit for airport lounge access; introduces voucher system from Jan 10, 2026](https://economictimes.indiatimes.com/wealth/save/hdfc-bank-doubles-debit-card-spend-limit-for-airport-lounge-access-introduces-voucher-system-from-jan-10-2026/articleshow/126040976.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 19 Dec 2025 08:00:00 +0530  
-**🏦 Bank:** HDFC  
-**💳 Card:** debit card  
-
-**📝 Summary:** HDFC Bank is updating its debit card lounge access program from January 10, 2026.
 
 ---
 
