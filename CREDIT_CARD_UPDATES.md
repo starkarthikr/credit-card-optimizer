@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-20 06:34:09 IST
+**Last Updated:** 2025-12-20 12:42:16 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -62,19 +62,6 @@
 **📅 Published:** Thu, 09 Oct 2025 10:57:06 +0000  
 
 **📝 Summary:** HDFC Bank has rolled out a fresh festive offer on its&#160;Marriott Bonvoy Diners Credit Card&#160;for October and November 2025.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Earn 6% cashback with this new credit card; here’s how to maximise benefits](https://economictimes.indiatimes.com/wealth/save/earn-6-cashback-with-this-new-credit-card-heres-how-to-maximise-benefits/articleshow/126068705.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 19 Dec 2025 08:54:38 +0530  
-**💳 Card:** this new credit card  
-
-**📝 Summary:** Paisabazaar and YES BANK have launched an upgraded PaisaSave credit card, offering a significant 6% cashback on dining and travel, capped at Rs 3,000 monthly.
 
 ---
 
