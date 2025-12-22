@@ -1,8 +1,21 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-22 06:38:26 IST
+**Last Updated:** 2025-12-22 12:48:37 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### ⚠️ Devaluation
+
+#### 1. [Good news for borrowers: EMIs set to drop as these banks cut lending rates](https://economictimes.indiatimes.com/wealth/borrow/good-news-for-borrowers-emis-set-to-drop-as-these-banks-cut-lending-rates/slideshow/126116300.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 22 Dec 2025 12:06:58 +0530  
+**🏦 Bank:** SBI  
+
+**📝 Summary:** Many borrowers have reasons to cheer as several leading banks, including Canara Bank, State Bank of India (SBI), Punjab National Bank (PNB) and Indian Overseas Bank (IOB), have reduced lending rate...
+
+---
 
 
 ### 📰 General Updates
@@ -49,36 +62,6 @@
 **📅 Published:** Thu, 09 Oct 2025 10:57:06 +0000  
 
 **📝 Summary:** HDFC Bank has rolled out a fresh festive offer on its&#160;Marriott Bonvoy Diners Credit Card&#160;for October and November 2025.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Indigo crisis: How ‘cancel for any reason’ travel insurance cover can save you from sudden flight cancellations](https://economictimes.indiatimes.com/wealth/insure/indigo-crisis-how-cancel-for-any-reason-travel-insurance-cover-can-save-you-from-sudden-flight-cancellations/articleshow/126088487.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 22 Dec 2025 06:30:00 +0530  
-
-**📝 Summary:** The benefit allows you to cancel your trip without citing a reason, but the 24-hour intimation rule could limit its utility.
-
----
-
-#### 2. [Hotel stocks outlook: Rising room rates and demand-supply gap to boost Indian Hotels, Lemon Tree, Chalet](https://economictimes.indiatimes.com/wealth/invest/hotel-stocks-outlook-rising-room-rates-and-demand-supply-gap-to-boost-indian-hotels-lemon-tree-chalet/articleshow/126088146.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 22 Dec 2025 06:30:00 +0530  
-
-**📝 Summary:** Hotels shake off a seasonal lull as rising room rates and demand tailwinds lift the sector outlook.
-
----
-
-#### 3. [Rupee hits 91 per dollar: How it impacts overseas education, foreign travel and international investments](https://economictimes.indiatimes.com/wealth/invest/rupee-hits-91-per-dollar-how-it-impacts-overseas-education-foreign-travel-and-international-investments/articleshow/126087985.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 22 Dec 2025 06:30:00 +0530  
-
-**📝 Summary:** Students studying abroad and their parents will see budgets stretched, while international travellers can expect last-minute plans and discretionary spending to become 10-15% more expensive.
 
 ---
 
