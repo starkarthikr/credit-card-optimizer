@@ -1,21 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-21 18:31:12 IST
+**Last Updated:** 2025-12-22 01:56:40 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### ⚠️ Devaluation
-
-#### 1. [Reduced return from 11.32% to 7.5% on equity arbitrage fund? Blame it on the bee, an enigmatic take on tax and other costs by Nilesh Shah of Kotak](https://economictimes.indiatimes.com/wealth/invest/reduced-return-from-11-32-to-7-5-on-equity-arbitrage-fund-blame-it-on-the-bee-an-enigmatic-take-on-tax-and-other-costs-by-nilesh-shah-of-kotak/articleshow/126088385.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 20 Dec 2025 10:20:34 +0530  
-**🏦 Bank:** KOTAK  
-
-**📝 Summary:** While equity arbitrage funds may provide steady tax-efficient returns, a stunning analysis reveals how the government collects far more than investors realize.
-
----
 
 
 ### 📰 General Updates
@@ -62,6 +49,36 @@
 **📅 Published:** Thu, 09 Oct 2025 10:57:06 +0000  
 
 **📝 Summary:** HDFC Bank has rolled out a fresh festive offer on its&#160;Marriott Bonvoy Diners Credit Card&#160;for October and November 2025.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Indigo crisis: How ‘cancel for any reason’ travel insurance cover can save you from sudden flight cancellations](https://economictimes.indiatimes.com/wealth/insure/indigo-crisis-how-cancel-for-any-reason-travel-insurance-cover-can-save-you-from-sudden-flight-cancellations/articleshow/126088487.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 22 Dec 2025 06:30:00 +0530  
+
+**📝 Summary:** The benefit allows you to cancel your trip without citing a reason, but the 24-hour intimation rule could limit its utility.
+
+---
+
+#### 2. [Hotel stocks outlook: Rising room rates and demand-supply gap to boost Indian Hotels, Lemon Tree, Chalet](https://economictimes.indiatimes.com/wealth/invest/hotel-stocks-outlook-rising-room-rates-and-demand-supply-gap-to-boost-indian-hotels-lemon-tree-chalet/articleshow/126088146.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 22 Dec 2025 06:30:00 +0530  
+
+**📝 Summary:** Hotels shake off a seasonal lull as rising room rates and demand tailwinds lift the sector outlook.
+
+---
+
+#### 3. [Rupee hits 91 per dollar: How it impacts overseas education, foreign travel and international investments](https://economictimes.indiatimes.com/wealth/invest/rupee-hits-91-per-dollar-how-it-impacts-overseas-education-foreign-travel-and-international-investments/articleshow/126087985.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 22 Dec 2025 06:30:00 +0530  
+
+**📝 Summary:** Students studying abroad and their parents will see budgets stretched, while international travellers can expect last-minute plans and discretionary spending to become 10-15% more expensive.
 
 ---
 
