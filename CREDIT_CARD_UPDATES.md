@@ -1,26 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-23 06:37:38 IST
+**Last Updated:** 2025-12-23 12:49:56 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
-### ⚠️ Devaluation
+### 📰 General Updates
 
-#### 1. [Good news for borrowers: EMIs set to drop as these banks cut lending rates](https://economictimes.indiatimes.com/wealth/borrow/good-news-for-borrowers-emis-set-to-drop-as-these-banks-cut-lending-rates/slideshow/126116300.cms)
+#### 1. [IndusInd Bank and Jio-bp Launches a Co-brand Fuel Credit Card](https://www.cardexpert.in/indusind-jio-bp-launches-fuel-credit-card/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 22 Dec 2025 12:06:58 +0530  
-**🏦 Bank:** SBI  
+**📡 Source:** Cardexpert  
+**📅 Published:** Tue, 23 Dec 2025 08:27:31 +0000  
 
-**📝 Summary:** Many borrowers have reasons to cheer as several leading banks, including Canara Bank, State Bank of India (SBI), Punjab National Bank (PNB) and Indian Overseas Bank (IOB), have reduced lending rate...
+**📝 Summary:** IndusInd Bank and Jio-bp have launched a new co-branded fuel credit card called the IndusInd Bank Jio-bp Mobility+ Credit Card.
 
 ---
 
-
-### 📰 General Updates
-
-#### 1. [Top 5 Benefits of AURUM Credit Card: Movie tickets, Rewards, Golf and more](https://www.cardexpert.in/aurum-sbicard-benefits/)
+#### 2. [Top 5 Benefits of AURUM Credit Card: Movie tickets, Rewards, Golf and more](https://www.cardexpert.in/aurum-sbicard-benefits/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 19 Dec 2025 14:09:50 +0000  
@@ -29,7 +25,7 @@
 
 ---
 
-#### 2. [Redeem ITC Green Points for Diwali Hampers](https://www.cardexpert.in/redeem-itc-green-points-diwali-hampers/)
+#### 3. [Redeem ITC Green Points for Diwali Hampers](https://www.cardexpert.in/redeem-itc-green-points-diwali-hampers/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 16 Oct 2025 14:03:55 +0000  
@@ -38,7 +34,7 @@
 
 ---
 
-#### 3. [Ultimate Guide to Priority Pass Lounge Access](https://www.cardexpert.in/priority-pass-lounge-access-guide/)
+#### 4. [Ultimate Guide to Priority Pass Lounge Access](https://www.cardexpert.in/priority-pass-lounge-access-guide/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Sun, 12 Oct 2025 20:11:49 +0000  
@@ -47,21 +43,12 @@
 
 ---
 
-#### 4. [HSBC Premier Banking Upgraded, now avail Airport Transfers, Meet & Greet and more](https://www.cardexpert.in/hsbc-premier-upgrade-2025/)
+#### 5. [HSBC Premier Banking Upgraded, now avail Airport Transfers, Meet & Greet and more](https://www.cardexpert.in/hsbc-premier-upgrade-2025/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 09 Oct 2025 15:16:21 +0000  
 
 **📝 Summary:** If there is one international bank that’s quietly but steadily improving its offerings in India, it’s&#160;HSBC.
-
----
-
-#### 5. [Grab 10,000 Bonus Points on HDFC Marriott Bonvoy Credit Card Spends](https://www.cardexpert.in/hdfc-marriott-card-bonus-points-offer-oct-2025/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Thu, 09 Oct 2025 10:57:06 +0000  
-
-**📝 Summary:** HDFC Bank has rolled out a fresh festive offer on its&#160;Marriott Bonvoy Diners Credit Card&#160;for October and November 2025.
 
 ---
 
