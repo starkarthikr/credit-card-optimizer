@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-01-01 02:03:28 IST
+**Last Updated:** 2026-01-01 06:37:44 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -43,24 +43,12 @@
 
 ---
 
-#### 5. [Apply for BOB Eterna Credit Card as Lifetime Free Before 31st Dec 2025](https://www.cardexpert.in/bob-eterna-lifetime-free-offer/)
+#### 5. [Apply for BOB Eterna Credit Card as Lifetime Free Before 31st March 2026](https://www.cardexpert.in/bob-eterna-lifetime-free-offer/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 29 Dec 2025 12:38:48 +0000  
 
-**📝 Summary:** BOBcard&#160;has rolled out one of the best sign-up offers of the year by making its premium offering, the BOB Eterna Credit Card,&#160;Lifetime Free&#160;for a limited period until&#160;31st Decem...
-
----
-
-
-### 💡 Tricks & Tips
-
-#### 1. [I and two of my salaried friends have bought adjoining office spaces. Can we optimize taxes by forming an LLP?](https://economictimes.indiatimes.com/wealth/tax/i-and-two-of-my-salaried-friends-have-bought-adjoining-office-spaces-can-we-optimize-taxes-by-forming-an-llp/articleshow/126251141.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 31 Dec 2025 12:30:00 +0530  
-
-**📝 Summary:** ET Wealth Reader's Query: We are three salaried friends, one of whom is a non-resident Indian (NRI), and have individually purchased adjoining commercial office spaces in the same project.
+**📝 Summary:** BOBcard has rolled out one of the best sign-up offers of the year by making its premium offering, the BOB Eterna Credit Card, Lifetime Free for a limited period until 31st March 2026.
 
 ---
 
