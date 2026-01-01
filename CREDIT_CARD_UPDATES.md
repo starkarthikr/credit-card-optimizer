@@ -1,54 +1,66 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2025-12-23 12:49:56 IST
+**Last Updated:** 2026-01-01 02:03:28 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [IndusInd Bank and Jio-bp Launches a Co-brand Fuel Credit Card](https://www.cardexpert.in/indusind-jio-bp-launches-fuel-credit-card/)
+#### 1. [Coming soon: Air India Maharaja Club co-branded credit cards](https://www.cardexpert.in/air-india-maharaja-club-credit-cards-coming-soon/)
 
 **📡 Source:** Cardexpert  
-**📅 Published:** Tue, 23 Dec 2025 08:27:31 +0000  
+**📅 Published:** Wed, 31 Dec 2025 13:55:59 +0000  
 
-**📝 Summary:** IndusInd Bank and Jio-bp have launched a new co-branded fuel credit card called the IndusInd Bank Jio-bp Mobility+ Credit Card.
+**📝 Summary:** It has been a while since Air India merged with&#160;Vistara, and Air India has been making a sincere effort to establish a fresh brand identity.
 
 ---
 
-#### 2. [Top 5 Benefits of AURUM Credit Card: Movie tickets, Rewards, Golf and more](https://www.cardexpert.in/aurum-sbicard-benefits/)
+#### 2. [Axis Credit Card International Spends Offer: Earn upto 20,000 INR Vouchers Every Month](https://www.cardexpert.in/axis-credit-card-international-spends-offer-nov-2025/)
 
 **📡 Source:** Cardexpert  
-**📅 Published:** Fri, 19 Dec 2025 14:09:50 +0000  
+**📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
-**📝 Summary:** India has good number of Super Premium Credit Cards and AURUM is a noteworthy one among.
+**📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
 
 ---
 
-#### 3. [Redeem ITC Green Points for Diwali Hampers](https://www.cardexpert.in/redeem-itc-green-points-diwali-hampers/)
+#### 3. [Cathay Pacific Offer: 25% Bonus Miles on Points Transfer](https://www.cardexpert.in/cathay-pacific-points-transfer-offers/)
 
 **📡 Source:** Cardexpert  
-**📅 Published:** Thu, 16 Oct 2025 14:03:55 +0000  
+**📅 Published:** Tue, 30 Dec 2025 04:41:01 +0000  
 
-**📝 Summary:** Just incase if you&#8217;re sitting on good amount of ITC Green Points, which I&#8217;m sure you would, thanks to the generous rewards on Axis Bank Credit Cards, you may now redeem them for sweets ...
+**📝 Summary:** Cathay Pacific that runs the Asia Miles airline loyalty program has recently come up with a lovely 25% bonus points offer with Indian points transfer partners.
 
 ---
 
-#### 4. [Ultimate Guide to Priority Pass Lounge Access](https://www.cardexpert.in/priority-pass-lounge-access-guide/)
+#### 4. [HSBC TravelOne Credit Card Signup Offer: Get additional 3,999 INR Cashback](https://www.cardexpert.in/hsbc-travelone-signup-offer/)
 
 **📡 Source:** Cardexpert  
-**📅 Published:** Sun, 12 Oct 2025 20:11:49 +0000  
+**📅 Published:** Mon, 29 Dec 2025 15:15:50 +0000  
 
-**📝 Summary:** Back in the day, when I used to plan for an international trip, I would intentionally choose routes with more layovers.
+**📝 Summary:** HSBC India has rolled out one of its most lucrative signup offers of the year.
 
 ---
 
-#### 5. [HSBC Premier Banking Upgraded, now avail Airport Transfers, Meet & Greet and more](https://www.cardexpert.in/hsbc-premier-upgrade-2025/)
+#### 5. [Apply for BOB Eterna Credit Card as Lifetime Free Before 31st Dec 2025](https://www.cardexpert.in/bob-eterna-lifetime-free-offer/)
 
 **📡 Source:** Cardexpert  
-**📅 Published:** Thu, 09 Oct 2025 15:16:21 +0000  
+**📅 Published:** Mon, 29 Dec 2025 12:38:48 +0000  
 
-**📝 Summary:** If there is one international bank that’s quietly but steadily improving its offerings in India, it’s&#160;HSBC.
+**📝 Summary:** BOBcard&#160;has rolled out one of the best sign-up offers of the year by making its premium offering, the BOB Eterna Credit Card,&#160;Lifetime Free&#160;for a limited period until&#160;31st Decem...
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [I and two of my salaried friends have bought adjoining office spaces. Can we optimize taxes by forming an LLP?](https://economictimes.indiatimes.com/wealth/tax/i-and-two-of-my-salaried-friends-have-bought-adjoining-office-spaces-can-we-optimize-taxes-by-forming-an-llp/articleshow/126251141.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 31 Dec 2025 12:30:00 +0530  
+
+**📝 Summary:** ET Wealth Reader's Query: We are three salaried friends, one of whom is a non-resident Indian (NRI), and have individually purchased adjoining commercial office spaces in the same project.
 
 ---
 
