@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-01-02 01:54:29 IST
+**Last Updated:** 2026-01-02 06:37:14 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Coming soon: Air India Maharaja Club co-branded credit cards](https://www.cardexpert.in/air-india-maharaja-club-credit-cards-coming-soon/)
+#### 1. [Signup Offer: Earn 40,000 Avios with IndusInd Avios Credit Card (Until 31st Jan 2026)](https://www.cardexpert.in/indusind-avios-credit-card-signup-offer-jan-2026/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 02 Jan 2026 05:55:57 +0000  
+
+**📝 Summary:** Qatar Airways and IndusInd Bank have come up with one of the best signup offers for 2026.
+
+---
+
+#### 2. [Coming soon: Air India Maharaja Club co-branded credit cards](https://www.cardexpert.in/air-india-maharaja-club-credit-cards-coming-soon/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 31 Dec 2025 13:55:59 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Axis Credit Card International Spends Offer: Earn upto 20,000 INR Vouchers Every Month](https://www.cardexpert.in/axis-credit-card-international-spends-offer-nov-2025/)
+#### 3. [Axis Credit Card International Spends Offer: Earn upto 20,000 INR Vouchers Every Month](https://www.cardexpert.in/axis-credit-card-international-spends-offer-nov-2025/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Cathay Pacific Offer: 25% Bonus Miles on Points Transfer](https://www.cardexpert.in/cathay-pacific-points-transfer-offers/)
+#### 4. [Cathay Pacific Offer: 25% Bonus Miles on Points Transfer](https://www.cardexpert.in/cathay-pacific-points-transfer-offers/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Tue, 30 Dec 2025 04:41:01 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [HSBC TravelOne Credit Card Signup Offer: Get additional 3,999 INR Cashback](https://www.cardexpert.in/hsbc-travelone-signup-offer/)
+#### 5. [HSBC TravelOne Credit Card Signup Offer: Get additional 3,999 INR Cashback](https://www.cardexpert.in/hsbc-travelone-signup-offer/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 29 Dec 2025 15:15:50 +0000  
 
 **📝 Summary:** HSBC India has rolled out one of its most lucrative signup offers of the year.
-
----
-
-#### 5. [Apply for BOB Eterna Credit Card as Lifetime Free Before 31st March 2026](https://www.cardexpert.in/bob-eterna-lifetime-free-offer/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Mon, 29 Dec 2025 12:38:48 +0000  
-
-**📝 Summary:** BOBcard has rolled out one of the best sign-up offers of the year by making its premium offering, the BOB Eterna Credit Card, Lifetime Free for a limited period until 31st March 2026.
 
 ---
 
