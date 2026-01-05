@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-01-05 12:52:47 IST
+**Last Updated:** 2026-01-05 18:36:53 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Marriott’s new Design Hotel in Pune: Hotel Irada Now Open for Point Redemptions](https://www.cardexpert.in/marriott-design-hotel-irada-pune-point-redemptions-open/)
+#### 1. [Courtyard Club VIP Lounge inside 080 Lounge at Bangalore Airport Review (T2, Domestic)](https://www.cardexpert.in/courtyard-club-vip-lounge-bangalore-airport-t2-domestic/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Mon, 05 Jan 2026 17:03:00 +0000  
+
+**📝 Summary:** If you frequently travel through&#160;Kempegowda International Airport&#160;Terminal 2 on domestic flights, chances are you are already familiar with the massive&#160;080 Lounge.
+
+---
+
+#### 2. [Marriott’s new Design Hotel in Pune: Hotel Irada Now Open for Point Redemptions](https://www.cardexpert.in/marriott-design-hotel-irada-pune-point-redemptions-open/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 02 Jan 2026 12:51:53 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Signup Offer: Earn 40,000 Avios with IndusInd Avios Credit Card (Until 31st Jan 2026)](https://www.cardexpert.in/indusind-avios-credit-card-signup-offer-jan-2026/)
+#### 3. [Signup Offer: Earn 40,000 Avios with IndusInd Avios Credit Card (Until 31st Jan 2026)](https://www.cardexpert.in/indusind-avios-credit-card-signup-offer-jan-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 02 Jan 2026 05:55:57 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Coming soon: Air India Maharaja Club co-branded credit cards](https://www.cardexpert.in/air-india-maharaja-club-credit-cards-coming-soon/)
+#### 4. [Coming soon: Air India Maharaja Club co-branded credit cards](https://www.cardexpert.in/air-india-maharaja-club-credit-cards-coming-soon/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 31 Dec 2025 13:55:59 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [Axis Credit Card International Spends Offer: Earn upto 20,000 INR Vouchers Every Month](https://www.cardexpert.in/axis-credit-card-international-spends-offer-nov-2025/)
+#### 5. [Axis Credit Card International Spends Offer: Earn upto 20,000 INR Vouchers Every Month](https://www.cardexpert.in/axis-credit-card-international-spends-offer-nov-2025/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-#### 5. [Cathay Pacific Offer: 25% Bonus Miles on Points Transfer](https://www.cardexpert.in/cathay-pacific-points-transfer-offers/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Tue, 30 Dec 2025 04:41:01 +0000  
-
-**📝 Summary:** Cathay Pacific that runs the Asia Miles airline loyalty program has recently come up with a lovely 25% bonus points offer with Indian points transfer partners.
 
 ---
 
