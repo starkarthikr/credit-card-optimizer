@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-01-05 02:04:12 IST
+**Last Updated:** 2026-01-05 06:42:26 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Tue, 30 Dec 2025 04:41:01 +0000  
 
 **📝 Summary:** Cathay Pacific that runs the Asia Miles airline loyalty program has recently come up with a lovely 25% bonus points offer with Indian points transfer partners.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [SGB premature redemption date today: Investors with Rs 1 lakh investment in gold bond get Rs 2.70 lakh; check details](https://economictimes.indiatimes.com/wealth/invest/sgb-premature-redemption-date-today-investors-with-rs-1-lakh-investment-in-gold-bond-gets-over-rs-2-70-lakh-check-details/articleshow/126345785.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 05 Jan 2026 11:31:39 +0530  
+
+**📝 Summary:** Sovereign Gold Bonds: The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bonds Series IX.
 
 ---
 
