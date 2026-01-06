@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-01-06 01:54:44 IST
+**Last Updated:** 2026-01-06 06:38:16 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -61,6 +61,24 @@
 **📅 Published:** Mon, 05 Jan 2026 11:31:39 +0530  
 
 **📝 Summary:** Sovereign Gold Bonds: The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bonds Series IX.
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [Credit card limit extension scams are rising: 3 red flags you must spot &amp; 5 ways to stay safe](https://economictimes.indiatimes.com/wealth/borrow/credit-card-limit-extension-scams-are-rising-3-red-flags-you-must-spot-5-ways-to-stay-safe/slideshow/126367189.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 06 Jan 2026 11:32:14 +0530  
+**🏦 Bank:** AU  
+**💳 Card:** in your credit card  
+
+**📝 Summary:** A sudden message, WhatsApp text, or call claiming to offer an instant or pre-approved increase in your credit card limit could be a scam.
+
+**💡 Optimization Tips:**
+
+- Fraudsters use such tricks to steal your money and personal details
 
 ---
 
