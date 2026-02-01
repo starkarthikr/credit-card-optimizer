@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-01 02:38:07 IST
+**Last Updated:** 2026-02-01 06:53:17 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,23 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Income Tax Slabs Budget 2026 Live Updates: Exemption on insurance interest awards, nil deduction certificates for small taxpayers, and extension of the ITR filing deadline for non-audit cases to 31 August, says FM Sitharaman](https://economictimes.indiatimes.com/wealth/tax/income-tax-union-budget-2026-live-updates-standard-deduction-hike-income-tax-slab-changes-nirmala-sitharaman-tax-relief-feb-1/liveblog/127830262.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sun, 01 Feb 2026 04:49:26 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** Income Tax Slab Union Budget FY 2026-2027 Live Updates: New Income Tax Act 2025 to take effect from April 1, 2026, TCS on foreign travel, education and medical remittances cut, automated lower TDS ...
+
+**💡 Optimization Tips:**
+
+- Income Tax Slab Union Budget FY 2026-2027 Live Updates: New Income Tax Act 2025 to take effect from April 1, 2026, TCS on foreign travel, education and medical remittances cut, automated lower TDS relief for small taxpayers holding multiple securitie
 
 ---
 
