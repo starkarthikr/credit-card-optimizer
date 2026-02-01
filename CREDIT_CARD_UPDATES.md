@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-01-06 18:35:29 IST
+**Last Updated:** 2026-02-01 02:38:07 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -30,7 +30,7 @@
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 02 Jan 2026 05:55:57 +0000  
 
-**📝 Summary:** Qatar Airways and IndusInd Bank have come up with one of the best signup offers for 2026.
+**📝 Summary:** Update: The offer has been paused as of 8th Jan 2026.
 
 ---
 
@@ -49,24 +49,6 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-
-### 💡 Tricks & Tips
-
-#### 1. [Credit card limit extension scams are rising: 3 red flags you must spot &amp; 5 ways to stay safe](https://economictimes.indiatimes.com/wealth/borrow/credit-card-limit-extension-scams-are-rising-3-red-flags-you-must-spot-5-ways-to-stay-safe/slideshow/126367189.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 06 Jan 2026 11:32:14 +0530  
-**🏦 Bank:** AU  
-**💳 Card:** in your credit card  
-
-**📝 Summary:** A sudden message, WhatsApp text, or call claiming to offer an instant or pre-approved increase in your credit card limit could be a scam.
-
-**💡 Optimization Tips:**
-
-- Fraudsters use such tricks to steal your money and personal details
 
 ---
 
