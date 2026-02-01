@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-01 06:53:17 IST
+**Last Updated:** 2026-02-01 12:55:17 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,19 +53,14 @@
 ---
 
 
-### ✈️ Travel Benefits
+### 💰 Reward Points
 
-#### 1. [Income Tax Slabs Budget 2026 Live Updates: Exemption on insurance interest awards, nil deduction certificates for small taxpayers, and extension of the ITR filing deadline for non-audit cases to 31 August, says FM Sitharaman](https://economictimes.indiatimes.com/wealth/tax/income-tax-union-budget-2026-live-updates-standard-deduction-hike-income-tax-slab-changes-nirmala-sitharaman-tax-relief-feb-1/liveblog/127830262.cms)
+#### 1. [SGB redemption will no longer be tax free for these investors as budget 2026 introduces new taxation rules for FY 2027](https://economictimes.indiatimes.com/wealth/invest/sgb-redemption-will-no-longer-be-tax-free-for-these-investors-as-budget-2026-introduces-new-taxation-rules-for-fy-2027/articleshow/127841071.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Sun, 01 Feb 2026 04:49:26 +0530  
-**🏦 Bank:** AU  
+**📅 Published:** Sun, 01 Feb 2026 17:38:54 +0530  
 
-**📝 Summary:** Income Tax Slab Union Budget FY 2026-2027 Live Updates: New Income Tax Act 2025 to take effect from April 1, 2026, TCS on foreign travel, education and medical remittances cut, automated lower TDS ...
-
-**💡 Optimization Tips:**
-
-- Income Tax Slab Union Budget FY 2026-2027 Live Updates: New Income Tax Act 2025 to take effect from April 1, 2026, TCS on foreign travel, education and medical remittances cut, automated lower TDS relief for small taxpayers holding multiple securitie
+**📝 Summary:** The Union Budget proposes to restrict capital gains tax exemption on Sovereign Gold Bonds (SGBs) to individuals who subscribe at original issue and hold until maturity.
 
 ---
 
