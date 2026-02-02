@@ -1,8 +1,20 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-02 07:05:20 IST
+**Last Updated:** 2026-02-02 13:05:17 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### ⚠️ Devaluation
+
+#### 1. [Reduced TCS, extended ITR deadline, simplified TDS on property, centralised Form 15G/H, immunity from tax prosecution and more in Budget 2026](https://economictimes.indiatimes.com/wealth/tax/reduced-tcs-extended-itr-deadline-simplified-tds-on-property-centralised-form-15g/h-immunity-from-tax-prosecution-and-more-in-budget-2026/articleshow/127861930.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 02 Feb 2026 17:43:45 +0530  
+
+**📝 Summary:** Budget 2026 brings major changes to personal income tax.
+
+---
 
 
 ### 📰 General Updates
@@ -49,18 +61,6 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Budget 2026 Income Tax Highlights: Changes in taxation on SGB redemption, share buyback, TCS, STT, NRI property TDS, updated income tax slabs, standard deduction and more](https://economictimes.indiatimes.com/wealth/tax/budget-2026-income-tax-highlights-changes-in-taxation-on-sgb-redemption-share-buyback-tcs-stt-nri-property-tds-updated-income-tax-slabs-standard-deduction-and-more/articleshow/127845285.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 02 Feb 2026 07:00:00 +0530  
-
-**📝 Summary:** Union Budget 2026 introduces a new Income Tax Act from April 1, 2026, with simplified rules.
 
 ---
 
