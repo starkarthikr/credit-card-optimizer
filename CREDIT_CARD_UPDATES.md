@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-01 18:38:24 IST
+**Last Updated:** 2026-02-02 02:28:34 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,12 +55,12 @@
 
 ### 💰 Reward Points
 
-#### 1. [SGB redemption will no longer be tax free for these investors as budget 2026 introduces new taxation rules for FY 2027](https://economictimes.indiatimes.com/wealth/invest/sgb-redemption-will-no-longer-be-tax-free-for-these-investors-as-budget-2026-introduces-new-taxation-rules-for-fy-2027/articleshow/127841071.cms)
+#### 1. [Budget 2026 Income Tax Highlights: Changes in taxation on SGB redemption, share buyback, TCS, STT, NRI property TDS, updated income tax slabs, standard deduction and more](https://economictimes.indiatimes.com/wealth/tax/budget-2026-income-tax-highlights-changes-in-taxation-on-sgb-redemption-share-buyback-tcs-stt-nri-property-tds-updated-income-tax-slabs-standard-deduction-and-more/articleshow/127845285.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Sun, 01 Feb 2026 17:38:54 +0530  
+**📅 Published:** Mon, 02 Feb 2026 07:00:00 +0530  
 
-**📝 Summary:** The Union Budget proposes to restrict capital gains tax exemption on Sovereign Gold Bonds (SGBs) to individuals who subscribe at original issue and hold until maturity.
+**📝 Summary:** Union Budget 2026 introduces a new Income Tax Act from April 1, 2026, with simplified rules.
 
 ---
 
