@@ -1,12 +1,15 @@
 # Credit Card Analysis Index
 
-**Last Updated:** January 05, 2026 at 03:10 AM IST
-**Total Analyses:** 10
+**Last Updated:** February 02, 2026 at 03:41 AM IST
+**Total Analyses:** 13
 
 ---
 
 ## All Card Recommendations
 
+- [February 02, 2026 at 03:41 AM](2026-02-02_03-41-13-card-analysis.md)
+- [February 02, 2026 at 03:40 AM](2026-02-02_03-40-49-card-analysis.md)
+- [February 02, 2026 at 03:40 AM](2026-02-02_03-40-13-card-analysis.md)
 - [January 05, 2026 at 03:10 AM](2026-01-05_03-10-38-card-analysis.md)
 - [January 05, 2026 at 03:10 AM](2026-01-05_03-10-09-card-analysis.md)
 - [January 05, 2026 at 03:09 AM](2026-01-05_03-09-58-card-analysis.md)
