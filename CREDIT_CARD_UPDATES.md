@@ -1,20 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-03 06:55:45 IST
+**Last Updated:** 2026-02-03 13:06:04 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### ⚠️ Devaluation
-
-#### 1. [Reduced TCS, extended ITR deadline, simplified TDS on property, centralised Form 15G/H, immunity from tax prosecution and more in Budget 2026](https://economictimes.indiatimes.com/wealth/tax/reduced-tcs-extended-itr-deadline-simplified-tds-on-property-centralised-form-15g/h-immunity-from-tax-prosecution-and-more-in-budget-2026/articleshow/127861930.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 02 Feb 2026 17:43:45 +0530  
-
-**📝 Summary:** Budget 2026 brings major changes to personal income tax.
-
----
 
 
 ### 📰 General Updates
