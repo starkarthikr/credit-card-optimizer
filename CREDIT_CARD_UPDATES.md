@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-04 06:56:16 IST
+**Last Updated:** 2026-02-04 13:05:18 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,20 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [Tax-free SGB redemption at risk? Budget 2026 proposes rule change](https://economictimes.indiatimes.com/wealth/invest/tax-free-sgb-redemption-at-risk-budget-2026-proposes-rule-change/slideshow/127903566.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 04 Feb 2026 13:16:09 +0530  
+
+**📝 Summary:** Budget 2026 proposes that the capital gains tax exemption on SGB redemption will only apply if you subscribed directly at the original issue and held the bonds until maturity.
+
+**🔄 Redemption:** Budget 2026 proposes that the capital gains tax exemption on SGB redemption will only apply if you subscribed directly at the original issue and held the bonds until maturity
 
 ---
 
