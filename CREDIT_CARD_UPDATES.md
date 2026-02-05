@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-05 02:22:29 IST
+**Last Updated:** 2026-02-05 07:02:51 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,16 +53,15 @@
 ---
 
 
-### 💰 Reward Points
+### ✈️ Travel Benefits
 
-#### 1. [Tax-free SGB redemption at risk? Budget 2026 proposes rule change](https://economictimes.indiatimes.com/wealth/invest/tax-free-sgb-redemption-at-risk-budget-2026-proposes-rule-change/slideshow/127903566.cms)
+#### 1. [PNB debit card users alert: Free domestic airport lounge access ends for RuPay Platinum card holders; see other conditions](https://economictimes.indiatimes.com/wealth/save/pnb-debit-card-users-alert-free-domestic-airport-lounge-access-ends-for-rupay-platinum-card-holders-see-n-conditions/articleshow/127925880.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 04 Feb 2026 13:16:09 +0530  
+**📅 Published:** Thu, 05 Feb 2026 12:18:29 +0530  
+**💳 Card:** debit card  
 
-**📝 Summary:** Budget 2026 proposes that the capital gains tax exemption on SGB redemption will only apply if you subscribed directly at the original issue and held the bonds until maturity.
-
-**🔄 Redemption:** Budget 2026 proposes that the capital gains tax exemption on SGB redemption will only apply if you subscribed directly at the original issue and held the bonds until maturity
+**📝 Summary:** Punjab National Bank (PNB) will discontinue complimentary domestic airport lounge access for RuPay Platinum debit cardholders from April 1, 2026.
 
 ---
 
