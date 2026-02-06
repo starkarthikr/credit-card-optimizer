@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-06 06:58:46 IST
+**Last Updated:** 2026-02-06 13:05:08 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -61,16 +61,6 @@
 **📅 Published:** Fri, 06 Feb 2026 11:09:17 +0530  
 
 **📝 Summary:** An air traveller was awarded Rs 1.
-
----
-
-#### 2. [PNB debit card user alert: Free domestic airport lounge access ends for RuPay Platinum card holders; check revised conditions](https://economictimes.indiatimes.com/wealth/save/pnb-debit-card-users-alert-free-domestic-airport-lounge-access-ends-for-rupay-platinum-card-holders-see-n-conditions/articleshow/127925880.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 05 Feb 2026 12:18:29 +0530  
-**💳 Card:** debit card  
-
-**📝 Summary:** Punjab National Bank (PNB) will discontinue complimentary domestic airport lounge access for RuPay Platinum debit cardholders from April 1, 2026.
 
 ---
 
