@@ -1,8 +1,20 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-06 13:05:08 IST
+**Last Updated:** 2026-02-06 18:54:45 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### ⚠️ Devaluation
+
+#### 1. [Pay reduced tax at 39% rate on unexplained income compared to 78% earlier, with close eye on penalty, Budget 2026 announcement?](https://economictimes.indiatimes.com/wealth/tax/pay-reduced-tax-at-39-rate-on-unexplained-income-compared-to-78-earlier-with-close-eye-on-penalty-budget-2026-announcement/articleshow/127991258.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 06 Feb 2026 18:39:18 +0530  
+
+**📝 Summary:** Budget 2026 brings a major tax relief for unexplained income.
+
+---
 
 
 ### 📰 General Updates
