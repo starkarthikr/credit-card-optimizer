@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-06 02:22:15 IST
+**Last Updated:** 2026-02-06 06:58:46 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,7 +55,16 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [PNB debit card user alert: Free domestic airport lounge access ends for RuPay Platinum card holders; check revised conditions](https://economictimes.indiatimes.com/wealth/save/pnb-debit-card-users-alert-free-domestic-airport-lounge-access-ends-for-rupay-platinum-card-holders-see-n-conditions/articleshow/127925880.cms)
+#### 1. [Child denied boarding due to ignorance of immigration rules by airline's staff, traveller awarded Rs 1.25 lakh compensation](https://economictimes.indiatimes.com/wealth/legal/will/child-denied-boarding-due-to-ignorance-of-immigration-rules-by-arilines-staff-traveller-awarded-rs-1-25-lakh-compensation/articleshow/127971085.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 06 Feb 2026 11:09:17 +0530  
+
+**📝 Summary:** An air traveller was awarded Rs 1.
+
+---
+
+#### 2. [PNB debit card user alert: Free domestic airport lounge access ends for RuPay Platinum card holders; check revised conditions](https://economictimes.indiatimes.com/wealth/save/pnb-debit-card-users-alert-free-domestic-airport-lounge-access-ends-for-rupay-platinum-card-holders-see-n-conditions/articleshow/127925880.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Thu, 05 Feb 2026 12:18:29 +0530  
