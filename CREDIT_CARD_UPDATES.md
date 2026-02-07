@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-07 02:10:57 IST
+**Last Updated:** 2026-02-07 06:46:41 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -65,14 +65,14 @@
 ---
 
 
-### ✈️ Travel Benefits
+### 💰 Reward Points
 
-#### 1. [Child denied boarding due to ignorance of immigration rules by airline's staff, traveller awarded Rs 1.25 lakh compensation](https://economictimes.indiatimes.com/wealth/legal/will/child-denied-boarding-due-to-ignorance-of-immigration-rules-by-arilines-staff-traveller-awarded-rs-1-25-lakh-compensation/articleshow/127971085.cms)
+#### 1. [SGB premature redemption date on February 9: Sovereign gold bond set to turn Rs 1 lakh investment into Rs 3.16 lakh; check details](https://economictimes.indiatimes.com/wealth/invest/sgb-premature-redemption-date-today-sovereign-gold-bond-turns-rs-1-lakh-investment-into-rs-3-16-lakh-check-details/articleshow/128021401.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Fri, 06 Feb 2026 11:09:17 +0530  
+**📅 Published:** Sat, 07 Feb 2026 11:02:52 +0530  
 
-**📝 Summary:** An air traveller was awarded Rs 1.
+**📝 Summary:** Sovereign gold bond : The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bonds, Series XI, issued in February 2021.
 
 ---
 
