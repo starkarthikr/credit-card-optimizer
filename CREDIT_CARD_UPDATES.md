@@ -1,20 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-08 06:54:24 IST
+**Last Updated:** 2026-02-10 00:50:56 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### ⚠️ Devaluation
-
-#### 1. [Pay reduced tax at 39% rate on unexplained income compared to 78% earlier, with close eye on penalty, Budget 2026 announcement?](https://economictimes.indiatimes.com/wealth/tax/pay-reduced-tax-at-39-rate-on-unexplained-income-compared-to-78-earlier-with-close-eye-on-penalty-budget-2026-announcement/articleshow/127991258.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 06 Feb 2026 18:39:18 +0530  
-
-**📝 Summary:** Budget 2026 brings a major tax relief for unexplained income.
-
----
 
 
 ### 📰 General Updates
@@ -61,18 +49,6 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [SGB premature redemption date on February 9: Sovereign gold bond set to turn Rs 1 lakh investment into Rs 3.16 lakh; check details](https://economictimes.indiatimes.com/wealth/invest/sgb-premature-redemption-date-today-sovereign-gold-bond-turns-rs-1-lakh-investment-into-rs-3-16-lakh-check-details/articleshow/128021401.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 07 Feb 2026 11:02:52 +0530  
-
-**📝 Summary:** Sovereign gold bond : The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bonds, Series XI, issued in February 2021.
 
 ---
 
