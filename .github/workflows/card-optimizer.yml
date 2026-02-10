@@ -45,7 +45,7 @@ jobs:
 
       - name: Run card analysis
         env:
-          API_KEY: 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
+          API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
           CUSTOM_PROMPT: ${{ github.event.inputs.prompt }}
           CUSTOM_MODEL: ${{ github.event.inputs.model || 'meta-llama/llama-3.2-3b-instruct:free' }}
           GITHUB_ACTIONS: true
