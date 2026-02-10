@@ -7,7 +7,18 @@ from pathlib import Path
 
 # OpenRouter API configuration
 API_URL = "https://openrouter.ai/api/v1/chat/completions"
-API_KEY = os.environ.get("API_KEY", "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")
+
+# SECURITY: API key must be provided via environment variable
+# Never hardcode API keys in source code!
+API_KEY = os.environ.get("OPENROUTER_API_KEY") or os.environ.get("API_KEY")
+
+if not API_KEY:
+    print("❌ ERROR: OPENROUTER_API_KEY environment variable is not set!")
+    print("\nPlease set your OpenRouter API key:")
+    print("  - For local development: Add to .env file")
+    print("  - For GitHub Actions: Add as repository secret")
+    print("\nGet your API key from: https://openrouter.ai/keys")
+    sys.exit(1)
 
 # Reliable Free Models for Financial Analysis
 FREE_MODELS = {
@@ -190,7 +201,7 @@ if __name__ == "__main__":
             prompts = [user_prompt]
         else:
             prompts = [
-                "Compare the top 5 Indian credit cards for travel rewards in 2025, including earning rates, redemption value, annual fees, and lounge access benefits",
+                "Compare the top 5 Indian credit cards for travel rewards in 2026, including earning rates, redemption value, annual fees, and lounge access benefits",
                 "Analyze the best credit cards for online shopping in India with cashback percentages, partner merchants, annual fee vs benefits analysis",
                 "Create a comprehensive guide for credit card reward optimization strategies including milestone benefits, accelerated rewards, and annual value calculation"
             ]
@@ -208,7 +219,7 @@ if __name__ == "__main__":
     else:
         print("\n⏰ Running scheduled card optimization")
         prompts = [
-            "Generate a monthly credit card optimization report for December 2025 covering best new card launches, devaluation alerts, limited-time offers, and spending category recommendations",
+            "Generate a monthly credit card optimization report for February 2026 covering best new card launches, devaluation alerts, limited-time offers, and spending category recommendations",
             "Analyze the latest credit card fee changes, reward program updates, and benefit modifications across major Indian banks",
             "Create a comprehensive credit card portfolio strategy for maximizing rewards across different spending categories"
         ]
