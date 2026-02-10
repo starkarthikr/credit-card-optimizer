@@ -6,24 +6,49 @@ on:
 jobs:
   generate-guide:
     runs-on: ubuntu-latest
+    timeout-minutes: 30  # Prevent runaway workflows
+    
+    # Cancel in-progress runs
+    concurrency:
+      group: ${{ github.workflow }}-${{ github.ref }}
+      cancel-in-progress: true
+    
     permissions:
       contents: write
 
     steps:
+      # Security: Monitor network egress
+      - name: Harden Runner
+        uses: step-security/harden-runner@5c7944e73c4c2a096b17a9cb74d65b6c2bbafbde # v2.9.1
+        with:
+          egress-policy: audit
+          allowed-endpoints: >
+            github.com:443
+            api.github.com:443
+            openrouter.ai:443
+            pypi.org:443
+            files.pythonhosted.org:443
+
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
+        with:
+          persist-credentials: false  # Don't persist credentials
 
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
         with:
           python-version: "3.11"
+          cache: 'pip'
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests
+          pip install -r requirements.txt
 
       - name: Generate Ultimate Credit Card Guide
+        env:
+          API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          GITHUB_ACTIONS: true
         run: |
           echo "💳 Generating ULTIMATE Credit Card Reward Maximization Guide..."
           echo "This will take 60-90 seconds for comprehensive analysis..."
