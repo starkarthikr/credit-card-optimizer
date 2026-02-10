@@ -1,0 +1,73 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.env
+
+# API Keys and credentials
+*.key
+*.pem
+*.p12
+secrets.json
+config.json
+
+# Personal financial data (NEVER commit)
+my_cards.json
+user_data.json
+personal_*.json
+transactions.csv
+statements/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+PIPFILE.lock
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
