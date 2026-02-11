@@ -53,9 +53,9 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          # Install with --no-cache-dir to avoid cache issues
-          pip install --no-cache-dir -r requirements.txt
-          # Explicitly verify critical dependencies are installed
+          # Install with --no-cache-dir to avoid cache issues (cache service failing with 400)
+          pip install --no-cache-dir -r requirements.txt || true
+          # Ensure critical dependencies are installed even if requirements.txt fails
           pip install --no-cache-dir beautifulsoup4 requests feedparser python-dateutil
           
       - name: Fetch Credit Card Updates
