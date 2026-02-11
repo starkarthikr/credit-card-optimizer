@@ -1,132 +1,155 @@
 #!/usr/bin/env python3
 """
-Expense Importer
-Import spending data from bank statements, expense trackers, and CSV files
+Expense Tracker Import System
+Import transactions from bank statements, Money Manager, Walnut, CRED exports
 """
 
 import csv
-import json
+import pandas as pd
 from pathlib import Path
 from datetime import datetime
-from typing import Dict, List, Optional
-import re
+from typing import Dict, List
+from user_profile import SpendingProfile
+
 
 class ExpenseImporter:
-    """Import and categorize expense data from various sources"""
+    """Import and categorize expenses from various sources"""
     
-    # Category mapping keywords
     CATEGORY_KEYWORDS = {
-        'dining': ['restaurant', 'cafe', 'food', 'zomato', 'swiggy', 'dining', 'pizza', 'burger', 'starbucks', 'mcdonalds'],
-        'travel': ['airline', 'flight', 'hotel', 'uber', 'ola', 'makemytrip', 'goibibo', 'booking', 'irctc', 'train'],
-        'online_shopping': ['amazon', 'flipkart', 'myntra', 'ajio', 'meesho', 'shopping', 'ecommerce'],
-        'groceries': ['supermarket', 'grocery', 'bigbasket', 'blinkit', 'instamart', 'dunzo', 'dmart', 'reliance fresh'],
-        'fuel': ['petrol', 'diesel', 'fuel', 'hp', 'iocl', 'bharat petroleum', 'shell', 'gas station'],
-        'utilities': ['electricity', 'water', 'gas', 'broadband', 'internet', 'mobile', 'recharge', 'postpaid'],
-        'entertainment': ['netflix', 'prime', 'hotstar', 'spotify', 'movie', 'cinema', 'pvr', 'inox', 'gaming'],
-        'healthcare': ['hospital', 'clinic', 'pharmacy', 'medical', 'apollo', 'doctor', 'lab test'],
-        'education': ['school', 'college', 'university', 'course', 'books', 'tuition', 'udemy', 'coursera']
+        'dining': ['restaurant', 'zomato', 'swiggy', 'food', 'cafe', 'dining', 'pizza', 'burger', 'dominos', 'mcdonald'],
+        'travel': ['uber', 'ola', 'flight', 'airline', 'hotel', 'booking', 'goibibo', 'makemytrip', 'train', 'irctc'],
+        'online_shopping': ['amazon', 'flipkart', 'myntra', 'ajio', 'meesho', 'online', 'ecommerce'],
+        'groceries': ['bigbasket', 'blinkit', 'zepto', 'dunzo', 'grocery', 'supermarket', 'dmart', 'reliance fresh'],
+        'fuel': ['petrol', 'diesel', 'fuel', 'hp', 'bharat petroleum', 'indian oil', 'shell'],
+        'utilities': ['electricity', 'water', 'gas', 'broadband', 'jio', 'airtel', 'vodafone', 'bsnl', 'postpaid'],
+        'entertainment': ['netflix', 'amazon prime', 'hotstar', 'spotify', 'youtube', 'cinema', 'movie', 'bookmyshow'],
+        'insurance': ['insurance', 'policy', 'lic', 'hdfc life', 'icici prudential'],
+        'education': ['school', 'college', 'course', 'tuition', 'udemy', 'coursera', 'education', 'books']
     }
     
     def __init__(self):
         self.transactions = []
-        self.categorized_expenses = {}
     
-    def import_csv(self, filepath: str, 
-                   date_column: str = 'Date',
-                   description_column: str = 'Description',
-                   amount_column: str = 'Amount',
-                   skip_header: bool = True) -> List[dict]:
+    def import_csv(self, filepath: str, format_type: str = 'auto') -> List[Dict]:
         """Import transactions from CSV file"""
         
-        transactions = []
-        
-        with open(filepath, 'r', encoding='utf-8') as f:
-            reader = csv.DictReader(f) if skip_header else csv.reader(f)
-            
-            for row in reader:
-                try:
-                    transaction = {
-                        'date': row[date_column] if isinstance(row, dict) else row[0],
-                        'description': row[description_column] if isinstance(row, dict) else row[1],
-                        'amount': self._parse_amount(row[amount_column] if isinstance(row, dict) else row[2]),
-                        'category': 'other'
-                    }
-                    transactions.append(transaction)
-                except Exception as e:
-                    print(f"Warning: Skipping invalid row: {e}")
-                    continue
-        
-        self.transactions.extend(transactions)
-        return transactions
-    
-    def import_bank_statement(self, filepath: str, bank: str = 'generic') -> List[dict]:
-        """Import from common bank statement formats"""
-        
-        # Bank-specific parsers
-        if bank.lower() == 'hdfc':
-            return self._parse_hdfc_statement(filepath)
-        elif bank.lower() == 'sbi':
-            return self._parse_sbi_statement(filepath)
-        elif bank.lower() == 'icici':
-            return self._parse_icici_statement(filepath)
-        elif bank.lower() == 'axis':
-            return self._parse_axis_statement(filepath)
-        else:
-            # Generic CSV format
-            return self.import_csv(filepath)
-    
-    def _parse_hdfc_statement(self, filepath: str) -> List[dict]:
-        """Parse HDFC Bank statement format"""
-        # HDFC format: Date, Narration, Chq./Ref.No., Value Dt, Withdrawal Amt., Deposit Amt., Closing Balance
-        return self.import_csv(
-            filepath,
-            date_column='Date',
-            description_column='Narration',
-            amount_column='Withdrawal Amt.'
-        )
-    
-    def _parse_sbi_statement(self, filepath: str) -> List[dict]:
-        """Parse SBI Bank statement format"""
-        # SBI format varies, implement as needed
-        return self.import_csv(filepath)
-    
-    def _parse_icici_statement(self, filepath: str) -> List[dict]:
-        """Parse ICICI Bank statement format"""
-        return self.import_csv(filepath)
-    
-    def _parse_axis_statement(self, filepath: str) -> List[dict]:
-        """Parse Axis Bank statement format"""
-        return self.import_csv(filepath)
-    
-    def _parse_amount(self, amount_str: str) -> float:
-        """Parse amount from string, handle various formats"""
-        # Remove currency symbols, commas
-        amount_str = re.sub(r'[₹$,\s]', '', str(amount_str))
+        print(f"\n📄 Importing transactions from: {filepath}")
         
         try:
-            return abs(float(amount_str))  # Use absolute value for expenses
-        except ValueError:
+            df = pd.read_csv(filepath)
+            print(f"   Found {len(df)} transactions")
+            
+            # Detect format and parse accordingly
+            if format_type == 'auto':
+                format_type = self._detect_format(df)
+                print(f"   Detected format: {format_type}")
+            
+            if format_type == 'bank_statement':
+                self.transactions = self._parse_bank_statement(df)
+            elif format_type == 'money_manager':
+                self.transactions = self._parse_money_manager(df)
+            elif format_type == 'generic':
+                self.transactions = self._parse_generic(df)
+            else:
+                raise ValueError(f"Unsupported format: {format_type}")
+            
+            print(f"✅ Imported {len(self.transactions)} transactions\n")
+            return self.transactions
+            
+        except Exception as e:
+            print(f"❌ Error importing file: {e}")
+            return []
+    
+    def _detect_format(self, df: pd.DataFrame) -> str:
+        """Auto-detect CSV format"""
+        columns = [c.lower() for c in df.columns]
+        
+        if 'transaction date' in columns or 'txn date' in columns:
+            return 'bank_statement'
+        elif 'account' in columns and 'amount' in columns:
+            return 'money_manager'
+        else:
+            return 'generic'
+    
+    def _parse_bank_statement(self, df: pd.DataFrame) -> List[Dict]:
+        """Parse bank statement format"""
+        transactions = []
+        
+        # Common bank statement columns
+        date_col = None
+        desc_col = None
+        amount_col = None
+        
+        for col in df.columns:
+            col_lower = col.lower()
+            if 'date' in col_lower:
+                date_col = col
+            elif 'description' in col_lower or 'narration' in col_lower or 'particulars' in col_lower:
+                desc_col = col
+            elif 'amount' in col_lower or 'debit' in col_lower or 'withdrawal' in col_lower:
+                amount_col = col
+        
+        if not all([date_col, desc_col, amount_col]):
+            raise ValueError("Could not identify required columns")
+        
+        for _, row in df.iterrows():
+            amount = self._parse_amount(row[amount_col])
+            if amount > 0:  # Only debit transactions
+                transactions.append({
+                    'date': row[date_col],
+                    'description': str(row[desc_col]),
+                    'amount': amount,
+                    'category': self._categorize_transaction(str(row[desc_col]))
+                })
+        
+        return transactions
+    
+    def _parse_money_manager(self, df: pd.DataFrame) -> List[Dict]:
+        """Parse Money Manager export format"""
+        transactions = []
+        
+        for _, row in df.iterrows():
+            if row.get('Type', '').lower() == 'expense':
+                transactions.append({
+                    'date': row.get('Date', ''),
+                    'description': row.get('Description', ''),
+                    'amount': self._parse_amount(row.get('Amount', 0)),
+                    'category': row.get('Category', 'other').lower().replace(' ', '_')
+                })
+        
+        return transactions
+    
+    def _parse_generic(self, df: pd.DataFrame) -> List[Dict]:
+        """Parse generic CSV with date, description, amount"""
+        transactions = []
+        
+        for _, row in df.iterrows():
+            amount = self._parse_amount(row.iloc[2] if len(row) > 2 else 0)
+            if amount > 0:
+                transactions.append({
+                    'date': row.iloc[0],
+                    'description': str(row.iloc[1] if len(row) > 1 else ''),
+                    'amount': amount,
+                    'category': self._categorize_transaction(str(row.iloc[1]) if len(row) > 1 else '')
+                })
+        
+        return transactions
+    
+    def _parse_amount(self, amount) -> float:
+        """Parse amount from string or number"""
+        if isinstance(amount, (int, float)):
+            return abs(float(amount))
+        
+        # Remove currency symbols and commas
+        amount_str = str(amount).replace('₹', '').replace(',', '').replace('Rs', '').strip()
+        
+        try:
+            return abs(float(amount_str))
+        except:
             return 0.0
     
-    def categorize_transactions(self) -> Dict[str, float]:
-        """Automatically categorize all transactions"""
-        
-        categorized = {category: 0 for category in self.CATEGORY_KEYWORDS.keys()}
-        categorized['other'] = 0
-        
-        for transaction in self.transactions:
-            description = transaction['description'].lower()
-            category = self._detect_category(description)
-            
-            transaction['category'] = category
-            categorized[category] += transaction['amount']
-        
-        self.categorized_expenses = categorized
-        return categorized
-    
-    def _detect_category(self, description: str) -> str:
-        """Detect transaction category based on description"""
-        
+    def _categorize_transaction(self, description: str) -> str:
+        """Categorize transaction based on description"""
         description_lower = description.lower()
         
         for category, keywords in self.CATEGORY_KEYWORDS.items():
@@ -136,128 +159,145 @@ class ExpenseImporter:
         
         return 'other'
     
-    def get_monthly_summary(self, month: Optional[int] = None, year: Optional[int] = None) -> Dict[str, float]:
-        """Get spending summary for a specific month"""
+    def calculate_monthly_spending(self, months: int = 1) -> Dict[str, float]:
+        """Calculate average monthly spending by category"""
         
-        if month is None or year is None:
-            now = datetime.now()
-            month = now.month
-            year = now.year
+        if not self.transactions:
+            return {}
         
-        monthly_expenses = {category: 0 for category in self.CATEGORY_KEYWORDS.keys()}
-        monthly_expenses['other'] = 0
+        category_totals = {}
         
-        for transaction in self.transactions:
-            try:
-                # Parse date
-                trans_date = datetime.strptime(transaction['date'], '%Y-%m-%d')
-                
-                if trans_date.month == month and trans_date.year == year:
-                    category = transaction.get('category', 'other')
-                    monthly_expenses[category] += transaction['amount']
-            except:
-                continue
+        for txn in self.transactions:
+            category = txn['category']
+            amount = txn['amount']
+            
+            if category not in category_totals:
+                category_totals[category] = 0
+            category_totals[category] += amount
         
-        return monthly_expenses
+        # Calculate average per month
+        monthly_avg = {cat: total / months for cat, total in category_totals.items()}
+        
+        return monthly_avg
     
-    def export_to_profile(self, profile_name: str, num_months: int = 3) -> 'SpendingProfile':
-        """Create spending profile from imported data"""
+    def create_profile_from_transactions(self, profile_name: str, months: int = 3) -> SpendingProfile:
+        """Create user profile from imported transactions"""
         
-        from user_profile import SpendingProfile
+        print(f"\n📋 Creating profile '{profile_name}' from {len(self.transactions)} transactions...")
+        
+        monthly_spending = self.calculate_monthly_spending(months)
         
         profile = SpendingProfile(profile_name)
         
-        # Calculate average monthly spending
-        total_expenses = {category: 0 for category in self.CATEGORY_KEYWORDS.keys()}
-        total_expenses['other'] = 0
-        
-        for transaction in self.transactions:
-            category = transaction.get('category', 'other')
-            total_expenses[category] += transaction['amount']
-        
-        # Average over the number of months
-        for category, total in total_expenses.items():
-            avg_monthly = total / num_months if num_months > 0 else total
+        # Map calculated spending to profile categories
+        for category, amount in monthly_spending.items():
             if category in profile.monthly_spend:
-                profile.monthly_spend[category] = round(avg_monthly, 2)
+                profile.monthly_spend[category] = round(amount, 2)
+        
+        total_spend = profile.get_total_monthly_spend()
+        print(f"   Total monthly spend: ₹{total_spend:,.0f}")
+        
+        # Show top categories
+        top_cats = profile.get_top_categories(3)
+        print(f"\n   Top spending categories:")
+        for cat, amt in top_cats:
+            pct = (amt / total_spend) * 100 if total_spend > 0 else 0
+            print(f"      • {cat.replace('_', ' ').title()}: ₹{amt:,.0f} ({pct:.1f}%)")
+        
+        # Save profile
+        profile.save()
         
         return profile
     
-    def export_summary(self, filepath: str = 'expense_summary.json'):
-        """Export categorized summary to JSON"""
+    def generate_report(self) -> str:
+        """Generate spending analysis report"""
         
-        summary = {
-            'generated_at': datetime.now().isoformat(),
-            'total_transactions': len(self.transactions),
-            'categorized_expenses': self.categorized_expenses,
-            'total_amount': sum(self.categorized_expenses.values()),
-            'transactions_sample': self.transactions[:10]  # First 10 for review
-        }
+        if not self.transactions:
+            return "No transactions to analyze."
         
-        with open(filepath, 'w', encoding='utf-8') as f:
-            json.dump(summary, f, indent=2, ensure_ascii=False)
+        monthly_spending = self.calculate_monthly_spending()
+        total_spend = sum(monthly_spending.values())
         
-        return filepath
+        report = f"""# Expense Analysis Report
+
+**Total Transactions:** {len(self.transactions)}
+**Average Monthly Spend:** ₹{total_spend:,.0f}
+
+## Category Breakdown
+
+| Category | Monthly Spend | Percentage |
+|----------|---------------|------------|
+"""
+        
+        sorted_cats = sorted(monthly_spending.items(), key=lambda x: x[1], reverse=True)
+        
+        for category, amount in sorted_cats:
+            pct = (amount / total_spend) * 100 if total_spend > 0 else 0
+            report += f"| {category.replace('_', ' ').title()} | ₹{amount:,.0f} | {pct:.1f}% |\n"
+        
+        report += f"""\n**Total:** ₹{total_spend:,.0f} | 100%
+
+---
+
+*Generated by Credit Card Optimizer - Expense Importer*
+"""
+        
+        return report
 
 
-def create_sample_csv():
-    """Create a sample expense CSV for testing"""
+def main():
+    """Example usage"""
+    print("=" * 80)
+    print("    📊 EXPENSE IMPORTER - TRANSACTION ANALYSIS")
+    print("=" * 80)
+    
+    print("\n📝 Supported Formats:")
+    print("   1. Bank Statement CSV (Date, Description, Amount)")
+    print("   2. Money Manager Export")
+    print("   3. Generic CSV (Date, Description, Amount)")
+    
+    print("\n💾 Sample Data Creation...")
+    
+    # Create sample transactions CSV
+    sample_dir = Path("sample_data")
+    sample_dir.mkdir(exist_ok=True)
+    
+    sample_file = sample_dir / "transactions_sample.csv"
     
     sample_data = [
         ['Date', 'Description', 'Amount'],
-        ['2026-01-15', 'Zomato Order #12345', '450'],
+        ['2026-01-15', 'Zomato Food Order', '850'],
         ['2026-01-16', 'Amazon Shopping', '2500'],
-        ['2026-01-17', 'Shell Petrol Pump', '3000'],
-        ['2026-01-18', 'BigBasket Groceries', '1200'],
-        ['2026-01-19', 'Starbucks Coffee', '350'],
-        ['2026-01-20', 'MakeMyTrip Flight', '8500'],
-        ['2026-01-21', 'Netflix Subscription', '649'],
-        ['2026-01-22', 'Electricity Bill', '1500'],
-        ['2026-01-23', 'Uber Ride', '280'],
-        ['2026-01-24', 'Flipkart Electronics', '15000'],
+        ['2026-01-17', 'Uber Ride', '350'],
+        ['2026-01-18', 'BigBasket Grocery', '3200'],
+        ['2026-01-19', 'Shell Petrol Pump', '2800'],
+        ['2026-01-20', 'Netflix Subscription', '650'],
+        ['2026-01-21', 'Flipkart Electronics', '15000'],
+        ['2026-01-22', 'Swiggy Dinner', '920'],
+        ['2026-01-23', 'Ola Auto', '180'],
+        ['2026-01-24', 'Myntra Clothing', '4500'],
     ]
     
-    with open('sample_expenses.csv', 'w', newline='', encoding='utf-8') as f:
+    with open(sample_file, 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
         writer.writerows(sample_data)
     
-    return 'sample_expenses.csv'
+    print(f"✅ Created sample file: {sample_file}")
+    
+    # Import and analyze
+    importer = ExpenseImporter()
+    importer.import_csv(str(sample_file))
+    
+    # Generate report
+    print("\n" + importer.generate_report())
+    
+    # Create profile
+    profile = importer.create_profile_from_transactions("imported_profile", months=1)
+    
+    print("\n" + "=" * 80)
+    print("✅ Import complete! Use this profile with structured_analyzer.py")
+    print("=" * 80)
 
 
 if __name__ == "__main__":
-    print("=" * 80)
-    print("    Credit Card Optimizer - Expense Importer")
-    print("=" * 80)
-    
-    # Create sample CSV
-    print("\nCreating sample expense file...")
-    sample_file = create_sample_csv()
-    print(f"✅ Created: {sample_file}")
-    
-    # Import and categorize
-    print("\nImporting transactions...")
-    importer = ExpenseImporter()
-    transactions = importer.import_csv(sample_file)
-    print(f"✅ Imported {len(transactions)} transactions")
-    
-    # Categorize
-    print("\nCategorizing expenses...")
-    categorized = importer.categorize_transactions()
-    
-    print("\nExpense Summary:")
-    total = 0
-    for category, amount in sorted(categorized.items(), key=lambda x: x[1], reverse=True):
-        if amount > 0:
-            print(f"  {category.replace('_', ' ').title()}: ₹{amount:,.0f}")
-            total += amount
-    print(f"\n  Total: ₹{total:,.0f}")
-    
-    # Export to profile
-    print("\nCreating spending profile from imported data...")
-    profile = importer.export_to_profile("Imported Profile", num_months=1)
-    profile_path = profile.save()
-    print(f"✅ Profile saved: {profile_path}")
-    
-    # Export summary
-    summary_path = importer.export_summary()
-    print(f"✅ Summary exported: {summary_path}")
+    main()
