@@ -55,7 +55,7 @@ jobs:
           python -m pip install --upgrade pip
           pip install --no-cache-dir beautifulsoup4 requests feedparser python-dateutil
           pip install --no-cache-dir -r requirements.txt || echo "Warning: Some dependencies from requirements.txt may have failed to install"
-          python -c "import bs4, feedparser, requests; print('All dependencies installed successfully')"
+          python -c "import bs4; import feedparser; import requests; print('All dependencies installed successfully')"
           
       - name: Fetch Credit Card Updates
         run: python scripts/parse_credit_card_feeds.py
