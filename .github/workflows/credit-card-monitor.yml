@@ -54,8 +54,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           # Install with --no-cache-dir to avoid cache issues (cache service failing with 400)
-          pip install --no-cache-dir -r requirements.txt || true
-          # Ensure critical dependencies are installed even if requirements.txt fails
+          # Continue on error to handle cache failures gracefully
+          pip install --no-cache-dir -r requirements.txt || echo "Warning: requirements.txt installation failed, proceeding with explicit package installation"
+          # Ensure critical dependencies are installed for parse_credit_card_feeds.py
           pip install --no-cache-dir beautifulsoup4 requests feedparser python-dateutil
           
       - name: Fetch Credit Card Updates
