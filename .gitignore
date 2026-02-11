@@ -54,6 +54,10 @@ cache/
 !sample_expenses.csv
 expense_summary.json
 
+# Generated credit card updates
+CREDIT_CARD_UPDATES.md
+credit_card_updates/
+
 # Sensitive data
 *_statement.csv
 *_transactions.csv
