@@ -1,291 +1,371 @@
 #!/usr/bin/env python3
 """
-Multi-Card Portfolio Optimizer
-Finds optimal credit card combinations to maximize rewards
+Credit Card Portfolio Optimizer
+Find optimal 2-3 card combinations to maximize rewards across spending categories
 """
 
-import json
-from pathlib import Path
-from datetime import datetime
-from typing import Dict, List, Tuple
+from typing import List, Dict, Tuple
+from dataclasses import dataclass
 from itertools import combinations
 from user_profile import SpendingProfile
 
-class CardData:
-    """Credit card data structure"""
+
+@dataclass
+class CreditCard:
+    """Credit card with reward rates and benefits"""
+    name: str
+    bank: str
+    annual_fee: float
     
-    def __init__(self, name: str, bank: str, annual_fee: float):
-        self.name = name
-        self.bank = bank
-        self.annual_fee = annual_fee
-        
-        # Category-wise reward rates (in percentage or points per ₹100)
-        self.category_rewards = {
-            'dining': 0,
-            'travel': 0,
-            'online_shopping': 0,
-            'groceries': 0,
-            'fuel': 0,
-            'utilities': 0,
-            'entertainment': 0,
-            'healthcare': 0,
-            'education': 0,
-            'other': 0
-        }
-        
-        # Benefits
-        self.lounge_access = 0  # visits per quarter
-        self.travel_insurance = False
-        self.reward_type = 'cashback'  # cashback, points, miles
-        self.point_value = 0.25  # value per point in INR
-        
-    def calculate_rewards(self, spending_profile: SpendingProfile) -> float:
-        """Calculate annual rewards for given spending profile"""
+    # Reward rates by category (as percentage or points per Rs 100)
+    reward_rates: Dict[str, float]
+    
+    # Special benefits
+    lounge_access: bool = False
+    travel_insurance: bool = False
+    fuel_surcharge_waiver: bool = False
+    
+    # Eligibility
+    min_income: float = 0
+    min_credit_score: int = 0
+    
+    def calculate_rewards(self, spending: Dict[str, float]) -> float:
+        """Calculate total annual rewards for given spending pattern"""
         total_rewards = 0
         
-        for category, monthly_spend in spending_profile.monthly_spend.items():
-            if category in self.category_rewards:
-                reward_rate = self.category_rewards[category]
-                
-                if self.reward_type == 'cashback':
-                    # Direct cashback percentage
-                    category_reward = (monthly_spend * 12 * reward_rate) / 100
-                else:
-                    # Points/miles
-                    points = (monthly_spend * 12 * reward_rate) / 100
-                    category_reward = points * self.point_value
-                
-                total_rewards += category_reward
+        for category, amount in spending.items():
+            # Get reward rate for category (default to base rate if not specified)
+            rate = self.reward_rates.get(category, self.reward_rates.get('base', 0))
+            
+            # Calculate rewards (assuming 1% = Rs 1 per Rs 100)
+            rewards = (amount * 12 * rate) / 100
+            total_rewards += rewards
         
         return total_rewards
     
-    def calculate_net_value(self, spending_profile: SpendingProfile) -> float:
-        """Calculate net value (rewards - fees)"""
-        rewards = self.calculate_rewards(spending_profile)
+    def calculate_net_value(self, spending: Dict[str, float]) -> float:
+        """Calculate net value (rewards - annual fee)"""
+        rewards = self.calculate_rewards(spending)
         return rewards - self.annual_fee
+    
+    def to_dict(self) -> dict:
+        return {
+            'name': self.name,
+            'bank': self.bank,
+            'annual_fee': self.annual_fee,
+            'reward_rates': self.reward_rates,
+            'lounge_access': self.lounge_access,
+            'travel_insurance': self.travel_insurance
+        }
 
 
 class PortfolioOptimizer:
     """Optimize credit card portfolio for maximum rewards"""
     
     def __init__(self):
-        self.cards_database = self._load_indian_cards()
+        self.cards = self._initialize_card_database()
     
-    def _load_indian_cards(self) -> List[CardData]:
-        """Load popular Indian credit cards database"""
+    def _initialize_card_database(self) -> List[CreditCard]:
+        """Initialize with popular Indian credit cards"""
         
-        cards = []
-        
-        # HDFC Cards
-        infinia = CardData("HDFC Infinia", "HDFC", 12500)
-        infinia.category_rewards = {'dining': 5, 'travel': 5, 'online_shopping': 3.3, 'groceries': 3.3, 'fuel': 3.3, 'utilities': 1, 'other': 3.3}
-        infinia.reward_type = 'points'
-        infinia.point_value = 1.0
-        infinia.lounge_access = 12
-        cards.append(infinia)
-        
-        diners_black = CardData("HDFC Diners Club Black", "HDFC", 10000)
-        diners_black.category_rewards = {'dining': 3.3, 'travel': 3.3, 'online_shopping': 3.3, 'groceries': 1.3, 'fuel': 1.3, 'utilities': 1, 'other': 1.3}
-        diners_black.lounge_access = 12
-        cards.append(diners_black)
-        
-        # Axis Cards
-        magnus = CardData("Axis Magnus", "Axis", 12500)
-        magnus.category_rewards = {'dining': 2.4, 'travel': 2.4, 'online_shopping': 1.2, 'groceries': 1.2, 'fuel': 1.2, 'utilities': 1.2, 'other': 1.2}
-        magnus.lounge_access = 8
-        cards.append(magnus)
-        
-        vistara = CardData("Axis Vistara Infinite", "Axis", 10000)
-        vistara.category_rewards = {'dining': 1.5, 'travel': 3, 'online_shopping': 1.5, 'groceries': 1.5, 'fuel': 1.5, 'utilities': 1, 'other': 1.5}
-        cards.append(vistara)
-        
-        # SBI Cards
-        sbi_cashback = CardData("SBI Cashback", "SBI", 999)
-        sbi_cashback.category_rewards = {'online_shopping': 5, 'other': 1}
-        sbi_cashback.reward_type = 'cashback'
-        cards.append(sbi_cashback)
-        
-        # ICICI Cards
-        amazon_pay = CardData("ICICI Amazon Pay", "ICICI", 0)
-        amazon_pay.category_rewards = {'online_shopping': 5, 'other': 1}
-        amazon_pay.reward_type = 'cashback'
-        cards.append(amazon_pay)
-        
-        # AMEX Cards
-        amex_plat = CardData("AMEX Platinum Travel", "AMEX", 5000)
-        amex_plat.category_rewards = {'dining': 1.5, 'travel': 2, 'online_shopping': 1, 'other': 1}
-        amex_plat.reward_type = 'points'
-        amex_plat.point_value = 0.5
-        cards.append(amex_plat)
-        
-        # IndusInd Cards
-        legend = CardData("IndusInd Legend", "IndusInd", 10000)
-        legend.category_rewards = {'dining': 3, 'travel': 3, 'online_shopping': 3, 'groceries': 2, 'fuel': 2, 'utilities': 1, 'other': 2}
-        cards.append(legend)
-        
-        return cards
+        return [
+            # Premium Travel Cards
+            CreditCard(
+                name="HDFC Bank Infinia",
+                bank="HDFC Bank",
+                annual_fee=12500,
+                reward_rates={
+                    'dining': 3.3,
+                    'travel': 3.3,
+                    'online_shopping': 3.3,
+                    'groceries': 1.65,
+                    'base': 1.65
+                },
+                lounge_access=True,
+                travel_insurance=True,
+                min_income=2400000
+            ),
+            CreditCard(
+                name="Axis Bank Magnus",
+                bank="Axis Bank",
+                annual_fee=12500,
+                reward_rates={
+                    'dining': 2.5,
+                    'travel': 2.5,
+                    'online_shopping': 2.0,
+                    'base': 1.2
+                },
+                lounge_access=True,
+                travel_insurance=True,
+                min_income=1500000
+            ),
+            
+            # Mid-Tier Rewards Cards
+            CreditCard(
+                name="HDFC Bank Regalia",
+                bank="HDFC Bank",
+                annual_fee=2500,
+                reward_rates={
+                    'dining': 2.0,
+                    'travel': 2.0,
+                    'online_shopping': 1.5,
+                    'base': 1.3
+                },
+                lounge_access=True,
+                min_income=600000
+            ),
+            CreditCard(
+                name="SBI Card Elite",
+                bank="SBI Card",
+                annual_fee=4999,
+                reward_rates={
+                    'dining': 3.0,
+                    'travel': 2.0,
+                    'online_shopping': 2.5,
+                    'groceries': 2.0,
+                    'base': 1.5
+                },
+                lounge_access=True,
+                min_income=900000
+            ),
+            
+            # Cashback Cards
+            CreditCard(
+                name="ICICI Amazon Pay",
+                bank="ICICI Bank",
+                annual_fee=0,
+                reward_rates={
+                    'online_shopping': 5.0,
+                    'dining': 2.0,
+                    'travel': 2.0,
+                    'base': 1.0
+                },
+                min_income=360000
+            ),
+            CreditCard(
+                name="Axis Bank Ace",
+                bank="Axis Bank",
+                annual_fee=0,
+                reward_rates={
+                    'utilities': 5.0,
+                    'online_shopping': 2.0,
+                    'base': 1.5
+                },
+                min_income=300000
+            ),
+            
+            # Entry Level
+            CreditCard(
+                name="HDFC Bank Millennia",
+                bank="HDFC Bank",
+                annual_fee=1000,
+                reward_rates={
+                    'online_shopping': 5.0,
+                    'dining': 2.5,
+                    'base': 1.0
+                },
+                min_income=300000
+            ),
+        ]
     
-    def find_optimal_portfolio(self, spending_profile: SpendingProfile, 
-                              max_cards: int = 3,
-                              max_total_fee: float = 25000) -> List[Tuple]:
-        """Find optimal card combinations"""
+    def filter_eligible_cards(self, profile: SpendingProfile) -> List[CreditCard]:
+        """Filter cards based on user eligibility"""
+        eligible = []
         
-        portfolios = []
+        income = profile.demographics.get('annual_income', 0)
+        credit_score = profile.demographics.get('credit_score', 0)
+        max_fee = profile.preferences.get('max_annual_fee', float('inf'))
         
-        # Generate all possible combinations
-        for n_cards in range(1, max_cards + 1):
-            for card_combo in combinations(self.cards_database, n_cards):
-                total_fee = sum(card.annual_fee for card in card_combo)
-                
-                # Skip if exceeds fee budget
-                if total_fee > max_total_fee:
-                    continue
-                
-                # Calculate optimal spending for this portfolio
-                total_rewards = self._calculate_portfolio_rewards(card_combo, spending_profile)
-                net_value = total_rewards - total_fee
-                
-                portfolios.append({
-                    'cards': [card.name for card in card_combo],
-                    'total_fee': total_fee,
-                    'total_rewards': total_rewards,
-                    'net_value': net_value,
-                    'roi_percentage': (net_value / total_fee * 100) if total_fee > 0 else float('inf'),
-                    'spending_strategy': self._generate_strategy(card_combo, spending_profile)
-                })
+        for card in self.cards:
+            if (card.min_income <= income and 
+                card.min_credit_score <= credit_score and
+                card.annual_fee <= max_fee):
+                eligible.append(card)
         
-        # Sort by net value
-        portfolios.sort(key=lambda x: x['net_value'], reverse=True)
-        
-        return portfolios[:10]  # Top 10 portfolios
+        return eligible
     
-    def _calculate_portfolio_rewards(self, cards: Tuple[CardData], profile: SpendingProfile) -> float:
-        """Calculate optimal rewards using best card for each category"""
+    def optimize_single_card(self, profile: SpendingProfile) -> Tuple[CreditCard, float]:
+        """Find best single card for profile"""
+        eligible = self.filter_eligible_cards(profile)
         
+        best_card = None
+        best_value = float('-inf')
+        
+        for card in eligible:
+            net_value = card.calculate_net_value(profile.monthly_spend)
+            if net_value > best_value:
+                best_value = net_value
+                best_card = card
+        
+        return best_card, best_value
+    
+    def optimize_portfolio(self, profile: SpendingProfile, max_cards: int = 3) -> Dict:
+        """Find optimal card portfolio"""
+        
+        eligible = self.filter_eligible_cards(profile)
+        
+        print(f"\n💳 Analyzing {len(eligible)} eligible cards...")
+        print(f"   Budget: Max annual fee ₹{profile.preferences.get('max_annual_fee'):,}")
+        print(f"   Optimizing for: {max_cards} card(s)\n")
+        
+        best_portfolio = None
+        best_total_value = float('-inf')
+        
+        # Try all combinations up to max_cards
+        for num_cards in range(1, min(max_cards + 1, len(eligible) + 1)):
+            for card_combo in combinations(eligible, num_cards):
+                portfolio_value = self._calculate_portfolio_value(card_combo, profile)
+                
+                if portfolio_value['net_value'] > best_total_value:
+                    best_total_value = portfolio_value['net_value']
+                    best_portfolio = portfolio_value
+                    best_portfolio['cards'] = list(card_combo)
+        
+        return best_portfolio
+    
+    def _calculate_portfolio_value(self, cards: Tuple[CreditCard, ...], profile: SpendingProfile) -> Dict:
+        """Calculate value of a card portfolio with optimal category assignment"""
+        
+        spending = profile.monthly_spend
+        total_fees = sum(card.annual_fee for card in cards)
+        
+        # For each spending category, assign to best card
+        category_assignments = {}
         total_rewards = 0
         
-        for category, monthly_spend in profile.monthly_spend.items():
-            if monthly_spend == 0:
+        for category, monthly_amount in spending.items():
+            if monthly_amount == 0:
                 continue
             
-            # Find best card for this category
-            best_reward_rate = 0
+            # Find card with highest reward rate for this category
+            best_rate = 0
             best_card = None
             
             for card in cards:
-                if card.category_rewards.get(category, 0) > best_reward_rate:
-                    best_reward_rate = card.category_rewards[category]
+                rate = card.reward_rates.get(category, card.reward_rates.get('base', 0))
+                if rate > best_rate:
+                    best_rate = rate
                     best_card = card
             
-            # Calculate reward
             if best_card:
-                annual_spend = monthly_spend * 12
+                category_rewards = (monthly_amount * 12 * best_rate) / 100
+                total_rewards += category_rewards
                 
-                if best_card.reward_type == 'cashback':
-                    category_reward = (annual_spend * best_reward_rate) / 100
-                else:
-                    points = (annual_spend * best_reward_rate) / 100
-                    category_reward = points * best_card.point_value
-                
-                total_rewards += category_reward
+                category_assignments[category] = {
+                    'card': best_card.name,
+                    'monthly_spend': monthly_amount,
+                    'reward_rate': best_rate,
+                    'annual_rewards': category_rewards
+                }
         
-        return total_rewards
+        return {
+            'total_fees': total_fees,
+            'total_rewards': total_rewards,
+            'net_value': total_rewards - total_fees,
+            'roi_percentage': ((total_rewards - total_fees) / total_fees * 100) if total_fees > 0 else 0,
+            'category_assignments': category_assignments
+        }
     
-    def _generate_strategy(self, cards: Tuple[CardData], profile: SpendingProfile) -> Dict[str, str]:
-        """Generate spending strategy for portfolio"""
+    def generate_recommendation_report(self, profile: SpendingProfile, portfolio: Dict) -> str:
+        """Generate detailed portfolio recommendation report"""
         
-        strategy = {}
-        
-        for category, monthly_spend in profile.monthly_spend.items():
-            if monthly_spend == 0:
-                continue
-            
-            best_reward_rate = 0
-            best_card_name = None
-            
-            for card in cards:
-                if card.category_rewards.get(category, 0) > best_reward_rate:
-                    best_reward_rate = card.category_rewards[category]
-                    best_card_name = card.name
-            
-            if best_card_name:
-                strategy[category] = best_card_name
-        
-        return strategy
-    
-    def generate_report(self, spending_profile: SpendingProfile, max_cards: int = 3) -> str:
-        """Generate portfolio optimization report"""
-        
-        print("\n🔍 Finding optimal credit card portfolios...")
-        portfolios = self.find_optimal_portfolio(spending_profile, max_cards)
-        
-        report = f"""# Multi-Card Portfolio Optimization Report
+        report = f"""# Optimal Credit Card Portfolio
 
-**Generated:** {datetime.now().strftime("%B %d, %Y at %I:%M %p IST")}
-**Profile:** {spending_profile.profile_name}
-**Monthly Spend:** ₹{spending_profile.get_total_monthly_spend():,.0f}
-**Annual Spend:** ₹{spending_profile.get_total_annual_spend():,.0f}
-
----
-
-## Top 10 Optimal Portfolios
+## Recommended Cards
 
 """
         
-        for i, portfolio in enumerate(portfolios, 1):
-            report += f"""### #{i}. {' + '.join(portfolio['cards'])}
+        for i, card in enumerate(portfolio['cards'], 1):
+            report += f"""### {i}. {card.name}
 
-- **Total Annual Fees:** ₹{portfolio['total_fee']:,.0f}
+- **Bank:** {card.bank}
+- **Annual Fee:** ₹{card.annual_fee:,}
+- **Reward Rates:**
+"""
+            for cat, rate in sorted(card.reward_rates.items(), key=lambda x: x[1], reverse=True):
+                report += f"  - {cat.replace('_', ' ').title()}: {rate}%\n"
+            
+            if card.lounge_access:
+                report += "- **Lounge Access:** Yes\n"
+            if card.travel_insurance:
+                report += "- **Travel Insurance:** Yes\n"
+            report += "\n"
+        
+        report += f"""## Category-Wise Card Usage Strategy
+
+| Category | Monthly Spend | Use Card | Reward Rate | Annual Rewards |
+|----------|---------------|----------|-------------|----------------|
+"""
+        
+        for category, details in sorted(portfolio['category_assignments'].items(), 
+                                       key=lambda x: x[1]['annual_rewards'], 
+                                       reverse=True):
+            report += f"""| {category.replace('_', ' ').title()} | ₹{details['monthly_spend']:,.0f} | {details['card']} | {details['reward_rate']}% | ₹{details['annual_rewards']:,.0f} |\n"""
+        
+        report += f"""\n## Portfolio Summary
+
+- **Total Annual Fees:** ₹{portfolio['total_fees']:,.0f}
 - **Total Annual Rewards:** ₹{portfolio['total_rewards']:,.0f}
-- **Net Value:** ₹{portfolio['net_value']:,.0f}
-- **ROI:** {portfolio['roi_percentage']:.1f}%
+- **Net Annual Benefit:** ₹{portfolio['net_value']:,.0f}
+- **Return on Investment:** {portfolio['roi_percentage']:.1f}%
 
-**Spending Strategy:**
+### Interpretation
+
 """
-            
-            for category, card_name in portfolio['spending_strategy'].items():
-                spend = spending_profile.monthly_spend.get(category, 0)
-                if spend > 0:
-                    report += f"- {category.replace('_', ' ').title()} (₹{spend:,.0f}/month): **{card_name}**\n"
-            
-            report += "\n---\n\n"
         
-        report += """## Recommendations
+        if portfolio['net_value'] > 0:
+            report += f"This portfolio provides a positive net benefit of ₹{portfolio['net_value']:,.0f} per year.\n"
+        else:
+            report += f"This portfolio results in a net loss of ₹{abs(portfolio['net_value']):,.0f} per year. Consider no-fee cards.\n"
+        
+        report += f"""\n---
 
-1. **Start with the top portfolio** if you can afford the annual fees
-2. **Use the spending strategy** to maximize rewards on each transaction
-3. **Review quarterly** as card benefits and your spending patterns change
-4. **Consider fee waivers** - many cards waive fees if you meet spending thresholds
-
----
-
-*Generated by [Credit Card Optimizer](https://github.com/starkarthikr/credit-card-optimizer)*
+*Generated by Credit Card Portfolio Optimizer*
 """
         
         return report
 
 
-if __name__ == "__main__":
+def main():
+    """Example usage"""
     print("=" * 80)
-    print("    Multi-Card Portfolio Optimizer")
+    print("    🎯 CREDIT CARD PORTFOLIO OPTIMIZER")
     print("=" * 80)
     
-    from user_profile import create_sample_profile
-    profile = create_sample_profile()
+    # Load or create sample profile
+    try:
+        profile = SpendingProfile.load("travel_enthusiast")
+    except:
+        from user_profile import create_sample_profiles
+        create_sample_profiles()
+        profile = SpendingProfile.load("travel_enthusiast")
     
+    print(f"\n📁 Analyzing profile: {profile.name}")
+    print(f"   Monthly spend: ₹{profile.get_total_monthly_spend():,.0f}")
+    print(f"   Annual spend: ₹{profile.get_annual_spend():,.0f}")
+    
+    # Optimize portfolio
     optimizer = PortfolioOptimizer()
-    report = optimizer.generate_report(profile, max_cards=3)
+    portfolio = optimizer.optimize_portfolio(profile, max_cards=3)
+    
+    # Generate report
+    report = optimizer.generate_recommendation_report(profile, portfolio)
+    print("\n" + report)
     
     # Save report
-    output_dir = Path('recommendations')
-    output_dir.mkdir(exist_ok=True)
+    from pathlib import Path
+    output_dir = Path("recommendations/portfolio")
+    output_dir.mkdir(parents=True, exist_ok=True)
     
-    timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
+    timestamp = __import__('datetime').datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
     filepath = output_dir / f"{timestamp}-portfolio-optimization.md"
     
     with open(filepath, 'w', encoding='utf-8') as f:
         f.write(report)
     
-    print(f"\n✅ Portfolio optimization report saved: {filepath}")
-    print("\nTop 3 Portfolios Preview:")
-    print(report[:2000])
+    print(f"\n✅ Report saved: {filepath}")
+    print("=" * 80)
+
+
+if __name__ == "__main__":
+    main()
