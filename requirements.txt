@@ -1,9 +1,12 @@
 # Python dependencies with security patches
-# Updated: February 10, 2026
+# Updated: February 11, 2026
 # All versions pinned to secure releases
 
 # HTTP library - Fixed CVE-2024-47081, CVE-2024-35195, CVE-2023-32681
 requests>=2.32.4
+
+# Data analysis for expense import
+pandas>=2.2.0
 
 # Transitive dependencies - Security updates
 urllib3>=2.2.0  # CVE-2024-37891 fixed
