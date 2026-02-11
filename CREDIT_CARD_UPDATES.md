@@ -1,57 +1,10 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-10 00:50:56 IST
+**Last Updated:** 2026-02-11 23:49:14 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
-
-### 📰 General Updates
-
-#### 1. [Courtyard Club VIP Lounge inside 080 Lounge at Bangalore Airport Review (T2, Domestic)](https://www.cardexpert.in/courtyard-club-vip-lounge-bangalore-airport-t2-domestic/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Mon, 05 Jan 2026 17:03:00 +0000  
-
-**📝 Summary:** If you frequently travel through&#160;Kempegowda International Airport&#160;Terminal 2 on domestic flights, chances are you are already familiar with the massive&#160;080 Lounge.
-
----
-
-#### 2. [Marriott’s new Design Hotel in Pune: Hotel Irada Now Open for Point Redemptions](https://www.cardexpert.in/marriott-design-hotel-irada-pune-point-redemptions-open/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 02 Jan 2026 12:51:53 +0000  
-
-**📝 Summary:** Marriott International has opened a new and noteworthy boutique property focused on wine and wellness in the outskirts of Pune.
-
----
-
-#### 3. [Signup Offer: Earn 40,000 Avios with IndusInd Avios Credit Card (Until 31st Jan 2026)](https://www.cardexpert.in/indusind-avios-credit-card-signup-offer-jan-2026/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 02 Jan 2026 05:55:57 +0000  
-
-**📝 Summary:** Update: The offer has been paused as of 8th Jan 2026.
-
----
-
-#### 4. [Coming soon: Air India Maharaja Club co-branded credit cards](https://www.cardexpert.in/air-india-maharaja-club-credit-cards-coming-soon/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 31 Dec 2025 13:55:59 +0000  
-
-**📝 Summary:** It has been a while since Air India merged with&#160;Vistara, and Air India has been making a sincere effort to establish a fresh brand identity.
-
----
-
-#### 5. [Axis Credit Card International Spends Offer: Earn upto 20,000 INR Vouchers Every Month](https://www.cardexpert.in/axis-credit-card-international-spends-offer-nov-2025/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
-
-**📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
+*No new updates in the last 7 days.*
 
 ## 💡 Credit Card Optimization Strategies
 
