@@ -42,7 +42,7 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4.1.7
         with:
-          persist-credentials: false  # Don't persist credentials
+          token: ${{ secrets.GITHUB_TOKEN }}
         
       - name: Set up Python
         uses: actions/setup-python@39cd14951b08e74b54015e9e001cdefcf80e669f # v5.1.1
@@ -59,9 +59,13 @@ jobs:
       - name: Fetch Credit Card Updates
         run: python scripts/parse_credit_card_feeds.py
         
+      - name: Configure Git for GitHub Actions
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}
+        
       - name: Commit and push if changed
         run: |
-          git config --global user.name 'Credit Card Bot'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Update credit card offers and tips - $(date +'%Y-%m-%d %H:%M:%S')" && git push)
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Update credit card offers and tips - ${{ github.run_id }}" && git push)
