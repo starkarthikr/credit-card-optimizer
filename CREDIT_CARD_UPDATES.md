@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-10 00:50:56 IST
+**Last Updated:** 2026-02-12 00:26:16 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,21 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [PNB debit card lounge access rule change: Free service ends, new spend conditions introduced](https://economictimes.indiatimes.com/wealth/save/pnb-debit-card-lounge-access-rule-change-free-service-ends-new-spend-conditions-introduced/slideshow/128156798.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 10 Feb 2026 17:04:09 +0530  
+**💳 Card:** debit card  
+
+**📝 Summary:** If you are a Punjab National Bank (PNB) debit card user who frequently avails complimentary airport lounge access service, this update is important for you.
+
+**✨ Benefits:** Lounge Access, Complimentary
 
 ---
 
