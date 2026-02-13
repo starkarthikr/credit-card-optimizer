@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-13 02:31:54 IST
+**Last Updated:** 2026-02-13 07:03:01 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,12 +55,12 @@
 
 ### 💰 Reward Points
 
-#### 1. [Gold bond delivers 377% return on premature redemption: Check SGB price, premature exit date and how to redeem](https://economictimes.indiatimes.com/wealth/invest/gold-bond-delivers-377-return-on-premature-redemption-check-sgb-price-premature-exit-date-and-how-to-redeem/articleshow/128241472.cms)
+#### 1. [353% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.53 lakh](https://economictimes.indiatimes.com/wealth/invest/353-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-53-lakh/articleshow/128290890.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 12 Feb 2026 11:49:39 +0530  
+**📅 Published:** Fri, 13 Feb 2026 11:19:35 +0530  
 
-**📝 Summary:** Sovereign Gold Bond SGB 2018-19 Series-VI investors can now redeem their holdings prematurely from February 12, 2026.
+**📝 Summary:** The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond SGB 2019-20 Series-III, allowing investors to redeem from February 13, 2026.
 
 ---
 
