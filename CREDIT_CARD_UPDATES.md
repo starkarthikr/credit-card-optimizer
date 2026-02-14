@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-14 02:12:59 IST
+**Last Updated:** 2026-02-14 06:50:30 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [353% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.53 lakh](https://economictimes.indiatimes.com/wealth/invest/353-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-53-lakh/articleshow/128290890.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 13 Feb 2026 11:19:35 +0530  
-
-**📝 Summary:** The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond SGB 2019-20 Series-III, allowing investors to redeem from February 13, 2026.
 
 ---
 
