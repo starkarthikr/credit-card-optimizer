@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-16 07:06:31 IST
+**Last Updated:** 2026-02-16 13:09:52 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,28 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Big tax relief for disabled employees: Travel deduction raised under draft tax rules 2026](https://economictimes.indiatimes.com/wealth/tax/big-tax-relief-for-disabled-employees-travel-deduction-raised-under-draft-tax-rules-2026/articleshow/128415453.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 16 Feb 2026 14:33:11 +0530  
+
+**📝 Summary:** New draft tax rules for 2026 offer significant travel tax relief for disabled employees.
+
+---
+
+#### 2. [India AI Impact Summit 2026: UPI One World wallet launched for foreign travellers visiting AI meet; how they can load wallet](https://economictimes.indiatimes.com/wealth/save/india-ai-impact-summit-2026-upi-one-world-wallet-launched-for-foreign-travellers-visiting-ai-meet-how-they-can-load-wallet/articleshow/128414621.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 16 Feb 2026 14:11:55 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** International visitors attending the India AI Impact Summit 2026 in New Delhi can now utilize the 'UPI One World' wallet.
 
 ---
 
