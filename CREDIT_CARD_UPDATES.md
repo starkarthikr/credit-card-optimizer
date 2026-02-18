@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-18 07:04:46 IST
+**Last Updated:** 2026-02-18 13:10:28 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Buying gold in Dubai to sell in India? Here’s the real math on duty, GST and thin margins](https://economictimes.indiatimes.com/wealth/invest/buying-gold-in-dubai-to-sell-in-india-heres-the-real-math-on-duty-gst-and-thin-margins/slideshow/128460598.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 17 Feb 2026 16:09:22 +0530  
-
-**📝 Summary:** Dubai is known for high-purity gold which is typically 5–7% cheaper than in India as there are no import duties and GST on bullion.
 
 ---
 
