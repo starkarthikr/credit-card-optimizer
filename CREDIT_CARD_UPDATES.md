@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-23 02:28:17 IST
+**Last Updated:** 2026-02-23 07:07:42 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,24 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [SIM swap attack: How hackers steal your OTPs and empty your bank account](https://economictimes.indiatimes.com/wealth/save/sim-swap-attack-how-hackers-steal-your-otps-and-empty-your-bank-account/slideshow/128702094.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 23 Feb 2026 11:53:13 +0530  
+**🏦 Bank:** AU  
+**💳 Card:** SIM card  
+
+**📝 Summary:** SIM swap fraud is a type of cybercrime where a criminal tricks your telecom provider into transferring your mobile number to a new SIM card that they control.
+
+**💡 Optimization Tips:**
+
+- SIM swap fraud is a type of cybercrime where a criminal tricks your telecom provider into transferring your mobile number to a new SIM card that they control
 
 ---
 
