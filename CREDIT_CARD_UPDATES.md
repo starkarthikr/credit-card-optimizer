@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-23 07:07:42 IST
+**Last Updated:** 2026-02-23 13:10:57 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [Sovereign Gold Bond 2026: RBI announces SGB premature redemption dates from April 2026 – September 2026; check details](https://economictimes.indiatimes.com/wealth/invest/sovereign-gold-bond-2026-rbi-announces-sgb-premature-redemption-dates-from-april-2026-september-2026-check-details/articleshow/128706580.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 23 Feb 2026 14:31:07 +0530  
+
+**📝 Summary:** Sovereign Gold Bonds (SGBs) premature redemption dates: The Reserve Bank of India (RBI) has issued the details of the Sovereign Gold Bond (SGB) tranches that are scheduled for premature redemption ...
 
 ---
 
