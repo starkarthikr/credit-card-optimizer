@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-24 07:03:51 IST
+**Last Updated:** 2026-02-24 13:12:17 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,18 +53,6 @@
 ---
 
 
-### 💰 Reward Points
-
-#### 1. [Sovereign Gold Bond 2026: RBI announces SGB premature redemption dates from April 2026 – September 2026; check details](https://economictimes.indiatimes.com/wealth/invest/sovereign-gold-bond-2026-rbi-announces-sgb-premature-redemption-dates-from-april-2026-september-2026-check-details/articleshow/128706580.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 23 Feb 2026 14:31:07 +0530  
-
-**📝 Summary:** Sovereign Gold Bonds (SGBs) premature redemption dates: The Reserve Bank of India (RBI) has issued the details of the Sovereign Gold Bond (SGB) tranches that are scheduled for premature redemption ...
-
----
-
-
 ### ✈️ Travel Benefits
 
 #### 1. [Paid Rs 2.73 lakh for a 15-hour flight, got broken seat and dirty toilet: Flyer wins Rs 1.5 lakh compensation](https://economictimes.indiatimes.com/wealth/legal/will/paid-rs-2-73-lakh-for-a-15-hour-flight-got-broken-seat-and-dirty-toilet-flyer-wins-rs-1-5-lakh-compensation/articleshow/128741573.cms)
@@ -73,6 +61,19 @@
 **📅 Published:** Tue, 24 Feb 2026 11:28:05 +0530  
 
 **📝 Summary:** A man and his daughter were awarded Rs 1.
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [Rs 1.5 lakh tax refund delay scam: How fraud happened, red flags and safety tips to stay cautious](https://economictimes.indiatimes.com/wealth/tax/rs-1-5-lakh-tax-refund-delay-scam-how-fraud-happened-red-flags-and-safety-tips-to-stay-cautious/slideshow/128744788.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 24 Feb 2026 13:32:54 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** The Income Tax Department last week alerted taxpayers about a tax refund scam where scammers are sending an online link targeting bank accounts.
 
 ---
 
