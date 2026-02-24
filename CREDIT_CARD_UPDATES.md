@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-24 02:25:10 IST
+**Last Updated:** 2026-02-24 07:03:51 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -65,20 +65,14 @@
 ---
 
 
-### 💡 Tricks & Tips
+### ✈️ Travel Benefits
 
-#### 1. [SIM swap attack: How hackers steal your OTPs and empty your bank account](https://economictimes.indiatimes.com/wealth/save/sim-swap-attack-how-hackers-steal-your-otps-and-empty-your-bank-account/slideshow/128702094.cms)
+#### 1. [Paid Rs 2.73 lakh for a 15-hour flight, got broken seat and dirty toilet: Flyer wins Rs 1.5 lakh compensation](https://economictimes.indiatimes.com/wealth/legal/will/paid-rs-2-73-lakh-for-a-15-hour-flight-got-broken-seat-and-dirty-toilet-flyer-wins-rs-1-5-lakh-compensation/articleshow/128741573.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 23 Feb 2026 11:53:13 +0530  
-**🏦 Bank:** AU  
-**💳 Card:** SIM card  
+**📅 Published:** Tue, 24 Feb 2026 11:28:05 +0530  
 
-**📝 Summary:** SIM swap fraud is a type of cybercrime where a criminal tricks your telecom provider into transferring your mobile number to a new SIM card that they control.
-
-**💡 Optimization Tips:**
-
-- SIM swap fraud is a type of cybercrime where a criminal tricks your telecom provider into transferring your mobile number to a new SIM card that they control
+**📝 Summary:** A man and his daughter were awarded Rs 1.
 
 ---
 
