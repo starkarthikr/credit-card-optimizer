@@ -1,8 +1,21 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-25 07:05:12 IST
+**Last Updated:** 2026-02-25 13:11:03 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 🏆 Best Card
+
+#### 1. [Punjab National Bank revised FD interest rates: Comparison of 444-day FD rates of SBI, PNB, BoB, Indian Bank](https://economictimes.indiatimes.com/wealth/invest/punjab-national-bank-revised-fd-interest-rates-comparison-of-444-day-fd-rates-of-sbi-pnb-bob-indian-bank/articleshow/128777575.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 25 Feb 2026 15:42:35 +0530  
+**🏦 Bank:** SBI  
+
+**📝 Summary:** Punjab National Bank has revised its fixed deposit interest rates, effective February 24, 2026.
+
+---
 
 
 ### 📰 General Updates
@@ -65,19 +78,6 @@
 **📝 Summary:** Banks across India from state-owned SBI to private giants like HDFC, ICICI, and Axis have been trimming credit card benefits over the past year.
 
 **✨ Benefits:** Lounge Access, Movie Ticket
-
----
-
-
-### 💡 Tricks & Tips
-
-#### 1. [Rs 1.5 lakh tax refund delay scam: How fraud happened, red flags and safety tips to stay cautious](https://economictimes.indiatimes.com/wealth/tax/rs-1-5-lakh-tax-refund-delay-scam-how-fraud-happened-red-flags-and-safety-tips-to-stay-cautious/slideshow/128744788.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 24 Feb 2026 13:32:54 +0530  
-**🏦 Bank:** AU  
-
-**📝 Summary:** The Income Tax Department last week alerted taxpayers about a tax refund scam where scammers are sending an online link targeting bank accounts.
 
 ---
 
