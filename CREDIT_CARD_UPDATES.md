@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-25 02:26:20 IST
+**Last Updated:** 2026-02-25 07:05:12 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,14 +53,18 @@
 ---
 
 
-### ✈️ Travel Benefits
+### 💰 Reward Points
 
-#### 1. [Paid Rs 2.73 lakh for a 15-hour flight, got broken seat and dirty toilet: Flyer wins Rs 1.5 lakh compensation](https://economictimes.indiatimes.com/wealth/legal/will/paid-rs-2-73-lakh-for-a-15-hour-flight-got-broken-seat-and-dirty-toilet-flyer-wins-rs-1-5-lakh-compensation/articleshow/128741573.cms)
+#### 1. [Credit card perks being cut by banks: Check If your card is affected](https://economictimes.indiatimes.com/wealth/save/credit-card-perks-being-cut-by-banks-check-if-your-card-is-affected/slideshow/128772560.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Tue, 24 Feb 2026 11:28:05 +0530  
+**📅 Published:** Wed, 25 Feb 2026 12:04:16 +0530  
+**🏦 Bank:** HDFC  
+**💳 Card:** been trimming credit card  
 
-**📝 Summary:** A man and his daughter were awarded Rs 1.
+**📝 Summary:** Banks across India from state-owned SBI to private giants like HDFC, ICICI, and Axis have been trimming credit card benefits over the past year.
+
+**✨ Benefits:** Lounge Access, Movie Ticket
 
 ---
 
