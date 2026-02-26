@@ -1,21 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-26 02:22:33 IST
+**Last Updated:** 2026-02-26 07:03:53 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 🏆 Best Card
-
-#### 1. [Punjab National Bank revised FD interest rates: Comparison of 444-day FD rates of SBI, PNB, BoB, Indian Bank](https://economictimes.indiatimes.com/wealth/invest/punjab-national-bank-revised-fd-interest-rates-comparison-of-444-day-fd-rates-of-sbi-pnb-bob-indian-bank/articleshow/128777575.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 25 Feb 2026 15:42:35 +0530  
-**🏦 Bank:** SBI  
-
-**📝 Summary:** Punjab National Bank has revised its fixed deposit interest rates, effective February 24, 2026.
-
----
 
 
 ### 📰 General Updates
@@ -62,22 +49,6 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Credit card perks being cut by banks: Check If your card is affected](https://economictimes.indiatimes.com/wealth/save/credit-card-perks-being-cut-by-banks-check-if-your-card-is-affected/slideshow/128772560.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 25 Feb 2026 12:04:16 +0530  
-**🏦 Bank:** HDFC  
-**💳 Card:** been trimming credit card  
-
-**📝 Summary:** Banks across India from state-owned SBI to private giants like HDFC, ICICI, and Axis have been trimming credit card benefits over the past year.
-
-**✨ Benefits:** Lounge Access, Movie Ticket
 
 ---
 
