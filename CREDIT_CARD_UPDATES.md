@@ -1,8 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-26 07:03:53 IST
+**Last Updated:** 2026-02-26 13:11:54 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 💵 Annual Fee
+
+#### 1. [From Rs 10 lakh to Rs 18 lakh: HDFC Bank revises Infinia credit card spend criterion for fee waiver; RLV revised to Rs 50 lakh; check details](https://economictimes.indiatimes.com/wealth/spend/hdfc-bank-revises-infinia-credit-card-spend-criterion-to-rs-18-lakh-for-fee-waiver-rlv-increased-check-full-details/articleshow/128813452.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 26 Feb 2026 17:44:37 +0530  
+**🏦 Bank:** HDFC  
+**💳 Card:** revises Infinia credit card  
+
+**📝 Summary:** HDFC Bank has significantly increased the annual spending requirement for its premium Infinia credit card fee waiver, raising it from Rs 10 lakh to Rs 18 lakh.
+
+---
 
 
 ### 📰 General Updates
@@ -49,6 +63,20 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [Sovereign Gold Bond (SGB) premature redemption calendar: Check all exit dates from April 2026 – September 2026](https://economictimes.indiatimes.com/wealth/invest/sovereign-gold-bond-sgb-premature-redemption-calendar-check-all-exit-dates-from-april-2026-september-2026/slideshow/128812888.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 26 Feb 2026 17:19:39 +0530  
+
+**📝 Summary:** The Reserve Bank of India (RBI) has released Sovereign Gold Bonds (SGB) premature redemption dates for April 2026-September 2026.
+
+**🔄 Redemption:** The Reserve Bank of India (RBI) has released Sovereign Gold Bonds (SGB) premature redemption dates for April 2026-September 2026
 
 ---
 
