@@ -1,22 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-27 06:58:33 IST
+**Last Updated:** 2026-02-27 13:04:31 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 💵 Annual Fee
-
-#### 1. [From Rs 10 lakh to Rs 18 lakh: HDFC Bank revises Infinia credit card spend criterion for fee waiver; RLV revised to Rs 50 lakh; check details](https://economictimes.indiatimes.com/wealth/spend/hdfc-bank-revises-infinia-credit-card-spend-criterion-to-rs-18-lakh-for-fee-waiver-rlv-increased-check-full-details/articleshow/128813452.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 26 Feb 2026 17:44:37 +0530  
-**🏦 Bank:** HDFC  
-**💳 Card:** revises Infinia credit card  
-
-**📝 Summary:** HDFC Bank has significantly increased the annual spending requirement for its premium Infinia credit card fee waiver, raising it from Rs 10 lakh to Rs 18 lakh.
-
----
 
 
 ### 📰 General Updates
@@ -69,14 +55,14 @@
 
 ### 💰 Reward Points
 
-#### 1. [Gold bond premature redemption calendar: Check all exit dates from April 2026 – September 2026](https://economictimes.indiatimes.com/wealth/invest/gold-bond-premature-redemption-calendar-check-all-exit-dates-from-april-2026-september-2026/slideshow/128812888.cms)
+#### 1. [SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, conditions](https://economictimes.indiatimes.com/wealth/spend/sbi-card-changes-reward-points-redemption-rules-from-april-1-2026-check-new-limits-and-conditions/articleshow/128839409.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 26 Feb 2026 17:19:39 +0530  
+**📅 Published:** Fri, 27 Feb 2026 12:23:18 +0530  
+**🏦 Bank:** SBI  
+**💳 Card:** SBI Card  
 
-**📝 Summary:** The Reserve Bank of India (RBI) has released Sovereign Gold Bonds (SGB) premature redemption dates for April 2026-September 2026.
-
-**🔄 Redemption:** The Reserve Bank of India (RBI) has released Sovereign Gold Bonds (SGB) premature redemption dates for April 2026-September 2026
+**📝 Summary:** SBI Card is implementing significant changes to its reward points redemption policy, effective April 1, 2026.
 
 ---
 
