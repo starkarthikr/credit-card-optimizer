@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-27 02:21:17 IST
+**Last Updated:** 2026-02-27 06:58:33 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -69,7 +69,7 @@
 
 ### 💰 Reward Points
 
-#### 1. [Sovereign Gold Bond (SGB) premature redemption calendar: Check all exit dates from April 2026 – September 2026](https://economictimes.indiatimes.com/wealth/invest/sovereign-gold-bond-sgb-premature-redemption-calendar-check-all-exit-dates-from-april-2026-september-2026/slideshow/128812888.cms)
+#### 1. [Gold bond premature redemption calendar: Check all exit dates from April 2026 – September 2026](https://economictimes.indiatimes.com/wealth/invest/gold-bond-premature-redemption-calendar-check-all-exit-dates-from-april-2026-september-2026/slideshow/128812888.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Thu, 26 Feb 2026 17:19:39 +0530  
