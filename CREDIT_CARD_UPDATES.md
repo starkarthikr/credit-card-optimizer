@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-02-28 06:42:18 IST
+**Last Updated:** 2026-02-28 12:51:28 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,20 +49,6 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, conditions](https://economictimes.indiatimes.com/wealth/spend/sbi-card-changes-reward-points-redemption-rules-from-april-1-2026-check-new-limits-and-conditions/articleshow/128839409.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 27 Feb 2026 12:23:18 +0530  
-**🏦 Bank:** SBI  
-**💳 Card:** SBI Card  
-
-**📝 Summary:** SBI Card is implementing significant changes to its reward points redemption policy, effective April 1, 2026.
 
 ---
 

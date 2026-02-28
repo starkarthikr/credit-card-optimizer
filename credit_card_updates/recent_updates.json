@@ -71,6 +71,25 @@
   },
   {
     "source": "Economic Times",
+    "title": "Indian Railways Ticket booking app UTS will be discontinued from March 1, 2026 and moved to new app 'RailOne'; Here’s what happens to R-Wallet money",
+    "link": "https://economictimes.indiatimes.com/wealth/save/indian-railways-ticket-booking-app-uts-will-be-discontinued-from-march-1-2026-and-moved-to-new-irctc-authorised-app-railone-heres-what-happens-to-your-money-in-r-wallet/articleshow/128877661.cms",
+    "published": "Sat, 28 Feb 2026 14:32:13 +0530",
+    "summary": "Indian Railways' UTS ticket booking app will be discontinued on March 1, 2026, with services migrating to the new RailOne app.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
     "title": "Maintenance relief for husband: Allahabad HC allows arrears to be paid in 10 EMIs, fixes payout at 25% of income",
     "link": "https://economictimes.indiatimes.com/wealth/legal/will/maintenance-relief-for-husband-allahabad-hc-allows-arrears-to-be-paid-in-10-emis-fixes-payout-at-25-of-income/articleshow/128875381.cms",
     "published": "Sat, 28 Feb 2026 11:19:24 +0530",
@@ -333,25 +352,6 @@
       "optimization_tips": [],
       "redemption_info": null,
       "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "SBI Card rule changes from April 1, 2026: Reward point redemption structure revamped; check new limits, conditions",
-    "link": "https://economictimes.indiatimes.com/wealth/spend/sbi-card-changes-reward-points-redemption-rules-from-april-1-2026-check-new-limits-and-conditions/articleshow/128839409.cms",
-    "published": "Fri, 27 Feb 2026 12:23:18 +0530",
-    "summary": "SBI Card is implementing significant changes to its reward points redemption policy, effective April 1, 2026.",
-    "card_info": {
-      "card_name": "SBI Card",
-      "bank": "SBI",
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "Reward Points"
     }
   }
 ]
