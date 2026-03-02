@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-02 07:02:08 IST
+**Last Updated:** 2026-03-02 13:04:19 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,37 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Israel-Iran War Impact: IndiGo, Air India, Emirates, Qatar Airways cancel flights:  Check refund &amp; rescheduling policy](https://economictimes.indiatimes.com/wealth/save/israel-iran-war-impact-indigo-air-india-emirates-qatar-airways-cancel-flights-check-refund-rescheduling-policy/articleshow/128946835.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 02 Mar 2026 18:02:31 +0530  
+
+**📝 Summary:** The Israel-Iran conflict has led to widespread flight cancellations across the Middle East, stranding thousands.
+
+---
+
+#### 2. [Stranded in Dubai, Iran, Qatar, or other Middle East war zones: Will your travel insurance company pay?](https://economictimes.indiatimes.com/wealth/insure/stranded-in-dubai-iran-qatar-or-other-middle-east-war-zones-will-your-travel-insurance-company-pay/articleshow/128946774.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 02 Mar 2026 18:00:25 +0530  
+
+**📝 Summary:** Flight disruptions in the Middle East due to rising tensions are leaving travellers stranded.
+
+---
+
+#### 3. [Dubai's Burj Al Arab: World's only 7 star hotel in Iran-US crossfire; check charges for Burj's most expensive suite](https://economictimes.indiatimes.com/wealth/spend/dubais-burj-al-arab-worlds-only-7-star-hotel-in-iran-us-crossfire-check-charges-for-burjs-most-expensive-suite/slideshow/128942983.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 02 Mar 2026 14:54:15 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** Dubai’s ultra-luxury symbol, Burj Al Arab, was briefly hit by debris from an intercepted drone amid rising Iran-US tensions.
 
 ---
 
