@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-03 06:56:14 IST
+**Last Updated:** 2026-03-03 13:03:06 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -74,31 +74,31 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Faulty lavatories and damaged seat on airline: Rs 1 lakh compensation awarded to business class air traveller by Consumer Commission](https://economictimes.indiatimes.com/wealth/legal/will/faulty-lavatories-and-damaged-seat-on-airline-rs-1-lakh-compensation-awarded-to-business-class-air-traveller-by-consumer-commission/articleshow/128946911.cms)
+#### 1. [Stranded in Middle East in Israel-Iran conflict with health emergency? Know if you can use your travel and overseas health insurance](https://economictimes.indiatimes.com/wealth/insure/stranded-in-middle-east-in-israel-iran-conflict-with-health-emergency-know-if-you-can-use-your-travel-and-overseas-health-insurance/articleshow/128967556.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 03 Mar 2026 17:44:26 +0530  
+
+**📝 Summary:** Indian travellers stranded amid escalating global conflicts face uncertainty regarding insurance coverage.
+
+---
+
+#### 2. [Flight cancelled due to Middle East airspace issues? Here’s how to apply for refund from Air India, IndiGo, Emirates, Etihad Airways and other major airlines](https://economictimes.indiatimes.com/wealth/save/flight-cancelled-due-to-middle-east-airspace-issues-heres-how-to-apply-for-refund-from-air-india-indigo-emirates-etihad-airways-and-other-major-airlines/articleshow/128963628.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 03 Mar 2026 15:07:32 +0530  
+
+**📝 Summary:** Flight cancellations are affecting passengers in Dubai, Abu Dhabi, Doha, and Manama.
+
+---
+
+#### 3. [Faulty lavatories and damaged seat on airline: Rs 1 lakh compensation awarded to business class air traveller by Consumer Commission](https://economictimes.indiatimes.com/wealth/legal/will/faulty-lavatories-and-damaged-seat-on-airline-rs-1-lakh-compensation-awarded-to-business-class-air-traveller-by-consumer-commission/articleshow/128946911.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Tue, 03 Mar 2026 07:52:00 +0530  
 **🏦 Bank:** AU  
 
 **📝 Summary:** A business class passenger flying from San Francisco to Delhi was awarded Rs 1 lakh by a consumer commission.
-
----
-
-#### 2. [Israel-Iran War Impact: IndiGo, Air India, Emirates, Qatar Airways cancel flights; Dubai airport restores some operations](https://economictimes.indiatimes.com/wealth/save/israel-iran-war-impact-indigo-air-india-emirates-qatar-airways-cancel-flights-check-refund-rescheduling-policy/articleshow/128946835.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 02 Mar 2026 18:02:31 +0530  
-
-**📝 Summary:** The Israel-Iran conflict has led to widespread flight cancellations across the Middle East, stranding thousands.
-
----
-
-#### 3. [Stranded in Dubai, Iran, Qatar, or other Middle East war zones: Will your travel insurance company pay?](https://economictimes.indiatimes.com/wealth/insure/stranded-in-dubai-iran-qatar-or-other-middle-east-war-zones-will-your-travel-insurance-company-pay/articleshow/128946774.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 02 Mar 2026 18:00:25 +0530  
-
-**📝 Summary:** Flight disruptions in the Middle East due to rising tensions are leaving travellers stranded.
 
 ---
 
