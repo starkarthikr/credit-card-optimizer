@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-02 18:53:23 IST
+**Last Updated:** 2026-03-03 02:26:14 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,7 +55,17 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Israel-Iran War Impact: IndiGo, Air India, Emirates, Qatar Airways cancel flights:  Check refund &amp; rescheduling policy](https://economictimes.indiatimes.com/wealth/save/israel-iran-war-impact-indigo-air-india-emirates-qatar-airways-cancel-flights-check-refund-rescheduling-policy/articleshow/128946835.cms)
+#### 1. [Faulty lavatories and damaged seat on airline: Rs 1 lakh compensation awarded to business class air traveller by Consumer Commission](https://economictimes.indiatimes.com/wealth/legal/will/faulty-lavatories-and-damaged-seat-on-airline-rs-1-lakh-compensation-awarded-to-business-class-air-traveller-by-consumer-commission/articleshow/128946911.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 03 Mar 2026 07:52:00 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** A business class passenger flying from San Francisco to Delhi was awarded Rs 1 lakh by a consumer commission.
+
+---
+
+#### 2. [Israel-Iran War Impact: IndiGo, Air India, Emirates, Qatar Airways cancel flights:  Check refund &amp; rescheduling policy](https://economictimes.indiatimes.com/wealth/save/israel-iran-war-impact-indigo-air-india-emirates-qatar-airways-cancel-flights-check-refund-rescheduling-policy/articleshow/128946835.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Mon, 02 Mar 2026 18:02:31 +0530  
@@ -64,7 +74,7 @@
 
 ---
 
-#### 2. [Stranded in Dubai, Iran, Qatar, or other Middle East war zones: Will your travel insurance company pay?](https://economictimes.indiatimes.com/wealth/insure/stranded-in-dubai-iran-qatar-or-other-middle-east-war-zones-will-your-travel-insurance-company-pay/articleshow/128946774.cms)
+#### 3. [Stranded in Dubai, Iran, Qatar, or other Middle East war zones: Will your travel insurance company pay?](https://economictimes.indiatimes.com/wealth/insure/stranded-in-dubai-iran-qatar-or-other-middle-east-war-zones-will-your-travel-insurance-company-pay/articleshow/128946774.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Mon, 02 Mar 2026 18:00:25 +0530  
@@ -73,7 +83,7 @@
 
 ---
 
-#### 3. [Dubai's Burj Al Arab: World's only 7 star hotel in Iran-US crossfire; check charges for Burj's most expensive suite](https://economictimes.indiatimes.com/wealth/spend/dubais-burj-al-arab-worlds-only-7-star-hotel-in-iran-us-crossfire-check-charges-for-burjs-most-expensive-suite/slideshow/128942983.cms)
+#### 4. [Dubai's Burj Al Arab: World's only 7 star hotel in Iran-US crossfire; check charges for Burj's most expensive suite](https://economictimes.indiatimes.com/wealth/spend/dubais-burj-al-arab-worlds-only-7-star-hotel-in-iran-us-crossfire-check-charges-for-burjs-most-expensive-suite/slideshow/128942983.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Mon, 02 Mar 2026 14:54:15 +0530  
