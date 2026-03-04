@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-03 18:55:04 IST
+**Last Updated:** 2026-03-04 02:12:23 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -89,16 +89,6 @@
 **📅 Published:** Tue, 03 Mar 2026 15:07:32 +0530  
 
 **📝 Summary:** Flight cancellations are affecting passengers in Dubai, Abu Dhabi, Doha, and Manama.
-
----
-
-#### 3. [Faulty lavatories and damaged seat on airline: Rs 1 lakh compensation awarded to business class air traveller by Consumer Commission](https://economictimes.indiatimes.com/wealth/legal/will/faulty-lavatories-and-damaged-seat-on-airline-rs-1-lakh-compensation-awarded-to-business-class-air-traveller-by-consumer-commission/articleshow/128946911.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 03 Mar 2026 07:52:00 +0530  
-**🏦 Bank:** AU  
-
-**📝 Summary:** A business class passenger flying from San Francisco to Delhi was awarded Rs 1 lakh by a consumer commission.
 
 ---
 
