@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-05 06:56:26 IST
+**Last Updated:** 2026-03-05 13:06:01 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,12 +55,13 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Stranded in Middle East in Israel-Iran conflict with health emergency? Know if you can use your travel and overseas health insurance](https://economictimes.indiatimes.com/wealth/insure/stranded-in-middle-east-in-israel-iran-conflict-with-health-emergency-know-if-you-can-use-your-travel-and-overseas-health-insurance/articleshow/128967556.cms)
+#### 1. [Travelling to India? Know baggage rules for jewellery, gold, cameras and other high-value items](https://economictimes.indiatimes.com/wealth/save/travelling-to-india-know-baggage-rules-for-jewellery-gold-cameras-and-other-high-value-items/slideshow/129090972.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Tue, 03 Mar 2026 17:44:26 +0530  
+**📅 Published:** Thu, 05 Mar 2026 17:57:52 +0530  
+**🏦 Bank:** AU  
 
-**📝 Summary:** Indian travellers stranded amid escalating global conflicts face uncertainty regarding insurance coverage.
+**📝 Summary:** The government has launched a comprehensive travellers’ guide to assist international passengers and enhance awareness about the Baggage Rules, 2026.
 
 ---
 
