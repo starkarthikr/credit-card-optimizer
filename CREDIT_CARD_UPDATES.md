@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-05 02:23:00 IST
+**Last Updated:** 2026-03-05 06:56:26 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -61,15 +61,6 @@
 **📅 Published:** Tue, 03 Mar 2026 17:44:26 +0530  
 
 **📝 Summary:** Indian travellers stranded amid escalating global conflicts face uncertainty regarding insurance coverage.
-
----
-
-#### 2. [Flight cancelled due to Middle East airspace issues? Here’s how to apply for refund from Air India, IndiGo, Emirates, Etihad Airways and other major airlines](https://economictimes.indiatimes.com/wealth/save/flight-cancelled-due-to-middle-east-airspace-issues-heres-how-to-apply-for-refund-from-air-india-indigo-emirates-etihad-airways-and-other-major-airlines/articleshow/128963628.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 03 Mar 2026 15:07:32 +0530  
-
-**📝 Summary:** Flight cancellations are affecting passengers in Dubai, Abu Dhabi, Doha, and Manama.
 
 ---
 
