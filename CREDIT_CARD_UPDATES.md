@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-06 06:54:49 IST
+**Last Updated:** 2026-03-06 13:01:45 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,19 +49,6 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Travelling to India? Know baggage rules for jewellery, gold, cameras and other high-value items](https://economictimes.indiatimes.com/wealth/save/travelling-to-india-know-baggage-rules-for-jewellery-gold-cameras-and-other-high-value-items/slideshow/129090972.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 05 Mar 2026 17:57:52 +0530  
-**🏦 Bank:** AU  
-
-**📝 Summary:** The government has launched a comprehensive travellers’ guide to assist international passengers and enhance awareness about the Baggage Rules, 2026.
 
 ---
 
