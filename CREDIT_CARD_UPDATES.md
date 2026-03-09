@@ -1,8 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-09 07:05:24 IST
+**Last Updated:** 2026-03-09 13:09:02 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 💵 Annual Fee
+
+#### 1. [YES Bank credit card rules change from April 1: Relaxes threshold limits of fee waiver on select cards; revises rules for wallet loads, utility and toll payments](https://economictimes.indiatimes.com/wealth/spend/yes-bank-credit-card-rules-change-from-april-1-relaxes-threshold-limits-of-fee-waiver-on-select-cards-revises-rules-for-wallet-loads-utility-and-toll-payments/articleshow/129323211.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 09 Mar 2026 14:43:12 +0530  
+**🏦 Bank:** YES BANK  
+**💳 Card:** YES Bank credit card  
+
+**📝 Summary:** YES Bank is adjusting its credit card fee rules.
+
+---
 
 
 ### 📰 General Updates
@@ -49,18 +63,6 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [War and travel insurance in times of Iran-Israel conflict: What is covered and what is excluded](https://economictimes.indiatimes.com/wealth/insure/war-and-travel-insurance-in-times-of-iran-israel-conflict-what-is-covered-and-what-is-excluded/articleshow/129168235.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 09 Mar 2026 06:30:00 +0530  
-
-**📝 Summary:** Thousands of Indians in the UAE are stranded due to regional conflict and disrupted air travel.
 
 ---
 
