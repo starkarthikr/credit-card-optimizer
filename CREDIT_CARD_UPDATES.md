@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-08 18:38:06 IST
+**Last Updated:** 2026-03-09 02:26:22 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [War and travel insurance in times of Iran-Israel conflict: What is covered and what is excluded](https://economictimes.indiatimes.com/wealth/insure/war-and-travel-insurance-in-times-of-iran-israel-conflict-what-is-covered-and-what-is-excluded/articleshow/129168235.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 09 Mar 2026 06:30:00 +0530  
+
+**📝 Summary:** Thousands of Indians in the UAE are stranded due to regional conflict and disrupted air travel.
 
 ---
 
