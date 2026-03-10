@@ -1,22 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-10 06:54:49 IST
+**Last Updated:** 2026-03-10 13:06:34 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 💵 Annual Fee
-
-#### 1. [YES Bank credit card rules change from April 1: Relaxes threshold limits of fee waiver on select cards; revises rules for wallet loads, utility and toll payments](https://economictimes.indiatimes.com/wealth/spend/yes-bank-credit-card-rules-change-from-april-1-relaxes-threshold-limits-of-fee-waiver-on-select-cards-revises-rules-for-wallet-loads-utility-and-toll-payments/articleshow/129323211.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 09 Mar 2026 14:43:12 +0530  
-**🏦 Bank:** YES BANK  
-**💳 Card:** YES Bank credit card  
-
-**📝 Summary:** YES Bank is adjusting its credit card fee rules.
-
----
 
 
 ### 📰 General Updates
@@ -63,6 +49,18 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Flight cancelled? Amid Iran–Israel conflict, know DGCA refund timeline, free cancellation rules](https://economictimes.indiatimes.com/wealth/save/flight-cancelled-amid-iranisrael-conflict-know-dgca-refund-timeline-free-cancellation-rules/slideshow/129396091.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 10 Mar 2026 17:55:12 +0530  
+
+**📝 Summary:** Flight disruptions and cancellations have increased due to tensions in the Middle East region.
 
 ---
 
