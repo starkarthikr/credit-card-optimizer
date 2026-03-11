@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-11 06:57:54 IST
+**Last Updated:** 2026-03-11 13:06:14 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -67,7 +67,16 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Travelling during war tensions? Here’s what travel insurance will and won’t cover](https://economictimes.indiatimes.com/wealth/insure/travelling-during-war-tensions-heres-what-travel-insurance-will-and-wont-cover/slideshow/129442334.cms)
+#### 1. [Costly flight tickets from March 12, 2026: How Air India’s fuel surcharge on domestic, international flights will make you pay more](https://economictimes.indiatimes.com/wealth/save/costly-flight-tickets-from-march-12-2026-how-air-indias-fuel-surcharge-on-domestic-international-flights-will-make-you-pay-more/articleshow/129451846.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 11 Mar 2026 15:02:58 +0530  
+
+**📝 Summary:** Air India is implementing a phased fuel surcharge on domestic and international flights due to rising jet fuel prices caused by geopolitical tensions in the Gulf.
+
+---
+
+#### 2. [Travelling during war tensions? Here’s what travel insurance will and won’t cover](https://economictimes.indiatimes.com/wealth/insure/travelling-during-war-tensions-heres-what-travel-insurance-will-and-wont-cover/slideshow/129442334.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Wed, 11 Mar 2026 11:49:00 +0530  
@@ -76,15 +85,6 @@
 **📝 Summary:** Rising tensions in West Asia have caused flight disruptions and left thousands of travellers stranded, including many Indians in the UAE and nearby regions.
 
 **✨ Benefits:** Insurance
-
----
-
-#### 2. [Flight cancelled? Amid Iran–Israel conflict, know DGCA refund timeline, free cancellation rules](https://economictimes.indiatimes.com/wealth/save/flight-cancelled-amid-iranisrael-conflict-know-dgca-refund-timeline-free-cancellation-rules/slideshow/129396091.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 10 Mar 2026 17:55:12 +0530  
-
-**📝 Summary:** Flight disruptions and cancellations have increased due to tensions in the Middle East region.
 
 ---
 
