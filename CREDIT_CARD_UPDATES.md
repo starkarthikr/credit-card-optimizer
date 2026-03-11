@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-11 02:11:02 IST
+**Last Updated:** 2026-03-11 06:57:54 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,9 +53,33 @@
 ---
 
 
+### 💰 Reward Points
+
+#### 1. [278% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.78 lakh](https://economictimes.indiatimes.com/wealth/invest/278-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-78-lakh/articleshow/129440029.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 11 Mar 2026 11:02:27 +0530  
+
+**📝 Summary:** Sovereign Gold Bond SGB: The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond SGB 2019-20 Series-X, fixed at Rs 15,920 per unit for redemptions starting Ma...
+
+---
+
+
 ### ✈️ Travel Benefits
 
-#### 1. [Flight cancelled? Amid Iran–Israel conflict, know DGCA refund timeline, free cancellation rules](https://economictimes.indiatimes.com/wealth/save/flight-cancelled-amid-iranisrael-conflict-know-dgca-refund-timeline-free-cancellation-rules/slideshow/129396091.cms)
+#### 1. [Travelling during war tensions? Here’s what travel insurance will and won’t cover](https://economictimes.indiatimes.com/wealth/insure/travelling-during-war-tensions-heres-what-travel-insurance-will-and-wont-cover/slideshow/129442334.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 11 Mar 2026 11:49:00 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** Rising tensions in West Asia have caused flight disruptions and left thousands of travellers stranded, including many Indians in the UAE and nearby regions.
+
+**✨ Benefits:** Insurance
+
+---
+
+#### 2. [Flight cancelled? Amid Iran–Israel conflict, know DGCA refund timeline, free cancellation rules](https://economictimes.indiatimes.com/wealth/save/flight-cancelled-amid-iranisrael-conflict-know-dgca-refund-timeline-free-cancellation-rules/slideshow/129396091.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Tue, 10 Mar 2026 17:55:12 +0530  
