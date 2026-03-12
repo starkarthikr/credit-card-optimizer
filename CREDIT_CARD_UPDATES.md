@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-12 06:59:25 IST
+**Last Updated:** 2026-03-12 13:05:49 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,7 +55,20 @@
 
 ### 💰 Reward Points
 
-#### 1. [Free flights and hotel stays with credit card reward points: Here’s how to maximise your rewards](https://economictimes.indiatimes.com/wealth/borrow/free-flights-and-hotel-stays-with-credit-card-reward-points-heres-how-to-maximise-your-rewards/articleshow/129458467.cms)
+#### 1. [From cashbacks to airport lounge access: 4 popular UPI credit cards and their key benefits](https://economictimes.indiatimes.com/wealth/spend/from-cashbacks-to-airport-lounge-access-4-popular-upi-credit-cards-and-their-key-benefits/slideshow/129507991.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 12 Mar 2026 17:56:59 +0530  
+**🏦 Bank:** HDFC  
+**💳 Card:** popular UPI credit card  
+
+**📝 Summary:** UPI-enabled credit cards help customers make payments directly through UPI apps.
+
+**✨ Benefits:** Lounge Access
+
+---
+
+#### 2. [Free flights and hotel stays with credit card reward points: Here’s how to maximise your rewards](https://economictimes.indiatimes.com/wealth/borrow/free-flights-and-hotel-stays-with-credit-card-reward-points-heres-how-to-maximise-your-rewards/articleshow/129458467.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Thu, 12 Mar 2026 12:17:47 +0530  
@@ -68,24 +81,14 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Costly flight tickets from March 12, 2026: How Air India’s fuel surcharge on domestic, international flights will make you pay more](https://economictimes.indiatimes.com/wealth/save/costly-flight-tickets-from-march-12-2026-how-air-indias-fuel-surcharge-on-domestic-international-flights-will-make-you-pay-more/articleshow/129451846.cms)
+#### 1. [NPCI changes RuPay debit card lounge rules from April 1, 2026: PNB, HDFC Bank, PSB and other banks to follow guidelines](https://economictimes.indiatimes.com/wealth/save/npci-changes-rupay-debit-card-lounge-rules-from-april-1-2026-pnb-hdfc-bank-psb-and-other-banks-to-follow-guidelines/articleshow/129496853.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 11 Mar 2026 15:02:58 +0530  
+**📅 Published:** Thu, 12 Mar 2026 12:51:23 +0530  
+**🏦 Bank:** HDFC  
+**💳 Card:** debit card  
 
-**📝 Summary:** Air India is implementing a phased fuel surcharge on domestic and international flights due to rising jet fuel prices caused by geopolitical tensions in the Gulf.
-
----
-
-#### 2. [Travelling during war tensions? Here’s what travel insurance will and won’t cover](https://economictimes.indiatimes.com/wealth/insure/travelling-during-war-tensions-heres-what-travel-insurance-will-and-wont-cover/slideshow/129442334.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 11 Mar 2026 11:49:00 +0530  
-**🏦 Bank:** AU  
-
-**📝 Summary:** Rising tensions in West Asia have caused flight disruptions and left thousands of travellers stranded, including many Indians in the UAE and nearby regions.
-
-**✨ Benefits:** Insurance
+**📝 Summary:** Airport and railway lounge access for RuPay Platinum debit cards will end on April 1, 2026.
 
 ---
 
