@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-12 02:24:31 IST
+**Last Updated:** 2026-03-12 06:59:25 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,12 +55,13 @@
 
 ### 💰 Reward Points
 
-#### 1. [278% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.78 lakh](https://economictimes.indiatimes.com/wealth/invest/278-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-78-lakh/articleshow/129440029.cms)
+#### 1. [Free flights and hotel stays with credit card reward points: Here’s how to maximise your rewards](https://economictimes.indiatimes.com/wealth/borrow/free-flights-and-hotel-stays-with-credit-card-reward-points-heres-how-to-maximise-your-rewards/articleshow/129458467.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 11 Mar 2026 11:02:27 +0530  
+**📅 Published:** Thu, 12 Mar 2026 12:17:47 +0530  
+**💳 Card:** stays with credit card  
 
-**📝 Summary:** Sovereign Gold Bond SGB: The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond SGB 2019-20 Series-X, fixed at Rs 15,920 per unit for redemptions starting Ma...
+**📝 Summary:** Credit card usage has surged in recent times, especially among younger consumers, who are increasingly using cards not just for convenience but also for rewards.
 
 ---
 
