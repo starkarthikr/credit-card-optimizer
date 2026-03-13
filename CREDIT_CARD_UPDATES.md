@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-13 02:22:38 IST
+**Last Updated:** 2026-03-13 06:58:12 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -65,30 +65,6 @@
 **📝 Summary:** UPI-enabled credit cards help customers make payments directly through UPI apps.
 
 **✨ Benefits:** Lounge Access
-
----
-
-#### 2. [Free flights and hotel stays with credit card reward points: Here’s how to maximise your rewards](https://economictimes.indiatimes.com/wealth/borrow/free-flights-and-hotel-stays-with-credit-card-reward-points-heres-how-to-maximise-your-rewards/articleshow/129458467.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 12 Mar 2026 12:17:47 +0530  
-**💳 Card:** stays with credit card  
-
-**📝 Summary:** Credit card usage has surged in recent times, especially among younger consumers, who are increasingly using cards not just for convenience but also for rewards.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [NPCI changes RuPay debit card lounge rules from April 1, 2026: PNB, HDFC Bank, PSB and other banks to follow guidelines](https://economictimes.indiatimes.com/wealth/save/npci-changes-rupay-debit-card-lounge-rules-from-april-1-2026-pnb-hdfc-bank-psb-and-other-banks-to-follow-guidelines/articleshow/129496853.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 12 Mar 2026 12:51:23 +0530  
-**🏦 Bank:** HDFC  
-**💳 Card:** debit card  
-
-**📝 Summary:** Airport and railway lounge access for RuPay Platinum debit cards will end on April 1, 2026.
 
 ---
 
