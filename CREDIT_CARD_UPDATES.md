@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-13 18:47:23 IST
+**Last Updated:** 2026-03-14 02:12:55 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -61,22 +61,6 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [From cashbacks to airport lounge access: 4 popular UPI credit cards and their key benefits](https://economictimes.indiatimes.com/wealth/spend/from-cashbacks-to-airport-lounge-access-4-popular-upi-credit-cards-and-their-key-benefits/slideshow/129507991.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 12 Mar 2026 17:56:59 +0530  
-**🏦 Bank:** HDFC  
-**💳 Card:** popular UPI credit card  
-
-**📝 Summary:** UPI-enabled credit cards help customers make payments directly through UPI apps.
-
-**✨ Benefits:** Lounge Access
 
 ---
 
