@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-17 07:08:34 IST
+**Last Updated:** 2026-03-17 13:18:00 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,7 +55,18 @@
 
 ### 💰 Reward Points
 
-#### 1. [312% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.12 lakh](https://economictimes.indiatimes.com/wealth/invest/312-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-12-lakh/articleshow/129624333.cms)
+#### 1. [Cashback SBI credit card to cut cashback limit by 20% from April 1, 2026: Check revised capping per statement cycle](https://economictimes.indiatimes.com/wealth/spend/cashback-sbi-credit-card-to-cut-cashback-limit-by-20-from-april-1-2026-check-revised-capping-per-statement-cycle/articleshow/129632159.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 17 Mar 2026 17:36:38 +0530  
+**🏦 Bank:** SBI  
+**💳 Card:** Cashback SBI credit card  
+
+**📝 Summary:** SBI Card is changing its popular Cashback SBI Card benefits from April 1, 2026.
+
+---
+
+#### 2. [312% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.12 lakh](https://economictimes.indiatimes.com/wealth/invest/312-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-12-lakh/articleshow/129624333.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Tue, 17 Mar 2026 11:04:57 +0530  
