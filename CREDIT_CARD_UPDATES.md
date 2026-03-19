@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-19 02:30:31 IST
+**Last Updated:** 2026-03-19 07:01:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -61,20 +61,6 @@
 **📅 Published:** Tue, 30 Dec 2025 15:40:54 +0000  
 
 **📝 Summary:** There is an attractive ongoing offer from&#160;Axis Bank&#160;that rewards international credit card spends with travel vouchers every month.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Cashback SBI credit card to cut cashback limit by 20% from April 1, 2026: Check revised capping per statement cycle](https://economictimes.indiatimes.com/wealth/spend/cashback-sbi-credit-card-to-cut-cashback-limit-by-20-from-april-1-2026-check-revised-capping-per-statement-cycle/articleshow/129632159.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 17 Mar 2026 17:36:38 +0530  
-**🏦 Bank:** SBI  
-**💳 Card:** Cashback SBI credit card  
-
-**📝 Summary:** SBI Card is changing its popular Cashback SBI Card benefits from April 1, 2026.
 
 ---
 
