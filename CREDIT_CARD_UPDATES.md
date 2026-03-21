@@ -1,8 +1,21 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-21 06:49:51 IST
+**Last Updated:** 2026-03-21 12:55:19 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 🏆 Best Card
+
+#### 1. [Bank locker charges comparison: SBI vs HDFC Bank vs Axis Bank vs Canara Bank; Check if you're paying too much for a locker?](https://economictimes.indiatimes.com/wealth/save/paying-too-much-for-your-bank-locker-compare-charges-of-sbi-hdfc-bank-axis-bank-and-canara-bank/articleshow/129699985.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 21 Mar 2026 13:34:17 +0530  
+**🏦 Bank:** HDFC  
+
+**📝 Summary:** Bank locker charges: HDFC Bank has increased its locker charges effective April 1, 2026.
+
+---
 
 
 ### 📰 General Updates
