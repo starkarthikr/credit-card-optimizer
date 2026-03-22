@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-22 06:55:57 IST
+**Last Updated:** 2026-03-22 12:56:58 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -62,6 +62,18 @@
 **📅 Published:** Wed, 31 Dec 2025 13:55:59 +0000  
 
 **📝 Summary:** It has been a while since Air India merged with&#160;Vistara, and Air India has been making a sincere effort to establish a fresh brand identity.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Middle-east-bound travellers struggle to buy travel insurance](https://economictimes.indiatimes.com/wealth/insure/middle-east-bound-travellers-struggle-to-buy-travel-insurance/articleshow/129729601.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sun, 22 Mar 2026 12:25:54 +0530  
+
+**📝 Summary:** Several non-life insurers have suspended the issuance of new travel insurance for travellers planning to visit countries such as the UAE, Saudi Arabia, Oman and Qatar.
 
 ---
 
