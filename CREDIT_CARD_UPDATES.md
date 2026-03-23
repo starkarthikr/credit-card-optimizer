@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-23 07:14:55 IST
+**Last Updated:** 2026-03-23 13:13:55 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -61,15 +61,6 @@
 **📅 Published:** Mon, 23 Mar 2026 06:30:00 +0530  
 
 **📝 Summary:** As with any geopolitical conflict, the element of surprise caught everyone off guard, but the first to get back home were the people with balances in their mileage accounts.
-
----
-
-#### 2. [Overseas education insurance: Why Indian student travel policies matter beyond university health cover](https://economictimes.indiatimes.com/wealth/insure/overseas-education-insurance-why-indian-student-travel-policies-matter-beyond-university-health-cover/articleshow/129712307.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 23 Mar 2026 06:30:00 +0530  
-
-**📝 Summary:** Indian students abroad face unexpected travel disruptions.
 
 ---
 
