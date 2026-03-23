@@ -1,21 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-23 02:31:30 IST
+**Last Updated:** 2026-03-23 07:14:55 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 🏆 Best Card
-
-#### 1. [Bank locker charges comparison: SBI vs HDFC Bank vs Axis Bank vs Canara Bank; Check if you're paying too much for a locker?](https://economictimes.indiatimes.com/wealth/save/paying-too-much-for-your-bank-locker-compare-charges-of-sbi-hdfc-bank-axis-bank-and-canara-bank/articleshow/129699985.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 21 Mar 2026 13:34:17 +0530  
-**🏦 Bank:** HDFC  
-
-**📝 Summary:** Bank locker charges: HDFC Bank has increased its locker charges effective April 1, 2026.
-
----
 
 
 ### 📰 General Updates
@@ -83,15 +70,6 @@
 **📅 Published:** Mon, 23 Mar 2026 06:30:00 +0530  
 
 **📝 Summary:** Indian students abroad face unexpected travel disruptions.
-
----
-
-#### 3. [Middle-east-bound travellers struggle to buy travel insurance](https://economictimes.indiatimes.com/wealth/insure/middle-east-bound-travellers-struggle-to-buy-travel-insurance/articleshow/129729601.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sun, 22 Mar 2026 12:25:54 +0530  
-
-**📝 Summary:** Several non-life insurers have suspended the issuance of new travel insurance for travellers planning to visit countries such as the UAE, Saudi Arabia, Oman and Qatar.
 
 ---
 
