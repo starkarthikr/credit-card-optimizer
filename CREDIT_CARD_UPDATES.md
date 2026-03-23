@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-22 18:40:46 IST
+**Last Updated:** 2026-03-23 02:31:30 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -68,7 +68,25 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Middle-east-bound travellers struggle to buy travel insurance](https://economictimes.indiatimes.com/wealth/insure/middle-east-bound-travellers-struggle-to-buy-travel-insurance/articleshow/129729601.cms)
+#### 1. [Air travel chaos: Why air miles are a powerful backup tool for HNIs amid travel disruptions](https://economictimes.indiatimes.com/wealth/plan/air-travel-chaos-why-air-miles-are-a-powerful-backup-tool-for-hnis-amid-travel-disruptions/articleshow/129712534.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 23 Mar 2026 06:30:00 +0530  
+
+**📝 Summary:** As with any geopolitical conflict, the element of surprise caught everyone off guard, but the first to get back home were the people with balances in their mileage accounts.
+
+---
+
+#### 2. [Overseas education insurance: Why Indian student travel policies matter beyond university health cover](https://economictimes.indiatimes.com/wealth/insure/overseas-education-insurance-why-indian-student-travel-policies-matter-beyond-university-health-cover/articleshow/129712307.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 23 Mar 2026 06:30:00 +0530  
+
+**📝 Summary:** Indian students abroad face unexpected travel disruptions.
+
+---
+
+#### 3. [Middle-east-bound travellers struggle to buy travel insurance](https://economictimes.indiatimes.com/wealth/insure/middle-east-bound-travellers-struggle-to-buy-travel-insurance/articleshow/129729601.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Sun, 22 Mar 2026 12:25:54 +0530  
