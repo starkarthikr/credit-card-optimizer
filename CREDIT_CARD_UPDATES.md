@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-25 13:16:40 IST
+**Last Updated:** 2026-03-25 18:58:48 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,19 @@
 **📅 Published:** Wed, 31 Dec 2025 13:55:59 +0000  
 
 **📝 Summary:** It has been a while since Air India merged with&#160;Vistara, and Air India has been making a sincere effort to establish a fresh brand identity.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [No hotel or restaurant can levy additional ‘LPG charges’, ‘gas charges’ by default or automatically in the bill, Government warns](https://economictimes.indiatimes.com/wealth/save/no-hotel-or-restaurant-can-levy-additional-lpg-charges-gas-charges-by-default-or-automatically-in-the-bill-government-warns/articleshow/129803081.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 25 Mar 2026 19:18:41 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** Restaurants can no longer automatically add 'LPG charges' or 'gas surcharges' to bills, the government has warned.
 
 ---
 
