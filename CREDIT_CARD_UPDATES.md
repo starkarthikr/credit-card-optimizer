@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-26 07:13:10 IST
+**Last Updated:** 2026-03-26 13:22:22 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,15 +53,18 @@
 ---
 
 
-### ✈️ Travel Benefits
+### 💰 Reward Points
 
-#### 1. [No hotel or restaurant can levy additional ‘LPG charges’, ‘gas charges’ by default or automatically in the bill, Government warns](https://economictimes.indiatimes.com/wealth/save/no-hotel-or-restaurant-can-levy-additional-lpg-charges-gas-charges-by-default-or-automatically-in-the-bill-government-warns/articleshow/129803081.cms)
+#### 1. [Using SBI Card? Rs 60,000 monthly reward cap, new redemption limits introduced from April 1, 2026](https://economictimes.indiatimes.com/wealth/spend/using-sbi-card-rs-60000-monthly-reward-cap-new-redemption-limits-introduced-from-april-1-2026/slideshow/129822874.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 25 Mar 2026 19:18:41 +0530  
-**🏦 Bank:** AU  
+**📅 Published:** Thu, 26 Mar 2026 16:45:36 +0530  
+**🏦 Bank:** SBI  
+**💳 Card:** SBI Card  
 
-**📝 Summary:** Restaurants can no longer automatically add 'LPG charges' or 'gas surcharges' to bills, the government has warned.
+**📝 Summary:** SBI Card has announced various changes to its reward points redemption policy, impacting how customers can convert reward points into statement credit.
+
+**🔄 Redemption:** SBI Card has announced various changes to its reward points redemption policy, impacting how customers can convert reward points into statement credit
 
 ---
 
