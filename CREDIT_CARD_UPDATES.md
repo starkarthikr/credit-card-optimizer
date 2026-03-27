@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-27 07:12:25 IST
+**Last Updated:** 2026-03-27 13:12:35 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,18 +53,14 @@
 ---
 
 
-### 💰 Reward Points
+### ✈️ Travel Benefits
 
-#### 1. [Using SBI Card? Rs 60,000 monthly reward cap, new redemption limits introduced from April 1, 2026](https://economictimes.indiatimes.com/wealth/spend/using-sbi-card-rs-60000-monthly-reward-cap-new-redemption-limits-introduced-from-april-1-2026/slideshow/129822874.cms)
+#### 1. [Jewar Airport impact on property prices around Noida: Plot prices have tripled to Rs 9,600 PSF, apartment prices rose to Rs 2,500 PSF from Rs 1,100 PSF since 2020, check the trend](https://economictimes.indiatimes.com/wealth/real-estate/jewar-airport-impact-on-property-prices-around-noida-plot-prices-have-tripled-to-rs-9600-psf-apartment-prices-rose-to-rs-2500-psf-from-rs-1100-psf-since-2020-check-the-trend/articleshow/129843109.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 26 Mar 2026 16:45:36 +0530  
-**🏦 Bank:** SBI  
-**💳 Card:** SBI Card  
+**📅 Published:** Fri, 27 Mar 2026 14:56:34 +0530  
 
-**📝 Summary:** SBI Card has announced various changes to its reward points redemption policy, impacting how customers can convert reward points into statement credit.
-
-**🔄 Redemption:** SBI Card has announced various changes to its reward points redemption policy, impacting how customers can convert reward points into statement credit
+**📝 Summary:** Plot prices in Jewar have doubled to Rs 9,600 PSF since 2020.
 
 ---
 
