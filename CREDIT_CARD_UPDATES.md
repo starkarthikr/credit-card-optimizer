@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-27 02:37:10 IST
+**Last Updated:** 2026-03-27 07:12:25 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -65,6 +65,22 @@
 **📝 Summary:** SBI Card has announced various changes to its reward points redemption policy, impacting how customers can convert reward points into statement credit.
 
 **🔄 Redemption:** SBI Card has announced various changes to its reward points redemption policy, impacting how customers can convert reward points into statement credit
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [Break into high-pay careers in 2026: Top emerging jobs you should consider before they become overcrowded](https://economictimes.indiatimes.com/wealth/earn/break-into-high-pay-careers-in-2026-top-emerging-jobs-you-should-consider-before-they-become-overcrowded/slideshow/129840096.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 27 Mar 2026 11:46:31 +0530  
+
+**📝 Summary:** *From 2020–2022, switching jobs meant a guaranteed 20% pay bump.
+
+**💡 Optimization Tips:**
+
+- The career hack that made millennials rich is no longer working
 
 ---
 
