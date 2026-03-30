@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-29 18:47:35 IST
+**Last Updated:** 2026-03-30 02:43:00 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,36 @@
 **📅 Published:** Wed, 31 Dec 2025 13:55:59 +0000  
 
 **📝 Summary:** It has been a while since Air India merged with&#160;Vistara, and Air India has been making a sincere effort to establish a fresh brand identity.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [FIFA World Cup travel costs: How to plan and budget smartly for football’s most expensive carnival](https://economictimes.indiatimes.com/wealth/spend/fifa-world-cup-travel-costs-how-to-plan-and-budget-smartly-for-footballs-most-expensive-carnival/articleshow/129858209.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 30 Mar 2026 06:30:00 +0530  
+
+**📝 Summary:** FIFA World Cup 2026 turns a fan trip into a high-cost, multi-country journey.
+
+---
+
+#### 2. [West Asia conflict disrupts travel plans: How to claim flight and hotel refunds and avoid booking losses](https://economictimes.indiatimes.com/wealth/insure/west-asia-conflict-disrupts-travel-plans-how-to-claim-flight-and-hotel-refunds-and-avoid-booking-losses/articleshow/129858062.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 30 Mar 2026 06:30:00 +0530  
+
+**📝 Summary:** As the West Asia crisis cuts into vacation plans and budgets, there’s still time to reschedule your trip and claim refunds.
+
+---
+
+#### 3. [Indians are changing travel plans amid global disruptions; Thailand, Sri Lanka, Japan see surge in bookings](https://economictimes.indiatimes.com/wealth/spend/indians-are-changing-travel-plans-amid-global-disruptions-thailand-sri-lanka-japan-see-surge-in-bookings/articleshow/129857736.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 30 Mar 2026 06:30:00 +0530  
+
+**📝 Summary:** Short- and medium-haul destinations like Thailand, Sri Lanka, and Japan are seeing a rise in demand.
 
 ---
 
