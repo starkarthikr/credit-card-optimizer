@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-03-30 02:43:00 IST
+**Last Updated:** 2026-03-30 07:46:29 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -70,15 +70,6 @@
 **📅 Published:** Mon, 30 Mar 2026 06:30:00 +0530  
 
 **📝 Summary:** As the West Asia crisis cuts into vacation plans and budgets, there’s still time to reschedule your trip and claim refunds.
-
----
-
-#### 3. [Indians are changing travel plans amid global disruptions; Thailand, Sri Lanka, Japan see surge in bookings](https://economictimes.indiatimes.com/wealth/spend/indians-are-changing-travel-plans-amid-global-disruptions-thailand-sri-lanka-japan-see-surge-in-bookings/articleshow/129857736.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 30 Mar 2026 06:30:00 +0530  
-
-**📝 Summary:** Short- and medium-haul destinations like Thailand, Sri Lanka, and Japan are seeing a rise in demand.
 
 ---
 
