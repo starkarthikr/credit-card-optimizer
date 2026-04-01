@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-01 07:24:39 IST
+**Last Updated:** 2026-04-01 13:27:39 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,23 @@
 **📅 Published:** Wed, 31 Dec 2025 13:55:59 +0000  
 
 **📝 Summary:** It has been a while since Air India merged with&#160;Vistara, and Air India has been making a sincere effort to establish a fresh brand identity.
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [The secret to true multibaggers: Somil Mehta’s investing thesis for disciplined trading](https://economictimes.indiatimes.com/wealth/invest/the-secret-to-true-multibaggers-somil-mehtas-investing-thesis-for-disciplined-trading/videoshow/129952498.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 01 Apr 2026 18:13:54 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** By the close of December 2025, Demat accounts in India exceeded 21.
+
+**💡 Optimization Tips:**
+
+- This formed the premise of an ETMarkets podcast, featuring Somil Mehta, Head – Retail Research at Mirae Asset Sharekhan, who revealed that research hasn’t kept up proportionally, as people increasingly turn to hot tips on social media, clarifying tha
 
 ---
 
