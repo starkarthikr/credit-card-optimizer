@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-01 02:49:26 IST
+**Last Updated:** 2026-04-01 07:24:39 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,20 +49,6 @@
 **📅 Published:** Wed, 31 Dec 2025 13:55:59 +0000  
 
 **📝 Summary:** It has been a while since Air India merged with&#160;Vistara, and Air India has been making a sincere effort to establish a fresh brand identity.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [April 1, 2026 rule changes: PAN, SBI credit card cashback, FASTag, ATM withdrawals—check list](https://economictimes.indiatimes.com/wealth/invest/april-1-2026-rule-changes-pan-sbi-credit-card-cashback-fastag-atm-withdrawalscheck-list/articleshow/129918507.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 31 Mar 2026 12:29:01 +0530  
-**🏦 Bank:** SBI  
-**💳 Card:** credit card  
-
-**📝 Summary:** Major financial and banking rule changes are coming from April 1, 2026.
 
 ---
 
