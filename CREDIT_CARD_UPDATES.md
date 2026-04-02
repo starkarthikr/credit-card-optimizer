@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-02 02:33:42 IST
+**Last Updated:** 2026-04-02 07:16:46 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Air India’s New 787-9 Business Class: Mumbai-Frankfurt Review](https://www.cardexpert.in/air-india-business-class-review-787-9-mumbai-to-frankfurt/)
+#### 1. [Air India Award Redemptions reduced across 90% of routes](https://www.cardexpert.in/air-india-award-redemptions-reduced/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Thu, 02 Apr 2026 05:10:03 +0000  
+
+**📝 Summary:** Air India is upgrading its Maharaja Club from April 1, 2026.
+
+---
+
+#### 2. [Air India’s New 787-9 Business Class: Mumbai-Frankfurt Review](https://www.cardexpert.in/air-india-business-class-review-787-9-mumbai-to-frankfurt/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 19 Mar 2026 15:34:19 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Courtyard Club VIP Lounge inside 080 Lounge at Bangalore Airport Review (T2, Domestic)](https://www.cardexpert.in/courtyard-club-vip-lounge-bangalore-airport-t2-domestic/)
+#### 3. [Courtyard Club VIP Lounge inside 080 Lounge at Bangalore Airport Review (T2, Domestic)](https://www.cardexpert.in/courtyard-club-vip-lounge-bangalore-airport-t2-domestic/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 05 Jan 2026 17:03:00 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Marriott’s new Design Hotel in Pune: Hotel Irada Now Open for Point Redemptions](https://www.cardexpert.in/marriott-design-hotel-irada-pune-point-redemptions-open/)
+#### 4. [Marriott’s new Design Hotel in Pune: Hotel Irada Now Open for Point Redemptions](https://www.cardexpert.in/marriott-design-hotel-irada-pune-point-redemptions-open/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 02 Jan 2026 12:51:53 +0000  
@@ -34,7 +43,7 @@
 
 ---
 
-#### 4. [Signup Offer: Earn 40,000 Avios with IndusInd Avios Credit Card (Until 31st Jan 2026)](https://www.cardexpert.in/indusind-avios-credit-card-signup-offer-jan-2026/)
+#### 5. [Signup Offer: Earn 40,000 Avios with IndusInd Avios Credit Card (Until 31st Jan 2026)](https://www.cardexpert.in/indusind-avios-credit-card-signup-offer-jan-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 02 Jan 2026 05:55:57 +0000  
@@ -43,19 +52,10 @@
 
 ---
 
-#### 5. [Coming soon: Air India Maharaja Club co-branded credit cards](https://www.cardexpert.in/air-india-maharaja-club-credit-cards-coming-soon/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 31 Dec 2025 13:55:59 +0000  
-
-**📝 Summary:** It has been a while since Air India merged with&#160;Vistara, and Air India has been making a sincere effort to establish a fresh brand identity.
-
----
-
 
 ### 💡 Tricks & Tips
 
-#### 1. [The secret to true multibaggers: Somil Mehta’s investing thesis for disciplined trading](https://economictimes.indiatimes.com/wealth/invest/the-secret-to-true-multibaggers-somil-mehtas-investing-thesis-for-disciplined-trading/videoshow/129952498.cms)
+#### 1. [The secret to true multibaggers: Somil Mehta’s investing thesis for disciplined investing](https://economictimes.indiatimes.com/wealth/invest/the-secret-to-true-multibaggers-somil-mehtas-investing-thesis-for-disciplined-trading/videoshow/129952498.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Wed, 01 Apr 2026 18:13:54 +0530  
