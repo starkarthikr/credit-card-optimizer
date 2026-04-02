@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-02 07:16:46 IST
+**Last Updated:** 2026-04-02 13:19:52 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,24 @@
 **📅 Published:** Fri, 02 Jan 2026 05:55:57 +0000  
 
 **📝 Summary:** Update: The offer has been paused as of 8th Jan 2026.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [What is an OCI Card? Check benefits, eligibility, fees &amp; step-by-step application guide](https://economictimes.indiatimes.com/wealth/save/what-is-an-oci-card-check-benefits-eligibility-fees-step-by-step-application-guide/slideshow/129970282.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 02 Apr 2026 12:30:08 +0530  
+**🏦 Bank:** CITI  
+**💳 Card:** OCI Card  
+
+**📝 Summary:** An OCI (Overseas Citizen of India) Card is designed for foreign citizens with Indian roots.
+
+**💡 Optimization Tips:**
+
+- It works like a lifelong, multiple-entry visa that lets you visit, live, and work in India without repeated paperwork
 
 ---
 
