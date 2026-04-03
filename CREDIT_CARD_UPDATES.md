@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-03 07:13:14 IST
+**Last Updated:** 2026-04-03 13:09:19 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Air India Award Redemptions reduced across 90% of routes](https://www.cardexpert.in/air-india-award-redemptions-reduced/)
+#### 1. [Axis Bank Drops Accor, Marriott & Qatar: The Points Game Changes Overnight](https://www.cardexpert.in/axis-bank-drops-accor-marriott-qatar-partners/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 03 Apr 2026 13:05:24 +0000  
+
+**📝 Summary:** Axis Bank Credit Cards have long been loved for their impressive lineup of points transfer partners and Accor was the crown jewel, offering one of the best earn rates in the world.
+
+---
+
+#### 2. [Air India Award Redemptions reduced across 90% of routes](https://www.cardexpert.in/air-india-award-redemptions-reduced/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 02 Apr 2026 05:10:03 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Air India’s New 787-9 Business Class: Mumbai-Frankfurt Review](https://www.cardexpert.in/air-india-business-class-review-787-9-mumbai-to-frankfurt/)
+#### 3. [Air India’s New 787-9 Business Class: Mumbai-Frankfurt Review](https://www.cardexpert.in/air-india-business-class-review-787-9-mumbai-to-frankfurt/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 19 Mar 2026 15:34:19 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Courtyard Club VIP Lounge inside 080 Lounge at Bangalore Airport Review (T2, Domestic)](https://www.cardexpert.in/courtyard-club-vip-lounge-bangalore-airport-t2-domestic/)
+#### 4. [Courtyard Club VIP Lounge inside 080 Lounge at Bangalore Airport Review (T2, Domestic)](https://www.cardexpert.in/courtyard-club-vip-lounge-bangalore-airport-t2-domestic/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 05 Jan 2026 17:03:00 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [Marriott’s new Design Hotel in Pune: Hotel Irada Now Open for Point Redemptions](https://www.cardexpert.in/marriott-design-hotel-irada-pune-point-redemptions-open/)
+#### 5. [Marriott’s new Design Hotel in Pune: Hotel Irada Now Open for Point Redemptions](https://www.cardexpert.in/marriott-design-hotel-irada-pune-point-redemptions-open/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 02 Jan 2026 12:51:53 +0000  
 
 **📝 Summary:** Marriott International has opened a new and noteworthy boutique property focused on wine and wellness in the outskirts of Pune.
-
----
-
-#### 5. [Signup Offer: Earn 40,000 Avios with IndusInd Avios Credit Card (Until 31st Jan 2026)](https://www.cardexpert.in/indusind-avios-credit-card-signup-offer-jan-2026/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 02 Jan 2026 05:55:57 +0000  
-
-**📝 Summary:** Update: The offer has been paused as of 8th Jan 2026.
 
 ---
 
