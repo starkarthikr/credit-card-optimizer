@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-06 07:47:47 IST
+**Last Updated:** 2026-04-06 13:16:39 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Axis Bank Drops Accor, Marriott & Qatar: The Points Game Changes Overnight](https://www.cardexpert.in/axis-bank-drops-accor-marriott-qatar-partners/)
+#### 1. [HDFC Infinia Credit Card Now Requires 18 Lakh Spend to Keep the Card](https://www.cardexpert.in/hdfc-infinia-2026-spend-requirement/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Mon, 06 Apr 2026 08:21:52 +0000  
+
+**📝 Summary:** HDFC Bank has recently announced new minimum requirements for existing Infinia Credit Card cardholders.
+
+---
+
+#### 2. [Axis Bank Drops Accor, Marriott & Qatar: The Points Game Changes Overnight](https://www.cardexpert.in/axis-bank-drops-accor-marriott-qatar-partners/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 03 Apr 2026 13:05:24 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Air India Award Redemptions reduced across 90% of routes](https://www.cardexpert.in/air-india-award-redemptions-reduced/)
+#### 3. [Air India Award Redemptions reduced across 90% of routes](https://www.cardexpert.in/air-india-award-redemptions-reduced/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 02 Apr 2026 05:10:03 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Air India’s New 787-9 Business Class: Mumbai-Frankfurt Review](https://www.cardexpert.in/air-india-business-class-review-787-9-mumbai-to-frankfurt/)
+#### 4. [Air India’s New 787-9 Business Class: Mumbai-Frankfurt Review](https://www.cardexpert.in/air-india-business-class-review-787-9-mumbai-to-frankfurt/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 19 Mar 2026 15:34:19 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [Courtyard Club VIP Lounge inside 080 Lounge at Bangalore Airport Review (T2, Domestic)](https://www.cardexpert.in/courtyard-club-vip-lounge-bangalore-airport-t2-domestic/)
+#### 5. [Courtyard Club VIP Lounge inside 080 Lounge at Bangalore Airport Review (T2, Domestic)](https://www.cardexpert.in/courtyard-club-vip-lounge-bangalore-airport-t2-domestic/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 05 Jan 2026 17:03:00 +0000  
 
 **📝 Summary:** If you frequently travel through&#160;Kempegowda International Airport&#160;Terminal 2 on domestic flights, chances are you are already familiar with the massive&#160;080 Lounge.
-
----
-
-#### 5. [Marriott’s new Design Hotel in Pune: Hotel Irada Now Open for Point Redemptions](https://www.cardexpert.in/marriott-design-hotel-irada-pune-point-redemptions-open/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 02 Jan 2026 12:51:53 +0000  
-
-**📝 Summary:** Marriott International has opened a new and noteworthy boutique property focused on wine and wellness in the outskirts of Pune.
 
 ---
 
