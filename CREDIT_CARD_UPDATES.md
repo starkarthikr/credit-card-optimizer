@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-06 02:44:15 IST
+**Last Updated:** 2026-04-06 07:47:47 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,20 @@
 **📅 Published:** Fri, 02 Jan 2026 12:51:53 +0000  
 
 **📝 Summary:** Marriott International has opened a new and noteworthy boutique property focused on wine and wellness in the outskirts of Pune.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [HDFC Bank revises Regalia Gold, Diners credit card benefits from these dates: Reward points, lounge access and other key rule changes](https://economictimes.indiatimes.com/wealth/spend/hdfc-bank-revises-regalia-gold-diners-credit-card-benefits-from-these-dates-reward-points-lounge-access-and-other-key-rule-changes/articleshow/130054186.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 06 Apr 2026 12:56:39 +0530  
+**🏦 Bank:** HDFC  
+**💳 Card:** credit card  
+
+**📝 Summary:** HDFC Bank is revising its Regalia Gold and Diners Club credit card benefits, including reward structures and lounge access, effective May 15 and July 1, 2026.
 
 ---
 
