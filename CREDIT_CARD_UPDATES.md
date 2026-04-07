@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-07 02:38:26 IST
+**Last Updated:** 2026-04-07 07:21:50 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,20 +49,6 @@
 **📅 Published:** Thu, 19 Mar 2026 15:34:19 +0000  
 
 **📝 Summary:** I recently flew Air India’s latest 787-9 Dreamliner in Business Class on the Mumbai–Frankfurt route, featuring the airline’s all-new bespoke cabin interiors.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [HDFC Bank revises Regalia Gold, Diners credit card benefits from these dates: Reward points, lounge access and other key rule changes](https://economictimes.indiatimes.com/wealth/spend/hdfc-bank-revises-regalia-gold-diners-credit-card-benefits-from-these-dates-reward-points-lounge-access-and-other-key-rule-changes/articleshow/130054186.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 06 Apr 2026 12:56:39 +0530  
-**🏦 Bank:** HDFC  
-**💳 Card:** credit card  
-
-**📝 Summary:** HDFC Bank is revising its Regalia Gold and Diners Club credit card benefits, including reward structures and lounge access, effective May 15 and July 1, 2026.
 
 ---
 
