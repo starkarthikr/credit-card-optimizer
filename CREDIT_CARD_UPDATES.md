@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-09 02:34:06 IST
+**Last Updated:** 2026-04-09 07:26:57 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### ⚠️ Devaluation
 
-#### 1. [New Income Tax Rules 2026: Do you have income from mutual funds, dividends or bank deposit interest? Avoid TDS using this form](https://economictimes.indiatimes.com/wealth/tax/new-income-tax-rules-2026-do-you-have-income-from-mutual-funds-dividends-or-bank-deposit-interest-avoid-tds-using-this-form/slideshow/130106661.cms)
+#### 1. [You reduced your home loan EMI. Here is what it is quietly doing to your credit score](https://economictimes.indiatimes.com/wealth/borrow/you-reduced-your-home-loan-emi-here-is-what-it-is-quietly-doing-to-your-credit-score/slideshow/130130818.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 09 Apr 2026 11:14:34 +0530  
+
+**📝 Summary:** The answer depends on why you are doing it and what happens next.
+
+---
+
+#### 2. [New Income Tax Rules 2026: Do you have income from mutual funds, dividends or bank deposit interest? Avoid TDS using this form](https://economictimes.indiatimes.com/wealth/tax/new-income-tax-rules-2026-do-you-have-income-from-mutual-funds-dividends-or-bank-deposit-interest-avoid-tds-using-this-form/slideshow/130106661.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Wed, 08 Apr 2026 13:15:55 +0530  
