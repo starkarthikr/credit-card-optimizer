@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-09 07:26:57 IST
+**Last Updated:** 2026-04-09 13:46:41 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -13,15 +13,6 @@
 **📅 Published:** Thu, 09 Apr 2026 11:14:34 +0530  
 
 **📝 Summary:** The answer depends on why you are doing it and what happens next.
-
----
-
-#### 2. [New Income Tax Rules 2026: Do you have income from mutual funds, dividends or bank deposit interest? Avoid TDS using this form](https://economictimes.indiatimes.com/wealth/tax/new-income-tax-rules-2026-do-you-have-income-from-mutual-funds-dividends-or-bank-deposit-interest-avoid-tds-using-this-form/slideshow/130106661.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 08 Apr 2026 13:15:55 +0530  
-
-**📝 Summary:** The Income Tax Act, 2025, has come into effect from April 1, 2026, introducing several changes, aimed at streamlining, simplifying tax code with reduced compliance and consolidated provisions.
 
 ---
 
