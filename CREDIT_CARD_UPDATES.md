@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-10 07:45:53 IST
+**Last Updated:** 2026-04-10 13:17:08 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [HDFC Regalia Gold Now Requires Spends for Lounge Access, Introduces Boarding Edge](https://www.cardexpert.in/hdfc-regalia-gold-2026-lounge-access-update/)
+#### 1. [Standard Chartered Spend Offer: Get 1,000 INR Voucher on 10,000 INR Spends [Targeted]](https://www.cardexpert.in/stan-chart-card-spend-offer-march-2026/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 10 Apr 2026 12:05:17 +0000  
+
+**📝 Summary:** Standard Chartered India has rolled out a simple spend-based offer for select credit card holders (inactive cards), giving a flat voucher on minimal spends.
+
+---
+
+#### 2. [HDFC Regalia Gold Now Requires Spends for Lounge Access, Introduces Boarding Edge](https://www.cardexpert.in/hdfc-regalia-gold-2026-lounge-access-update/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 06 Apr 2026 17:00:47 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [HDFC Infinia Credit Card Now Requires 18 Lakh Spend to Keep the Card](https://www.cardexpert.in/hdfc-infinia-2026-spend-requirement/)
+#### 3. [HDFC Infinia Credit Card Now Requires 18 Lakh Spend to Keep the Card](https://www.cardexpert.in/hdfc-infinia-2026-spend-requirement/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 06 Apr 2026 08:21:52 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Axis Bank Drops Accor, Marriott & Qatar: The Points Game Changes Overnight](https://www.cardexpert.in/axis-bank-drops-accor-marriott-qatar-partners/)
+#### 4. [Axis Bank Drops Accor, Marriott & Qatar: The Points Game Changes Overnight](https://www.cardexpert.in/axis-bank-drops-accor-marriott-qatar-partners/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 03 Apr 2026 13:05:24 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [Air India Award Redemptions reduced across 90% of routes](https://www.cardexpert.in/air-india-award-redemptions-reduced/)
+#### 5. [Air India Award Redemptions reduced across 90% of routes](https://www.cardexpert.in/air-india-award-redemptions-reduced/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 02 Apr 2026 05:10:03 +0000  
 
 **📝 Summary:** Air India is upgrading its Maharaja Club from April 1, 2026.
-
----
-
-#### 5. [Air India’s New 787-9 Business Class: Mumbai-Frankfurt Review](https://www.cardexpert.in/air-india-business-class-review-787-9-mumbai-to-frankfurt/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Thu, 19 Mar 2026 15:34:19 +0000  
-
-**📝 Summary:** I recently flew Air India’s latest 787-9 Dreamliner in Business Class on the Mumbai–Frankfurt route, featuring the airline’s all-new bespoke cabin interiors.
 
 ---
 
