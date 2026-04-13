@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-12 18:54:21 IST
+**Last Updated:** 2026-04-13 02:53:53 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Thu, 02 Apr 2026 05:10:03 +0000  
 
 **📝 Summary:** Air India is upgrading its Maharaja Club from April 1, 2026.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [West Asia conflict hits travel insurance: Rising premiums, war-related exclusions, and pre-existing disease risks for senior travellers](https://economictimes.indiatimes.com/wealth/insure/west-asia-conflict-hits-travel-insurance-rising-premiums-war-related-exclusions-and-pre-existing-disease-risks-for-senior-travellers/articleshow/130175622.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 13 Apr 2026 06:30:00 +0530  
+
+**📝 Summary:** Travel insurance faces challenges due to global conflicts and increased flight costs.
 
 ---
 
