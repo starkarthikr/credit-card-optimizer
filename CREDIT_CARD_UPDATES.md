@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-13 08:08:21 IST
+**Last Updated:** 2026-04-13 13:44:27 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Fri, 03 Apr 2026 13:05:24 +0000  
 
 **📝 Summary:** Axis Bank Credit Cards have long been loved for their impressive lineup of points transfer partners and Accor was the crown jewel, offering one of the best earn rates in the world.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [West Asia conflict hits travel insurance: Rising premiums, war-related exclusions, and pre-existing disease risks for senior travellers](https://economictimes.indiatimes.com/wealth/insure/west-asia-conflict-hits-travel-insurance-rising-premiums-war-related-exclusions-and-pre-existing-disease-risks-for-senior-travellers/articleshow/130175622.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 13 Apr 2026 06:30:00 +0530  
-
-**📝 Summary:** Travel insurance faces challenges due to global conflicts and increased flight costs.
 
 ---
 
