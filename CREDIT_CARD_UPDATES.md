@@ -1,55 +1,54 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-18 18:56:05 IST
+**Last Updated:** 2026-04-19 02:54:14 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Akshaya Tritiya Meets Smart Investing: The Rise of Digital Gold](https://economictimes.indiatimes.com/wealth/invest/akshaya-tritiya-meets-smart-investing-the-rise-of-digital-gold/articleshow/130355618.cms)
+#### 1. [20+ Best Credit Cards in India for 2026 [For Beginners to High Spenders]](https://www.cardexpert.in/best-credit-cards-india-2026/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 18 Apr 2026 19:30:59 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Mon, 13 Apr 2026 03:59:01 +0000  
 
-**📝 Summary:** Akshaya Tritiya, a day for prosperity, now embraces digital gold.
-
----
-
-#### 2. [Dubai gold rates today (April 18, 2026): Latest 22K, 24K gold prices at iGold, Dubai Jewellery Group, Malabar Gold &amp; Diamonds, Joyalukkas, Kalyan Jewellers](https://economictimes.indiatimes.com/wealth/invest/dubai-gold-rates-today-april-18-2026-latest-22k-24k-gold-prices-at-igold-dubai-jewellery-group-malabar-gold-diamonds-joyalukkas-kalyan-jewellers/articleshow/130352473.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 18 Apr 2026 16:58:51 +0530  
-
-**📝 Summary:** Gold prices in Dubai remained a key focus on Saturday, April 18, 2026, influenced by global market trends.
+**📝 Summary:** Hunting for the best credit card in India.
 
 ---
 
-#### 3. [DA hike announcement: How salaries of Level 1-18 employees will rise after 2% dearness allowance hike](https://economictimes.indiatimes.com/wealth/save/da-hike-announcement-how-salaries-of-level-1-18-employees-rise-after-2-dearness-allowance-hike/articleshow/130350396.cms)
+#### 2. [Standard Chartered Spend Offer: Get 1,000 INR Voucher on 10,000 INR Spends [Targeted]](https://www.cardexpert.in/stan-chart-card-spend-offer-march-2026/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 18 Apr 2026 14:41:21 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 10 Apr 2026 12:05:17 +0000  
 
-**📝 Summary:** DA hike for central government employees: A 2% hike in DA will take it from its current rate of 58% to 60%.
-
----
-
-#### 4. [Akshaya Tritiya 2026 gold outlook: Which trends are expected to shape gold purchases this Akshaya Tritiya?](https://economictimes.indiatimes.com/wealth/invest/akshaya-tritiya-2026-gold-outlook-which-trends-are-expected-to-shape-gold-purchases-this-akshaya-tritiya/articleshow/130348961.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 18 Apr 2026 14:30:36 +0530  
-
-**📝 Summary:** Gold's strong appeal continues for Akshaya Tritiya 2026.
+**📝 Summary:** Standard Chartered India has rolled out a simple spend-based offer for select credit card holders (inactive cards), giving a flat voucher on minimal spends.
 
 ---
 
-#### 5. [22k gold rate today ahead of Akshaya Tritiya 2026: Check 24k, 22k, 18k gold prices (April 18, 2026) in New Delhi, Mumbai, Chennai and other cities](https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-ahead-of-akshaya-tritiya-check-24k-22k-18k-gold-prices-april-18-2026-in-new-delhi-mumbai-chennai-bengaluru-and-other-cities/articleshow/130348758.cms)
+#### 3. [HDFC Regalia Gold Now Requires Spends for Lounge Access, Introduces Boarding Edge](https://www.cardexpert.in/hdfc-regalia-gold-2026-lounge-access-update/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 18 Apr 2026 12:36:00 +0530  
-**🏦 Bank:** CITI  
+**📡 Source:** Cardexpert  
+**📅 Published:** Mon, 06 Apr 2026 17:00:47 +0000  
 
-**📝 Summary:** Gold rate today: Gold prices saw a rise on Saturday, April 18, 2026, as Akshaya Tritiya approaches on April 19, 2026.
+**📝 Summary:** HDFC Bank recently announced changes to three of its mass market premium credit cards: BizPower, Diners Club Privilege, and most importantly Regalia Gold due to its sheer volume of active credit ca...
+
+---
+
+#### 4. [HDFC Infinia Credit Card Now Requires 18 Lakh Spend to Keep the Card](https://www.cardexpert.in/hdfc-infinia-2026-spend-requirement/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Mon, 06 Apr 2026 08:21:52 +0000  
+
+**📝 Summary:** HDFC Bank has recently announced new minimum requirements for existing Infinia Credit Card cardholders.
+
+---
+
+#### 5. [Axis Bank Drops Accor, Marriott & Qatar: The Points Game Changes Overnight](https://www.cardexpert.in/axis-bank-drops-accor-marriott-qatar-partners/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 03 Apr 2026 13:05:24 +0000  
+
+**📝 Summary:** Axis Bank Credit Cards have long been loved for their impressive lineup of points transfer partners and Accor was the crown jewel, offering one of the best earn rates in the world.
 
 ---
 
