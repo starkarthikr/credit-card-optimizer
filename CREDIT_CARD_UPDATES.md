@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-19 18:55:39 IST
+**Last Updated:** 2026-04-20 02:54:50 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Fri, 03 Apr 2026 13:05:24 +0000  
 
 **📝 Summary:** Axis Bank Credit Cards have long been loved for their impressive lineup of points transfer partners and Accor was the crown jewel, offering one of the best earn rates in the world.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [205% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.05 lakh](https://economictimes.indiatimes.com/wealth/invest/205-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-05-lakh/articleshow/130347763.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 18 Apr 2026 11:14:46 +0530  
-
-**📝 Summary:** Sovereign Gold Bond: The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bond SGB 2020-21 Series-VII.
 
 ---
 
