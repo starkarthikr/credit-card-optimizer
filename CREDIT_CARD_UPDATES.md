@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-21 02:48:20 IST
+**Last Updated:** 2026-04-21 07:55:49 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,28 +53,15 @@
 ---
 
 
-### 💰 Reward Points
-
-#### 1. [SGB premature redemption today; Rs 1 lakh turns Rs 3.05 lakh;  check RBI detail](https://economictimes.indiatimes.com/wealth/invest/sgb-premature-redemption-today-rs-1-lakh-turns-rs-3-05-lakh-check-rbi-detail/slideshow/130386186.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 20 Apr 2026 13:17:42 +0530  
-
-**📝 Summary:** The Reserve Bank of India (RBI) has announced the premature redemption price for the Sovereign Gold Bond SGB 2020-21 Series-VII, issued on October 20, 2020.
-
-**🔄 Redemption:** According to a Central Bank statement, investors will be able to redeem this SGB tranche prematurely beginning April 20, 2026
-
----
-
-
 ### ✈️ Travel Benefits
 
-#### 1. [Is tax clearance mandatory before foreign travel? What the Income-Tax Act, 2025 says](https://economictimes.indiatimes.com/wealth/tax/is-tax-clearance-mandatory-before-foreign-travel-what-the-income-tax-act-2025-says/articleshow/130384192.cms)
+#### 1. [Updated Indian Railways rules for Divyangjan: PwDs with UDID cards can travel in these unreserved coaches](https://economictimes.indiatimes.com/wealth/save/updated-indian-railways-rules-for-divyangjan-pwds-with-udid-cards-can-travel-in-these-unreserved-coaches/articleshow/130410572.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 20 Apr 2026 11:54:50 +0530  
+**📅 Published:** Tue, 21 Apr 2026 12:47:30 +0530  
+**💳 Card:** UDID card  
 
-**📝 Summary:** The introduction of Form 157 and Form 159 under the Income-Tax Rules, 2026 has sparked confusion over whether tax clearance is now mandatory for all Indians travelling abroad.
+**📝 Summary:** Indian Railways has permitted Persons with Disabilities (PwDs) holding valid UDID cards to travel in unreserved Divyangjan coaches on mail/express trains.
 
 ---
 
