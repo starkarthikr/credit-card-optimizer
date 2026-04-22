@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-22 02:46:56 IST
+**Last Updated:** 2026-04-22 07:52:22 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -19,7 +19,16 @@
 
 ### 📰 General Updates
 
-#### 1. [BOBCard Etihad Guest Premium Credit Card Review](https://www.cardexpert.in/bobcard-etihad-guest-premium-credit-card-review/)
+#### 1. [50% Off at Starbucks with IndusInd Bank Visa Credit Cards](https://www.cardexpert.in/starbucks-indusind-visa-credit-card-offer/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 22 Apr 2026 05:24:11 +0000  
+
+**📝 Summary:** Coffee tastes better when it comes with a discount.
+
+---
+
+#### 2. [BOBCard Etihad Guest Premium Credit Card Review](https://www.cardexpert.in/bobcard-etihad-guest-premium-credit-card-review/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Tue, 21 Apr 2026 12:03:56 +0000  
@@ -28,7 +37,7 @@
 
 ---
 
-#### 2. [20+ Best Credit Cards in India for 2026 [For Beginners to High Spenders]](https://www.cardexpert.in/best-credit-cards-india-2026/)
+#### 3. [20+ Best Credit Cards in India for 2026 [For Beginners to High Spenders]](https://www.cardexpert.in/best-credit-cards-india-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 13 Apr 2026 03:59:01 +0000  
@@ -37,7 +46,7 @@
 
 ---
 
-#### 3. [Standard Chartered Spend Offer: Get 1,000 INR Voucher on 10,000 INR Spends [Targeted]](https://www.cardexpert.in/stan-chart-card-spend-offer-march-2026/)
+#### 4. [Standard Chartered Spend Offer: Get 1,000 INR Voucher on 10,000 INR Spends [Targeted]](https://www.cardexpert.in/stan-chart-card-spend-offer-march-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 10 Apr 2026 12:05:17 +0000  
@@ -46,7 +55,7 @@
 
 ---
 
-#### 4. [HDFC Regalia Gold Now Requires Spends for Lounge Access, Introduces Boarding Edge](https://www.cardexpert.in/hdfc-regalia-gold-2026-lounge-access-update/)
+#### 5. [HDFC Regalia Gold Now Requires Spends for Lounge Access, Introduces Boarding Edge](https://www.cardexpert.in/hdfc-regalia-gold-2026-lounge-access-update/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 06 Apr 2026 17:00:47 +0000  
@@ -55,12 +64,16 @@
 
 ---
 
-#### 5. [HDFC Infinia Credit Card Now Requires 18 Lakh Spend to Keep the Card](https://www.cardexpert.in/hdfc-infinia-2026-spend-requirement/)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Mon, 06 Apr 2026 08:21:52 +0000  
+### 💰 Reward Points
 
-**📝 Summary:** HDFC Bank has recently announced new minimum requirements for existing Infinia Credit Card cardholders.
+#### 1. [Looking for cashback and rewards? These 5 credit cards suit frequent buyers](https://economictimes.indiatimes.com/wealth/spend/looking-for-cashback-and-rewards-these-credit-cards-suit-frequent-buyers/articleshow/130373767.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 22 Apr 2026 11:00:00 +0530  
+**💳 Card:** These 5 credit card  
+
+**📝 Summary:** Regular shoppers can significantly boost savings with the right credit card, earning cashback, reward points, and discounts on various platforms.
 
 ---
 
@@ -74,16 +87,6 @@
 **💳 Card:** travel card  
 
 **📝 Summary:** Chennai Metro Rail Corporation is phasing out its CMRL travel card.
-
----
-
-#### 2. [Updated Indian Railways rules for Divyangjan: PwDs with UDID cards can travel in these unreserved coaches](https://economictimes.indiatimes.com/wealth/save/updated-indian-railways-rules-for-divyangjan-pwds-with-udid-cards-can-travel-in-these-unreserved-coaches/articleshow/130410572.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 21 Apr 2026 12:47:30 +0530  
-**💳 Card:** UDID card  
-
-**📝 Summary:** Indian Railways has permitted Persons with Disabilities (PwDs) holding valid UDID cards to travel in unreserved Divyangjan coaches on mail/express trains.
 
 ---
 
