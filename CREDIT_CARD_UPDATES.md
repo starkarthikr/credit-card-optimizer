@@ -1,25 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-22 07:52:22 IST
+**Last Updated:** 2026-04-22 13:46:46 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
-### ⚠️ Devaluation
+### 📰 General Updates
 
-#### 1. [8th Pay Commission NC-JCM demands: 10 demands NC-JCM has raised for pensioners](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-nc-jcm-demands-10-demands-nc-jcm-has-raised-for-pensioners/slideshow/130416004.cms)
+#### 1. [Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends](https://www.cardexpert.in/visa-power-travel-offer-april-2026/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 21 Apr 2026 16:43:43 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 22 Apr 2026 08:33:35 +0000  
 
-**📝 Summary:** The drafting committee of National Council-Joint Consultative Machinery (Staff side) NC-JCM has submitted a 51-page common memorandum to the 8th Pay Commission, outlining demands of central governm...
+**📝 Summary:** Planning an international trip this year.
 
 ---
 
-
-### 📰 General Updates
-
-#### 1. [50% Off at Starbucks with IndusInd Bank Visa Credit Cards](https://www.cardexpert.in/starbucks-indusind-visa-credit-card-offer/)
+#### 2. [50% Off at Starbucks with IndusInd Bank Visa Credit Cards](https://www.cardexpert.in/starbucks-indusind-visa-credit-card-offer/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 22 Apr 2026 05:24:11 +0000  
@@ -28,7 +25,7 @@
 
 ---
 
-#### 2. [BOBCard Etihad Guest Premium Credit Card Review](https://www.cardexpert.in/bobcard-etihad-guest-premium-credit-card-review/)
+#### 3. [BOBCard Etihad Guest Premium Credit Card Review](https://www.cardexpert.in/bobcard-etihad-guest-premium-credit-card-review/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Tue, 21 Apr 2026 12:03:56 +0000  
@@ -37,7 +34,7 @@
 
 ---
 
-#### 3. [20+ Best Credit Cards in India for 2026 [For Beginners to High Spenders]](https://www.cardexpert.in/best-credit-cards-india-2026/)
+#### 4. [20+ Best Credit Cards in India for 2026 [For Beginners to High Spenders]](https://www.cardexpert.in/best-credit-cards-india-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 13 Apr 2026 03:59:01 +0000  
@@ -46,21 +43,12 @@
 
 ---
 
-#### 4. [Standard Chartered Spend Offer: Get 1,000 INR Voucher on 10,000 INR Spends [Targeted]](https://www.cardexpert.in/stan-chart-card-spend-offer-march-2026/)
+#### 5. [Standard Chartered Spend Offer: Get 1,000 INR Voucher on 10,000 INR Spends [Targeted]](https://www.cardexpert.in/stan-chart-card-spend-offer-march-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 10 Apr 2026 12:05:17 +0000  
 
 **📝 Summary:** Standard Chartered India has rolled out a simple spend-based offer for select credit card holders (inactive cards), giving a flat voucher on minimal spends.
-
----
-
-#### 5. [HDFC Regalia Gold Now Requires Spends for Lounge Access, Introduces Boarding Edge](https://www.cardexpert.in/hdfc-regalia-gold-2026-lounge-access-update/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Mon, 06 Apr 2026 17:00:47 +0000  
-
-**📝 Summary:** HDFC Bank recently announced changes to three of its mass market premium credit cards: BizPower, Diners Club Privilege, and most importantly Regalia Gold due to its sheer volume of active credit ca...
 
 ---
 
@@ -74,19 +62,6 @@
 **💳 Card:** These 5 credit card  
 
 **📝 Summary:** Regular shoppers can significantly boost savings with the right credit card, earning cashback, reward points, and discounts on various platforms.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Chennai metro discontinues CMRL travel card and urges users to switch to Singara Chennai Card; Know what happens to your money](https://economictimes.indiatimes.com/wealth/save/chennai-metro-discontinues-cmrl-travel-card-and-urges-users-to-switch-to-singara-chennai-card-know-what-happens-to-your-money/articleshow/130416227.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 21 Apr 2026 16:59:39 +0530  
-**💳 Card:** travel card  
-
-**📝 Summary:** Chennai Metro Rail Corporation is phasing out its CMRL travel card.
 
 ---
 
