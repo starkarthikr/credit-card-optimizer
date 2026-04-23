@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-23 07:58:45 IST
+**Last Updated:** 2026-04-23 13:49:39 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,14 +53,15 @@
 ---
 
 
-### 💰 Reward Points
+### ✈️ Travel Benefits
 
-#### 1. [392% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.92 lakh](https://economictimes.indiatimes.com/wealth/invest/392-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-92-lakh/articleshow/130457244.cms)
+#### 1. [Lifetime free travel credit card offer for Eterna extended by BOBCARD till June 30, 2026; Here’s what it offers](https://economictimes.indiatimes.com/wealth/spend/lifetime-free-travel-credit-card-offer-for-eterna-extended-by-bobcard-till-june-30-2026-heres-what-it-offers/articleshow/130467540.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 23 Apr 2026 10:24:17 +0530  
+**📅 Published:** Thu, 23 Apr 2026 17:25:47 +0530  
+**💳 Card:** free travel credit card  
 
-**📝 Summary:** The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond SGB 2018-19 Series-II, set at Rs 15,219 per unit.
+**📝 Summary:** BOBCARD has extended its lifetime free offer on the ETERNA travel credit card until June 30, 2026, for new customers.
 
 ---
 
