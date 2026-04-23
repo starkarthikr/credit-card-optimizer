@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-23 02:49:49 IST
+**Last Updated:** 2026-04-23 07:58:45 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Fri, 10 Apr 2026 12:05:17 +0000  
 
 **📝 Summary:** Standard Chartered India has rolled out a simple spend-based offer for select credit card holders (inactive cards), giving a flat voucher on minimal spends.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [392% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.92 lakh](https://economictimes.indiatimes.com/wealth/invest/392-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-92-lakh/articleshow/130457244.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 23 Apr 2026 10:24:17 +0530  
+
+**📝 Summary:** The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond SGB 2018-19 Series-II, set at Rs 15,219 per unit.
 
 ---
 
