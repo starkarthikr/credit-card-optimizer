@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-22 19:17:25 IST
+**Last Updated:** 2026-04-23 02:49:49 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,19 +49,6 @@
 **📅 Published:** Fri, 10 Apr 2026 12:05:17 +0000  
 
 **📝 Summary:** Standard Chartered India has rolled out a simple spend-based offer for select credit card holders (inactive cards), giving a flat voucher on minimal spends.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Looking for cashback and rewards? These 5 credit cards suit frequent buyers](https://economictimes.indiatimes.com/wealth/spend/looking-for-cashback-and-rewards-these-credit-cards-suit-frequent-buyers/articleshow/130373767.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 22 Apr 2026 11:00:00 +0530  
-**💳 Card:** These 5 credit card  
-
-**📝 Summary:** Regular shoppers can significantly boost savings with the right credit card, earning cashback, reward points, and discounts on various platforms.
 
 ---
 
