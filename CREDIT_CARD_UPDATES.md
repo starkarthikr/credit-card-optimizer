@@ -1,63 +1,70 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-24 02:51:15 IST
+**Last Updated:** 2026-04-24 08:08:03 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Meal card reporting when filing ITR: How to do it correctly and claim tax benefits under both the old and new tax regimes](https://economictimes.indiatimes.com/wealth/tax/meal-card-reporting-when-filing-itr-how-to-do-it-correctly-and-claim-tax-benefits-under-both-the-old-and-new-tax-regimes/articleshow/130468214.cms)
+#### 1. [Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data](https://www.cardexpert.in/visa-offer-travelgoogoo-esim-with-data/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 24 Apr 2026 07:01:00 +0530  
-**💳 Card:** Meal card  
+**📡 Source:** Cardexpert  
+**📅 Published:** Thu, 23 Apr 2026 17:43:13 +0000  
 
-**📝 Summary:** Salaried employees can now claim meal card tax benefits under both old and new tax regimes from Tax Year 2026-27.
-
----
-
-#### 2. [₹5,000 monthly pension: How Atal Pension Yojana scheme works and key benefits explained](https://economictimes.indiatimes.com/wealth/save/5000-monthly-pension-how-atal-pension-yojana-scheme-works-and-key-benefits-explained/slideshow/130467345.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 23 Apr 2026 17:14:20 +0530  
-**🏦 Bank:** AU  
-
-**📝 Summary:** Atal Pension Yojana (APY), a flagship social security scheme of the central government, has crossed 9 crore total enrolments as of April 21, 2026.
+**📝 Summary:** Credit card update: Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data
 
 ---
 
-#### 3. [Hyderabad gold rate today 24k, 22k: Latest prices on Krishna Jewellers, Khazana Jewellery, IBJA on April 23, 2026](https://economictimes.indiatimes.com/wealth/invest/hyderabad-gold-rate-today-24k-22k-latest-prices-on-krishna-jewellers-khazana-jewellery-on-april-23-2026/articleshow/130465880.cms)
+#### 2. [Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends](https://www.cardexpert.in/visa-power-travel-offer-april-2026/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 23 Apr 2026 16:40:54 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 22 Apr 2026 08:33:35 +0000  
 
-**📝 Summary:** Hyderabad gold rate today 24k, 22k: As per the latest trends in the city, the price of 24 karat gold was between Rs 15,240-15815 per gram levels while 22 karat gold was largely priced between Rs 14...
-
----
-
-#### 4. [From Rs 2 crore retirement corpus, how much monthly income can you withdraw in retirement?](https://economictimes.indiatimes.com/wealth/invest/from-rs-2-crore-retirement-corpus-how-much-monthly-income-can-you-withdraw-in-retirement/articleshow/130464472.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 23 Apr 2026 15:53:05 +0530  
-
-**📝 Summary:** Retiring with a Rs 2 crore corpus requires careful planning for monthly income.
+**📝 Summary:** Planning an international trip this year.
 
 ---
 
-#### 5. [Higher EPS Pension: EPFO can’t use the excuse of employer’s deficient system of recordkeeping as a ground to deny higher pension to employees, rules Bombay HC](https://economictimes.indiatimes.com/wealth/legal/will/higher-eps-pension-epfo-cant-use-the-excuse-of-employers-deficient-system-of-recordkeeping-as-a-ground-to-deny-higher-pension-to-employees-rules-bombay-hc/articleshow/130464158.cms)
+#### 3. [50% Off at Starbucks with IndusInd Bank Visa Credit Cards](https://www.cardexpert.in/starbucks-indusind-visa-credit-card-offer/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 23 Apr 2026 15:48:34 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 22 Apr 2026 05:24:11 +0000  
 
-**📝 Summary:** Bombay High Court ruled in favour of six employees seeking higher pensions.
+**📝 Summary:** Coffee tastes better when it comes with a discount.
+
+---
+
+#### 4. [BOBCard Etihad Guest Premium Credit Card Review](https://www.cardexpert.in/bobcard-etihad-guest-premium-credit-card-review/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Tue, 21 Apr 2026 12:03:56 +0000  
+
+**📝 Summary:** BOBCARD has finally entered the airline co-brand space with the launch of two Etihad Guest Credit Cards.
+
+---
+
+#### 5. [20+ Best Credit Cards in India for 2026 [For Beginners to High Spenders]](https://www.cardexpert.in/best-credit-cards-india-2026/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Mon, 13 Apr 2026 03:59:01 +0000  
+
+**📝 Summary:** Hunting for the best credit card in India.
 
 ---
 
 
 ### ✈️ Travel Benefits
 
-#### 1. [Lifetime free travel credit card offer for Eterna extended by BOBCARD till June 30, 2026; Here’s what it offers](https://economictimes.indiatimes.com/wealth/spend/lifetime-free-travel-credit-card-offer-for-eterna-extended-by-bobcard-till-june-30-2026-heres-what-it-offers/articleshow/130467540.cms)
+#### 1. [Can you travel abroad without Income-tax clearance? What the law Says](https://economictimes.indiatimes.com/wealth/tax/can-you-travel-abroad-without-income-tax-clearance-what-the-law-says/slideshow/130487238.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 24 Apr 2026 13:03:11 +0530  
+
+**📝 Summary:** Many travellers believe that an Income-Tax Clearance Certificate (ITCC) is now compulsory before going abroad.
+
+---
+
+#### 2. [Lifetime free travel credit card offer for Eterna extended by BOBCARD till June 30, 2026; Here’s what it offers](https://economictimes.indiatimes.com/wealth/spend/lifetime-free-travel-credit-card-offer-for-eterna-extended-by-bobcard-till-june-30-2026-heres-what-it-offers/articleshow/130467540.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Thu, 23 Apr 2026 17:25:47 +0530  
