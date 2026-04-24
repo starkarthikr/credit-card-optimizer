@@ -1,54 +1,56 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-23 19:14:29 IST
+**Last Updated:** 2026-04-24 02:51:15 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data](https://www.cardexpert.in/visa-offer-travelgoogoo-esim-with-data/)
+#### 1. [Meal card reporting when filing ITR: How to do it correctly and claim tax benefits under both the old and new tax regimes](https://economictimes.indiatimes.com/wealth/tax/meal-card-reporting-when-filing-itr-how-to-do-it-correctly-and-claim-tax-benefits-under-both-the-old-and-new-tax-regimes/articleshow/130468214.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Thu, 23 Apr 2026 17:43:13 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 24 Apr 2026 07:01:00 +0530  
+**💳 Card:** Meal card  
 
-**📝 Summary:** Credit card update: Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data
-
----
-
-#### 2. [Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends](https://www.cardexpert.in/visa-power-travel-offer-april-2026/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 22 Apr 2026 08:33:35 +0000  
-
-**📝 Summary:** Planning an international trip this year.
+**📝 Summary:** Salaried employees can now claim meal card tax benefits under both old and new tax regimes from Tax Year 2026-27.
 
 ---
 
-#### 3. [50% Off at Starbucks with IndusInd Bank Visa Credit Cards](https://www.cardexpert.in/starbucks-indusind-visa-credit-card-offer/)
+#### 2. [₹5,000 monthly pension: How Atal Pension Yojana scheme works and key benefits explained](https://economictimes.indiatimes.com/wealth/save/5000-monthly-pension-how-atal-pension-yojana-scheme-works-and-key-benefits-explained/slideshow/130467345.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 22 Apr 2026 05:24:11 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 23 Apr 2026 17:14:20 +0530  
+**🏦 Bank:** AU  
 
-**📝 Summary:** Coffee tastes better when it comes with a discount.
-
----
-
-#### 4. [BOBCard Etihad Guest Premium Credit Card Review](https://www.cardexpert.in/bobcard-etihad-guest-premium-credit-card-review/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Tue, 21 Apr 2026 12:03:56 +0000  
-
-**📝 Summary:** BOBCARD has finally entered the airline co-brand space with the launch of two Etihad Guest Credit Cards.
+**📝 Summary:** Atal Pension Yojana (APY), a flagship social security scheme of the central government, has crossed 9 crore total enrolments as of April 21, 2026.
 
 ---
 
-#### 5. [20+ Best Credit Cards in India for 2026 [For Beginners to High Spenders]](https://www.cardexpert.in/best-credit-cards-india-2026/)
+#### 3. [Hyderabad gold rate today 24k, 22k: Latest prices on Krishna Jewellers, Khazana Jewellery, IBJA on April 23, 2026](https://economictimes.indiatimes.com/wealth/invest/hyderabad-gold-rate-today-24k-22k-latest-prices-on-krishna-jewellers-khazana-jewellery-on-april-23-2026/articleshow/130465880.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Mon, 13 Apr 2026 03:59:01 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 23 Apr 2026 16:40:54 +0530  
 
-**📝 Summary:** Hunting for the best credit card in India.
+**📝 Summary:** Hyderabad gold rate today 24k, 22k: As per the latest trends in the city, the price of 24 karat gold was between Rs 15,240-15815 per gram levels while 22 karat gold was largely priced between Rs 14...
+
+---
+
+#### 4. [From Rs 2 crore retirement corpus, how much monthly income can you withdraw in retirement?](https://economictimes.indiatimes.com/wealth/invest/from-rs-2-crore-retirement-corpus-how-much-monthly-income-can-you-withdraw-in-retirement/articleshow/130464472.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 23 Apr 2026 15:53:05 +0530  
+
+**📝 Summary:** Retiring with a Rs 2 crore corpus requires careful planning for monthly income.
+
+---
+
+#### 5. [Higher EPS Pension: EPFO can’t use the excuse of employer’s deficient system of recordkeeping as a ground to deny higher pension to employees, rules Bombay HC](https://economictimes.indiatimes.com/wealth/legal/will/higher-eps-pension-epfo-cant-use-the-excuse-of-employers-deficient-system-of-recordkeeping-as-a-ground-to-deny-higher-pension-to-employees-rules-bombay-hc/articleshow/130464158.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 23 Apr 2026 15:48:34 +0530  
+
+**📝 Summary:** Bombay High Court ruled in favour of six employees seeking higher pensions.
 
 ---
 
