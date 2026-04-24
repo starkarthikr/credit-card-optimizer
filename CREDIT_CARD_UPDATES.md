@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-24 08:08:03 IST
+**Last Updated:** 2026-04-24 13:40:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,22 +55,12 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Can you travel abroad without Income-tax clearance? What the law Says](https://economictimes.indiatimes.com/wealth/tax/can-you-travel-abroad-without-income-tax-clearance-what-the-law-says/slideshow/130487238.cms)
+#### 1. [Can you travel abroad without Income-tax clearance? What the law says](https://economictimes.indiatimes.com/wealth/tax/can-you-travel-abroad-without-income-tax-clearance-what-the-law-says/slideshow/130487238.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 24 Apr 2026 13:03:11 +0530  
 
 **📝 Summary:** Many travellers believe that an Income-Tax Clearance Certificate (ITCC) is now compulsory before going abroad.
-
----
-
-#### 2. [Lifetime free travel credit card offer for Eterna extended by BOBCARD till June 30, 2026; Here’s what it offers](https://economictimes.indiatimes.com/wealth/spend/lifetime-free-travel-credit-card-offer-for-eterna-extended-by-bobcard-till-june-30-2026-heres-what-it-offers/articleshow/130467540.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 23 Apr 2026 17:25:47 +0530  
-**💳 Card:** free travel credit card  
-
-**📝 Summary:** BOBCARD has extended its lifetime free offer on the ETERNA travel credit card until June 30, 2026, for new customers.
 
 ---
 
