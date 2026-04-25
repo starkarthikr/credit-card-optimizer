@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-25 02:39:29 IST
+**Last Updated:** 2026-04-25 07:21:34 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Mon, 13 Apr 2026 03:59:01 +0000  
 
 **📝 Summary:** Hunting for the best credit card in India.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Can you travel abroad without Income-tax clearance? What the law says](https://economictimes.indiatimes.com/wealth/tax/can-you-travel-abroad-without-income-tax-clearance-what-the-law-says/slideshow/130487238.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 24 Apr 2026 13:03:11 +0530  
-
-**📝 Summary:** Many travellers believe that an Income-Tax Clearance Certificate (ITCC) is now compulsory before going abroad.
 
 ---
 
