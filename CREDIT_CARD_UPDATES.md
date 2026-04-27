@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-27 03:21:03 IST
+**Last Updated:** 2026-04-27 08:29:48 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,20 @@
 **📅 Published:** Mon, 13 Apr 2026 03:59:01 +0000  
 
 **📝 Summary:** Hunting for the best credit card in India.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules](https://economictimes.indiatimes.com/wealth/spend/hdfc-regalia-gold-credit-card-new-rules-from-may-15-2026-updated-reward-points-dcc-fee-and-travel-perk-rules/slideshow/130546173.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 27 Apr 2026 11:53:38 +0530  
+**🏦 Bank:** HDFC  
+**💳 Card:** Regalia Gold credit card  
+
+**📝 Summary:** HDFC Bank has announced several updates to its Regalia Gold credit card reward structure and travel benefits.
 
 ---
 
