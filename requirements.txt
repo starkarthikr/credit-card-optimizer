@@ -20,5 +20,5 @@ pandas>=2.2.0
 # Transitive dependencies - Security updates
 urllib3>=2.2.0  # CVE-2024-37891 fixed
 certifi>=2024.2.2  # Updated certificate bundle
-charset-normalizer>=3.3.0  # Security improvements
+charset-normalizer>=3.4.7  # Security improvements
 idna>=3.6  # Security patches
