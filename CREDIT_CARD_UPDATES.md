@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-26 18:58:49 IST
+**Last Updated:** 2026-04-27 03:21:03 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Mon, 13 Apr 2026 03:59:01 +0000  
 
 **📝 Summary:** Hunting for the best credit card in India.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [International travel insurance: How to choose right cover with adequate medical protection, add-ons and claims support](https://economictimes.indiatimes.com/wealth/insure/international-travel-insurance-how-to-choose-right-cover-with-adequate-medical-protection-add-ons-and-claims-support/articleshow/130499747.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 27 Apr 2026 06:30:00 +0530  
+
+**📝 Summary:** Medical coverage, duration and geography, add-ons, and claims experience are some aspects one must keep in mind before selecting the international travel insurance provider.
 
 ---
 
