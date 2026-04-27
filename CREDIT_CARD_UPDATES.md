@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-27 13:59:58 IST
+**Last Updated:** 2026-04-27 19:26:49 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Best BOBCard Credit Cards in India](https://www.cardexpert.in/best-bob-credit-cards-india/)
+#### 1. [Air Canada Aeroplan Award Chart Changes (June 2026): What Goes Up, What Survives](https://www.cardexpert.in/air-canada-aeroplan-points-requirement-changes-june-2026/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Mon, 27 Apr 2026 14:53:12 +0000  
+
+**📝 Summary:** Air Canada&#8217;s Aeroplan is one of my favourite loyalty programs in the world, mainly for 3 reasons: one for their amazing set of partners and connections, two for affordable points requirement,...
+
+---
+
+#### 2. [Best BOBCard Credit Cards in India](https://www.cardexpert.in/best-bob-credit-cards-india/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 27 Apr 2026 09:06:10 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data](https://www.cardexpert.in/visa-offer-travelgoogoo-esim-with-data/)
+#### 3. [Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data](https://www.cardexpert.in/visa-offer-travelgoogoo-esim-with-data/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 23 Apr 2026 17:43:13 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends](https://www.cardexpert.in/visa-power-travel-offer-april-2026/)
+#### 4. [Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends](https://www.cardexpert.in/visa-power-travel-offer-april-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 22 Apr 2026 08:33:35 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [50% Off at Starbucks with IndusInd Bank Visa Credit Cards](https://www.cardexpert.in/starbucks-indusind-visa-credit-card-offer/)
+#### 5. [50% Off at Starbucks with IndusInd Bank Visa Credit Cards](https://www.cardexpert.in/starbucks-indusind-visa-credit-card-offer/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 22 Apr 2026 05:24:11 +0000  
 
 **📝 Summary:** Coffee tastes better when it comes with a discount.
-
----
-
-#### 5. [BOBCard Etihad Guest Premium Credit Card Review](https://www.cardexpert.in/bobcard-etihad-guest-premium-credit-card-review/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Tue, 21 Apr 2026 12:03:56 +0000  
-
-**📝 Summary:** BOBCARD has finally entered the airline co-brand space with the launch of two Etihad Guest Credit Cards.
 
 ---
 
