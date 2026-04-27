@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-27 08:29:48 IST
+**Last Updated:** 2026-04-27 13:59:58 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data](https://www.cardexpert.in/visa-offer-travelgoogoo-esim-with-data/)
+#### 1. [Best BOBCard Credit Cards in India](https://www.cardexpert.in/best-bob-credit-cards-india/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Mon, 27 Apr 2026 09:06:10 +0000  
+
+**📝 Summary:** BOBCARD, the credit card arm of Bank of Baroda, is the&#160;2nd largest public sector bank&#160;in credit card issuance and the&#160;8th largest among all banks&#160;in India, as of writing this ar...
+
+---
+
+#### 2. [Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data](https://www.cardexpert.in/visa-offer-travelgoogoo-esim-with-data/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 23 Apr 2026 17:43:13 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends](https://www.cardexpert.in/visa-power-travel-offer-april-2026/)
+#### 3. [Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends](https://www.cardexpert.in/visa-power-travel-offer-april-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 22 Apr 2026 08:33:35 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [50% Off at Starbucks with IndusInd Bank Visa Credit Cards](https://www.cardexpert.in/starbucks-indusind-visa-credit-card-offer/)
+#### 4. [50% Off at Starbucks with IndusInd Bank Visa Credit Cards](https://www.cardexpert.in/starbucks-indusind-visa-credit-card-offer/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 22 Apr 2026 05:24:11 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [BOBCard Etihad Guest Premium Credit Card Review](https://www.cardexpert.in/bobcard-etihad-guest-premium-credit-card-review/)
+#### 5. [BOBCard Etihad Guest Premium Credit Card Review](https://www.cardexpert.in/bobcard-etihad-guest-premium-credit-card-review/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Tue, 21 Apr 2026 12:03:56 +0000  
 
 **📝 Summary:** BOBCARD has finally entered the airline co-brand space with the launch of two Etihad Guest Credit Cards.
-
----
-
-#### 5. [20+ Best Credit Cards in India for 2026 [For Beginners to High Spenders]](https://www.cardexpert.in/best-credit-cards-india-2026/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Mon, 13 Apr 2026 03:59:01 +0000  
-
-**📝 Summary:** Hunting for the best credit card in India.
 
 ---
 
@@ -69,12 +69,12 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [International travel insurance: How to choose right cover with adequate medical protection, add-ons and claims support](https://economictimes.indiatimes.com/wealth/insure/international-travel-insurance-how-to-choose-right-cover-with-adequate-medical-protection-add-ons-and-claims-support/articleshow/130499747.cms)
+#### 1. [EY, FICCI urge govt to reduce GST rate to 9% on hotel rooms priced above Rs 7,500 per night](https://economictimes.indiatimes.com/wealth/tax/ey-ficci-urge-govt-to-reduce-gst-rate-to-9-on-hotel-rooms-priced-above-rs-7500-per-night/articleshow/130551747.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 27 Apr 2026 06:30:00 +0530  
+**📅 Published:** Mon, 27 Apr 2026 16:23:08 +0530  
 
-**📝 Summary:** Medical coverage, duration and geography, add-ons, and claims experience are some aspects one must keep in mind before selecting the international travel insurance provider.
+**📝 Summary:** A joint report by EY and FICCI suggests lowering the GST on luxury hotel rooms to 9%.
 
 ---
 
