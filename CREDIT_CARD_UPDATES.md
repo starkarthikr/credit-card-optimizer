@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-28 14:13:12 IST
+**Last Updated:** 2026-04-28 19:44:32 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Air Canada Aeroplan Award Chart Changes (June 2026): What Goes Up, What Survives](https://www.cardexpert.in/air-canada-aeroplan-points-requirement-changes-june-2026/)
+#### 1. [Equitas Bank Selfe Credit Card Review](https://www.cardexpert.in/equitas-selfe-credit-card-review/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
+
+**📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
+
+---
+
+#### 2. [Air Canada Aeroplan Award Chart Changes (June 2026): What Goes Up, What Survives](https://www.cardexpert.in/air-canada-aeroplan-points-requirement-changes-june-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 27 Apr 2026 14:53:12 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Best BOBCard Credit Cards in India](https://www.cardexpert.in/best-bob-credit-cards-india/)
+#### 3. [Best BOBCard Credit Cards in India](https://www.cardexpert.in/best-bob-credit-cards-india/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 27 Apr 2026 09:06:10 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data](https://www.cardexpert.in/visa-offer-travelgoogoo-esim-with-data/)
+#### 4. [Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data](https://www.cardexpert.in/visa-offer-travelgoogoo-esim-with-data/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 23 Apr 2026 17:43:13 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends](https://www.cardexpert.in/visa-power-travel-offer-april-2026/)
+#### 5. [Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends](https://www.cardexpert.in/visa-power-travel-offer-april-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 22 Apr 2026 08:33:35 +0000  
 
 **📝 Summary:** Planning an international trip this year.
-
----
-
-#### 5. [50% Off at Starbucks with IndusInd Bank Visa Credit Cards](https://www.cardexpert.in/starbucks-indusind-visa-credit-card-offer/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 22 Apr 2026 05:24:11 +0000  
-
-**📝 Summary:** Coffee tastes better when it comes with a discount.
 
 ---
 
