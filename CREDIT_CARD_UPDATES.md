@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-28 03:27:55 IST
+**Last Updated:** 2026-04-28 08:29:41 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,14 +55,12 @@
 
 ### 💰 Reward Points
 
-#### 1. [HDFC Regalia Gold credit card new rules from May 15, 2026: Updated reward points, DCC fee and travel perk rules](https://economictimes.indiatimes.com/wealth/spend/hdfc-regalia-gold-credit-card-new-rules-from-may-15-2026-updated-reward-points-dcc-fee-and-travel-perk-rules/slideshow/130546173.cms)
+#### 1. [230% return on SGB premature redemption date: This gold bond has turned Rs 1 lakh investment into Rs 3.30 lakh](https://economictimes.indiatimes.com/wealth/invest/230-return-on-sgb-premature-redemption-date-this-gold-bond-has-turned-rs-1-lakh-investment-into-rs-3-30-lakh/articleshow/130567451.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 27 Apr 2026 11:53:38 +0530  
-**🏦 Bank:** HDFC  
-**💳 Card:** Regalia Gold credit card  
+**📅 Published:** Tue, 28 Apr 2026 10:16:35 +0530  
 
-**📝 Summary:** HDFC Bank has announced several updates to its Regalia Gold credit card reward structure and travel benefits.
+**📝 Summary:** The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bond SGB 2020-21 Series-I.
 
 ---
 
