@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-29 03:26:16 IST
+**Last Updated:** 2026-04-29 08:22:50 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,30 +49,6 @@
 **📅 Published:** Wed, 22 Apr 2026 08:33:35 +0000  
 
 **📝 Summary:** Planning an international trip this year.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [230% return on SGB premature redemption date: This gold bond has turned Rs 1 lakh investment into Rs 3.30 lakh](https://economictimes.indiatimes.com/wealth/invest/230-return-on-sgb-premature-redemption-date-this-gold-bond-has-turned-rs-1-lakh-investment-into-rs-3-30-lakh/articleshow/130567451.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 28 Apr 2026 10:16:35 +0530  
-
-**📝 Summary:** The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bond SGB 2020-21 Series-I.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [EY, FICCI urge govt to reduce GST rate to 9% on hotel rooms priced above Rs 7,500 per night](https://economictimes.indiatimes.com/wealth/tax/ey-ficci-urge-govt-to-reduce-gst-rate-to-9-on-hotel-rooms-priced-above-rs-7500-per-night/articleshow/130551747.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 27 Apr 2026 16:23:08 +0530  
-
-**📝 Summary:** A joint report by EY and FICCI suggests lowering the GST on luxury hotel rooms to 9%.
 
 ---
 
