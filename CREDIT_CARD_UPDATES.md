@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-30 03:27:11 IST
+**Last Updated:** 2026-04-30 08:25:03 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Thu, 23 Apr 2026 17:43:13 +0000  
 
 **📝 Summary:** Credit card update: Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [295% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into nearly Rs 3.95 lakh](https://economictimes.indiatimes.com/wealth/invest/295-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-95-lakh/articleshow/130623973.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 30 Apr 2026 10:47:13 +0530  
+
+**📝 Summary:** The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bond 2019-20 Series-VI.
 
 ---
 
