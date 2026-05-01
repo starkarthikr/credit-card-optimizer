@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-01 08:14:36 IST
+**Last Updated:** 2026-05-01 13:23:22 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
+#### 1. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
+
+**📝 Summary:** Air India is back with its much-loved Maharaja Club Points Fest, and this year it is bigger than ever.
+
+---
+
+#### 2. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
+#### 3. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
+#### 4. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [Equitas Bank Selfe Credit Card Review](https://www.cardexpert.in/equitas-selfe-credit-card-review/)
+#### 5. [Equitas Bank Selfe Credit Card Review](https://www.cardexpert.in/equitas-selfe-credit-card-review/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
 
 **📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
-
----
-
-#### 5. [Air Canada Aeroplan Award Chart Changes (June 2026): What Goes Up, What Survives](https://www.cardexpert.in/air-canada-aeroplan-points-requirement-changes-june-2026/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Mon, 27 Apr 2026 14:53:12 +0000  
-
-**📝 Summary:** Air Canada&#8217;s Aeroplan is one of my favourite loyalty programs in the world, mainly for 3 reasons: one for their amazing set of partners and connections, two for affordable points requirement,...
 
 ---
 
