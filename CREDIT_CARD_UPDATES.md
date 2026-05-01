@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-01 03:37:13 IST
+**Last Updated:** 2026-05-01 08:14:36 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
+#### 1. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
+
+**📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
+
+---
+
+#### 2. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
+#### 3. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Equitas Bank Selfe Credit Card Review](https://www.cardexpert.in/equitas-selfe-credit-card-review/)
+#### 4. [Equitas Bank Selfe Credit Card Review](https://www.cardexpert.in/equitas-selfe-credit-card-review/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
@@ -34,7 +43,7 @@
 
 ---
 
-#### 4. [Air Canada Aeroplan Award Chart Changes (June 2026): What Goes Up, What Survives](https://www.cardexpert.in/air-canada-aeroplan-points-requirement-changes-june-2026/)
+#### 5. [Air Canada Aeroplan Award Chart Changes (June 2026): What Goes Up, What Survives](https://www.cardexpert.in/air-canada-aeroplan-points-requirement-changes-june-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Mon, 27 Apr 2026 14:53:12 +0000  
@@ -43,12 +52,15 @@
 
 ---
 
-#### 5. [Best BOBCard Credit Cards in India](https://www.cardexpert.in/best-bob-credit-cards-india/)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Mon, 27 Apr 2026 09:06:10 +0000  
+### 💰 Reward Points
 
-**📝 Summary:** BOBCARD, the credit card arm of Bank of Baroda, is the&#160;2nd largest public sector bank&#160;in credit card issuance and the&#160;8th largest among all banks&#160;in India, as of writing this ar...
+#### 1. [386% return on SGB final redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.86 lakh](https://economictimes.indiatimes.com/wealth/invest/386-return-on-sgb-final-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-86-lakh/articleshow/130671187.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 01 May 2026 11:29:33 +0530  
+
+**📝 Summary:** The Reserve Bank of India has announced the final redemption price for Sovereign Gold Bonds SGB 2018-19 Series-I, maturing on May 4, 2026.
 
 ---
 
