@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-04-30 19:26:02 IST
+**Last Updated:** 2026-05-01 03:37:13 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Mon, 27 Apr 2026 09:06:10 +0000  
 
 **📝 Summary:** BOBCARD, the credit card arm of Bank of Baroda, is the&#160;2nd largest public sector bank&#160;in credit card issuance and the&#160;8th largest among all banks&#160;in India, as of writing this ar...
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [295% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into nearly Rs 3.95 lakh](https://economictimes.indiatimes.com/wealth/invest/295-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-95-lakh/articleshow/130623973.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 30 Apr 2026 10:47:13 +0530  
-
-**📝 Summary:** Sovereign Gold Bond; The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bond 2019-20 Series-VI.
 
 ---
 
