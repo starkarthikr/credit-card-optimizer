@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-02 13:17:25 IST
+**Last Updated:** 2026-05-02 19:03:17 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -12,7 +12,7 @@
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
 
-**📝 Summary:** Air India is back with its much-loved Maharaja Club Points Fest, and this year it is bigger than ever.
+**📝 Summary:** Air India is back with its much-loved&#160;Maharaja Club Points Fest, and this year it is bigger than ever.
 
 ---
 
