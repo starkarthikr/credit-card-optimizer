@@ -1,56 +1,54 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-03 03:29:39 IST
+**Last Updated:** 2026-05-03 08:04:01 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [6 investments with 7.5% and higher interest rates: SCSS, SSY, RBI bond and more](https://economictimes.indiatimes.com/wealth/invest/6-investments-with-7-5-and-higher-interest-rates-scss-ssy-rbi-bond-and-more/slideshow/130716186.cms)
+#### 1. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 02 May 2026 17:35:22 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
 
-**📝 Summary:** If you’re looking for investment options with a minimal risk and those offering good returns, there are several schemes offering 7.
-
----
-
-#### 2. [DA hike for bank employees: What will be monthly salary hike for employees of different stages, scales and basic pays?](https://economictimes.indiatimes.com/wealth/save/da-hike-for-bank-employees-what-will-be-monthly-salary-hike-for-employees-of-different-stages-scales-and-basic-pays/articleshow/130715832.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 02 May 2026 17:24:25 +0530  
-
-**📝 Summary:** Bank employees will see a slight increase in their take-home pay as the government has raised Dearness Allowance (DA) from May 1, 2026.
+**📝 Summary:** Air India is back with its much-loved&#160;Maharaja Club Points Fest, and this year it is bigger than ever.
 
 ---
 
-#### 3. [Senior citizen FD interest rate hike: This NBFC is now offering up to 7.75% interest rate to senior citizens](https://economictimes.indiatimes.com/wealth/invest/senior-citizen-fd-interest-rate-hike-this-nbfc-is-now-offering-up-to-7-75-interest-rate-to-senior-citizens/articleshow/130712898.cms)
+#### 2. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 02 May 2026 14:28:44 +0530  
-**🏦 Bank:** CITI  
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
-**📝 Summary:** Bajaj Finance has boosted interest rates on its 31-60 month fixed deposits to 7.
-
----
-
-#### 4. [22k gold rate today: Check 24k, 22k, 18k gold prices (May 2, 2026) in New Delhi, Mumbai, Chennai and other cities](https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-2-2026-in-new-delhi-mumbai-chennai-and-other-cities/articleshow/130712629.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 02 May 2026 13:39:43 +0530  
-**🏦 Bank:** CITI  
-
-**📝 Summary:** Gold prices saw fluctuations on May 2, 2026, influenced by global uncertainties and inflation concerns.
+**📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
 
 ---
 
-#### 5. [Pay full Bengaluru property tax by May 31, 2026 and get 5% rebate as due date  gets extended](https://economictimes.indiatimes.com/wealth/real-estate/pay-full-bengaluru-property-tax-by-may-31-2026-and-get-5-rebate-as-due-date-gets-extended/articleshow/130711856.cms)
+#### 3. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 02 May 2026 13:11:01 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
 
-**📝 Summary:** Bengaluru property owners can now avail a 5% rebate on property tax by paying in full by May 31, 2026, as the deadline has been extended.
+**📝 Summary:** Federal Bank said on 30th April 2026 that its board has approved a plan to buy a select portfolio of retail credit cards from Standard Chartered Bank&#8217;s India unit.
+
+---
+
+#### 4. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
+
+**📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+#### 5. [Equitas Bank Selfe Credit Card Review](https://www.cardexpert.in/equitas-selfe-credit-card-review/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
+
+**📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
 
 ---
 
