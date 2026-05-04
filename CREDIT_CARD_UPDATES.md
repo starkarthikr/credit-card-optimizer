@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-04 08:33:15 IST
+**Last Updated:** 2026-05-04 14:06:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -63,6 +63,18 @@
 **📝 Summary:** The final redemption date for Sovereign Gold Bonds SGB 2018-19 Series-I-Issue date May 4, 2018, is today (May 4, 2026), according to a statement from the Reserve Bank of India (RBI).
 
 **🔄 Redemption:** The final redemption date for Sovereign Gold Bonds SGB 2018-19 Series-I-Issue date May 4, 2018, is today (May 4, 2026), according to a statement from the Reserve Bank of India (RBI)
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Get up to 10% discount on this flight ticket on Etihad Airway's guest loyalty program if you are a Gold, Platinum and Emerald member](https://economictimes.indiatimes.com/wealth/save/get-up-to-10-discount-on-this-flight-ticket-on-etihad-airways-guest-loyalty-program-if-you-are-a-gold-platinum-and-emerald-member/articleshow/130776765.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 04 May 2026 14:40:43 +0530  
+
+**📝 Summary:** Etihad Airways is now offering a 10% discount on promo seats for its top-tier loyalty members.
 
 ---
 
