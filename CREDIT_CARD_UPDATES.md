@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-04 03:27:33 IST
+**Last Updated:** 2026-05-04 08:33:15 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,20 @@
 **📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
 
 **📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [Sovereign Gold Bond matures today with 386% return: Rs 1 lakh investment turns into Rs 4.86 lakh, check key details](https://economictimes.indiatimes.com/wealth/invest/sovereign-gold-bond-matures-today-with-386-return-rs-1-lakh-investment-turns-into-rs-4-86-lakh-check-key-details/slideshow/130770349.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 04 May 2026 13:27:17 +0530  
+
+**📝 Summary:** The final redemption date for Sovereign Gold Bonds SGB 2018-19 Series-I-Issue date May 4, 2018, is today (May 4, 2026), according to a statement from the Reserve Bank of India (RBI).
+
+**🔄 Redemption:** The final redemption date for Sovereign Gold Bonds SGB 2018-19 Series-I-Issue date May 4, 2018, is today (May 4, 2026), according to a statement from the Reserve Bank of India (RBI)
 
 ---
 
