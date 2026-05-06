@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-06 08:29:49 IST
+**Last Updated:** 2026-05-06 14:19:57 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
 
 **📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [Air India Maharaja Club: Earn up to 200,000 bonus points for converting reward points under airline's May 2026 offer](https://economictimes.indiatimes.com/wealth/spend/air-india-maharaja-club-earn-up-to-200000-bonus-points-for-converting-reward-points-under-airlines-may-2026-offer/articleshow/130848568.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 06 May 2026 15:15:01 +0530  
+
+**📝 Summary:** The Bonus Points earned during the Points Fest can significantly enhance members’ ability to redeem rewards across Air India’s expanding domestic and international network.
 
 ---
 
