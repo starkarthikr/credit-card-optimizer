@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-06 03:24:40 IST
+**Last Updated:** 2026-05-06 08:29:49 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,24 @@
 **📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
 
 **📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [Overpaying for insurance? Spot these costly online dark patterns before you buy](https://economictimes.indiatimes.com/wealth/insure/overpaying-for-insurance-spot-these-costly-online-dark-patterns-before-you-buy/slideshow/130847402.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 06 May 2026 12:45:41 +0530  
+
+**📝 Summary:** Buying insurance online is quick and easy, but it can also expose you to hidden costs.
+
+**✨ Benefits:** Insurance
+
+**💡 Optimization Tips:**
+
+- Many platforms use smart design tricks that influence your decisions without you noticing
 
 ---
 
