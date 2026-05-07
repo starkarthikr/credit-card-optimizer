@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-06 19:48:50 IST
+**Last Updated:** 2026-05-07 03:25:26 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -61,6 +61,19 @@
 **📅 Published:** Wed, 06 May 2026 15:15:01 +0530  
 
 **📝 Summary:** The Bonus Points earned during the Points Fest can significantly enhance members’ ability to redeem rewards across Air India’s expanding domestic and international network.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Zero forex to complementary lounge access: 5 popular travel credit cards worth checking out](https://economictimes.indiatimes.com/wealth/spend/zero-forex-to-complementary-lounge-access-5-popular-travel-credit-cards-worth-checking-out/articleshow/130856518.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 07 May 2026 08:01:00 +0530  
+**💳 Card:** popular travel credit card  
+
+**📝 Summary:** Frequent travelers can enhance their journeys with the right credit cards.
 
 ---
 
