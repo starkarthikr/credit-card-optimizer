@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-07 08:36:56 IST
+**Last Updated:** 2026-05-07 14:16:57 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,25 +55,13 @@
 
 ### 💰 Reward Points
 
-#### 1. [Air India Maharaja Club: Earn up to 200,000 bonus points for converting reward points under airline's May 2026 offer](https://economictimes.indiatimes.com/wealth/spend/air-india-maharaja-club-earn-up-to-200000-bonus-points-for-converting-reward-points-under-airlines-may-2026-offer/articleshow/130848568.cms)
+#### 1. [How cashback credit cards are shaping everyday spending habits](https://economictimes.indiatimes.com/wealth/spend/credit-cards/how-cashback-credit-cards-are-shaping-everyday-spending-habits/articleshow/130891112.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 06 May 2026 15:15:01 +0530  
+**📅 Published:** Thu, 07 May 2026 16:55:43 +0530  
+**💳 Card:** How cashback credit card  
 
-**📝 Summary:** The Bonus Points earned during the Points Fest can significantly enhance members’ ability to redeem rewards across Air India’s expanding domestic and international network.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Zero forex to complementary lounge access: 5 popular travel credit cards worth checking out](https://economictimes.indiatimes.com/wealth/spend/zero-forex-to-complementary-lounge-access-5-popular-travel-credit-cards-worth-checking-out/articleshow/130856518.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 07 May 2026 08:01:00 +0530  
-**💳 Card:** popular travel credit card  
-
-**📝 Summary:** Frequent travelers can enhance their journeys with the right credit cards.
+**📝 Summary:** IDFC FIRST Bank's FIRST EARN and Hello Cashback credit cards offer straightforward cashback on daily transactions, maximizing savings without altering spending habits.
 
 ---
 
