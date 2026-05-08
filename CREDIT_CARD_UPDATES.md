@@ -1,8 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-08 07:44:57 IST
+**Last Updated:** 2026-05-08 13:54:26 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 🏆 Best Card
+
+#### 1. [8th Pay Commission: Railway employees’ body demands higher HRA, DA merger and retirement benefits](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-railway-employees-body-demands-higher-hra-da-merger-and-retirement-benefits/slideshow/130958910.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 08 May 2026 17:05:58 +0530  
+
+**📝 Summary:** The Indian Railways Technical Supervisors’ Association (IRTSA) has recommended a separate Consumer Price Index (CPI) for central government employees to calculate Dearness Allowance (DA).
+
+**✨ Benefits:** Insurance
+
+---
 
 
 ### 📰 General Updates
@@ -49,19 +63,6 @@
 **📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
 
 **📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [How cashback credit cards are shaping everyday spending habits](https://economictimes.indiatimes.com/wealth/spend/credit-cards/how-cashback-credit-cards-are-shaping-everyday-spending-habits/articleshow/130891112.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 07 May 2026 16:55:43 +0530  
-**💳 Card:** How cashback credit card  
-
-**📝 Summary:** IDFC FIRST Bank's FIRST EARN and Hello Cashback credit cards offer straightforward cashback on daily transactions, maximizing savings without altering spending habits.
 
 ---
 
