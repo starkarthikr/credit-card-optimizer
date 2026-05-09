@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-09 03:20:43 IST
+**Last Updated:** 2026-05-09 07:59:18 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -63,6 +63,18 @@
 **📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
 
 **📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [Fake income tax emails target Indians: Kaspersky warns of ‘SilverFox’ hacker attack](https://economictimes.indiatimes.com/wealth/save/fake-income-tax-emails-target-indians-kaspersky-warns-of-silverfox-hacker-attack/articleshow/130971353.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 09 May 2026 10:58:00 +0530  
+
+**📝 Summary:** Cybersecurity firm Kaspersky has warned Indian consumers about a sophisticated phishing campaign by the SilverFox hacker group.
 
 ---
 
