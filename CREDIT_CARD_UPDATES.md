@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-11 09:42:51 IST
+**Last Updated:** 2026-05-11 14:58:34 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
 
 **📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [From expressways to airports: How infrastructure is reshaping real estate demand in India](https://economictimes.indiatimes.com/wealth/real-estate/from-expressways-to-airports-how-infrastructure-is-reshaping-real-estate-demand-in-india/articleshow/130969815.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 11 May 2026 06:30:00 +0530  
-
-**📝 Summary:** To maximise gains from an anticipated infrastructure development, the most crucial point to keep in mind while investing early is that pricing often runs ahead of liveability.
 
 ---
 
