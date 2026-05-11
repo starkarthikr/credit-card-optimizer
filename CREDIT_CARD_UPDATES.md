@@ -1,22 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-10 19:07:27 IST
+**Last Updated:** 2026-05-11 03:43:28 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 🏆 Best Card
-
-#### 1. [8th Pay Commission: Railway employees’ body demands higher HRA, DA merger and retirement benefits](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-railway-employees-body-demands-higher-hra-da-merger-and-retirement-benefits/slideshow/130958910.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 08 May 2026 17:05:58 +0530  
-
-**📝 Summary:** The Indian Railways Technical Supervisors’ Association (IRTSA) has recommended a separate Consumer Price Index (CPI) for central government employees to calculate Dearness Allowance (DA).
-
-**✨ Benefits:** Insurance
-
----
 
 
 ### 📰 General Updates
@@ -63,6 +49,27 @@
 **📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
 
 **📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [From expressways to airports: How infrastructure is reshaping real estate demand in India](https://economictimes.indiatimes.com/wealth/real-estate/from-expressways-to-airports-how-infrastructure-is-reshaping-real-estate-demand-in-india/articleshow/130969815.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 11 May 2026 06:30:00 +0530  
+
+**📝 Summary:** To maximise gains from an anticipated infrastructure development, the most crucial point to keep in mind while investing early is that pricing often runs ahead of liveability.
+
+---
+
+#### 2. [Bundled vs standalone travel insurance: Which works best for your trip? Comparing costs, coverage, and claims](https://economictimes.indiatimes.com/wealth/insure/bundled-vs-standalone-travel-insurance-which-works-best-for-your-trip-comparing-costs-coverage-and-claims/articleshow/130965358.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 11 May 2026 06:30:00 +0530  
+
+**📝 Summary:** Since both serve specific purposes and needs, pick the one that suits your travel itinerary and circumstances.
 
 ---
 
