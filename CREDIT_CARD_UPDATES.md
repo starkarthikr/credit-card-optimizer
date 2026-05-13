@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-13 08:47:12 IST
+**Last Updated:** 2026-05-13 14:39:25 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
+#### 1. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 13 May 2026 12:37:59 +0000  
+
+**📝 Summary:** Good news for frequent travellers in the UK as American Express has now added ALL Accor as a new Membership Rewards transfer partner.
+
+---
+
+#### 2. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
+#### 3. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
+#### 4. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
+#### 5. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-#### 5. [Equitas Bank Selfe Credit Card Review](https://www.cardexpert.in/equitas-selfe-credit-card-review/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
-
-**📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
 
 ---
 
