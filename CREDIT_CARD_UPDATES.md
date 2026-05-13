@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-13 03:38:16 IST
+**Last Updated:** 2026-05-13 08:47:12 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,35 @@
 **📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
 
 **📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [382% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.82 lakh](https://economictimes.indiatimes.com/wealth/invest/382-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-82-lakh/articleshow/131056859.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 13 May 2026 11:39:57 +0530  
+
+**📝 Summary:** Sovereign Gold Bond : The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bond SGB 2018-19 Series-III.
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [Fake Income Tax email alert! ‘SilverFox’ hackers target Indians with dangerous malware](https://economictimes.indiatimes.com/wealth/save/fake-income-tax-email-alert-silverfox-hackers-target-indians-with-dangerous-malware/slideshow/131058183.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 13 May 2026 12:33:24 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** Cybersecurity company Kaspersky has warned about a dangerous phishing campaign targeting Indians through fake Income Tax Department emails.
+
+**💡 Optimization Tips:**
+
+- The attack later spread to Indonesia, Russia, and South Africa, targeting businesses across multiple sectors
 
 ---
 
