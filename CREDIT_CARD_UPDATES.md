@@ -1,13 +1,23 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-15 03:40:51 IST
+**Last Updated:** 2026-05-15 08:51:28 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 🏆 Best Card
 
-#### 1. [8th Pay Commission Maharashtra pension body demands: This body demands 2.5 times hike in travel allowance, seeks higher HRA rates; Check latest news on 8th CPC](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-maharashtra-pension-body-demands-this-body-demands-2-5-times-hike-in-travel-allowance-seeks-higher-hra-rates-check-latest-news-on-8th-cpc/slideshow/131092932.cms)
+#### 1. [Best ways to find the right health insurance policy: A comparison of ICICI Lombard, HDFC Ergo, Care, Niva Bupa, Tata AIG policies](https://economictimes.indiatimes.com/wealth/insure/best-ways-to-find-the-right-health-insurance-policy-a-comparison-of-icici-lombard-hdfc-ergo-care-niva-bupa-tata-aig-policies/articleshow/131109220.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 15 May 2026 11:23:01 +0530  
+**🏦 Bank:** HDFC  
+
+**📝 Summary:** Choosing a health insurance policy involves more than just premium cost.
+
+---
+
+#### 2. [8th Pay Commission Maharashtra pension body demands: This body demands 2.5 times hike in travel allowance, seeks higher HRA rates; Check latest news on 8th CPC](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-maharashtra-pension-body-demands-this-body-demands-2-5-times-hike-in-travel-allowance-seeks-higher-hra-rates-check-latest-news-on-8th-cpc/slideshow/131092932.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Thu, 14 May 2026 17:32:54 +0530  
