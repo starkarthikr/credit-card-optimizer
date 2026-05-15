@@ -1,28 +1,28 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-15 08:51:28 IST
+**Last Updated:** 2026-05-15 14:11:21 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 🏆 Best Card
 
-#### 1. [Best ways to find the right health insurance policy: A comparison of ICICI Lombard, HDFC Ergo, Care, Niva Bupa, Tata AIG policies](https://economictimes.indiatimes.com/wealth/insure/best-ways-to-find-the-right-health-insurance-policy-a-comparison-of-icici-lombard-hdfc-ergo-care-niva-bupa-tata-aig-policies/articleshow/131109220.cms)
+#### 1. [Petrol price hiked up to Rs 108, CNG in Delhi at Rs 79: How much extra you now need to pay for your car; Petrol Vs CNG comparisons for Delhi, Mumbai, Kolkata, Chennai](https://economictimes.indiatimes.com/wealth/save/petrol-price-hiked-up-to-rs-108-cng-in-delhi-at-rs-79-how-much-extra-you-now-need-to-pay-for-your-car-petrol-vs-cng-comparisons-for-delhi-mumbai-kolkata-chennai/articleshow/131116756.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 15 May 2026 17:24:27 +0530  
+
+**📝 Summary:** Recent petrol price hikes across metropolitan cities and increased CNG costs in Delhi and Mumbai are impacting car owners.
+
+---
+
+#### 2. [Best ways to find the right health insurance policy: A comparison of ICICI Lombard, HDFC Ergo, Care, Niva Bupa, Tata AIG policies](https://economictimes.indiatimes.com/wealth/insure/best-ways-to-find-the-right-health-insurance-policy-a-comparison-of-icici-lombard-hdfc-ergo-care-niva-bupa-tata-aig-policies/articleshow/131109220.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 15 May 2026 11:23:01 +0530  
 **🏦 Bank:** HDFC  
 
 **📝 Summary:** Choosing a health insurance policy involves more than just premium cost.
-
----
-
-#### 2. [8th Pay Commission Maharashtra pension body demands: This body demands 2.5 times hike in travel allowance, seeks higher HRA rates; Check latest news on 8th CPC](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-maharashtra-pension-body-demands-this-body-demands-2-5-times-hike-in-travel-allowance-seeks-higher-hra-rates-check-latest-news-on-8th-cpc/slideshow/131092932.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 14 May 2026 17:32:54 +0530  
-
-**📝 Summary:** Several major demands related to salary structure, pension benefits and employee allowances have been placed before the 8th Pay Commission by the Maharashtra pension body.
 
 ---
 
@@ -71,18 +71,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Actor Ranbir Kapoor buys 2,134 sq. ft. land in Ayodhya where Leela operates luxury hotel; Check details](https://economictimes.indiatimes.com/wealth/real-estate/actor-ranbir-kapoor-buys-2134-sq-ft-land-in-ayodhya-where-leela-operates-luxury-hotel-check-details/articleshow/131092669.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 14 May 2026 17:40:46 +0530  
-
-**📝 Summary:** Actor Ranbir Kapoor has purchased 2,134 sq.
 
 ---
 
