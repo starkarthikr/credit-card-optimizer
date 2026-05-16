@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-16 08:07:36 IST
+**Last Updated:** 2026-05-16 13:26:57 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -13,16 +13,6 @@
 **📅 Published:** Fri, 15 May 2026 17:24:27 +0530  
 
 **📝 Summary:** Recent petrol price hikes across metropolitan cities and increased CNG costs in Delhi and Mumbai are impacting car owners.
-
----
-
-#### 2. [Best ways to find the right health insurance policy: A comparison of ICICI Lombard, HDFC Ergo, Care, Niva Bupa, Tata AIG policies](https://economictimes.indiatimes.com/wealth/insure/best-ways-to-find-the-right-health-insurance-policy-a-comparison-of-icici-lombard-hdfc-ergo-care-niva-bupa-tata-aig-policies/articleshow/131109220.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 15 May 2026 11:23:01 +0530  
-**🏦 Bank:** HDFC  
-
-**📝 Summary:** Choosing a health insurance policy involves more than just premium cost.
 
 ---
 
