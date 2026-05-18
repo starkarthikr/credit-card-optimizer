@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-18 10:08:41 IST
+**Last Updated:** 2026-05-18 15:37:20 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,19 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [HDFC Bank revises Regalia Gold lounge access benefits: Check new airport lounge access and reward points changes](https://economictimes.indiatimes.com/wealth/spend/hdfc-bank-revises-regalia-gold-lounge-access-benefits-check-new-airport-lounge-access-and-reward-points-changes/articleshow/131176676.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 18 May 2026 18:01:48 +0530  
+**🏦 Bank:** HDFC  
+
+**📝 Summary:** HDFC Bank has updated its Regalia Gold Credit Card lounge access policy, introducing a spend-based eligibility for domestic airport lounges starting July 1, 2026.
 
 ---
 
