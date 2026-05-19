@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-19 03:46:44 IST
+**Last Updated:** 2026-05-19 09:49:46 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,7 +55,16 @@
 
 ### 💰 Reward Points
 
-#### 1. [HDFC Bank revises Regalia Gold lounge access benefits: Check new airport lounge access and reward points changes](https://economictimes.indiatimes.com/wealth/spend/hdfc-bank-revises-regalia-gold-lounge-access-benefits-check-new-airport-lounge-access-and-reward-points-changes/articleshow/131176676.cms)
+#### 1. [250% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.5 lakh](https://economictimes.indiatimes.com/wealth/invest/250-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-5-lakh/articleshow/131192125.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 19 May 2026 11:35:21 +0530  
+
+**📝 Summary:** The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond SGB 2020-21 Series-II, fixed at Rs 15,904 per unit.
+
+---
+
+#### 2. [HDFC Bank revises Regalia Gold lounge access benefits: Check new airport lounge access and reward points changes](https://economictimes.indiatimes.com/wealth/spend/hdfc-bank-revises-regalia-gold-lounge-access-benefits-check-new-airport-lounge-access-and-reward-points-changes/articleshow/131176676.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Mon, 18 May 2026 18:01:48 +0530  
