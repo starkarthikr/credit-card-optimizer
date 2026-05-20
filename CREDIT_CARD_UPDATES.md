@@ -1,67 +1,54 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-20 03:47:47 IST
+**Last Updated:** 2026-05-20 09:38:53 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [Son’s two shops were stated to be demolished without compensation; HC stops demolition as he produced a registered sale deed](https://economictimes.indiatimes.com/wealth/legal/will/sons-two-shops-were-stated-to-be-demolished-without-compensation-hc-stops-demolition-as-he-produced-a-registered-sale-deed/articleshow/131200762.cms)
+#### 1. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 20 May 2026 08:00:00 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 13 May 2026 12:37:59 +0000  
 
-**📝 Summary:** A man successfully saved his two shops from demolition by the municipality.
-
----
-
-#### 2. [UAE private companies must pay salaries on 1st of every month from June 1, 2026 or face legal action](https://economictimes.indiatimes.com/wealth/legal/will/uae-private-companies-must-pay-salaries-on-1st-of-every-month-from-june-1-2026-or-face-legal-action/articleshow/131176553.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 20 May 2026 07:11:00 +0530  
-
-**📝 Summary:** UAE private companies must now pay employee salaries on the first of each month, effective June 1, 2026, as mandated by the Ministry of Human Resources and Emiratisation.
+**📝 Summary:** Good news for frequent travellers in the UK as American Express has now added ALL Accor as a new Membership Rewards transfer partner.
 
 ---
 
-#### 3. [Less than 24 hours in Hospital? Know about health insurance coverage for day care treatments, surgeries, and emergency procedures](https://economictimes.indiatimes.com/wealth/insure/less-than-24-hours-in-hospital-know-about-health-insurance-coverage-for-day-care-treatments-surgeries-and-emergency-procedures/articleshow/131198848.cms)
+#### 2. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 20 May 2026 06:30:00 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
 
-**📝 Summary:** Many policyholders believe health insurance claims require a 24-hour hospital stay.
-
----
-
-#### 4. [Why This Mid-Cap Fund Could Bounce Back Stronger](https://economictimes.indiatimes.com/wealth/invest/why-this-mid-cap-fund-could-bounce-back-stronger/videoshow/131202739.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 19 May 2026 19:06:00 +0530  
-
-**📝 Summary:** Market corrections often create the biggest long-term opportunities 📈� In this insightful podcast with chief Business Officer of Motilal Oswal AMC, Mr.
+**📝 Summary:** Air India is back with its much-loved&#160;Maharaja Club Points Fest, and this year it is bigger than ever.
 
 ---
 
-#### 5. [Good news for senior citizens: Money in this bank can now only be transferred by double OTP verification one to a/c holder and another to trusted contact](https://economictimes.indiatimes.com/wealth/save/good-news-for-senior-citizens-money-in-this-bank-can-now-only-be-transferred-by-double-otp-verification-one-to-a/c-holder-and-another-to-trusted-contact/articleshow/131201653.cms)
+#### 3. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 19 May 2026 18:33:18 +0530  
-**🏦 Bank:** CITI  
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
-**📝 Summary:** Senior citizens in Gurugram and Faridabad now have enhanced security for their bank accounts.
+**📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
 
 ---
 
+#### 4. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
 
-### 💰 Reward Points
+**📡 Source:** Cardexpert  
+**📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
 
-#### 1. [250% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.5 lakh](https://economictimes.indiatimes.com/wealth/invest/250-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-5-lakh/articleshow/131192125.cms)
+**📝 Summary:** Federal Bank said on 30th April 2026 that its board has approved a plan to buy a select portfolio of retail credit cards from Standard Chartered Bank&#8217;s India unit.
 
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 19 May 2026 11:35:21 +0530  
+---
 
-**📝 Summary:** The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond SGB 2020-21 Series-II, fixed at Rs 15,904 per unit.
+#### 5. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
+
+**📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
 
 ---
 
