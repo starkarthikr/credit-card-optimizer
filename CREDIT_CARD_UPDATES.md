@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-23 19:13:53 IST
+**Last Updated:** 2026-05-24 03:50:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Missed flight due to sudden reschedule! Rs 50,000 compensation and full ticket refund with interest for two friends who were stranded in Indonesia](https://economictimes.indiatimes.com/wealth/legal/will/missed-flight-due-to-sudden-reschedule-rs-50000-compensation-and-full-ticket-refund-with-interest-for-two-friends-who-were-stranded-in-indonesia/articleshow/131279743.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sun, 24 May 2026 07:01:00 +0530  
+
+**📝 Summary:** Two friends were left stranded in Indonesia after an airline preponed their flight without prior notification.
 
 ---
 
