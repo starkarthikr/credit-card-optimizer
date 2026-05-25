@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-25 04:02:24 IST
+**Last Updated:** 2026-05-25 10:11:49 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,22 +53,30 @@
 ---
 
 
-### ✈️ Travel Benefits
+### 💰 Reward Points
 
-#### 1. [Free airport lounge access via credit cards is getting tougher as banks tighten entry rules, set minimum spending criteria](https://economictimes.indiatimes.com/wealth/spend/free-airport-lounge-access-via-credit-cards-is-getting-tougher-as-banks-tighten-entry-rules-set-minimum-spending-criteria/articleshow/131271126.cms)
+#### 1. [235% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.35 lakh](https://economictimes.indiatimes.com/wealth/invest/235-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-35-lakh/articleshow/131303235.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 25 May 2026 06:30:00 +0530  
-**💳 Card:** access via credit card  
+**📅 Published:** Mon, 25 May 2026 11:44:35 +0530  
 
-**📝 Summary:** The logic is simple: lounge access has become a heavily used perk.
+**📝 Summary:** The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond SGB 2021-22 Series-I, fixed at Rs 15,840 per unit.
 
 ---
 
 
 ### 💡 Tricks & Tips
 
-#### 1. [US rental vs Indian commercial: Where should NRIs actually put their money in 2026?](https://economictimes.indiatimes.com/wealth/invest/us-rental-vs-indian-commercial-where-should-nris-actually-put-their-money-in-2026/slideshow/131299815.cms)
+#### 1. [Google blocked the first known AI-powered attack on 2FA accounts; here is how hackers tried to break in, know how to stay safe](https://economictimes.indiatimes.com/wealth/save/google-blocked-the-first-known-ai-powered-attack-on-2fa-accounts-here-is-how-hackers-tried-to-break-in-know-how-to-stay-safe/articleshow/131306144.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 25 May 2026 15:15:41 +0530  
+
+**📝 Summary:** Foreign hackers attempted a novel AI-powered cyberattack targeting two-factor authentication using a zero-day exploit.
+
+---
+
+#### 2. [US rental vs Indian commercial: Where should NRIs actually put their money in 2026?](https://economictimes.indiatimes.com/wealth/invest/us-rental-vs-indian-commercial-where-should-nris-actually-put-their-money-in-2026/slideshow/131299815.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Mon, 25 May 2026 08:20:32 +0530  
