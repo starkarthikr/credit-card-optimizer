@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-24 19:20:06 IST
+**Last Updated:** 2026-05-25 04:02:24 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,12 +55,29 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Missed flight due to sudden reschedule! Rs 50,000 compensation and full ticket refund with interest for two friends who were stranded in Indonesia](https://economictimes.indiatimes.com/wealth/legal/will/missed-flight-due-to-sudden-reschedule-rs-50000-compensation-and-full-ticket-refund-with-interest-for-two-friends-who-were-stranded-in-indonesia/articleshow/131279743.cms)
+#### 1. [Free airport lounge access via credit cards is getting tougher as banks tighten entry rules, set minimum spending criteria](https://economictimes.indiatimes.com/wealth/spend/free-airport-lounge-access-via-credit-cards-is-getting-tougher-as-banks-tighten-entry-rules-set-minimum-spending-criteria/articleshow/131271126.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Sun, 24 May 2026 07:01:00 +0530  
+**📅 Published:** Mon, 25 May 2026 06:30:00 +0530  
+**💳 Card:** access via credit card  
 
-**📝 Summary:** Two friends were left stranded in Indonesia after an airline preponed their flight without prior notification.
+**📝 Summary:** The logic is simple: lounge access has become a heavily used perk.
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [US rental vs Indian commercial: Where should NRIs actually put their money in 2026?](https://economictimes.indiatimes.com/wealth/invest/us-rental-vs-indian-commercial-where-should-nris-actually-put-their-money-in-2026/slideshow/131299815.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 25 May 2026 08:20:32 +0530  
+
+**📝 Summary:** For NRIs with capital to deploy, two options dominate the conversation: US residential rentals for stable appreciation, or Indian commercial real estate for high cash yields.
+
+**💡 Optimization Tips:**
+
+- The right choice depends on one question: do you want to maximize monthly income today, or preserve and grow capital in a hard currency over the long run
 
 ---
 
