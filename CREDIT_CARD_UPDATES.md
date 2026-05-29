@@ -1,8 +1,44 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-29 09:57:31 IST
+**Last Updated:** 2026-05-29 15:39:48 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 💵 Annual Fee
+
+#### 1. [Goal protection matters: Why Waiver of Premium deserves more attention](https://economictimes.indiatimes.com/wealth/insure/other-risk-covers/goal-protection-matters-why-waiver-of-premium-deserves-more-attention/articleshow/131391104.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 29 May 2026 18:31:30 +0530  
+
+**📝 Summary:** Financial plans often falter not due to lack of planning, but because they don't account for life's uncertainties.
+
+---
+
+
+### 🏆 Best Card
+
+#### 1. [8th Pay Commission salary hike: Up to 338% salary increase and 5 fitment factors; Railway employee body’s demands decoded](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-salary-hike-up-to-338-salary-increase-and-5-fitment-factors-railway-employee-bodys-demands-decoded/slideshow/131388895.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 29 May 2026 16:19:45 +0530  
+
+**📝 Summary:** For its 8th Pay Commission-related (8th CPC) demands, the Indian Railway Technical Supervisors' Association (IRTSA) is advocating for a major compensation revision modification.
+
+---
+
+
+### ⚠️ Devaluation
+
+#### 1. [Mumbai man received tax notice over unreported income, not filing ITR; ITAT rules in his favour on TDS benefit, tax demand reduced](https://economictimes.indiatimes.com/wealth/tax/mumbai-man-received-tax-notice-over-unreported-income-not-filing-itr-itat-rules-in-his-favour-on-tds-benefit-tax-demand-reduced/articleshow/131389428.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 29 May 2026 16:51:17 +0530  
+
+**📝 Summary:** Manoj Soman had not filed an ITR for the relevant assessment year, which is FY 10-11 in this case.
+
+---
 
 
 ### 📰 General Updates
@@ -49,18 +85,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Can you use UPI abroad? Here’s what Indian travellers must know about charges, limits and security risks](https://economictimes.indiatimes.com/wealth/spend/can-you-use-upi-abroad-heres-what-indian-travellers-must-know-about-charges-limits-and-security-risks/articleshow/131368748.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 29 May 2026 06:30:00 +0530  
-
-**📝 Summary:** Indian travellers are increasingly using UPI abroad for convenient payments, but understanding its limitations and risks is crucial.
 
 ---
 
