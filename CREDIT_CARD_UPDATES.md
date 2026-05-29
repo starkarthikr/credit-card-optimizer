@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-28 20:26:11 IST
+**Last Updated:** 2026-05-29 03:52:26 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Can you use UPI abroad? Here’s what Indian travellers must know about charges, limits and security risks](https://economictimes.indiatimes.com/wealth/spend/can-you-use-upi-abroad-heres-what-indian-travellers-must-know-about-charges-limits-and-security-risks/articleshow/131368748.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 29 May 2026 06:30:00 +0530  
+
+**📝 Summary:** Indian travellers are increasingly using UPI abroad for convenient payments, but understanding its limitations and risks is crucial.
 
 ---
 
