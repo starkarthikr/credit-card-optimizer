@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-29 20:28:31 IST
+**Last Updated:** 2026-05-30 03:37:29 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -85,6 +85,18 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [227% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.27 lakh](https://economictimes.indiatimes.com/wealth/invest/227-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-27-lakh/articleshow/131403272.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 30 May 2026 08:50:20 +0530  
+
+**📝 Summary:** The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond (SGB) 2021-22 Series-II, fixed at Rs 15,672 per unit.
 
 ---
 
