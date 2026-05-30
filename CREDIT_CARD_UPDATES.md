@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-30 08:30:07 IST
+**Last Updated:** 2026-05-30 13:43:20 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -97,6 +97,19 @@
 **📅 Published:** Sat, 30 May 2026 08:50:20 +0530  
 
 **📝 Summary:** The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond (SGB) 2021-22 Series-II, fixed at Rs 15,672 per unit.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Big travel deals on this credit card - Rs 8000 discount on Air India flights, up to 20% off on hotel bookings &amp; more](https://economictimes.indiatimes.com/wealth/spend/travel-offers-discounts-for-june-2026-big-travel-deals-on-this-credit-card-rs-8000-discount-on-air-india-flights-up-to-20-off-on-hotel-bookings-more/articleshow/131408414.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 30 May 2026 17:09:22 +0530  
+**💳 Card:** on this credit card  
+
+**📝 Summary:** Making travel more rewarding and accessible for customers this summer, BOBCARD is offering instant discounts, exclusive deals, and convenient EMI options that help travellers save more while enjoyi...
 
 ---
 
