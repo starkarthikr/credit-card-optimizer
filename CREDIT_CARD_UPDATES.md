@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-01 04:18:00 IST
+**Last Updated:** 2026-06-01 11:39:08 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,14 +53,14 @@
 ---
 
 
-### 💡 Tricks & Tips
+### 💰 Reward Points
 
-#### 1. [You have heard of State-Sponsored Hackers, but ever heard of Hacktivists? Know about these 10 types of cyber hackers](https://economictimes.indiatimes.com/wealth/plan/you-have-heard-of-state-sponsored-hackers-but-ever-heard-of-hacktivists-know-about-these-10-types-of-cyber-hackers/articleshow/131396893.cms)
+#### 1. [Sovereign Gold Bond investor alert: Check June 2026 premature redemption calendar and schedule](https://economictimes.indiatimes.com/wealth/invest/sovereign-gold-bond-investor-alert-check-june-2026-premature-redemption-calendar-and-schedule/articleshow/131434705.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 01 Jun 2026 06:30:00 +0530  
+**📅 Published:** Mon, 01 Jun 2026 11:12:00 +0530  
 
-**📝 Summary:** Extremely skilled at handling computer software and hardware, hackers are categorised into various types depending on their intent and purpose, and are mostly denoted by different coloured hats.
+**📝 Summary:** Sovereign Gold Bond investors can now plan for premature redemption.
 
 ---
 
