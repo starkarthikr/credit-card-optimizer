@@ -1,44 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-05-31 19:20:05 IST
+**Last Updated:** 2026-06-01 04:18:00 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 💵 Annual Fee
-
-#### 1. [Goal protection matters: Why Waiver of Premium deserves more attention](https://economictimes.indiatimes.com/wealth/insure/other-risk-covers/goal-protection-matters-why-waiver-of-premium-deserves-more-attention/articleshow/131391104.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 29 May 2026 18:31:30 +0530  
-
-**📝 Summary:** Financial plans often falter not due to lack of planning, but because they don't account for life's uncertainties.
-
----
-
-
-### 🏆 Best Card
-
-#### 1. [8th Pay Commission salary hike: Up to 338% salary increase and 5 fitment factors; Railway employee body’s demands decoded](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-salary-hike-up-to-338-salary-increase-and-5-fitment-factors-railway-employee-bodys-demands-decoded/slideshow/131388895.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 29 May 2026 16:19:45 +0530  
-
-**📝 Summary:** For its 8th Pay Commission-related (8th CPC) demands, the Indian Railway Technical Supervisors' Association (IRTSA) is advocating for a major compensation revision modification.
-
----
-
-
-### ⚠️ Devaluation
-
-#### 1. [Mumbai man received tax notice over unreported income, not filing ITR; ITAT rules in his favour on TDS benefit, tax demand reduced](https://economictimes.indiatimes.com/wealth/tax/mumbai-man-received-tax-notice-over-unreported-income-not-filing-itr-itat-rules-in-his-favour-on-tds-benefit-tax-demand-reduced/articleshow/131389428.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 29 May 2026 16:51:17 +0530  
-
-**📝 Summary:** Manoj Soman had not filed an ITR for the relevant assessment year, which is FY 10-11 in this case.
-
----
 
 
 ### 📰 General Updates
@@ -89,27 +53,14 @@
 ---
 
 
-### 💰 Reward Points
+### 💡 Tricks & Tips
 
-#### 1. [227% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.27 lakh](https://economictimes.indiatimes.com/wealth/invest/227-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-27-lakh/articleshow/131403272.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 30 May 2026 08:50:20 +0530  
-
-**📝 Summary:** The Reserve Bank of India has announced the premature redemption price for Sovereign Gold Bond (SGB) 2021-22 Series-II, fixed at Rs 15,672 per unit.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Big travel deals on this credit card - Rs 8000 discount on Air India flights, up to 20% off on hotel bookings &amp; more](https://economictimes.indiatimes.com/wealth/spend/travel-offers-discounts-for-june-2026-big-travel-deals-on-this-credit-card-rs-8000-discount-on-air-india-flights-up-to-20-off-on-hotel-bookings-more/articleshow/131408414.cms)
+#### 1. [You have heard of State-Sponsored Hackers, but ever heard of Hacktivists? Know about these 10 types of cyber hackers](https://economictimes.indiatimes.com/wealth/plan/you-have-heard-of-state-sponsored-hackers-but-ever-heard-of-hacktivists-know-about-these-10-types-of-cyber-hackers/articleshow/131396893.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Sat, 30 May 2026 17:09:22 +0530  
-**💳 Card:** on this credit card  
+**📅 Published:** Mon, 01 Jun 2026 06:30:00 +0530  
 
-**📝 Summary:** Making travel more rewarding and accessible for customers this summer, BOBCARD is offering instant discounts, exclusive deals, and convenient EMI options that help travellers save more while enjoyi...
+**📝 Summary:** Extremely skilled at handling computer software and hardware, hackers are categorised into various types depending on their intent and purpose, and are mostly denoted by different coloured hats.
 
 ---
 
