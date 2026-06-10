@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-10 03:56:40 IST
+**Last Updated:** 2026-06-10 10:05:15 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [308% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.08 lakh22k gold rate today: Check 24k, 22k, 18k gold prices (June 10, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold &amp; Diamonds and IBJAhttps://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-10-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131630032.cms](https://economictimes.indiatimes.com/wealth/invest/308-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-08-lakh/articleshow/131627067.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 10 Jun 2026 11:52:31 +0530  
+
+**📝 Summary:** The RBI has announced the premature redemption price for Sovereign Gold Bond (SGB) 2019-20 Series-VII, set at Rs 15,275 per unit.
 
 ---
 
