@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-11 04:10:00 IST
+**Last Updated:** 2026-06-11 10:39:42 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,12 +55,12 @@
 
 ### 💰 Reward Points
 
-#### 1. [308% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.08 lakh](https://economictimes.indiatimes.com/wealth/invest/308-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-08-lakh/articleshow/131627067.cms)
+#### 1. [378% return on SGB premature redemption date: This gold bond has turned Rs 1 lakh investment into Rs 4.78 lakh](https://economictimes.indiatimes.com/wealth/invest/378-return-on-sgb-premature-redemption-date-this-gold-bond-has-turned-rs-1-lakh-investment-into-rs-4-78-lakh/articleshow/131652470.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 10 Jun 2026 11:52:31 +0530  
+**📅 Published:** Thu, 11 Jun 2026 12:51:10 +0530  
 
-**📝 Summary:** The RBI has announced the premature redemption price for Sovereign Gold Bond (SGB) 2019-20 Series-VII, set at Rs 15,275 per unit.
+**📝 Summary:** The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bond 2019-20 Series-I.
 
 ---
 
