@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-12 04:11:51 IST
+**Last Updated:** 2026-06-12 10:16:53 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,14 +53,14 @@
 ---
 
 
-### 💰 Reward Points
+### 💡 Tricks & Tips
 
-#### 1. [378% return on SGB premature redemption date: This gold bond has turned Rs 1 lakh investment into Rs 4.78 lakh](https://economictimes.indiatimes.com/wealth/invest/378-return-on-sgb-premature-redemption-date-this-gold-bond-has-turned-rs-1-lakh-investment-into-rs-4-78-lakh/articleshow/131652470.cms)
+#### 1. [7 retirement planning tips for regular income and long-term financial security](https://economictimes.indiatimes.com/wealth/save/7-retirement-planning-tips-for-regular-income-and-long-term-financial-security/slideshow/131677488.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 11 Jun 2026 12:51:10 +0530  
+**📅 Published:** Fri, 12 Jun 2026 12:51:38 +0530  
 
-**📝 Summary:** The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bond 2019-20 Series-I.
+**📝 Summary:** Your retirement corpus should be large enough to support your lifestyle for at least 20–25 years after retirement.
 
 ---
 
