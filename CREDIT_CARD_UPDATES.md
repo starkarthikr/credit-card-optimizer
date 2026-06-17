@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-17 04:19:14 IST
+**Last Updated:** 2026-06-17 11:00:15 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,14 +53,14 @@
 ---
 
 
-### 💰 Reward Points
+### ✈️ Travel Benefits
 
-#### 1. [SGB delivers 219% return on premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.19 lakh](https://economictimes.indiatimes.com/wealth/invest/sgb-delivers-219-return-on-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-19-lakh/articleshow/131761591.cms)
+#### 1. [Travel claims for non-medical insurance like trip cancellation, delays surpass medical cases: Asego](https://economictimes.indiatimes.com/wealth/insure/travel-claims-for-non-medical-insurance-like-trip-cancellation-delays-surpass-medical-cases-asego/articleshow/131790523.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Tue, 16 Jun 2026 11:46:41 +0530  
+**📅 Published:** Wed, 17 Jun 2026 12:44:05 +0530  
 
-**📝 Summary:** The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bonds 2020-21 Series-III.
+**📝 Summary:** As of 2025-26, the focus of travel insurance claims has transformed significantly.
 
 ---
 
