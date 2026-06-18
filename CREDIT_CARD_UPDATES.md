@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-18 04:11:43 IST
+**Last Updated:** 2026-06-18 10:27:38 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Travel claims for non-medical insurance like trip cancellation, delays surpass medical cases: Asego](https://economictimes.indiatimes.com/wealth/insure/travel-claims-for-non-medical-insurance-like-trip-cancellation-delays-surpass-medical-cases-asego/articleshow/131790523.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 17 Jun 2026 12:44:05 +0530  
-
-**📝 Summary:** As of 2025-26, the focus of travel insurance claims has transformed significantly.
 
 ---
 
