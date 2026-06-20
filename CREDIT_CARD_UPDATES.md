@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-19 19:51:31 IST
+**Last Updated:** 2026-06-20 03:54:15 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,19 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [NRI credit cards: Rewards and lounge access aren’t everything, what more NRIs should know before getting an Indian credit card](https://economictimes.indiatimes.com/wealth/borrow/nri-credit-cards-rewards-and-lounge-access-arent-everything-what-more-nris-should-know-before-getting-an-indian-credit-card/articleshow/131856858.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 20 Jun 2026 06:30:00 +0530  
+**💳 Card:** an Indian credit card  
+
+**📝 Summary:** For Non-Resident Indians (NRIs), an Indian credit card offers significant benefits beyond convenience, including building a crucial CIBIL score for future borrowing and simplifying rupee-denominate...
 
 ---
 
