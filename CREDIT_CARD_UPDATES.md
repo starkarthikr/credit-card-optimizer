@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-21 19:45:02 IST
+**Last Updated:** 2026-06-22 04:27:43 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,13 +55,26 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [NRI credit cards: Rewards and lounge access aren’t everything, what more NRIs should know before getting an Indian credit card](https://economictimes.indiatimes.com/wealth/borrow/nri-credit-cards-rewards-and-lounge-access-arent-everything-what-more-nris-should-know-before-getting-an-indian-credit-card/articleshow/131856858.cms)
+#### 1. [Credit card points: How to use them for free flights, hotel stays, and better travel rewards](https://economictimes.indiatimes.com/wealth/borrow/credit-card-points-how-to-use-them-for-free-flights-hotel-stays-and-better-travel-rewards/articleshow/131869622.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Sat, 20 Jun 2026 06:30:00 +0530  
-**💳 Card:** an Indian credit card  
+**📅 Published:** Mon, 22 Jun 2026 06:30:00 +0530  
+**💳 Card:** Credit card  
 
-**📝 Summary:** For Non-Resident Indians (NRIs), an Indian credit card offers significant benefits beyond convenience, including building a crucial CIBIL score for future borrowing and simplifying rupee-denominate...
+**📝 Summary:** Travellers should also remember that loyalty program transfers are generally irreversible.
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [Looking for work after retirement in India? These roles, platforms, and tips are exactly what you need](https://economictimes.indiatimes.com/wealth/earn/looking-for-work-after-retirement-in-india-these-roles-platforms-and-tips-are-exactly-what-you-need/slideshow/131900832.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 22 Jun 2026 09:20:04 +0530  
+**🏦 Bank:** CITI  
+
+**📝 Summary:** Rising inflation, longer life expectancy, and a desire for purpose are pushing Indian retirees back into the workforce.
 
 ---
 
