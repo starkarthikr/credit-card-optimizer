@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-22 04:27:43 IST
+**Last Updated:** 2026-06-22 12:08:02 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,19 +49,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Credit card points: How to use them for free flights, hotel stays, and better travel rewards](https://economictimes.indiatimes.com/wealth/borrow/credit-card-points-how-to-use-them-for-free-flights-hotel-stays-and-better-travel-rewards/articleshow/131869622.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 22 Jun 2026 06:30:00 +0530  
-**💳 Card:** Credit card  
-
-**📝 Summary:** Travellers should also remember that loyalty program transfers are generally irreversible.
 
 ---
 
