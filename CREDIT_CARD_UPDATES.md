@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-23 03:45:11 IST
+**Last Updated:** 2026-06-23 09:43:17 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,15 +53,17 @@
 ---
 
 
-### 💡 Tricks & Tips
+### ✈️ Travel Benefits
 
-#### 1. [Looking for work after retirement in India? These roles, platforms, and tips are exactly what you need](https://economictimes.indiatimes.com/wealth/earn/looking-for-work-after-retirement-in-india-these-roles-platforms-and-tips-are-exactly-what-you-need/slideshow/131900832.cms)
+#### 1. [Your travel insurance claim can be rejected even when you are fully covered; 5 things people get wrong](https://economictimes.indiatimes.com/wealth/insure/your-travel-insurance-claim-can-be-rejected-even-when-you-are-fully-covered-5-things-people-get-wrong/slideshow/131924970.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 22 Jun 2026 09:20:04 +0530  
-**🏦 Bank:** CITI  
+**📅 Published:** Tue, 23 Jun 2026 09:41:45 +0530  
+**🏦 Bank:** AU  
 
-**📝 Summary:** Rising inflation, longer life expectancy, and a desire for purpose are pushing Indian retirees back into the workforce.
+**📝 Summary:** Most travel insurance claims in India get delayed or rejected not because the incident was not covered, but because travellers did not notify in time, filed the wrong documents, or missed a step.
+
+**✨ Benefits:** Insurance
 
 ---
 
