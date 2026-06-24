@@ -1,20 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-24 09:33:43 IST
+**Last Updated:** 2026-06-24 14:35:25 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### ⚠️ Devaluation
-
-#### 1. [8th Pay Commission salary: How minimum and maximum basic salaries have changed since 1947](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-salary-how-minimum-and-maximum-basic-salaries-have-changed-since-1947/slideshow/131936321.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 23 Jun 2026 17:15:09 +0530  
-
-**📝 Summary:** India had its first pay commission in 1947.
-
----
 
 
 ### 📰 General Updates
