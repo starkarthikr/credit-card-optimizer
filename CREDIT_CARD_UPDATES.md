@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-23 20:08:21 IST
+**Last Updated:** 2026-06-24 03:47:55 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -61,21 +61,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Your travel insurance claim can be rejected even when you are fully covered; 5 things people get wrong](https://economictimes.indiatimes.com/wealth/insure/your-travel-insurance-claim-can-be-rejected-even-when-you-are-fully-covered-5-things-people-get-wrong/slideshow/131924970.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 23 Jun 2026 09:41:45 +0530  
-**🏦 Bank:** AU  
-
-**📝 Summary:** Most travel insurance claims in India get delayed or rejected not because the incident was not covered, but because travellers did not notify in time, filed the wrong documents, or missed a step.
-
-**✨ Benefits:** Insurance
 
 ---
 
