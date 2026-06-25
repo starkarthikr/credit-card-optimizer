@@ -1,8 +1,21 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-25 09:25:40 IST
+**Last Updated:** 2026-06-25 14:36:49 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 🏆 Best Card
+
+#### 1. [8th Pay Commission HRA changes: NC-JCM, defence employee body, others propose up to 40% HRA](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-hra-changes-nc-jcm-defence-employee-body-others-propose-up-to-40-hra/slideshow/131992740.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 25 Jun 2026 17:12:29 +0530  
+**🏦 Bank:** CITI  
+
+**📝 Summary:** Increasing the current house rent allowance (HRA) rates, which are 10% (Z cities), 20% (X cities), and 30% (Y cities), is a prominent demand of key central government employee bodies from the 8th P...
+
+---
 
 
 ### 📰 General Updates
