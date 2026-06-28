@@ -1,54 +1,56 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-06-28 08:55:28 IST
+**Last Updated:** 2026-06-28 13:51:11 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
+#### 1. [Adulting 101: Why financial protection isn't just for parents](https://economictimes.indiatimes.com/wealth/insure/adulting-101-why-financial-protection-isnt-just-for-parents/articleshow/132046166.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 13 May 2026 12:37:59 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Sun, 28 Jun 2026 11:27:45 +0530  
 
-**📝 Summary:** Good news for frequent travellers in the UK as American Express has now added ALL Accor as a new Membership Rewards transfer partner.
-
----
-
-#### 2. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
-
-**📝 Summary:** Air India is back with its much-loved&#160;Maharaja Club Points Fest, and this year it is bigger than ever.
+**📝 Summary:** The article highlights why financial protection should begin early, not just after major life milestones.
 
 ---
 
-#### 3. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
+#### 2. [Homebuyer suspected poor quality construction; TNREAT allows independent engineer audit despite builder’s objection](https://economictimes.indiatimes.com/wealth/legal/will/homebuyer-suspected-poor-quality-construction-tnreat-allows-independent-engineer-audit-despite-builders-objection/articleshow/132012550.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Sun, 28 Jun 2026 07:41:00 +0530  
+**🏦 Bank:** AU  
 
-**📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
-
----
-
-#### 4. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
-
-**📝 Summary:** Federal Bank said on 30th April 2026 that its board has approved a plan to buy a select portfolio of retail credit cards from Standard Chartered Bank&#8217;s India unit.
+**📝 Summary:** Homebuyers have won a significant victory in Tamil Nadu, with the Real Estate Appellate Tribunal (TNREAT) allowing them to appoint independent engineers to inspect properties for construction defects.
 
 ---
 
-#### 5. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
+#### 3. [Bank failed to return Rs 5 lakh FD after maturity; Kerala HC directs bank to repay FD with 12% interest and Rs 10,000 compensation](https://economictimes.indiatimes.com/wealth/legal/will/bank-failed-to-return-rs-5-lakh-fd-after-maturity-kerala-hc-directs-bank-to-repay-fd-with-12-interest-and-rs-10000-compensation/articleshow/131992021.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Sun, 28 Jun 2026 07:41:00 +0530  
 
-**📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+**📝 Summary:** The Kerala High Court has ruled that a bank dealing with public funds owes a duty to its depositors to make prompt payment of the funds deposited by them.
+
+---
+
+#### 4. [5-year Senior citizen FD interest rates up to 8.05%: SBI vs PNB vs HDFC Bank vs other banks](https://economictimes.indiatimes.com/wealth/invest/highest-5-year-senior-citizen-fd-interest-rates-up-to-8-05-sbi-vs-pnb-vs-hdfc-vs-icici/articleshow/132033228.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 27 Jun 2026 16:33:20 +0530  
+**🏦 Bank:** HDFC  
+
+**📝 Summary:** Senior citizens seeking secure investments are finding attractive options in fixed deposits, especially for 5-year tenures.
+
+---
+
+#### 5. [Homebuyer paid for a flat in a Delhi housing society in 2003, got delayed possession, sought compensation for delay; SC defends his right](https://economictimes.indiatimes.com/wealth/real-estate/homebuyer-paid-for-a-flat-in-a-delhi-housing-society-in-2003-got-delayed-possession-sought-compensation-for-delay-sc-defends-his-right/articleshow/132031892.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 27 Jun 2026 15:56:29 +0530  
+
+**📝 Summary:** The SC said that the homebuyer can make a claim for compensation for delayed possession.
 
 ---
 
