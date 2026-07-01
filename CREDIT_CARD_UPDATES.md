@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-01 04:05:29 IST
+**Last Updated:** 2026-07-01 09:51:39 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Indian Railways to hike penalties: Ticketless travel, women's coach entry, misuse of facilities to attract higher fines](https://economictimes.indiatimes.com/wealth/save/indian-railways-to-hike-penalties-from-july-1-2026-ticketless-travel-womens-coach-entry-misuse-of-facilities-to-attract-higher-fines/articleshow/132091475.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 30 Jun 2026 16:18:11 +0530  
-
-**📝 Summary:** New Railway Act amendments, effective July 2026, significantly hike penalties for common travel offenses.
 
 ---
 
