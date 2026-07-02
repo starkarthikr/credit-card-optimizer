@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-02 09:15:46 IST
+**Last Updated:** 2026-07-02 14:05:44 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,20 +49,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Losing airport lounge access on your credit card? Paisabazaar launches PB Pass for Indian, global lounge entry](https://economictimes.indiatimes.com/wealth/spend/losing-airport-lounge-access-on-your-credit-card-paisabazaar-launches-pb-pass-for-indian-global-lounge-entry/articleshow/132115087.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 01 Jul 2026 17:47:33 +0530  
-**🏦 Bank:** AU  
-**💳 Card:** on your credit card  
-
-**📝 Summary:** Paisabazaar has launched PB Pass, a new complimentary airport lounge access program for its credit card users, offering entry to over 1,800 lounges globally.
 
 ---
 
