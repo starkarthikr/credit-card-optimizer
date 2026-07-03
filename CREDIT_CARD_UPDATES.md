@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-03 03:27:52 IST
+**Last Updated:** 2026-07-03 09:21:01 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,20 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [HDFC Bank SmartBuy updates reward rules: Here's how new Brand Voucher reward cap impacts credit card holders](https://economictimes.indiatimes.com/wealth/spend/hdfc-bank-smartbuy-updates-reward-rules-heres-how-new-brand-voucher-reward-cap-impacts-credit-card-holders/slideshow/132156090.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 03 Jul 2026 13:24:24 +0530  
+**🏦 Bank:** HDFC  
+**💳 Card:** cap impacts credit card  
+
+**📝 Summary:** HDFC Bank has introduced a separate monthly cap on accelerated reward points earned through Brand Vouchers (Gyftr/Woohoo) on the SmartBuy platform.
 
 ---
 
