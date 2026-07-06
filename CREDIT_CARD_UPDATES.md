@@ -1,20 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-05 19:20:32 IST
+**Last Updated:** 2026-07-06 03:44:28 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 🏆 Best Card
-
-#### 1. [8th Pay Commission salary calculator: How much arrears can entry-level (Level 1) govt employees get at 2.0, 2.15, 2.28, 2.57 fitment factors?​](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-salary-calculator-how-much-arrears-can-entry-level-level-1-govt-employees-get-at-2-0-2-15-2-28-2-57-fitment-factors/slideshow/132161127.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 03 Jul 2026 17:44:55 +0530  
-
-**📝 Summary:** With the 8th Pay Commission working on to revise salaries of central government employees, many of them have been wondering how much arrears they can receive once the 8th CPC report is implemented.
-
----
 
 
 ### 📰 General Updates
@@ -61,20 +49,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [HDFC Bank SmartBuy updates reward rules: Here's how new Brand Voucher reward cap impacts credit card holders](https://economictimes.indiatimes.com/wealth/spend/hdfc-bank-smartbuy-updates-reward-rules-heres-how-new-brand-voucher-reward-cap-impacts-credit-card-holders/slideshow/132156090.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 03 Jul 2026 13:24:24 +0530  
-**🏦 Bank:** HDFC  
-**💳 Card:** cap impacts credit card  
-
-**📝 Summary:** HDFC Bank has introduced a separate monthly cap on accelerated reward points earned through Brand Vouchers (Gyftr/Woohoo) on the SmartBuy platform.
 
 ---
 
