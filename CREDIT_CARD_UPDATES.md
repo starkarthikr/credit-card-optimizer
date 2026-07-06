@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-06 03:44:28 IST
+**Last Updated:** 2026-07-06 10:26:48 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [This SGB delivers 190% return on premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 2.90 lakh](https://economictimes.indiatimes.com/wealth/invest/this-sgb-delivers-190-return-on-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-2-90-lakh/articleshow/132208912.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 06 Jul 2026 11:44:49 +0530  
+
+**📝 Summary:** Sovereign Gold Bond (SGB) 2020-21 Series-IX investors can now redeem their bonds prematurely from July 4, 2026.
 
 ---
 
