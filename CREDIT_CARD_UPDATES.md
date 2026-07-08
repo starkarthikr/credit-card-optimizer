@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-08 08:31:51 IST
+**Last Updated:** 2026-07-08 14:14:34 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,18 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### 💡 Tricks & Tips
+
+#### 1. [Filing ITR for FY 2025-26? Income Tax Department shares 10 mistakes to avoid and tips to follow](https://economictimes.indiatimes.com/wealth/tax/itr-for-fy-2025-26-ay-26-27-income-tax-department-shares-10-filing-tips-check-tax-regime-ais-form-26as-and-more/articleshow/132259422.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 08 Jul 2026 15:16:18 +0530  
+
+**📝 Summary:** Taxpayers should gather documents and choose the correct tax regime and ITR form.
 
 ---
 
