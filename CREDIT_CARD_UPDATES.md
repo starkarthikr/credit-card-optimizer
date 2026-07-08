@@ -1,20 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-08 02:51:28 IST
+**Last Updated:** 2026-07-08 08:31:51 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 💵 Annual Fee
-
-#### 1. [Waiver of recovery of excess amount paid to central government employees: Finance Ministry to examine proposal to simplify the process](https://economictimes.indiatimes.com/wealth/save/waiver-of-recovery-of-excess-amount-paid-to-central-government-employees-finance-ministry-to-examine-proposal-to-simplify-the-process/articleshow/132229637.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 07 Jul 2026 09:14:07 +0530  
-
-**📝 Summary:** Central government employees' union requested simpler recovery waivers for excess payments.
-
----
 
 
 ### 📰 General Updates
