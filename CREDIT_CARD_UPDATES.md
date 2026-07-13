@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-13 02:57:09 IST
+**Last Updated:** 2026-07-13 09:30:40 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Sovereign Gold Bond investor alert: Check July 2026 premature redemption calendar and schedule](https://economictimes.indiatimes.com/wealth/invest/sovereign-gold-bond-investor-alert-check-july-2026-premature-redemption-calendar-and-schedule/articleshow/132323875.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 11 Jul 2026 10:08:26 +0530  
-
-**📝 Summary:** Sovereign Gold Bonds offer investors a chance for early redemption after five years.
 
 ---
 
