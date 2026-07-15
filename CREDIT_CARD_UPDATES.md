@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-15 02:36:20 IST
+**Last Updated:** 2026-07-15 08:14:18 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,31 +49,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [198% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 2.98 lakh; check details](https://economictimes.indiatimes.com/wealth/invest/198-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-2-98-lakh-check-details/articleshow/132382028.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 14 Jul 2026 11:14:37 +0530  
-
-**📝 Summary:** The Reserve Bank of India has set the premature redemption price for SGB 2020-21 Series-IV.
-
----
-
-#### 2. [ITR 2026: Increased disclosure requirements for overseas investments and foreign assets—are Indian taxpayers ready?](https://economictimes.indiatimes.com/wealth/tax/itr-2026-increased-disclosure-requirements-for-overseas-investments-and-foreign-assetsare-indian-taxpayers-ready/articleshow/132381649.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 14 Jul 2026 10:59:42 +0530  
-
-**📝 Summary:** Indian taxpayers face new disclosure rules for foreign assets and investments.
-
-**✨ Benefits:** Insurance
-
-**🔄 Redemption:** Foreign Equity and Debt Interest Investments in foreign equities and debt instruments, including initial value, peak value, closing value, total gross amounts paid or credited, and proceeds from sale or redemption
 
 ---
 
