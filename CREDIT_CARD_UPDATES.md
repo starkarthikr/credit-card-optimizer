@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-22 02:47:18 IST
+**Last Updated:** 2026-07-22 08:31:40 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,12 +55,14 @@
 
 ### 💰 Reward Points
 
-#### 1. [Rs 1 lakh investment turns into Rs 3.57 lakh in gold bonds: SGB 2019-20 Series premature redemption date today, check if you need to pay capital gains tax](https://economictimes.indiatimes.com/wealth/invest/rs-1-lakh-investment-turns-into-rs-3-57-lakh-in-gold-bonds-sgb-2019-20-series-premature-redemption-date-today-check-if-you-need-to-pay-capital-gains-tax/articleshow/132528912.cms)
+#### 1. [Rs 1 lakh investment in gold bonds turns into Rs 4.49 lakh: SGB 2018-19 Series V premature redemption date today](https://economictimes.indiatimes.com/wealth/invest/rs-1-lakh-investment-in-gold-bonds-turns-into-rs-4-49-lakh-sgb-2018-19-series-v-premature-redemption-date-today/slideshow/132551817.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Tue, 21 Jul 2026 11:19:21 +0530  
+**📅 Published:** Wed, 22 Jul 2026 11:13:08 +0530  
 
-**📝 Summary:** Sovereign gold bonds: The Reserve Bank of India has set the premature redemption price for SGB 2019-20 Series-VIII.
+**📝 Summary:** The Reserve Bank of India (RBI) has announced the premature redemption price for Sovereign Gold Bond SGB 2018-19 Series-V.
+
+**🔄 Redemption:** According to a statement from the central bank, investors will have the option to redeem this SGB tranche prematurely from July 22, 2026
 
 ---
 
