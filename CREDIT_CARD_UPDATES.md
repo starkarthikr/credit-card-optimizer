@@ -1,54 +1,67 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-24 08:29:40 IST
+**Last Updated:** 2026-07-24 13:48:35 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
+### 🏆 Best Card
+
+#### 1. [8th Pay Commission: How much basic salary hike can Level 11-14 employees get at 2-2.57 fitment factors? See estimates](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-how-much-basic-salary-hike-can-level-11-14-employees-get-at-2-2-57-fitment-factors-see-estimates/slideshow/132605445.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 24 Jul 2026 17:52:51 +0530  
+
+**📝 Summary:** The fitment factor is expected to be one of the most important elements in the payout revision of government employees and pensioners in the 8th Pay Commission.
+
+---
+
+
 ### 📰 General Updates
 
-#### 1. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
+#### 1. [Is government launching minimum pension scheme for all citizens? Ministry responds in Parliament](https://economictimes.indiatimes.com/wealth/save/is-government-launching-minimum-pension-scheme-for-all-citizens-ministry-responds-in-parliament/articleshow/132602381.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 13 May 2026 12:37:59 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 24 Jul 2026 15:56:39 +0530  
+**🏦 Bank:** CITI  
 
-**📝 Summary:** Good news for frequent travellers in the UK as American Express has now added ALL Accor as a new Membership Rewards transfer partner.
-
----
-
-#### 2. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
-
-**📝 Summary:** Air India is back with its much-loved&#160;Maharaja Club Points Fest, and this year it is bigger than ever.
+**📝 Summary:** Parliament heard that the government has no minimum pension scheme plans.
 
 ---
 
-#### 3. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
+#### 2. [Rebuilding capital markets: Binance outlines the shift towards tokenised financial infrastructure](https://economictimes.indiatimes.com/wealth/invest/rebuilding-capital-markets-binance-outlines-the-shift-towards-tokenised-financial-infrastructure/articleshow/132601929.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 24 Jul 2026 15:52:52 +0530  
 
-**📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
-
----
-
-#### 4. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
-
-**📝 Summary:** Federal Bank said on 30th April 2026 that its board has approved a plan to buy a select portfolio of retail credit cards from Standard Chartered Bank&#8217;s India unit.
+**📝 Summary:** Traditional finance markets are transforming through digital ledger technology.
 
 ---
 
-#### 5. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
+#### 3. [Marriage registration alone isn't enough: Gujarat HC says Hindu marriage is invalid without Saptapadi](https://economictimes.indiatimes.com/wealth/legal/will/marriage-registration-alone-isnt-enough-gujarat-hc-says-hindu-marriage-is-invalid-without-saptapadi/articleshow/132599253.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 24 Jul 2026 14:53:35 +0530  
 
-**📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+**📝 Summary:** Husband working in wife's father's company says she got his signatures on marriage documents without consent; Gujarat HC rules marriage invalid as no Hindu marriage ceremonies including 'Saptapadi'...
+
+---
+
+#### 4. [8th Pay Commission: On demand of Old Pension Scheme by various employee bodies, government says this in Parliament](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-news-on-demand-of-old-pension-scheme-by-various-employee-bodies-government-says-this-in-parliament/articleshow/132600472.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 24 Jul 2026 14:06:49 +0530  
+
+**📝 Summary:** 8th Pay Commission latest news: Central government employee bodies are demanding the Old Pension Scheme's restoration from the 8th Pay Commission.
+
+---
+
+#### 5. [Rs 9,330 crore lying in the inoperative EPF accounts; is your account also one of them; here's how to claim fund](https://economictimes.indiatimes.com/wealth/save/epfo-rs-9330-crore-lying-in-the-inoperative-epf-accounts-is-your-account-also-one-of-them-heres-how-to-claim-fund/articleshow/132589869.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 24 Jul 2026 13:47:05 +0530  
+
+**📝 Summary:** Credit card update: Rs 9,330 crore lying in the inoperative EPF accounts; is your account also one of them; here's how to claim fund
 
 ---
 
