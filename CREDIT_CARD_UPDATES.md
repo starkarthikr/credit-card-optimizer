@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-25 02:47:32 IST
+**Last Updated:** 2026-07-25 08:08:20 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -19,48 +19,48 @@
 
 ### 📰 General Updates
 
-#### 1. [Are gifts given to NRIs by relatives taxable? Here's what you need to know about income tax and FEMA rules](https://economictimes.indiatimes.com/wealth/tax/are-gifts-given-to-nris-by-relatives-taxable-heres-what-you-need-to-know-about-income-tax-and-fema-rules/articleshow/132617658.cms)
+#### 1. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 25 Jul 2026 07:49:25 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 13 May 2026 12:37:59 +0000  
 
-**📝 Summary:** NRIs receiving gifts from resident Indians face varying tax implications.
-
----
-
-#### 2. [As gold and silver prices recover in a week, what should precious metal investors do now?](https://economictimes.indiatimes.com/wealth/invest/as-gold-and-silver-rates-recover-in-a-week-what-should-precious-metal-investors-do-now/articleshow/132605749.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 25 Jul 2026 07:00:00 +0530  
-
-**📝 Summary:** Gold and silver prices saw a mild recovery last week on the MCX.
+**📝 Summary:** Good news for frequent travellers in the UK as American Express has now added ALL Accor as a new Membership Rewards transfer partner.
 
 ---
 
-#### 3. [Wealth wisdom: ‘Single most important factor to getting rich is…’ - Personal finance insight from Indian-origin millionaire that actually works](https://economictimes.indiatimes.com/wealth/invest/ramit-sethi-single-most-important-factor-getting-rich-wealth-wisdom-personal-finance-insight-from-indian-origin-millionaire-that-works/articleshow/132605633.cms)
+#### 2. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 25 Jul 2026 07:00:00 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
 
-**📝 Summary:** Indian-origin millionaire shares practical wealth-building lessons, investing tips and the single most important factor behind getting rich and achieving financial freedom.
-
----
-
-#### 4. [Saturday bank holiday: Are banks open or closed today on July 25, 2026?](https://economictimes.indiatimes.com/wealth/save/saturday-bank-holiday-are-banks-open-or-closed-today-on-july-25-2026/articleshow/132605278.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 25 Jul 2026 07:00:00 +0530  
-
-**📝 Summary:** Banks across India will remain closed on Saturday.
+**📝 Summary:** Air India is back with its much-loved&#160;Maharaja Club Points Fest, and this year it is bigger than ever.
 
 ---
 
-#### 5. [India vs US: Where should US-based NRIs invest their money?](https://economictimes.indiatimes.com/wealth/invest/india-vs-us-where-should-us-based-nris-invest-their-money/articleshow/132602081.cms)
+#### 3. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 25 Jul 2026 06:30:00 +0530  
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
-**📝 Summary:** US-based NRIs should align investments with future financial needs and currency.
+**📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
+
+---
+
+#### 4. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
+
+**📝 Summary:** Federal Bank said on 30th April 2026 that its board has approved a plan to buy a select portfolio of retail credit cards from Standard Chartered Bank&#8217;s India unit.
+
+---
+
+#### 5. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
+
+**📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
 
 ---
 
