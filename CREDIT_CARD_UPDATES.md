@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-25 08:08:20 IST
+**Last Updated:** 2026-07-25 13:37:47 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -19,48 +19,48 @@
 
 ### 📰 General Updates
 
-#### 1. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
+#### 1. [EPF calculator: How much PF corpus can you generate with Rs 25,000 basic pay and 30 years of service?](https://economictimes.indiatimes.com/wealth/invest/epf-calculator-how-much-pf-corpus-can-you-generate-with-rs-25000-basic-pay-and-30-years-of-service/articleshow/132623391.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 13 May 2026 12:37:59 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 25 Jul 2026 15:46:07 +0530  
 
-**📝 Summary:** Good news for frequent travellers in the UK as American Express has now added ALL Accor as a new Membership Rewards transfer partner.
-
----
-
-#### 2. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
-
-**📝 Summary:** Air India is back with its much-loved&#160;Maharaja Club Points Fest, and this year it is bigger than ever.
+**📝 Summary:** An Employees Provident Fund subscriber could accumulate over Rs 1.
 
 ---
 
-#### 3. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
+#### 2. [Homebuyer finds water leakages and seepage issues weeks after buying flat; Telangana RERA orders builder to relay terrace flooring, carry out waterproofing work](https://economictimes.indiatimes.com/wealth/legal/will/homebuyer-finds-water-leakages-and-seepage-issues-weeks-after-buying-flat-telangana-rera-orders-builder-to-relay-terrace-flooring-carry-out-waterproofing-work/articleshow/132619785.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 25 Jul 2026 12:27:14 +0530  
 
-**📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
-
----
-
-#### 4. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
-
-**📝 Summary:** Federal Bank said on 30th April 2026 that its board has approved a plan to buy a select portfolio of retail credit cards from Standard Chartered Bank&#8217;s India unit.
+**📝 Summary:** Builder ordered by TGRERA to relay terrace flooring and execute comprehensive waterproof treatment to ensure a permanent solution to resolve the water seepage issues in new apartment.
 
 ---
 
-#### 5. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
+#### 3. [Can you get income tax notice for UPI, NEFT, RTGS or IMPS transactions? CA explains when your transactions may come under scrutiny](https://economictimes.indiatimes.com/wealth/tax/can-you-get-income-tax-notice-for-upi-neft-rtgs-or-imps-transactions-ca-explains-when-your-transactions-may-come-under-scrutiny/slideshow/132620635.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 25 Jul 2026 12:14:32 +0530  
 
-**📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+**📝 Summary:** Many taxpayers worry that receiving or sending money through the Unified Payments Interface (UPI), National Electronic Funds Transfer (NEFT), Real Time Gross Settlement (RTGS) and Immediate Payment...
+
+---
+
+#### 4. [SC sets aside dismissal of employee who alleged it to be biased action but withdrew his allegation; Court says withdrawal doesn’t erase apprehension &amp; orders fresh probe](https://economictimes.indiatimes.com/wealth/legal/will/sc-sets-aside-dismissal-of-employee-who-alleged-it-to-be-biased-action-but-withdrew-his-allegation-court-says-withdrawal-doesnt-erase-apprehension-orders-fresh-probe/articleshow/132620133.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 25 Jul 2026 12:04:08 +0530  
+
+**📝 Summary:** Supreme Court sets aside employee dismissal over bias allegations which he later on withdrew; Court says withdrawal of allegations doesn't erase apprehension, orders fresh probe.
+
+---
+
+#### 5. [22k gold rate today: Check 18k, 20k, 22k, 24k gold prices (July 25, 2026) at Tanishq, Malabar Gold &amp; Diamonds, Joyalukkas, Kalyan Jewellers and IBJA](https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-18k-20k-22k-24k-gold-prices-july-25-2026-at-tanishq-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-ibja/articleshow/132619758.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 25 Jul 2026 11:17:19 +0530  
+
+**📝 Summary:** Gold rate today: Gold prices showed a marginal increase at select Indian jewellery brands today.
 
 ---
 
