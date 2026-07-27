@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-26 19:13:45 IST
+**Last Updated:** 2026-07-27 03:21:05 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,19 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Credit card rewards are changing: Here's how travellers and reward seekers can maximise points and miles](https://economictimes.indiatimes.com/wealth/borrow/credit-card-rewards-are-changing-heres-how-travellers-and-reward-seekers-can-maximise-points-and-miles/articleshow/132618217.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 27 Jul 2026 06:30:00 +0530  
+**💳 Card:** Credit card  
+
+**📝 Summary:** Banks increasingly reward engagement rather than ownership.
 
 ---
 
