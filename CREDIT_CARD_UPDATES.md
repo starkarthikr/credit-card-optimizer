@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-28 08:36:17 IST
+**Last Updated:** 2026-07-28 14:10:21 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -61,19 +61,6 @@
 **📅 Published:** Tue, 28 Jul 2026 09:43:50 +0530  
 
 **📝 Summary:** Getting married doesn't merge your tax identity with your spouse's.
-
----
-
-#### 2. [10 bank app settings you're probably ignoring and hackers are counting on it](https://economictimes.indiatimes.com/wealth/spend/10-bank-app-settings-youre-probably-ignoring-and-hackers-are-counting-on-it/slideshow/132674280.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 28 Jul 2026 08:52:01 +0530  
-
-**📝 Summary:** Most people set up their banking app once and never look back.
-
-**💡 Optimization Tips:**
-
-- But hackers, scammers, and even old devices you forgot about could still have a way in
 
 ---
 
