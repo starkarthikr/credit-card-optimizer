@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-29 02:46:47 IST
+**Last Updated:** 2026-07-29 08:43:08 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,19 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [5 credit cards with complimentary airport lounge access without any minimum spend criteria in 2026: One of them is lifetime free](https://economictimes.indiatimes.com/wealth/spend/5-credit-cards-with-complimentary-airport-lounge-access-without-any-minimum-spend-criteria-in-2026-one-of-them-is-lifetime-free/articleshow/132681974.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 29 Jul 2026 11:50:52 +0530  
+**💳 Card:** credit card  
+
+**📝 Summary:** Looking for credit cards with free airport lounge access.
 
 ---
 
