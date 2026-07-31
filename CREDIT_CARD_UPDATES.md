@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-07-31 08:51:37 IST
+**Last Updated:** 2026-07-31 14:10:39 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,21 +49,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Planning an international trip? BookMyForex card now offers cashback, hotel booking discounts and airport transfer voucher](https://economictimes.indiatimes.com/wealth/spend/planning-an-international-trip-bookmyforex-card-now-offers-cashback-hotel-booking-discounts-and-airport-transfer-voucher/slideshow/132738748.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 30 Jul 2026 17:12:03 +0530  
-**💳 Card:** BookMyForex card  
-
-**📝 Summary:** BookMyForex, a MakeMyTrip subsidiary, has introduced a travel rewards programme for its forex card users.
-
-**✨ Benefits:** Complimentary
 
 ---
 
