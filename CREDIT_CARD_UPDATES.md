@@ -1,8 +1,21 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-07 07:17:59 IST
+**Last Updated:** 2026-08-07 13:07:07 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### ⚠️ Devaluation
+
+#### 1. [Good news for HDFC Bank borrowers: Lending rates reduced across multiple tenures; check latest list](https://economictimes.indiatimes.com/wealth/borrow/latest-hdfc-mclr-loan-lending-interest-rates-2026-top-lender-trims-rates-for-borrowers/articleshow/133034012.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 07 Aug 2026 18:02:56 +0530  
+**🏦 Bank:** HDFC  
+
+**📝 Summary:** In a strategic move, HDFC Bank has reduced its MCLR rates across various tenures by as much as five basis points, effective from August 7, 2026.
+
+---
 
 
 ### 📰 General Updates
