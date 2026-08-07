@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-07 00:03:28 IST
+**Last Updated:** 2026-08-07 07:17:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,39 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [200% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into nearly Rs 3 lakh](https://economictimes.indiatimes.com/wealth/invest/200-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-lakh/articleshow/133023610.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 07 Aug 2026 11:33:33 +0530  
+
+**📝 Summary:** The Reserve Bank of India has announced the redemption price for the SGB 2020-21 Series-XI, set at Rs 14,564 per unit.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [GIFT City for NRIs: How to invest in India in dollars without rupee conversion](https://economictimes.indiatimes.com/wealth/invest/gift-city-for-nris-how-to-invest-in-india-in-dollars-without-rupee-conversion/slideshow/133025300.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 07 Aug 2026 12:13:47 +0530  
+
+**📝 Summary:** GIFT City enables NRIs and OCIs to invest in India through an International Financial Services Centre (IFSC).
+
+---
+
+#### 2. [Chennai Real Estate 2026: 8 localities to buy a home for living, rental income or future growth](https://economictimes.indiatimes.com/wealth/real-estate/chennai-real-estate-2026-8-localities-to-buy-a-home-for-living-rental-income-or-future-growth/slideshow/133020796.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 07 Aug 2026 09:40:47 +0530  
+
+**📝 Summary:** India's most end-user-driven metro market is quietly re-ratingChennai has never been India's flashiest property market—and that is precisely its strength in 2026.
 
 ---
 
