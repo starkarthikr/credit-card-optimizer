@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-08 06:55:45 IST
+**Last Updated:** 2026-08-08 12:51:13 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -75,30 +75,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [200% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into nearly Rs 3 lakh](https://economictimes.indiatimes.com/wealth/invest/200-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-lakh/articleshow/133023610.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 07 Aug 2026 11:33:33 +0530  
-
-**📝 Summary:** The Reserve Bank of India has announced the redemption price for the SGB 2020-21 Series-XI, set at Rs 14,564 per unit.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [GIFT City for NRIs: How to invest in India in dollars without rupee conversion](https://economictimes.indiatimes.com/wealth/invest/gift-city-for-nris-how-to-invest-in-india-in-dollars-without-rupee-conversion/slideshow/133025300.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 07 Aug 2026 12:13:47 +0530  
-
-**📝 Summary:** GIFT City enables NRIs and OCIs to invest in India through an International Financial Services Centre (IFSC).
 
 ---
 
