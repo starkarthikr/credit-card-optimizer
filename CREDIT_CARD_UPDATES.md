@@ -1,8 +1,21 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-08 01:45:27 IST
+**Last Updated:** 2026-08-08 06:55:45 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 🏆 Best Card
+
+#### 1. [Highest FCNR (B) FD interest rates for NRIs: PNB offers 6.50%, compare SBI, HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank rates](https://economictimes.indiatimes.com/wealth/invest/highest-fcnr-b-fd-interest-rates-for-nris-pnb-offers-6-50-compare-sbi-hdfc-bank-icici-axis-bank-and-kotak-mahindra-bank-rates/slideshow/133046955.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 08 Aug 2026 10:41:07 +0530  
+**🏦 Bank:** HDFC  
+
+**📝 Summary:** Ever since the government has announced that it would cover the hedging costs on FCNR (B) deposits of three to five years until September 30, 2026, Foreign Currency Non-Resident (Bank), or FCNR(B),...
+
+---
 
 
 ### ⚠️ Devaluation
@@ -86,15 +99,6 @@
 **📅 Published:** Fri, 07 Aug 2026 12:13:47 +0530  
 
 **📝 Summary:** GIFT City enables NRIs and OCIs to invest in India through an International Financial Services Centre (IFSC).
-
----
-
-#### 2. [Chennai Real Estate 2026: 8 localities to buy a home for living, rental income or future growth](https://economictimes.indiatimes.com/wealth/real-estate/chennai-real-estate-2026-8-localities-to-buy-a-home-for-living-rental-income-or-future-growth/slideshow/133020796.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 07 Aug 2026 09:40:47 +0530  
-
-**📝 Summary:** India's most end-user-driven metro market is quietly re-ratingChennai has never been India's flashiest property market—and that is precisely its strength in 2026.
 
 ---
 
