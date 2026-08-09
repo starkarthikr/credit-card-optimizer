@@ -15,7 +15,7 @@ feedparser>=6.0.10
 python-dateutil>=2.8.2
 
 # Data analysis for expense import
-pandas>=2.2.0
+pandas>=3.0.2
 
 # Transitive dependencies - Security updates
 urllib3>=2.2.0  # CVE-2024-37891 fixed
