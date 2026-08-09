@@ -9,7 +9,7 @@ requests>=2.32.4
 beautifulsoup4>=4.12.0
 
 # RSS/Atom feed parsing
-feedparser>=6.0.10
+feedparser>=6.0.12
 
 # Date handling
 python-dateutil>=2.8.2
