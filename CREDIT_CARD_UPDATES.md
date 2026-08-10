@@ -1,34 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-09 18:42:25 IST
+**Last Updated:** 2026-08-10 01:59:51 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 🏆 Best Card
-
-#### 1. [Highest FCNR (B) FD interest rates for NRIs: PNB offers 6.50%, compare SBI, HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank rates](https://economictimes.indiatimes.com/wealth/invest/highest-fcnr-b-fd-interest-rates-for-nris-pnb-offers-6-50-compare-sbi-hdfc-bank-icici-axis-bank-and-kotak-mahindra-bank-rates/slideshow/133046955.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 08 Aug 2026 10:41:07 +0530  
-**🏦 Bank:** HDFC  
-
-**📝 Summary:** Ever since the government has announced that it would cover the hedging costs on FCNR (B) deposits of three to five years until September 30, 2026, Foreign Currency Non-Resident (Bank), or FCNR(B),...
-
----
-
-
-### ⚠️ Devaluation
-
-#### 1. [Good news for HDFC Bank borrowers: Lending rates reduced across multiple tenures; check latest list](https://economictimes.indiatimes.com/wealth/borrow/latest-hdfc-mclr-loan-lending-interest-rates-2026-top-lender-trims-rates-for-borrowers/articleshow/133034012.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 07 Aug 2026 18:02:56 +0530  
-**🏦 Bank:** HDFC  
-
-**📝 Summary:** In a strategic move, HDFC Bank has reduced its MCLR rates across various tenures by as much as five basis points, effective from August 7, 2026.
-
----
 
 
 ### 📰 General Updates
