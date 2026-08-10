@@ -1,8 +1,29 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-10 07:44:24 IST
+**Last Updated:** 2026-08-10 13:11:51 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 🏆 Best Card
+
+#### 1. [8th Pay Commission salary calculator: How a 6% annual increment could boost Level 10 &amp;12 pay](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-salary-calculator-how-a-6-annual-increment-could-boost-level-10-12-pay/slideshow/133092431.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 10 Aug 2026 14:04:23 +0530  
+
+**📝 Summary:** Employee and pensioner groups have urged the 8th Pay Commission to raise the annual increment rate from the current 3% to 5–7%.
+
+---
+
+#### 2. [8th Pay Commission news: Minimum salary of Rs 69,000 and minimum pension of Rs 45,000; what Bharat Pension Samaj recommended to 8th CPC](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-newscalculator-report-minimum-salary-of-rs-69000-and-pension-of-rs-45000-what-bharat-pension-samaj-recommended-to-8th-cpc/articleshow/133090127.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 10 Aug 2026 13:11:40 +0530  
+
+**📝 Summary:** 8th Pay Commission fitment factor: Bharat Pensioners Samaj met 8th Pay Commission officials proposing a minimum pension of Rs 45,000.
+
+---
 
 
 ### 📰 General Updates
