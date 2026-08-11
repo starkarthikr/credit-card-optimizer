@@ -1,29 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-11 01:51:33 IST
+**Last Updated:** 2026-08-11 07:10:34 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 🏆 Best Card
-
-#### 1. [8th Pay Commission salary calculator: How a 6% annual increment could boost Level 10 &amp;12 pay](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-salary-calculator-how-a-6-annual-increment-could-boost-level-10-12-pay/slideshow/133092431.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 10 Aug 2026 14:04:23 +0530  
-
-**📝 Summary:** Employee and pensioner groups have urged the 8th Pay Commission to raise the annual increment rate from the current 3% to 5–7%.
-
----
-
-#### 2. [8th Pay Commission news: Minimum salary of Rs 69,000 and minimum pension of Rs 45,000; what Bharat Pension Samaj recommended to 8th CPC](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-newscalculator-report-minimum-salary-of-rs-69000-and-pension-of-rs-45000-what-bharat-pension-samaj-recommended-to-8th-cpc/articleshow/133090127.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 10 Aug 2026 13:11:40 +0530  
-
-**📝 Summary:** 8th Pay Commission fitment factor: Bharat Pensioners Samaj met 8th Pay Commission officials proposing a minimum pension of Rs 45,000.
-
----
 
 
 ### 📰 General Updates
@@ -70,6 +49,32 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [Sovereign Gold Bond premature redemption date today: Check August 11, 2026, SGB redemption price, returns on Rs 1 investments](https://economictimes.indiatimes.com/wealth/invest/sovereign-gold-bond-premature-redemption-date-today-check-august-11-2026-sgb-redemption-price-returns-on-rs-1-investments/articleshow/133144056.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 11 Aug 2026 11:57:00 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** Sovereign Gold Bond: The Reserve Bank of India has revealed the redemption prices for select gold bond series, which can be redeemed prematurely after a five-year period from their issuance.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Zero forex markup credit cards: Does it mean zero cost? Check this before your international travel](https://economictimes.indiatimes.com/wealth/spend/zero-forex-markup-credit-cards-does-it-mean-zero-cost-check-this-before-your-international-travel/articleshow/133142336.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 11 Aug 2026 10:23:58 +0530  
+**💳 Card:** forex markup credit card  
+
+**📝 Summary:** Planning an international trip.
 
 ---
 
