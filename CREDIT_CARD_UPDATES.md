@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-11 07:10:34 IST
+**Last Updated:** 2026-08-11 13:08:22 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -68,7 +68,18 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Zero forex markup credit cards: Does it mean zero cost? Check this before your international travel](https://economictimes.indiatimes.com/wealth/spend/zero-forex-markup-credit-cards-does-it-mean-zero-cost-check-this-before-your-international-travel/articleshow/133142336.cms)
+#### 1. [Jeevan Pramaan Patra submission for NRI pensioners: 4 ways Indians living abroad can submit life certificate without travelling to India](https://economictimes.indiatimes.com/wealth/save/jeevan-pramaan-patra-submission-for-nri-pensioners-4-ways-indians-living-abroad-can-submit-life-certificate-without-travelling-to-india/slideshow/133153467.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 11 Aug 2026 17:22:11 +0530  
+**🏦 Bank:** AU  
+**💳 Card:** Aadhaar card  
+
+**📝 Summary:** It is necessary for every central government pensioner or family pensioner to submit their Jeevan Pramaan Patra (life certificate) to continue receiving their pension amount.
+
+---
+
+#### 2. [Zero forex markup credit cards: Does it mean zero cost? Check this before your international travel](https://economictimes.indiatimes.com/wealth/spend/zero-forex-markup-credit-cards-does-it-mean-zero-cost-check-this-before-your-international-travel/articleshow/133142336.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Tue, 11 Aug 2026 10:23:58 +0530  
