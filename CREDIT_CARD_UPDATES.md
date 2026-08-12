@@ -1,8 +1,34 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-11 19:03:22 IST
+**Last Updated:** 2026-08-12 02:06:05 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 🏆 Best Card
+
+#### 1. [Highest FCNR (B) FD interest rates for NRIs: PNB offers 6.50%, compare SBI, HDFC Bank, ICICI Bank, Axis Bank and Kotak Mahindra Bank rates](https://economictimes.indiatimes.com/wealth/invest/highest-fcnr-b-fd-interest-rates-for-nris-pnb-offers-6-50-compare-sbi-hdfc-bank-icici-axis-bank-and-kotak-mahindra-bank-rates/slideshow/133046955.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 08 Aug 2026 10:41:07 +0530  
+**🏦 Bank:** HDFC  
+
+**📝 Summary:** Ever since the government has announced that it would cover the hedging costs on FCNR (B) deposits of three to five years until September 30, 2026, Foreign Currency Non-Resident (Bank), or FCNR(B),...
+
+---
+
+
+### ⚠️ Devaluation
+
+#### 1. [Good news for HDFC Bank borrowers: Lending rates reduced across multiple tenures; check latest list](https://economictimes.indiatimes.com/wealth/borrow/latest-hdfc-mclr-loan-lending-interest-rates-2026-top-lender-trims-rates-for-borrowers/articleshow/133034012.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 07 Aug 2026 18:02:56 +0530  
+**🏦 Bank:** HDFC  
+
+**📝 Summary:** In a strategic move, HDFC Bank has reduced its MCLR rates across various tenures by as much as five basis points, effective from August 7, 2026.
+
+---
 
 
 ### 📰 General Updates
@@ -49,43 +75,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Sovereign Gold Bond premature redemption date today: Check August 11, 2026, SGB redemption price, returns on Rs 1 investments](https://economictimes.indiatimes.com/wealth/invest/sovereign-gold-bond-premature-redemption-date-today-check-august-11-2026-sgb-redemption-price-returns-on-rs-1-investments/articleshow/133144056.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 11 Aug 2026 11:57:00 +0530  
-**🏦 Bank:** AU  
-
-**📝 Summary:** Sovereign Gold Bond: The Reserve Bank of India has revealed the redemption prices for select gold bond series, which can be redeemed prematurely after a five-year period from their issuance.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Jeevan Pramaan Patra submission for NRI pensioners: 4 ways Indians living abroad can submit life certificate without travelling to India](https://economictimes.indiatimes.com/wealth/save/jeevan-pramaan-patra-submission-for-nri-pensioners-4-ways-indians-living-abroad-can-submit-life-certificate-without-travelling-to-india/slideshow/133153467.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 11 Aug 2026 17:22:11 +0530  
-**🏦 Bank:** AU  
-**💳 Card:** Aadhaar card  
-
-**📝 Summary:** It is necessary for every central government pensioner or family pensioner to submit their Jeevan Pramaan Patra (life certificate) to continue receiving their pension amount.
-
----
-
-#### 2. [Zero forex markup credit cards: Does it mean zero cost? Check this before your international travel](https://economictimes.indiatimes.com/wealth/spend/zero-forex-markup-credit-cards-does-it-mean-zero-cost-check-this-before-your-international-travel/articleshow/133142336.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 11 Aug 2026 10:23:58 +0530  
-**💳 Card:** forex markup credit card  
-
-**📝 Summary:** Planning an international trip.
 
 ---
 
