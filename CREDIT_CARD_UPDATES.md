@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-12 07:26:46 IST
+**Last Updated:** 2026-08-12 13:12:29 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,16 +53,14 @@
 ---
 
 
-### ✈️ Travel Benefits
+### 💰 Reward Points
 
-#### 1. [Jeevan Pramaan Patra submission for NRI pensioners: 4 ways Indians living abroad can submit life certificate without travelling to India](https://economictimes.indiatimes.com/wealth/save/jeevan-pramaan-patra-submission-for-nri-pensioners-4-ways-indians-living-abroad-can-submit-life-certificate-without-travelling-to-india/slideshow/133153467.cms)
+#### 1. [361% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.61 lakh](https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-ibja-361-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-4-61-lakh/articleshow/133174804.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Tue, 11 Aug 2026 17:22:11 +0530  
-**🏦 Bank:** AU  
-**💳 Card:** Aadhaar card  
+**📅 Published:** Wed, 12 Aug 2026 13:06:18 +0530  
 
-**📝 Summary:** It is necessary for every central government pensioner or family pensioner to submit their Jeevan Pramaan Patra (life certificate) to continue receiving their pension amount.
+**📝 Summary:** SGB premature redemption date: The Reserve Bank of India has announced the premature redemption price for the SGB 2018-19 Series VI, allowing investors to redeem their bonds starting August 12, 202...
 
 ---
 
