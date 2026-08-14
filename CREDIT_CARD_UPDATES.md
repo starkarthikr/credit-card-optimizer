@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-14 02:04:00 IST
+**Last Updated:** 2026-08-14 07:26:36 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,9 +53,33 @@
 ---
 
 
+### 💰 Reward Points
+
+#### 1. [Rs 1 lakh SGB investment turns into Rs 4.44 lakh: 344% return on 2019-20 Series III; check premature redemption details](https://economictimes.indiatimes.com/wealth/invest/rs-1-lakh-sgb-investment-turns-into-rs-4-44-lakh-344-return-on-2019-20-series-iii-check-premature-redemption-details/slideshow/133230837.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 14 Aug 2026 11:52:43 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** The Reserve Bank of India (RBI) has announced the premature redemption price for Sovereign Gold Bond SGB 2019-20 Series III - Issue date August 14, 2019.
+
+**🔄 Redemption:** According to a statement from the Central Bank, investors will have the option to redeem this SGB tranche prematurely from August 14, 2026
+
+---
+
+
 ### ✈️ Travel Benefits
 
-#### 1. [7 debit cards with complimentary airport lounge access in 2026: These might just be sitting in your wallet! 3 are without minimum spend criteria](https://economictimes.indiatimes.com/wealth/spend/7-debit-cards-with-complimentary-airport-lounge-access-in-2026-these-might-just-be-sitting-in-your-wallet-3-are-without-minimum-spend-criteria/articleshow/133203282.cms)
+#### 1. [Bengaluru real estate 2026: 8 hotspots with new projects and prices for IT pros, investors and more](https://economictimes.indiatimes.com/wealth/real-estate/bengaluru-real-estate-2026-8-hotspots-with-new-projects-and-prices-for-it-pros-investors-and-more/slideshow/133228550.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 14 Aug 2026 09:21:30 +0530  
+
+**📝 Summary:** Bengaluru's residential market continues to expand across established IT corridors, airport-linked North Bengaluru and emerging suburban locations.
+
+---
+
+#### 2. [7 debit cards with complimentary airport lounge access in 2026: These might just be sitting in your wallet! 3 have no spend criteria](https://economictimes.indiatimes.com/wealth/spend/7-debit-cards-with-complimentary-airport-lounge-access-in-2026-these-might-just-be-sitting-in-your-wallet-3-are-without-minimum-spend-criteria/articleshow/133203282.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Thu, 13 Aug 2026 16:24:07 +0530  
