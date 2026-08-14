@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-14 07:26:36 IST
+**Last Updated:** 2026-08-14 13:09:06 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -70,25 +70,25 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Bengaluru real estate 2026: 8 hotspots with new projects and prices for IT pros, investors and more](https://economictimes.indiatimes.com/wealth/real-estate/bengaluru-real-estate-2026-8-hotspots-with-new-projects-and-prices-for-it-pros-investors-and-more/slideshow/133228550.cms)
+#### 1. [Husband with Rs 11,000/month income ordered to pay Rs 25,000 monthly maintenance to wife, child with 5% annual increase; here's what Delhi HC said](https://economictimes.indiatimes.com/wealth/legal/will/husband-with-rs-11000/month-income-ordered-to-pay-rs-25000-monthly-maintenance-to-wife-child-with-5-annual-increase-heres-what-delhi-hc-said/articleshow/133235420.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 14 Aug 2026 16:23:06 +0530  
+**🏦 Bank:** AU  
+**💳 Card:** debit card  
+
+**📝 Summary:** The husband said his salary hasn't grown since his job began and claimed to earn just Rs 11,000 a month despite a UK hospitality degree, but Delhi HC wasn't convinced.
+
+**✨ Benefits:** Lounge Access, Complimentary
+
+---
+
+#### 2. [Bengaluru real estate 2026: 8 hotspots with new projects and prices for IT pros, investors and more](https://economictimes.indiatimes.com/wealth/real-estate/bengaluru-real-estate-2026-8-hotspots-with-new-projects-and-prices-for-it-pros-investors-and-more/slideshow/133228550.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 14 Aug 2026 09:21:30 +0530  
 
 **📝 Summary:** Bengaluru's residential market continues to expand across established IT corridors, airport-linked North Bengaluru and emerging suburban locations.
-
----
-
-#### 2. [7 debit cards with complimentary airport lounge access in 2026: These might just be sitting in your wallet! 3 have no spend criteria](https://economictimes.indiatimes.com/wealth/spend/7-debit-cards-with-complimentary-airport-lounge-access-in-2026-these-might-just-be-sitting-in-your-wallet-3-are-without-minimum-spend-criteria/articleshow/133203282.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 13 Aug 2026 16:24:07 +0530  
-**🏦 Bank:** AU  
-**💳 Card:** criteria 5 credit card  
-
-**📝 Summary:** Credit cards aren't the only way to unlock free airport lounge access.
-
-**✨ Benefits:** Lounge Access, Complimentary
 
 ---
 
