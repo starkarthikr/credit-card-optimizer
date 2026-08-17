@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-16 18:30:48 IST
+**Last Updated:** 2026-08-17 01:20:47 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,37 +49,6 @@
 **📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
 
 **📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Rs 1 lakh SGB investment turns into Rs 4.44 lakh: 344% return on 2019-20 Series III; check premature redemption details](https://economictimes.indiatimes.com/wealth/invest/rs-1-lakh-sgb-investment-turns-into-rs-4-44-lakh-344-return-on-2019-20-series-iii-check-premature-redemption-details/slideshow/133230837.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 14 Aug 2026 11:52:43 +0530  
-**🏦 Bank:** AU  
-
-**📝 Summary:** The Reserve Bank of India (RBI) has announced the premature redemption price for Sovereign Gold Bond SGB 2019-20 Series III - Issue date August 14, 2019.
-
-**🔄 Redemption:** According to a statement from the Central Bank, investors will have the option to redeem this SGB tranche prematurely from August 14, 2026
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Husband with Rs 11,000/month income ordered to pay Rs 25,000 monthly maintenance to wife, child with 5% annual increase; here's what Delhi HC said](https://economictimes.indiatimes.com/wealth/legal/will/husband-with-rs-11000/month-income-ordered-to-pay-rs-25000-monthly-maintenance-to-wife-child-with-5-annual-increase-heres-what-delhi-hc-said/articleshow/133235420.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 14 Aug 2026 16:23:06 +0530  
-**🏦 Bank:** AU  
-**💳 Card:** debit card  
-
-**📝 Summary:** The husband said his salary hasn't grown since his job began and claimed to earn just Rs 11,000 a month despite a UK hospitality degree, but Delhi HC wasn't convinced.
-
-**✨ Benefits:** Lounge Access, Complimentary
 
 ---
 
