@@ -1,8 +1,21 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-19 06:46:06 IST
+**Last Updated:** 2026-08-19 12:50:08 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### ⚠️ Devaluation
+
+#### 1. [Latest SBI FD interest rates: State Bank of India has reduced rates by 25 bps on these fixed deposits](https://economictimes.indiatimes.com/wealth/invest/latest-sbi-fd-interest-rates-state-bank-of-india-has-reduced-rates-by-25-bps-on-these-fixed-deposits/articleshow/133342488.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 19 Aug 2026 14:21:11 +0530  
+**🏦 Bank:** SBI  
+
+**📝 Summary:** SBI FD interest rates: The State Bank of India implemented a reduction in interest rates for select bulk term deposits.
+
+---
 
 
 ### 📰 General Updates
@@ -55,15 +68,12 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Want free airport lounge access without minimum spend? Check these 5 credit cards](https://economictimes.indiatimes.com/wealth/spend/credit-cards/want-free-airport-lounge-access-without-minimum-spend-check-these-5-credit-cards/slideshow/133314782.cms)
+#### 1. [RAC train ticket became waitlisted, passenger had to travel standing; he filed a case against Railways and won Rs 5000 compensation](https://economictimes.indiatimes.com/wealth/legal/will/rac-train-ticket-became-waitlisted-passenger-had-to-travel-standing-he-filed-a-case-against-railways-and-won-rs-5000-compensation/articleshow/133342496.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Tue, 18 Aug 2026 12:43:23 +0530  
-**💳 Card:** these 5 credit card  
+**📅 Published:** Wed, 19 Aug 2026 14:50:24 +0530  
 
-**📝 Summary:** The highly sought-after complimentary airport lounge access feature on credit cards is becoming harder to get.
-
-**✨ Benefits:** Lounge Access, Complimentary
+**📝 Summary:** Man booked RAC-43 sleeper class ticket for Rs 399 to travel to village from Anand Vihar, however ticket’s status was changed to waitlist after chart was prepared; he filed a case and won Rs 5000 co...
 
 ---
 
