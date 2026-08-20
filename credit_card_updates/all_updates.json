@@ -1,6 +1,13 @@
 [
   {
     "source": "Cardexpert",
+    "title": "Amex Membership Rewards Just Got Better: Improved Transfers to Virgin Atlantic & Hilton",
+    "link": "https://www.cardexpert.in/amex-mr-points-improved-transfers-virgin-atlantic-hilton/",
+    "published": "Thu, 20 Aug 2026 17:34:05 +0000",
+    "summary": "After a long time of repetitive bad news for Amex India cardholders, we finally have something to smile about."
+  },
+  {
+    "source": "Cardexpert",
     "title": "American Express adds Accor as Points Transfer Partner but in the UK",
     "link": "https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/",
     "published": "Wed, 13 May 2026 12:37:59 +0000",
@@ -63,11 +70,23 @@
     "summary": "Credit card update: Visa Cardholders: Get Your FREE Travelgoogoo eSIM with 2GB Data"
   },
   {
-    "source": "Cardexpert",
-    "title": "Visa Power Travel Offer: Earn Extra 20% Rewards on your Visa Card Spends",
-    "link": "https://www.cardexpert.in/visa-power-travel-offer-april-2026/",
-    "published": "Wed, 22 Apr 2026 08:33:35 +0000",
-    "summary": "Planning an international trip this year."
+    "source": "Economic Times",
+    "title": "Can NRIs open joint FCNR (B) accounts with resident Indian relatives? Know what the latest rules say",
+    "link": "https://economictimes.indiatimes.com/wealth/save/can-nris-open-joint-fcnr-b-accounts-with-resident-indian-relatives-know-what-the-latest-rules-say/articleshow/133378432.cms",
+    "published": "Thu, 20 Aug 2026 18:31:10 +0530",
+    "summary": "Non-Resident Indians are allowed to set up joint FCNR (B) accounts with their resident family members.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
   },
   {
     "source": "Economic Times",
@@ -333,25 +352,6 @@
       "optimization_tips": [],
       "redemption_info": null,
       "category": "Travel Benefits"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "22k gold rate today: Check 18k, 20k, 22k, 24k gold prices (August 19, 2026) at Tanishq, Malabar Gold &amp; Diamonds, Joyalukkas, Kalyan Jewellers and IBJA",
-    "link": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-18k-20k-22k-24k-gold-prices-august-19-2026-at-tanishq-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-ibja/articleshow/133343018.cms",
-    "published": "Wed, 19 Aug 2026 14:36:37 +0530",
-    "summary": "GOld rate today: Gold prices dropped today at prominent Indian jewellery outlets, including Tanishq, Malabar Gold &amp; Diamonds, Kalyan Jewellers, and Joyalukkas.",
-    "card_info": {
-      "card_name": null,
-      "bank": "AU",
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
     }
   }
 ]

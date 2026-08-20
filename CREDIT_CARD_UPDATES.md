@@ -1,13 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-20 12:52:17 IST
+**Last Updated:** 2026-08-20 18:40:45 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 📰 General Updates
 
-#### 1. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
+#### 1. [Amex Membership Rewards Just Got Better: Improved Transfers to Virgin Atlantic & Hilton](https://www.cardexpert.in/amex-mr-points-improved-transfers-virgin-atlantic-hilton/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Thu, 20 Aug 2026 17:34:05 +0000  
+
+**📝 Summary:** After a long time of repetitive bad news for Amex India cardholders, we finally have something to smile about.
+
+---
+
+#### 2. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 13 May 2026 12:37:59 +0000  
@@ -16,7 +25,7 @@
 
 ---
 
-#### 2. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
+#### 3. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
@@ -25,7 +34,7 @@
 
 ---
 
-#### 3. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
+#### 4. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
@@ -34,21 +43,12 @@
 
 ---
 
-#### 4. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
+#### 5. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
 
 **📝 Summary:** Federal Bank said on 30th April 2026 that its board has approved a plan to buy a select portfolio of retail credit cards from Standard Chartered Bank&#8217;s India unit.
-
----
-
-#### 5. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
-
-**📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
 
 ---
 
