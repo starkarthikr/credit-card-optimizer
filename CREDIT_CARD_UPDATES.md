@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-20 01:18:52 IST
+**Last Updated:** 2026-08-20 06:48:55 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -68,7 +68,16 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [RAC train ticket became waitlisted, passenger had to travel standing; he filed a case against Railways and won Rs 5000 compensation](https://economictimes.indiatimes.com/wealth/legal/will/rac-train-ticket-became-waitlisted-passenger-had-to-travel-standing-he-filed-a-case-against-railways-and-won-rs-5000-compensation/articleshow/133342496.cms)
+#### 1. [Motilal Oswal’s buy-sell-hold call: Bata, VA Tech Wabag…6 midcap &amp; smallcap stocks to watch](https://economictimes.indiatimes.com/wealth/invest/motilal-oswals-buy-sell-hold-call-bata-va-tech-wabag6-midcap-smallcap-stocks-to-watch/slideshow/133363443.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 20 Aug 2026 09:11:47 +0530  
+
+**📝 Summary:** While headline indices grabbed attention, a different story played out in the midcap and smallcap space.
+
+---
+
+#### 2. [RAC train ticket became waitlisted, passenger had to travel standing; he filed a case against Railways and won Rs 5000 compensation](https://economictimes.indiatimes.com/wealth/legal/will/rac-train-ticket-became-waitlisted-passenger-had-to-travel-standing-he-filed-a-case-against-railways-and-won-rs-5000-compensation/articleshow/133342496.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Wed, 19 Aug 2026 14:50:24 +0530  
