@@ -1,21 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-20 06:48:55 IST
+**Last Updated:** 2026-08-20 12:52:17 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### ⚠️ Devaluation
-
-#### 1. [Latest SBI FD interest rates: State Bank of India has reduced rates by 25 bps on these fixed deposits](https://economictimes.indiatimes.com/wealth/invest/latest-sbi-fd-interest-rates-state-bank-of-india-has-reduced-rates-by-25-bps-on-these-fixed-deposits/articleshow/133342488.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 19 Aug 2026 14:21:11 +0530  
-**🏦 Bank:** SBI  
-
-**📝 Summary:** SBI FD interest rates: The State Bank of India implemented a reduction in interest rates for select bulk term deposits.
-
----
 
 
 ### 📰 General Updates
