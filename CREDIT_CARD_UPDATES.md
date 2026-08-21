@@ -1,8 +1,20 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-21 01:22:27 IST
+**Last Updated:** 2026-08-21 06:50:13 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### ⚠️ Devaluation
+
+#### 1. [Plant 500 trees and explain Rs 11.22 crore additional income: A rare direction from ITAT Chandigarh asks taxpayer with Rs 1.79 lakh income shown in ITR](https://economictimes.indiatimes.com/wealth/tax/plant-500-trees-and-explain-rs-11-22-crore-additional-income-a-rare-direction-from-itat-chandigarh-asks-taxpayer-with-rs-1-79-lakh-income-shown-in-itr/articleshow/133377720.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 21 Aug 2026 07:10:00 +0530  
+
+**📝 Summary:** This Haryana man's case was picked up for scrutiny, and during the proceedings the Assessing Officer found large cash deposits, unsecured loans worth crores, and discovered that the Rs 3 lakh agric...
+
+---
 
 
 ### 📰 General Updates
@@ -49,27 +61,6 @@
 **📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
 
 **📝 Summary:** Federal Bank said on 30th April 2026 that its board has approved a plan to buy a select portfolio of retail credit cards from Standard Chartered Bank&#8217;s India unit.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Motilal Oswal’s buy-sell-hold call: Bata, VA Tech Wabag…6 midcap &amp; smallcap stocks to watch](https://economictimes.indiatimes.com/wealth/invest/motilal-oswals-buy-sell-hold-call-bata-va-tech-wabag6-midcap-smallcap-stocks-to-watch/slideshow/133363443.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 20 Aug 2026 09:11:47 +0530  
-
-**📝 Summary:** While headline indices grabbed attention, a different story played out in the midcap and smallcap space.
-
----
-
-#### 2. [RAC train ticket became waitlisted, passenger had to travel standing; he filed a case against Railways and won Rs 5000 compensation](https://economictimes.indiatimes.com/wealth/legal/will/rac-train-ticket-became-waitlisted-passenger-had-to-travel-standing-he-filed-a-case-against-railways-and-won-rs-5000-compensation/articleshow/133342496.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 19 Aug 2026 14:50:24 +0530  
-
-**📝 Summary:** Man booked RAC-43 sleeper class ticket for Rs 399 to travel to village from Anand Vihar, however ticket’s status was changed to waitlist after chart was prepared; he filed a case and won Rs 5000 co...
 
 ---
 
