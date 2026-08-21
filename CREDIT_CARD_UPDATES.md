@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-21 06:50:13 IST
+**Last Updated:** 2026-08-21 12:50:39 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -19,7 +19,16 @@
 
 ### 📰 General Updates
 
-#### 1. [Amex Membership Rewards Just Got Better: Improved Transfers to Virgin Atlantic & Hilton](https://www.cardexpert.in/amex-mr-points-improved-transfers-virgin-atlantic-hilton/)
+#### 1. [Club ITC Offer: Earn up to 50,000 Bonus Green Points on Your Hotel Stays](https://www.cardexpert.in/club-itc-offer-50000-bonus-green-points/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 21 Aug 2026 07:03:06 +0000  
+
+**📝 Summary:** Most hotel loyalty offers give you a small benefit, including most Marriott offers these days.
+
+---
+
+#### 2. [Amex Membership Rewards Just Got Better: Improved Transfers to Virgin Atlantic & Hilton](https://www.cardexpert.in/amex-mr-points-improved-transfers-virgin-atlantic-hilton/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Thu, 20 Aug 2026 17:34:05 +0000  
@@ -28,7 +37,7 @@
 
 ---
 
-#### 2. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
+#### 3. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Wed, 13 May 2026 12:37:59 +0000  
@@ -37,7 +46,7 @@
 
 ---
 
-#### 3. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
+#### 4. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
@@ -46,7 +55,7 @@
 
 ---
 
-#### 4. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
+#### 5. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
 
 **📡 Source:** Cardexpert  
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
@@ -55,12 +64,19 @@
 
 ---
 
-#### 5. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
+### ✈️ Travel Benefits
 
-**📝 Summary:** Federal Bank said on 30th April 2026 that its board has approved a plan to buy a select portfolio of retail credit cards from Standard Chartered Bank&#8217;s India unit.
+#### 1. [Axis Bank credit card rule changes: Check new charges, revised lounge access and reward rules from August 28, 2026](https://economictimes.indiatimes.com/wealth/spend/axis-bank-credit-card-rule-changes-check-new-charges-revised-lounge-access-and-reward-rules-from-august-28-2026/slideshow/133402118.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 21 Aug 2026 16:19:34 +0530  
+**🏦 Bank:** AXIS  
+**💳 Card:** Axis Bank credit card  
+
+**📝 Summary:** Axis Bank is making several changes to the terms and charges applicable to its Axis Bank credit cards from August 28, 2026.
+
+**✨ Benefits:** Lounge Access
 
 ---
 
