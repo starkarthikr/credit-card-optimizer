@@ -1,20 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-21 18:38:16 IST
+**Last Updated:** 2026-08-22 01:18:06 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### ⚠️ Devaluation
-
-#### 1. [Plant 500 trees and explain Rs 11.22 crore additional income: A rare direction from ITAT Chandigarh asks taxpayer with Rs 1.79 lakh income shown in ITR](https://economictimes.indiatimes.com/wealth/tax/plant-500-trees-and-explain-rs-11-22-crore-additional-income-a-rare-direction-from-itat-chandigarh-asks-taxpayer-with-rs-1-79-lakh-income-shown-in-itr/articleshow/133377720.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 21 Aug 2026 07:10:00 +0530  
-
-**📝 Summary:** This Haryana man's case was picked up for scrutiny, and during the proceedings the Assessing Officer found large cash deposits, unsecured loans worth crores, and discovered that the Rs 3 lakh agric...
-
----
 
 
 ### 📰 General Updates
