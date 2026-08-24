@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-23 18:31:16 IST
+**Last Updated:** 2026-08-24 01:22:29 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,30 +53,14 @@
 ---
 
 
-### 💰 Reward Points
-
-#### 1. [Gold bond premature redemption calendar for October 2026-March 2027 released: Check all SGB exit dates to redeem your investments](https://economictimes.indiatimes.com/wealth/invest/gold-bond-premature-redemption-calendar-for-october-2026-march-2027-released/articleshow/133404741.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 21 Aug 2026 18:17:22 +0530  
-
-**📝 Summary:** The Reserve Bank of India has set specific premature redemption windows for Sovereign Gold Bonds, allowing investors to withdraw funds between October 2026 and March 2027.
-
----
-
-
 ### ✈️ Travel Benefits
 
-#### 1. [Axis Bank credit card rule changes: Check new charges, revised lounge access and reward rules from August 28, 2026](https://economictimes.indiatimes.com/wealth/spend/axis-bank-credit-card-rule-changes-check-new-charges-revised-lounge-access-and-reward-rules-from-august-28-2026/slideshow/133402118.cms)
+#### 1. [Frequent traveller? Know about status matching and how to use existing loyalty programmes to get another](https://economictimes.indiatimes.com/wealth/spend/frequent-traveller-know-about-status-matching-and-how-to-use-existing-loyalty-programmes-to-get-another/articleshow/133416775.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Fri, 21 Aug 2026 16:19:34 +0530  
-**🏦 Bank:** AXIS  
-**💳 Card:** Axis Bank credit card  
+**📅 Published:** Mon, 24 Aug 2026 06:30:00 +0530  
 
-**📝 Summary:** Axis Bank is making several changes to the terms and charges applicable to its Axis Bank credit cards from August 28, 2026.
-
-**✨ Benefits:** Lounge Access
+**📝 Summary:** A status match essentially allows one loyalty programme to recognise your credentials from another.
 
 ---
 
