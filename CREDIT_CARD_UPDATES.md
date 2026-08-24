@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-24 01:22:29 IST
+**Last Updated:** 2026-08-24 07:00:46 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,7 +55,16 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Frequent traveller? Know about status matching and how to use existing loyalty programmes to get another](https://economictimes.indiatimes.com/wealth/spend/frequent-traveller-know-about-status-matching-and-how-to-use-existing-loyalty-programmes-to-get-another/articleshow/133416775.cms)
+#### 1. [Ixigo and 2 more Indian travel &amp; tourism stocks just got a "buy" call; here's why analysts are betting big](https://economictimes.indiatimes.com/wealth/invest/these-3-indian-travel-stocks-just-got-a-buy-call-heres-why-analysts-are-betting-big/slideshow/133452164.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 24 Aug 2026 10:59:34 +0530  
+
+**📝 Summary:** India's online travel market is set to nearly double from ₹2,079 billion to ₹3,835 billion by 2028, growing at roughly 13% a year, more than double the global industry's pace.
+
+---
+
+#### 2. [Frequent traveller? Know about status matching and how to use existing loyalty programmes to get another](https://economictimes.indiatimes.com/wealth/spend/frequent-traveller-know-about-status-matching-and-how-to-use-existing-loyalty-programmes-to-get-another/articleshow/133416775.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Mon, 24 Aug 2026 06:30:00 +0530  
