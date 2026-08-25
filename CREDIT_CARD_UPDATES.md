@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-25 01:19:54 IST
+**Last Updated:** 2026-08-25 06:50:32 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [Ixigo and 2 more Indian travel &amp; tourism stocks just got a "buy" call; here's why analysts are betting big](https://economictimes.indiatimes.com/wealth/invest/these-3-indian-travel-stocks-just-got-a-buy-call-heres-why-analysts-are-betting-big/slideshow/133452164.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 24 Aug 2026 10:59:34 +0530  
-
-**📝 Summary:** India's online travel market is set to nearly double from ₹2,079 billion to ₹3,835 billion by 2028, growing at roughly 13% a year, more than double the global industry's pace.
 
 ---
 
