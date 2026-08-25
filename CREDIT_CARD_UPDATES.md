@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-25 06:50:32 IST
+**Last Updated:** 2026-08-25 12:49:57 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,20 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [RBI SGB premature redemption calendar 2026-27: Check October-March exit dates and request period for your gold bond investment](https://economictimes.indiatimes.com/wealth/invest/rbi-sgb-premature-redemption-calendar-2026-27-check-october-march-exit-dates-and-request-period-for-your-gold-bond-investment/slideshow/133509570.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 25 Aug 2026 17:15:21 +0530  
+
+**📝 Summary:** The Reserve Bank of India (RBI) has released Sovereign Gold Bond (SGB) premature redemption dates for October 2026 – March 2027.
+
+**🔄 Redemption:** The Reserve Bank of India (RBI) has released Sovereign Gold Bond (SGB) premature redemption dates for October 2026 – March 2027
 
 ---
 
