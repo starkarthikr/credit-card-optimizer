@@ -1,8 +1,24 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-26 01:23:05 IST
+**Last Updated:** 2026-08-26 06:51:58 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 💵 Annual Fee
+
+#### 1. [7 debit cards for free airport lounge access: Check fees, visits and eligibility](https://economictimes.indiatimes.com/wealth/spend/7-debit-cards-for-free-airport-lounge-access-check-fees-visits-and-eligibility/slideshow/133532299.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 26 Aug 2026 11:48:32 +0530  
+**🏦 Bank:** ICICI  
+**💳 Card:** debit card  
+
+**📝 Summary:** The ICICI Coral Plus Debit Card offers up to 12 domestic airport lounge visits a year, with a maximum of four visits per quarter.
+
+**✨ Benefits:** Movie Ticket
+
+---
 
 
 ### 📰 General Updates
