@@ -1,24 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-27 08:05:58 IST
+**Last Updated:** 2026-08-27 21:56:07 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 💵 Annual Fee
-
-#### 1. [7 debit cards for free airport lounge access: Check fees, visits and eligibility](https://economictimes.indiatimes.com/wealth/spend/7-debit-cards-for-free-airport-lounge-access-check-fees-visits-and-eligibility/slideshow/133533054.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 26 Aug 2026 12:27:06 +0530  
-**🏦 Bank:** ICICI  
-**💳 Card:** debit card  
-
-**📝 Summary:** The ICICI Coral Plus Debit Card offers up to 12 domestic airport lounge visits a year, with a maximum of four visits per quarter.
-
-**✨ Benefits:** Movie Ticket
-
----
 
 
 ### 📰 General Updates
@@ -65,20 +49,6 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [5 women’s savings accounts offering up to 6% interest, insurance and lounge access](https://economictimes.indiatimes.com/wealth/save/5-womens-savings-accounts-offering-up-to-6-interest-insurance-and-lounge-access/slideshow/133537537.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 26 Aug 2026 15:43:31 +0530  
-
-**📝 Summary:** The type of bank account you have can really affect a lot of things, ranging from the interest you earn on your money, the fees for the locker to insurance benefits.
-
-**✨ Benefits:** Insurance
 
 ---
 
