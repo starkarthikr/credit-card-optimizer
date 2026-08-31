@@ -1,8 +1,20 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-30 20:43:01 IST
+**Last Updated:** 2026-08-31 04:20:37 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### ⚠️ Devaluation
+
+#### 1. [Finance Act 2026: Updated return rules change for taxpayers reporting reduced losses](https://economictimes.indiatimes.com/wealth/tax/finance-act-2026-updated-return-rules-change-for-taxpayers-reporting-reduced-losses/articleshow/133596062.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 31 Aug 2026 06:30:00 +0530  
+
+**📝 Summary:** The Finance Act, 2026, has plugged a significant gap.
+
+---
 
 
 ### 📰 General Updates
@@ -49,18 +61,6 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Man receives $3.14 lakh from redemption of Bermuda-focused fund; Income Tax Dept considers it black money, imposes Rs 1.8 crore penalty and tax, but he wins case in ITAT Delhi](https://economictimes.indiatimes.com/wealth/tax/man-receives-3-14-lakh-from-redemption-of-bermuda-focused-fund-income-tax-dept-considers-it-black-money-imposes-rs-1-8-crore-penalty-and-tax-but-he-wins-case-in-itat-delhi/articleshow/133589885.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 28 Aug 2026 16:41:11 +0530  
-
-**📝 Summary:** Indian man working in Singapore gets $3.
 
 ---
 
