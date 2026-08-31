@@ -1,18 +1,18 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-08-31 04:20:37 IST
+**Last Updated:** 2026-08-31 12:59:45 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### ⚠️ Devaluation
 
-#### 1. [Finance Act 2026: Updated return rules change for taxpayers reporting reduced losses](https://economictimes.indiatimes.com/wealth/tax/finance-act-2026-updated-return-rules-change-for-taxpayers-reporting-reduced-losses/articleshow/133596062.cms)
+#### 1. [8th Pay Commission pension calculator: ₹6.72 lakh more? See how 11-year commutation could change pension benefits](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-pension-calculator-6-72-lakh-more-see-how-11-year-commutation-could-change-pension-benefits/slideshow/133641441.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 31 Aug 2026 06:30:00 +0530  
+**📅 Published:** Mon, 31 Aug 2026 09:49:38 +0530  
 
-**📝 Summary:** The Finance Act, 2026, has plugged a significant gap.
+**📝 Summary:** ​Central government pensioners can commute up to 40% of basic pension as a lump sum at retirement.
 
 ---
 
