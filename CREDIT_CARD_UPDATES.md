@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-02 03:27:30 IST
+**Last Updated:** 2026-09-02 10:50:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,28 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Unlimited airport lounge access for 1 year: Paisabazaar launches limited-period PB Pass offer](https://economictimes.indiatimes.com/wealth/spend/unlimited-airport-lounge-access-for-1-year-paisabazaar-launches-limited-period-pb-pass-offer/articleshow/133705597.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 02 Sep 2026 15:14:47 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** All consumers who take a new credit card through the Paisabazaar platform during the offer period (until the end of September) would be eligible for a PB Pass.
+
+---
+
+#### 2. [Panvel property prices jump 76%; 42,330 houses added: What’s driving this realty boom?](https://economictimes.indiatimes.com/wealth/real-estate/panvel-property-prices-jump-76-42330-houses-added-whats-driving-this-realty-boom/slideshow/133697471.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 02 Sep 2026 09:41:41 +0530  
+
+**📝 Summary:** Panvel’s residential price index surged to 176 by H1 2026, up 76% from 2021, according to an ANAROCK report.
 
 ---
 
