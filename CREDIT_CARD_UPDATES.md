@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-02 16:09:30 IST
+**Last Updated:** 2026-09-02 20:40:50 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -62,15 +62,6 @@
 **🏦 Bank:** AU  
 
 **📝 Summary:** All consumers who take a new credit card through the Paisabazaar platform during the offer period (until the end of September) would be eligible for a PB Pass.
-
----
-
-#### 2. [Panvel property prices jump 76%; 42,330 houses added: What’s driving this realty boom?](https://economictimes.indiatimes.com/wealth/real-estate/panvel-property-prices-jump-76-42330-houses-added-whats-driving-this-realty-boom/slideshow/133697471.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 02 Sep 2026 09:41:41 +0530  
-
-**📝 Summary:** Panvel’s residential price index surged to 176 by H1 2026, up 76% from 2021, according to an ANAROCK report.
 
 ---
 
