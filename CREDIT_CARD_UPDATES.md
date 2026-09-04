@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-04 03:26:44 IST
+**Last Updated:** 2026-09-04 10:50:09 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,19 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Lifetime free credit card for travel: Unlimited airport lounge access, 10% rewards on UPI transactions – Is this new co-branded card for you?](https://economictimes.indiatimes.com/wealth/spend/scapia-axis-bank-credit-card-lifetime-free-card-for-travel-unlimited-airport-lounge-access-10-rewards-on-upi-transactions-is-this-new-co-branded-card-for-you/articleshow/133757200.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 04 Sep 2026 14:43:55 +0530  
+**💳 Card:** Lifetime free credit card  
+
+**📝 Summary:** How about a card that not only offers airport privileges but also earns rewards on every eligible spend and UPI transaction, with zero forex markup on international transactions.
 
 ---
 
