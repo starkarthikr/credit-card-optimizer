@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-04 10:50:09 IST
+**Last Updated:** 2026-09-04 15:56:17 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,11 +55,20 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Lifetime free credit card for travel: Unlimited airport lounge access, 10% rewards on UPI transactions – Is this new co-branded card for you?](https://economictimes.indiatimes.com/wealth/spend/scapia-axis-bank-credit-card-lifetime-free-card-for-travel-unlimited-airport-lounge-access-10-rewards-on-upi-transactions-is-this-new-co-branded-card-for-you/articleshow/133757200.cms)
+#### 1. [Air India’s Maharaja Club members can earn points on hotel stays worldwide as airline joins hands with IHG Hotels &amp; Resorts](https://economictimes.indiatimes.com/wealth/earn/air-india-ihg-hotels-resorts-deal-how-maharaja-club-members-can-earn-points-on-hotel-stays-worldwide/articleshow/133762167.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 04 Sep 2026 17:51:57 +0530  
+
+**📝 Summary:** Air India has teamed up with IHG Hotels &amp; Resorts, providing an exciting opportunity for Maharaja Club members to earn points during IHG stays globally.
+
+---
+
+#### 2. [Lifetime free travel credit card: Unlimited airport lounge access, 10% rewards on UPI transactions – Is this new co-branded card for you?](https://economictimes.indiatimes.com/wealth/spend/scapia-axis-bank-credit-card-lifetime-free-card-for-travel-unlimited-airport-lounge-access-10-rewards-on-upi-transactions-is-this-new-co-branded-card-for-you/articleshow/133757200.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 04 Sep 2026 14:43:55 +0530  
-**💳 Card:** Lifetime free credit card  
+**💳 Card:** free travel credit card  
 
 **📝 Summary:** How about a card that not only offers airport privileges but also earns rewards on every eligible spend and UPI transaction, with zero forex markup on international transactions.
 
