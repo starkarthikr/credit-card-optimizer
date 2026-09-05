@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-05 03:28:32 IST
+**Last Updated:** 2026-09-05 10:08:36 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,6 +53,18 @@
 ---
 
 
+### 💰 Reward Points
+
+#### 1. [228% return on SGB premature redemption date today: Gold bond turns Rs 1 lakh investment into nearly Rs 3.28 lakh](https://economictimes.indiatimes.com/wealth/invest/228-return-on-sgb-premature-redemption-date-today-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-28-lakh/articleshow/133786729.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 05 Sep 2026 09:42:06 +0530  
+
+**📝 Summary:** The Reserve Bank of India has announced the premature redemption terms for the SGB 2021-22 Series VI gold bond.
+
+---
+
+
 ### ✈️ Travel Benefits
 
 #### 1. [Air India’s Maharaja Club members can earn points on hotel stays worldwide as airline joins hands with IHG Hotels &amp; Resorts](https://economictimes.indiatimes.com/wealth/earn/air-india-ihg-hotels-resorts-deal-how-maharaja-club-members-can-earn-points-on-hotel-stays-worldwide/articleshow/133762167.cms)
@@ -64,11 +76,11 @@
 
 ---
 
-#### 2. [Lifetime free travel credit card: Unlimited airport lounge access, 10% rewards on UPI transactions – Is this new co-branded card for you?](https://economictimes.indiatimes.com/wealth/spend/scapia-axis-bank-credit-card-lifetime-free-card-for-travel-unlimited-airport-lounge-access-10-rewards-on-upi-transactions-is-this-new-co-branded-card-for-you/articleshow/133757200.cms)
+#### 2. [Zero-fee travel credit card: Unlimited airport lounge access, 10% rewards on UPI transactions – Is this new co-branded card for you?](https://economictimes.indiatimes.com/wealth/spend/scapia-axis-bank-credit-card-lifetime-free-card-for-travel-unlimited-airport-lounge-access-10-rewards-on-upi-transactions-is-this-new-co-branded-card-for-you/articleshow/133757200.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 04 Sep 2026 14:43:55 +0530  
-**💳 Card:** free travel credit card  
+**💳 Card:** fee travel credit card  
 
 **📝 Summary:** How about a card that not only offers airport privileges but also earns rewards on every eligible spend and UPI transaction, with zero forex markup on international transactions.
 
