@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-07 11:51:53 IST
+**Last Updated:** 2026-09-07 17:28:04 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,20 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [SGB premature redemption date today: Gold bond turns Rs 1 lakh investment into nearly Rs 3.28 lakh](https://economictimes.indiatimes.com/wealth/invest/sgb-premature-redemption-date-today-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-28-lakh/slideshow/133879110.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 07 Sep 2026 16:55:22 +0530  
+
+**📝 Summary:** The Reserve Bank of India (RBI) has announced the premature redemption price for (SGB 2021-22 Series VI - Issue date September 7, 2021).
+
+**🔄 Redemption:** According to a statement from the RBI, gold bond investors will have the option to redeem this SGB tranche prematurely from September 7, 2026
 
 ---
 
