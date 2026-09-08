@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-08 10:48:38 IST
+**Last Updated:** 2026-09-08 16:12:49 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -61,17 +61,6 @@
 **📅 Published:** Tue, 08 Sep 2026 11:25:57 +0530  
 
 **📝 Summary:** The Reserve Bank of India has unveiled the premature redemption terms for a specific series of gold bonds, allowing investors to cash in starting September 8, 2026.
-
----
-
-#### 2. [SGB premature redemption date today: Gold bond turns Rs 1 lakh investment into nearly Rs 3.28 lakh](https://economictimes.indiatimes.com/wealth/invest/sgb-premature-redemption-date-today-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-28-lakh/slideshow/133879110.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 07 Sep 2026 16:55:22 +0530  
-
-**📝 Summary:** The Reserve Bank of India (RBI) has announced the premature redemption price for (SGB 2021-22 Series VI - Issue date September 7, 2021).
-
-**🔄 Redemption:** According to a statement from the RBI, gold bond investors will have the option to redeem this SGB tranche prematurely from September 7, 2026
 
 ---
 
