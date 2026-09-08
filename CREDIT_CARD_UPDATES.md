@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-08 03:34:27 IST
+**Last Updated:** 2026-09-08 10:48:38 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,7 +55,16 @@
 
 ### 💰 Reward Points
 
-#### 1. [SGB premature redemption date today: Gold bond turns Rs 1 lakh investment into nearly Rs 3.28 lakh](https://economictimes.indiatimes.com/wealth/invest/sgb-premature-redemption-date-today-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-28-lakh/slideshow/133879110.cms)
+#### 1. [204% return on SGB premature redemption date today: Gold bond turns Rs 1 lakh investment into nearly Rs 3.04 lakh](https://economictimes.indiatimes.com/wealth/invest/204-return-on-sgb-premature-redemption-date-today-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-04-lakh/articleshow/133910293.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 08 Sep 2026 11:25:57 +0530  
+
+**📝 Summary:** The Reserve Bank of India has unveiled the premature redemption terms for a specific series of gold bonds, allowing investors to cash in starting September 8, 2026.
+
+---
+
+#### 2. [SGB premature redemption date today: Gold bond turns Rs 1 lakh investment into nearly Rs 3.28 lakh](https://economictimes.indiatimes.com/wealth/invest/sgb-premature-redemption-date-today-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-28-lakh/slideshow/133879110.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Mon, 07 Sep 2026 16:55:22 +0530  
