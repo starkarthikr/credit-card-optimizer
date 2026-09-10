@@ -1,20 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-10 03:36:44 IST
+**Last Updated:** 2026-09-10 10:51:32 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 🏆 Best Card
-
-#### 1. [8th Pay Commission: Will fitment factor or a higher annual increment give a bigger salary hike on Rs 30,000–Rs 40,000 basic pay?](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-will-fitment-factor-or-a-higher-annual-increment-give-a-bigger-salary-hike-on-rs-30000rs-40000-basic-pay/slideshow/133959087.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 09 Sep 2026 13:14:01 +0530  
-
-**📝 Summary:** Employee and pensioner bodies have recommended increasing the annual increment rate from the current 3% to 5%-7% under the 8th Pay Commission.
-
----
 
 
 ### 📰 General Updates
@@ -61,18 +49,6 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [233% return on SGB premature redemption date today: Gold bond turns Rs 1 lakh investment into nearly Rs 3.33 lakh](https://economictimes.indiatimes.com/wealth/invest/233-return-on-sgb-premature-redemption-date-today-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-33-lakh/articleshow/133956314.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 09 Sep 2026 12:21:46 +0530  
-
-**📝 Summary:** The Reserve Bank of India has announced the premature redemption price for the gold bond series.
 
 ---
 
