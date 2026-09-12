@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-12 03:39:20 IST
+**Last Updated:** 2026-09-12 10:16:47 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,18 +49,6 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [264% return on SGB premature redemption date today: Gold bond turns Rs 1 lakh investment into Rs 3.64 lakh](https://economictimes.indiatimes.com/wealth/invest/264-return-on-sgb-premature-redemption-date-today-gold-bond-turns-rs-1-lakh-investment-into-rs-3-64-lakh/articleshow/134046822.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 11 Sep 2026 10:47:17 +0530  
-
-**📝 Summary:** The Reserve Bank of India has revealed the early redemption price for a particular series of gold bonds.
 
 ---
 
