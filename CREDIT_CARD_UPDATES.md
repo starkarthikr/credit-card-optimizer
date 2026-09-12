@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-12 10:16:47 IST
+**Last Updated:** 2026-09-12 15:11:26 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,19 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Rs 6.42 lakh travel expense disallowed as business expenditure over use of wife’s credit card; businessman contests tax order, wins relief in ITAT Mumbai](https://economictimes.indiatimes.com/wealth/legal/will/rs-6-42-lakh-travel-expense-disallowed-as-business-expenditure-over-use-of-wifes-credit-card-businessman-contests-tax-order-wins-relief-in-itat-mumbai/articleshow/134126429.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 12 Sep 2026 16:50:04 +0530  
+**💳 Card:** credit card  
+
+**📝 Summary:** Credit card update: Rs 6.42 lakh travel expense disallowed as business expenditure over use of wife’s credit card; businessman contests tax order, wins relief in ITAT Mumbai
 
 ---
 
