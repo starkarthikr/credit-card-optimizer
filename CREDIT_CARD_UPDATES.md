@@ -1,8 +1,20 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-15 03:54:13 IST
+**Last Updated:** 2026-09-15 11:19:02 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### ⚠️ Devaluation
+
+#### 1. [NRI woman declared Rs 43,796 income in ITR but didn’t report Rs 14 lakh interest; faced 200% penalty – how she got it reduced to 50% in ITAT](https://economictimes.indiatimes.com/wealth/tax/nri-woman-declared-rs-43796-income-in-itr-but-didnt-report-rs-14-lakh-interest-faced-200-penalty-how-she-got-it-reduced-to-50-in-itat/articleshow/134257310.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 15 Sep 2026 14:51:14 +0530  
+
+**📝 Summary:** The NRI woman's advocate explained that she is a 57-year-old lady with limited technological knowledge and had entrusted an accountant with all her tax-related compliance; hence, she was not made a...
+
+---
 
 
 ### 📰 General Updates
