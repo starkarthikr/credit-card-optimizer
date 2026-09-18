@@ -1,30 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-18 03:43:54 IST
+**Last Updated:** 2026-09-18 10:45:10 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 🏆 Best Card
-
-#### 1. [Monthly vs quarterly interest credit: You might be losing out on money in your savings bank account - here's how](https://economictimes.indiatimes.com/wealth/earn/monthly-vs-quarterly-interest-credit-you-might-be-losing-out-on-money-in-your-savings-bank-account-heres-how/articleshow/134304307.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 17 Sep 2026 13:42:30 +0530  
-**💳 Card:** summarized format Credit card  
-
-**📝 Summary:** While many banks credit the savings account interest quarterly, there are some that credit the amount monthly.
-
----
-
-#### 2. [8th Pay Commission: ₹58,000 minimum pension for Level 7? Check Level 4–7 math](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-58000-minimum-pension-for-level-7-check-level-47-math/slideshow/134305206.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 17 Sep 2026 13:09:48 +0530  
-
-**📝 Summary:** 8th Pay Commission pension: Level 4-7 pension estimates at 2.
-
----
 
 
 ### 📰 General Updates
@@ -77,12 +55,15 @@
 
 ### 💰 Reward Points
 
-#### 1. [295% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.95 lakh](https://economictimes.indiatimes.com/wealth/invest/295-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-95-lakh/articleshow/134302845.cms)
+#### 1. [Credit card rewards: Why your points may be losing value and how to fix it](https://economictimes.indiatimes.com/wealth/spend/credit-cards/credit-card-rewards-why-your-points-may-be-losing-value-and-how-to-fix-it/slideshow/134325648.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 17 Sep 2026 11:19:08 +0530  
+**📅 Published:** Fri, 18 Sep 2026 09:42:40 +0530  
+**💳 Card:** of how credit card  
 
-**📝 Summary:** Sovereign Gold Bond: The Reserve Bank of India has revealed the early redemption price for a gold bond series known as SGB 2019-20 Series IV.
+**📝 Summary:** Every year, millions of cardholders let their reward points quietly expire or redeem them for pennies on the dollar.
+
+**🔄 Redemption:** Every year, millions of cardholders let their reward points quietly expire or redeem them for pennies on the dollar
 
 ---
 
