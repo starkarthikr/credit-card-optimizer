@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-19 10:29:26 IST
+**Last Updated:** 2026-09-19 15:33:01 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -162,7 +162,7 @@
 
 ---
 
-#### 2. [Earn Double Etihad Guest Miles per ₹100 on Etihad Airways with BOBCARD Etihad Premium Credit Card](https://cardinsider.com/blog/earn-double-etihad-guest-miles-spent-etihad-airways-bobcard-etihad-premium-credit-card/)
+#### 2. [Earn Double Etihad Guest Miles with BOBCARD Etihad Premium Credit Card](https://cardinsider.com/blog/earn-double-etihad-guest-miles-spent-etihad-airways-bobcard-etihad-premium-credit-card/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 17 Sep 2026 09:30:00 +0000  
