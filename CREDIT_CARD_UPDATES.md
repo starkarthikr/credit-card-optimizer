@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-18 20:34:11 IST
+**Last Updated:** 2026-09-19 03:40:30 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,21 +49,6 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
-
----
-
-
-### 💰 Reward Points
-
-#### 1. [Credit card rewards: Why your points may be losing value and how to fix it](https://economictimes.indiatimes.com/wealth/spend/credit-cards/credit-card-rewards-why-your-points-may-be-losing-value-and-how-to-fix-it/slideshow/134325648.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 18 Sep 2026 09:42:40 +0530  
-**💳 Card:** of how credit card  
-
-**📝 Summary:** Every year, millions of cardholders let their reward points quietly expire or redeem them for pennies on the dollar.
-
-**🔄 Redemption:** Every year, millions of cardholders let their reward points quietly expire or redeem them for pennies on the dollar
 
 ---
 
