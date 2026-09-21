@@ -1,8 +1,36 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-21 03:53:54 IST
+**Last Updated:** 2026-09-21 12:15:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 💵 Annual Fee
+
+#### 1. [Axis Bank Rewards Credit Card Now Offered Lifetime Free on American Express Variant](https://cardinsider.com/blog/axis-bank-rewards-credit-card-lifetime-free-american-express/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 21 Sep 2026 10:10:18 +0000  
+**🏦 Bank:** AXIS  
+**💳 Card:** Bank Rewards Credit Card  
+**💵 Fee:** ₹1  
+
+**📝 Summary:** The Axis Bank Rewards Credit Card is now being offered as a Lifetime Free (LTF) credit card on the American Express variant, giving eligible customers an opportunity to get the card without paying ...
+
+**✨ Benefits:** Lounge Access
+
+---
+
+#### 2. [IDFC FIRST Club Vistara Credit Card to Be Discontinued; Existing Cardholders to Be Upgraded to Diamond Reserve](https://cardinsider.com/blog/idfc-first-club-vistara-card-discontinued-diamond-reserve-upgrade/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 21 Sep 2026 09:30:50 +0000  
+**🏦 Bank:** IDFC  
+**💳 Card:** Club Vistara Credit Card  
+
+**📝 Summary:** The Club Vistara IDFC FIRST Credit Card is finally coming to an end, nearly two years after the merger of Vistara and Air India.
+
+---
 
 
 ### 📰 General Updates
@@ -55,7 +83,21 @@
 
 ### 🎁 New Offer
 
-#### 1. [Get Up to ₹2,000 in Travel Vouchers with Amazon Pay ICICI Credit Card](https://cardinsider.com/blog/amazon-pay-icici-credit-card-travel-voucher-offer/)
+#### 1. [Get a Complimentary International eSIM Across 121 Countries with Visa Credit Cards](https://cardinsider.com/blog/complimentary-travelgoogoo-esim-visa-cardholders/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 21 Sep 2026 10:56:31 +0000  
+**💳 Card:** with Visa Credit Card  
+
+**📝 Summary:** Travel smarter and stay effortlessly connected wherever you go with Travelgoogoo and Visa.
+
+**✨ Benefits:** Complimentary
+
+**🔄 Redemption:** Follow these steps to redeem your free Travelgoogoo eSIM: Traveling should be about enjoying the journey, not worrying about staying connected
+
+---
+
+#### 2. [Get Up to ₹2,000 in Travel Vouchers with Amazon Pay ICICI Credit Card](https://cardinsider.com/blog/amazon-pay-icici-credit-card-travel-voucher-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 18 Sep 2026 06:30:07 +0000  
@@ -70,7 +112,7 @@
 
 ---
 
-#### 2. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
+#### 3. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 17 Sep 2026 06:30:55 +0000  
@@ -78,17 +120,6 @@
 **💳 Card:** promotion for credit card  
 
 **📝 Summary:** HSBC has officially rolled out its rewarding zero-forex promotion for credit cardholders in India.
-
----
-
-#### 3. [Huge Discounts Up to ₹15,000 on Apple Products With American Express Credit Cards](https://cardinsider.com/blog/huge-discounts-apple-products-american-express-credit-cards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 15 Sep 2026 06:30:49 +0000  
-**🏦 Bank:** AMERICAN EXPRESS  
-**💳 Card:** American Express Credit Card  
-
-**📝 Summary:** Apple is an extremely popular global brand with an ever-expanding presence in India.
 
 ---
 
@@ -130,19 +161,6 @@
 **📝 Summary:** What if your credit card could do more than just pay for your purchases.
 
 **✨ Benefits:** Lounge Access, Complimentary
-
----
-
-#### 4. [Best Credit Cards for Apple Purchases in India](https://cardinsider.com/blog/best-credit-cards-apple-purchases-india/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 15 Sep 2026 12:30:09 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** with various credit card  
-**💰 Reward:** 5% cashback  
-**💵 Fee:** ₹500  
-
-**📝 Summary:** Ever since the recent launch of the latest iPhone 18 series, Apple has caused a frenzy with its products.
 
 ---
 
@@ -199,27 +217,6 @@
 **✨ Benefits:** Insurance
 
 **🔄 Redemption:** You can redeem these coins through the Scapia platform for flights, hotel stays, buses, trains, visas, and other services offered through the app
-
----
-
-
-### 💡 Tricks & Tips
-
-#### 1. [Should I Upgrade to Amex Platinum Reserve Credit Card?](https://cardinsider.com/blog/should-upgrade-amex-platinum-reserve-credit-card/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 16 Sep 2026 04:00:25 +0000  
-**🏦 Bank:** AMEX  
-**💳 Card:** Platinum Reserve Credit Card  
-**💵 Fee:** ₹10  
-
-**📝 Summary:** Many existing AmEx cardholders have received targeted upgrade offers to the American Express Platinum Reserve Credit Card.
-
-**✨ Benefits:** Complimentary
-
-**💡 Optimization Tips:**
-
-- However, to truly maximize the value of these points, you would need to transfer them to partners like Marriott Bonvoy at a 1:1 ratio, or now even to Virgin
 
 ---
 
