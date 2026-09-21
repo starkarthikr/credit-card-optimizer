@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-21 12:15:59 IST
+**Last Updated:** 2026-09-21 21:47:47 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -83,7 +83,19 @@
 
 ### 🎁 New Offer
 
-#### 1. [Get a Complimentary International eSIM Across 121 Countries with Visa Credit Cards](https://cardinsider.com/blog/complimentary-travelgoogoo-esim-visa-cardholders/)
+#### 1. [HSBC Credit Cardholders Can Earn Up to 6X Rewards on Apple Products via Unicorn Portal](https://cardinsider.com/blog/hsbc-credit-cardholders-earn-rewards-apple-products-unicorn-portal/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 21 Sep 2026 11:30:12 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** the Indian credit card  
+**💰 Reward:** 6X Reward  
+
+**📝 Summary:** HSBC has been expanding aggressively in the Indian credit card market with card revamps, new launches, and attractive offers.
+
+---
+
+#### 2. [Get a Complimentary International eSIM Across 121 Countries with Visa Credit Cards](https://cardinsider.com/blog/complimentary-travelgoogoo-esim-visa-cardholders/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Mon, 21 Sep 2026 10:56:31 +0000  
@@ -93,11 +105,11 @@
 
 **✨ Benefits:** Complimentary
 
-**🔄 Redemption:** Follow these steps to redeem your free Travelgoogoo eSIM: Traveling should be about enjoying the journey, not worrying about staying connected
+**🔄 Redemption:** Follow these steps to redeem your free Travelgoogoo eSIM:  Traveling should be about enjoying the journey, not worrying about staying connected
 
 ---
 
-#### 2. [Get Up to ₹2,000 in Travel Vouchers with Amazon Pay ICICI Credit Card](https://cardinsider.com/blog/amazon-pay-icici-credit-card-travel-voucher-offer/)
+#### 3. [Get Up to ₹2,000 in Travel Vouchers with Amazon Pay ICICI Credit Card](https://cardinsider.com/blog/amazon-pay-icici-credit-card-travel-voucher-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 18 Sep 2026 06:30:07 +0000  
@@ -112,7 +124,7 @@
 
 ---
 
-#### 3. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
+#### 4. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 17 Sep 2026 06:30:55 +0000  
@@ -147,20 +159,6 @@
 **💰 Reward:** 5% cashback  
 
 **📝 Summary:** As the Festive season approaches, Flipkart, one of India’s largest E-commerce platforms, is back with the Big Billion Days Sale.
-
----
-
-#### 3. [HSBC Taj Vs Axis Burgundy Private Credit Card](https://cardinsider.com/blog/hsbc-taj-vs-axis-burgundy-private-credit-card/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 17 Sep 2026 04:30:30 +0000  
-**🏦 Bank:** AXIS  
-**💳 Card:** Burgundy Private Credit Card  
-**💵 Fee:** ₹1  
-
-**📝 Summary:** What if your credit card could do more than just pay for your purchases.
-
-**✨ Benefits:** Lounge Access, Complimentary
 
 ---
 
