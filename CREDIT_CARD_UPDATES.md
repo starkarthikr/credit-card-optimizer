@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-22 03:51:03 IST
+**Last Updated:** 2026-09-22 11:08:48 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -83,7 +83,18 @@
 
 ### 🎁 New Offer
 
-#### 1. [HSBC Credit Cardholders Can Earn Up to 6X Rewards on Apple Products via Unicorn Portal](https://cardinsider.com/blog/hsbc-credit-cardholders-earn-rewards-apple-products-unicorn-portal/)
+#### 1. [SBI Card Launches New Spend-Based Offer – Earn Vouchers from Flipkart and More](https://cardinsider.com/blog/sbi-credit-card-spend-based-offers/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 22 Sep 2026 07:00:50 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** for select credit card  
+
+**📝 Summary:** SBI Card has rolled out a new targeted spend-based offer for select credit cardholders.
+
+---
+
+#### 2. [HSBC Credit Cardholders Can Earn Up to 6X Rewards on Apple Products via Unicorn Portal](https://cardinsider.com/blog/hsbc-credit-cardholders-earn-rewards-apple-products-unicorn-portal/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Mon, 21 Sep 2026 11:30:12 +0000  
@@ -95,7 +106,7 @@
 
 ---
 
-#### 2. [Get a Complimentary International eSIM Across 121 Countries with Visa Credit Cards](https://cardinsider.com/blog/complimentary-travelgoogoo-esim-visa-cardholders/)
+#### 3. [Get a Complimentary International eSIM Across 121 Countries with Visa Credit Cards](https://cardinsider.com/blog/complimentary-travelgoogoo-esim-visa-cardholders/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Mon, 21 Sep 2026 10:56:31 +0000  
@@ -109,7 +120,7 @@
 
 ---
 
-#### 3. [Get Up to ₹2,000 in Travel Vouchers with Amazon Pay ICICI Credit Card](https://cardinsider.com/blog/amazon-pay-icici-credit-card-travel-voucher-offer/)
+#### 4. [Get Up to ₹2,000 in Travel Vouchers with Amazon Pay ICICI Credit Card](https://cardinsider.com/blog/amazon-pay-icici-credit-card-travel-voucher-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 18 Sep 2026 06:30:07 +0000  
@@ -124,21 +135,51 @@
 
 ---
 
-#### 4. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 17 Sep 2026 06:30:55 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** promotion for credit card  
-
-**📝 Summary:** HSBC has officially rolled out its rewarding zero-forex promotion for credit cardholders in India.
-
----
-
 
 ### 💰 Reward Points
 
-#### 1. [Amazon Pay ICICI Bank Credit Card ₹1,000 Cashback Offer](https://cardinsider.com/blog/amazon-pay-icici-bank-credit-card-cashback-offer/)
+#### 1. [Best Credit Cards for Apple Purchases in India](https://cardinsider.com/blog/best-credit-cards-apple-purchases-india/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 22 Sep 2026 07:30:09 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** with various credit card  
+**💰 Reward:** 5% cashback  
+**💵 Fee:** ₹500  
+
+**📝 Summary:** Ever since the recent launch of the latest iPhone 18 series, Apple has caused a frenzy with its products.
+
+**💡 Optimization Tips:**
+
+- On Amazon, you can make multiple transactions, but the maximum total discount is ₹15,000 per card
+
+---
+
+#### 2. [SBI Credit Card Shop & Earn Cashback Offer: Get ₹500 Cashback](https://cardinsider.com/blog/sbi-credit-card-shop-earn-cashback-offer/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 22 Sep 2026 07:15:31 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** selected SBI Credit Card  
+
+**📝 Summary:** SBI Card has introduced a limited-period Shop &#38; Earn Cashback Offer under which selected SBI Credit Cardholders can earn ₹500 cashback on meeting the required spending criteria.
+
+---
+
+#### 3. [BOBCARD Etihad Premium Credit Card Spend & Win Offer – Get Up to ₹10,000 in Gift Vouchers](https://cardinsider.com/blog/bobcard-etihad-premium-credit-card-spend-win-offer/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 22 Sep 2026 05:30:03 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** Etihad Premium Credit Card  
+
+**📝 Summary:** The BOBCARD Etihad Co-Branded Credit Cards have gained quite a bit of popularity, especially because both cards come with premium Etihad status and benefits such as low forex charges on internation...
+
+**✨ Benefits:** Milestone Benefit
+
+---
+
+#### 4. [Amazon Pay ICICI Bank Credit Card ₹1,000 Cashback Offer](https://cardinsider.com/blog/amazon-pay-icici-bank-credit-card-cashback-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 18 Sep 2026 05:30:35 +0000  
@@ -150,22 +191,23 @@
 
 ---
 
-#### 2. [Best Credit Card Offers for Flipkart Big Billion Days Sale 2026](https://cardinsider.com/blog/best-credit-cards-offers-for-flipkart-big-billion-days-sale/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 17 Sep 2026 07:30:23 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** deals and credit card  
-**💰 Reward:** 5% cashback  
-
-**📝 Summary:** As the Festive season approaches, Flipkart, one of India’s largest E-commerce platforms, is back with the Big Billion Days Sale.
-
----
-
 
 ### ✈️ Travel Benefits
 
-#### 1. [Complimentary Second Night at ITC Hotels with Mastercard Credit & Debit Cards](https://cardinsider.com/blog/complimentary-second-night-itc-hotels-mastercard-debitcards/)
+#### 1. [Kotak Bank Customers Can Get Anantara Vacation Club Stays Starting at USD 399](https://cardinsider.com/blog/kotak-bank-customers-get-anantara-vacation-club-stays/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 22 Sep 2026 04:30:55 +0000  
+**🏦 Bank:** KOTAK  
+**💳 Card:** Kotak Solitaire Credit Card  
+
+**📝 Summary:** Kotak Mahindra Bank has partnered with Anantara Vacation Club (AVC) to offer select customers discounted stays at luxury vacation properties in Thailand, Bali and Dubai.
+
+**🔄 Redemption:** The offer is available exclusively to select Kotak Solitaire Credit Card, Kotak Private Banking, and White Reserve customers and can be redeemed once per user during the offer period
+
+---
+
+#### 2. [Complimentary Second Night at ITC Hotels with Mastercard Credit & Debit Cards](https://cardinsider.com/blog/complimentary-second-night-itc-hotels-mastercard-debitcards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 18 Sep 2026 06:00:27 +0000  
@@ -178,43 +220,12 @@
 
 ---
 
-#### 2. [Earn Double Etihad Guest Miles with BOBCARD Etihad Premium Credit Card](https://cardinsider.com/blog/earn-double-etihad-guest-miles-spent-etihad-airways-bobcard-etihad-premium-credit-card/)
+#### 3. [Want cheaper flights or easy lounge access? How Air India’s Maharaja Club points can help you](https://economictimes.indiatimes.com/wealth/spend/want-cheaper-flights-or-easy-lounge-access-how-air-indias-maharaja-club-points-can-help-you/slideshow/134409945.cms)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 17 Sep 2026 09:30:00 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** Etihad Premium Credit Card  
+**📡 Source:** Economic Times  
+**📅 Published:** Tue, 22 Sep 2026 16:07:32 +0530  
 
-**📝 Summary:** The BOBCARD Etihad Premium and BOBCARD Etihad Guest Credit Card have become quite popular in India, largely because of their attractive welcome benefits.
-
-**✨ Benefits:** Lounge Access, Welcome Bonus
-
----
-
-#### 3. [Travel & Spend with Your Visa Card and Earn Up to 20% Rewards Across 11 Countries](https://cardinsider.com/blog/travel-spend-visa-card-earn-rewards-across-foreign-countries/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 17 Sep 2026 07:00:55 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** Visa Card  
-**💵 Fee:** ₹12  
-
-**📝 Summary:** While many people (including me) were already excited about the free voucher offer on new Visa cards, there have been several other ongoing offers as well, like free eSIMs for travel.
-
----
-
-#### 4. [Axis Bank Launches Scapia Credit Card](https://cardinsider.com/blog/axis-bank-launches-scapia-credit-card/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 17 Sep 2026 06:00:12 +0000  
-**🏦 Bank:** AXIS  
-**💳 Card:** Launches Scapia Credit Card  
-
-**📝 Summary:** Axis Bank has launched the Scapia Axis Credit Card, bringing the popular travel-focused Scapia credit card under a new banking partnership.
-
-**✨ Benefits:** Insurance
-
-**🔄 Redemption:** You can redeem these coins through the Scapia platform for flights, hotel stays, buses, trains, visas, and other services offered through the app
+**📝 Summary:** Maharaja Club, Air India’s travel and lifestyle programme, allows members to earn Maharaja Points across Air India, Air India Express, Star Alliance partner airlines and 100+ travel, hospitality, r...
 
 ---
 
