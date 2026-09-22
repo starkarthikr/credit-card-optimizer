@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-22 11:08:48 IST
+**Last Updated:** 2026-09-22 16:30:54 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -83,7 +83,30 @@
 
 ### 🎁 New Offer
 
-#### 1. [SBI Card Launches New Spend-Based Offer – Earn Vouchers from Flipkart and More](https://cardinsider.com/blog/sbi-credit-card-spend-based-offers/)
+#### 1. [Get 20% Off on Hotel Bookings With ALL Accor App Days](https://cardinsider.com/blog/hotel-booking-offer-all-accor-app-days/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 22 Sep 2026 11:30:44 +0000  
+
+**📝 Summary:** ALL Accor is currently running a limited-period App Days offer, allowing customers to get 20% off on eligible hotel bookings made through the ALL Accor app.
+
+---
+
+#### 2. [Flipkart Axis Bank Credit Card Now With Zero Joining Charges – FYF Limited Time Offer](https://cardinsider.com/blog/flipkart-axis-bank-credit-card-zero-joining-charges/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 22 Sep 2026 10:15:31 +0000  
+**🏦 Bank:** AXIS  
+**💳 Card:** Axis Bank Credit Card  
+**💰 Reward:** 5% cashback  
+
+**📝 Summary:** Axis Bank is currently offering its popular Flipkart Axis Credit Card at zero joining charges.
+
+**✨ Benefits:** Lounge Access
+
+---
+
+#### 3. [SBI Card Launches New Spend-Based Offer – Earn Vouchers from Flipkart and More](https://cardinsider.com/blog/sbi-credit-card-spend-based-offers/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 07:00:50 +0000  
@@ -94,7 +117,7 @@
 
 ---
 
-#### 2. [HSBC Credit Cardholders Can Earn Up to 6X Rewards on Apple Products via Unicorn Portal](https://cardinsider.com/blog/hsbc-credit-cardholders-earn-rewards-apple-products-unicorn-portal/)
+#### 4. [HSBC Credit Cardholders Can Earn Up to 6X Rewards on Apple Products via Unicorn Portal](https://cardinsider.com/blog/hsbc-credit-cardholders-earn-rewards-apple-products-unicorn-portal/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Mon, 21 Sep 2026 11:30:12 +0000  
@@ -106,7 +129,7 @@
 
 ---
 
-#### 3. [Get a Complimentary International eSIM Across 121 Countries with Visa Credit Cards](https://cardinsider.com/blog/complimentary-travelgoogoo-esim-visa-cardholders/)
+#### 5. [Get a Complimentary International eSIM Across 121 Countries with Visa Credit Cards](https://cardinsider.com/blog/complimentary-travelgoogoo-esim-visa-cardholders/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Mon, 21 Sep 2026 10:56:31 +0000  
@@ -120,25 +143,27 @@
 
 ---
 
-#### 4. [Get Up to ₹2,000 in Travel Vouchers with Amazon Pay ICICI Credit Card](https://cardinsider.com/blog/amazon-pay-icici-credit-card-travel-voucher-offer/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 18 Sep 2026 06:30:07 +0000  
-**🏦 Bank:** ICICI  
-**💳 Card:** Pay ICICI Credit Card  
-
-**📝 Summary:** Amazon Pay ICICI Credit Card has been coming up with some rewarding and interesting spend-based offers recently.
-
-**💡 Optimization Tips:**
-
-- Those planning an international trip can take advantage of the offer and potentially combine it with other travel offers, such as Visa Power Travel, to maximize their benefits on eligible spends
-
----
-
 
 ### 💰 Reward Points
 
-#### 1. [Best Credit Cards for Apple Purchases in India](https://cardinsider.com/blog/best-credit-cards-apple-purchases-india/)
+#### 1. [Best Credit Cards for Amazon Great Indian Festival 2026](https://cardinsider.com/blog/best-credit-cards-for-amazon-great-indian-festival-sale/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 22 Sep 2026 12:00:04 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** your SBI credit card  
+**💰 Reward:** 5% cashback  
+**💵 Fee:** ₹1  
+
+**📝 Summary:** Amazon, a leading online shopping platform, presents customers with exciting deals and sales each year.
+
+**💡 Optimization Tips:**
+
+- However, to maximize your benefits during the sale, you should also be aware of which credit cards are going to give you the best deal
+
+---
+
+#### 2. [Best Credit Cards for Apple Purchases in India](https://cardinsider.com/blog/best-credit-cards-apple-purchases-india/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 07:30:09 +0000  
@@ -155,7 +180,7 @@
 
 ---
 
-#### 2. [SBI Credit Card Shop & Earn Cashback Offer: Get ₹500 Cashback](https://cardinsider.com/blog/sbi-credit-card-shop-earn-cashback-offer/)
+#### 3. [SBI Credit Card Shop & Earn Cashback Offer: Get ₹500 Cashback](https://cardinsider.com/blog/sbi-credit-card-shop-earn-cashback-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 07:15:31 +0000  
@@ -166,7 +191,7 @@
 
 ---
 
-#### 3. [BOBCARD Etihad Premium Credit Card Spend & Win Offer – Get Up to ₹10,000 in Gift Vouchers](https://cardinsider.com/blog/bobcard-etihad-premium-credit-card-spend-win-offer/)
+#### 4. [BOBCARD Etihad Premium Credit Card Spend & Win Offer – Get Up to ₹10,000 in Gift Vouchers](https://cardinsider.com/blog/bobcard-etihad-premium-credit-card-spend-win-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 05:30:03 +0000  
@@ -176,18 +201,6 @@
 **📝 Summary:** The BOBCARD Etihad Co-Branded Credit Cards have gained quite a bit of popularity, especially because both cards come with premium Etihad status and benefits such as low forex charges on internation...
 
 **✨ Benefits:** Milestone Benefit
-
----
-
-#### 4. [Amazon Pay ICICI Bank Credit Card ₹1,000 Cashback Offer](https://cardinsider.com/blog/amazon-pay-icici-bank-credit-card-cashback-offer/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 18 Sep 2026 05:30:35 +0000  
-**🏦 Bank:** ICICI  
-**💳 Card:** ICICI Bank Credit Card  
-**💰 Reward:** 5% cashback  
-
-**📝 Summary:** Amazon Pay ICICI Bank Credit Card is one of the most popular cashback and online shopping credit cards in the country, with a consistent history of offering up to 5% cashback on Amazon spends.
 
 ---
 
@@ -207,20 +220,7 @@
 
 ---
 
-#### 2. [Complimentary Second Night at ITC Hotels with Mastercard Credit & Debit Cards](https://cardinsider.com/blog/complimentary-second-night-itc-hotels-mastercard-debitcards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 18 Sep 2026 06:00:27 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** particularly among credit card  
-
-**📝 Summary:** For those who missed out on the complimentary night benefit available to Visa cardholders, there is now good news for Mastercard users.
-
-**✨ Benefits:** Complimentary
-
----
-
-#### 3. [Want cheaper flights or easy lounge access? How Air India’s Maharaja Club points can help you](https://economictimes.indiatimes.com/wealth/spend/want-cheaper-flights-or-easy-lounge-access-how-air-indias-maharaja-club-points-can-help-you/slideshow/134409945.cms)
+#### 2. [Want cheaper flights or easy lounge access? How Air India’s Maharaja Club points can help you](https://economictimes.indiatimes.com/wealth/spend/want-cheaper-flights-or-easy-lounge-access-how-air-indias-maharaja-club-points-can-help-you/slideshow/134409945.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Tue, 22 Sep 2026 16:07:32 +0530  
