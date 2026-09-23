@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-23 03:49:12 IST
+**Last Updated:** 2026-09-23 10:59:16 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -18,17 +18,6 @@
 **📝 Summary:** The Axis Bank Rewards Credit Card is now being offered as a Lifetime Free (LTF) credit card on the American Express variant, giving eligible customers an opportunity to get the card without paying ...
 
 **✨ Benefits:** Lounge Access
-
----
-
-#### 2. [IDFC FIRST Club Vistara Credit Card to Be Discontinued; Existing Cardholders to Be Upgraded to Diamond Reserve](https://cardinsider.com/blog/idfc-first-club-vistara-card-discontinued-diamond-reserve-upgrade/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Mon, 21 Sep 2026 09:30:50 +0000  
-**🏦 Bank:** IDFC  
-**💳 Card:** Club Vistara Credit Card  
-
-**📝 Summary:** The Club Vistara IDFC FIRST Credit Card is finally coming to an end, nearly two years after the merger of Vistara and Air India.
 
 ---
 
@@ -146,7 +135,23 @@
 
 ### 💰 Reward Points
 
-#### 1. [Best Credit Cards for Amazon Great Indian Festival 2026](https://cardinsider.com/blog/best-credit-cards-for-amazon-great-indian-festival-sale/)
+#### 1. [Axis Bank EDGE Rewards/Miles Major Changes: Accor Returns, ITC Removed](https://cardinsider.com/blog/axis-bank-edge-rewards-miles-major-changes/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 23 Sep 2026 05:00:03 +0000  
+**🏦 Bank:** AXIS  
+**💳 Card:** through a credit card  
+
+**📝 Summary:** While earning rewards through a credit card is a major factor to consider, points redemption is equally important.
+
+**🔄 Redemption:** / Blog / Axis Bank EDGE Rewards/Miles Major Changes: Accor Returns, ITC Removed 
+23 September, 2026
+				· By Kartik Kanwar
+ While earning rewards through a credit card is a major factor to consider, points redemption is equally important
+
+---
+
+#### 2. [Best Credit Cards for Amazon Great Indian Festival 2026](https://cardinsider.com/blog/best-credit-cards-for-amazon-great-indian-festival-sale/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 12:00:04 +0000  
@@ -163,7 +168,7 @@
 
 ---
 
-#### 2. [Best Credit Cards for Apple Purchases in India](https://cardinsider.com/blog/best-credit-cards-apple-purchases-india/)
+#### 3. [Best Credit Cards for Apple Purchases in India](https://cardinsider.com/blog/best-credit-cards-apple-purchases-india/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 07:30:09 +0000  
@@ -180,7 +185,7 @@
 
 ---
 
-#### 3. [SBI Credit Card Shop & Earn Cashback Offer: Get ₹500 Cashback](https://cardinsider.com/blog/sbi-credit-card-shop-earn-cashback-offer/)
+#### 4. [SBI Credit Card Shop & Earn Cashback Offer: Get ₹500 Cashback](https://cardinsider.com/blog/sbi-credit-card-shop-earn-cashback-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 07:15:31 +0000  
@@ -191,7 +196,7 @@
 
 ---
 
-#### 4. [BOBCARD Etihad Premium Credit Card Spend & Win Offer – Get Up to ₹10,000 in Gift Vouchers](https://cardinsider.com/blog/bobcard-etihad-premium-credit-card-spend-win-offer/)
+#### 5. [BOBCARD Etihad Premium Credit Card Spend & Win Offer – Get Up to ₹10,000 in Gift Vouchers](https://cardinsider.com/blog/bobcard-etihad-premium-credit-card-spend-win-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 05:30:03 +0000  
@@ -217,15 +222,6 @@
 **📝 Summary:** Kotak Mahindra Bank has partnered with Anantara Vacation Club (AVC) to offer select customers discounted stays at luxury vacation properties in Thailand, Bali and Dubai.
 
 **🔄 Redemption:** The offer is available exclusively to select Kotak Solitaire Credit Card, Kotak Private Banking, and White Reserve customers and can be redeemed once per user during the offer period
-
----
-
-#### 2. [Want cheaper flights or easy lounge access? How Air India’s Maharaja Club points can help you](https://economictimes.indiatimes.com/wealth/spend/want-cheaper-flights-or-easy-lounge-access-how-air-indias-maharaja-club-points-can-help-you/slideshow/134409945.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 22 Sep 2026 16:07:32 +0530  
-
-**📝 Summary:** Maharaja Club, Air India’s travel and lifestyle programme, allows members to earn Maharaja Points across Air India, Air India Express, Star Alliance partner airlines and 100+ travel, hospitality, r...
 
 ---
 
