@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-24 03:41:02 IST
+**Last Updated:** 2026-09-24 11:18:20 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -18,6 +18,18 @@
 **📝 Summary:** The Axis Bank Rewards Credit Card is now being offered as a Lifetime Free (LTF) credit card on the American Express variant, giving eligible customers an opportunity to get the card without paying ...
 
 **✨ Benefits:** Lounge Access
+
+---
+
+
+### ⚠️ Devaluation
+
+#### 1. [​EPS pension on ₹25,000 salary: How much can you get at 50, 58 and 60?​](https://economictimes.indiatimes.com/wealth/save/eps-pension-on-25000-salary-how-much-can-you-get-at-50-58-and-60/slideshow/134458150.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 24 Sep 2026 15:22:11 +0530  
+
+**📝 Summary:** Under the EPS 2026 scheme, an eligible member can opt for an early pension before the superannuation age of 58, but not before 50 years of age.
 
 ---
 
