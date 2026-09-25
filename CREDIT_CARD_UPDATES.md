@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-25 03:57:42 IST
+**Last Updated:** 2026-09-25 11:23:23 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -22,14 +22,15 @@
 ---
 
 
-### ⚠️ Devaluation
+### 🏆 Best Card
 
-#### 1. [​EPS pension on ₹25,000 salary: How much can you get at 50, 58 and 60?​](https://economictimes.indiatimes.com/wealth/save/eps-pension-on-25000-salary-how-much-can-you-get-at-50-58-and-60/slideshow/134458150.cms)
+#### 1. [Highest 555-day FD interest rates: Banks are offering up to 7.25% rates; Check list](https://economictimes.indiatimes.com/wealth/invest/highest-555-day-fd-interest-rates-banks-are-offering-up-to-7-25-rates-check-list/slideshow/134475906.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 24 Sep 2026 15:22:11 +0530  
+**📅 Published:** Fri, 25 Sep 2026 10:37:26 +0530  
+**🏦 Bank:** CITI  
 
-**📝 Summary:** Under the EPS 2026 scheme, an eligible member can opt for an early pension before the superannuation age of 58, but not before 50 years of age.
+**📝 Summary:** A 555-day is a popular special fixed deposit (FD) scheme on which many banks offer attractive interest rates.
 
 ---
 
