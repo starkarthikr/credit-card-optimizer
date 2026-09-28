@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-28 04:16:25 IST
+**Last Updated:** 2026-09-28 13:11:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -222,16 +222,6 @@
 **📝 Summary:** Kotak Mahindra Bank has partnered with Anantara Vacation Club (AVC) to offer select customers discounted stays at luxury vacation properties in Thailand, Bali and Dubai.
 
 **🔄 Redemption:** The offer is available exclusively to select Kotak Solitaire Credit Card, Kotak Private Banking, and White Reserve customers and can be redeemed once per user during the offer period
-
----
-
-#### 2. [Premium travel cards are changing as banks tie perks to broader customer relationships; here’s what you need to know](https://economictimes.indiatimes.com/wealth/spend/premium-travel-cards-are-changing-as-banks-tie-perks-to-broader-customer-relationships-heres-what-you-need-to-know/articleshow/134497667.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 28 Sep 2026 06:30:00 +0530  
-**💳 Card:** travel card  
-
-**📝 Summary:** A bank can afford to give an affluent customer a highly rewarding credit card if that card helps persuade the customer to consolidate assets with the lender.
 
 ---
 
