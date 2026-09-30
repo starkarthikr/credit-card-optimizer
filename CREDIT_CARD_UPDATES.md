@@ -1,37 +1,34 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-30 04:33:38 IST
+**Last Updated:** 2026-09-30 12:05:56 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 💵 Annual Fee
 
-#### 1. [Axis Bank Rewards Credit Card Now Offered Lifetime Free on American Express Variant](https://cardinsider.com/blog/axis-bank-rewards-credit-card-lifetime-free-american-express/)
+#### 1. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Mon, 21 Sep 2026 10:10:18 +0000  
-**🏦 Bank:** AXIS  
-**💳 Card:** Bank Rewards Credit Card  
-**💵 Fee:** ₹1  
+**📅 Published:** Wed, 30 Sep 2026 08:00:06 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** a new credit card  
 
-**📝 Summary:** The Axis Bank Rewards Credit Card is now being offered as a Lifetime Free (LTF) credit card on the American Express variant, giving eligible customers an opportunity to get the card without paying ...
-
-**✨ Benefits:** Lounge Access
+**📝 Summary:** SBI Card appears to be gearing up to launch a new credit card in India called the ETERNAL SBI Card.
 
 ---
 
+#### 2. [Earn Up to 30,000 Bonus Points with Marriott Bonvoy HDFC Credit Card Anniversary Offer](https://cardinsider.com/blog/earn-bonus-points-marriott-bonvoy-hdfc-credit-card-anniversary-offer/)
 
-### 🏆 Best Card
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 30 Sep 2026 06:00:09 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** Bonvoy HDFC Credit Card  
+**💵 Fee:** ₹3  
 
-#### 1. [IRDAI insurance reforms: 4 changes that could make buying policies safer and easier](https://economictimes.indiatimes.com/wealth/insure/irdai-insurance-reforms-4-changes-that-could-make-buying-policies-safer-and-easier/slideshow/134558696.cms)
+**📝 Summary:** The Marriott Bonvoy HDFC Credit Card is one of the most popular hotel-focused credit cards in India, particularly among customers who frequently stay at Marriott properties.
 
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 29 Sep 2026 12:05:28 +0530  
-
-**📝 Summary:** IRDAI has proposed major changes to insurance distribution, expenses, commissions and digital infrastructure.
-
-**✨ Benefits:** Insurance
+**✨ Benefits:** Lounge Access, Complimentary
 
 ---
 
@@ -86,7 +83,18 @@
 
 ### 🎁 New Offer
 
-#### 1. [Get 20% Off on Hotel Bookings With ALL Accor App Days](https://cardinsider.com/blog/hotel-booking-offer-all-accor-app-days/)
+#### 1. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 30 Sep 2026 11:30:55 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** promotion for credit card  
+
+**📝 Summary:** HSBC has officially rolled out its rewarding zero-forex promotion for credit cardholders in India.
+
+---
+
+#### 2. [Get 20% Off on Hotel Bookings With ALL Accor App Days](https://cardinsider.com/blog/hotel-booking-offer-all-accor-app-days/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 11:30:44 +0000  
@@ -95,7 +103,7 @@
 
 ---
 
-#### 2. [Flipkart Axis Bank Credit Card Now With Zero Joining Charges – FYF Limited Time Offer](https://cardinsider.com/blog/flipkart-axis-bank-credit-card-zero-joining-charges/)
+#### 3. [Flipkart Axis Bank Credit Card Now With Zero Joining Charges – FYF Limited Time Offer](https://cardinsider.com/blog/flipkart-axis-bank-credit-card-zero-joining-charges/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 10:15:31 +0000  
@@ -109,47 +117,20 @@
 
 ---
 
-#### 3. [SBI Card Launches New Spend-Based Offer – Earn Vouchers from Flipkart and More](https://cardinsider.com/blog/sbi-credit-card-spend-based-offers/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 22 Sep 2026 07:00:50 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** for select credit card  
-
-**📝 Summary:** SBI Card has rolled out a new targeted spend-based offer for select credit cardholders.
-
----
-
-#### 4. [HSBC Credit Cardholders Can Earn Up to 6X Rewards on Apple Products via Unicorn Portal](https://cardinsider.com/blog/hsbc-credit-cardholders-earn-rewards-apple-products-unicorn-portal/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Mon, 21 Sep 2026 11:30:12 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** the Indian credit card  
-**💰 Reward:** 6X Reward  
-
-**📝 Summary:** HSBC has been expanding aggressively in the Indian credit card market with card revamps, new launches, and attractive offers.
-
----
-
-#### 5. [Get a Complimentary International eSIM Across 121 Countries with Visa Credit Cards](https://cardinsider.com/blog/complimentary-travelgoogoo-esim-visa-cardholders/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Mon, 21 Sep 2026 10:56:31 +0000  
-**💳 Card:** with Visa Credit Card  
-
-**📝 Summary:** Travel smarter and stay effortlessly connected wherever you go with Travelgoogoo and Visa.
-
-**✨ Benefits:** Complimentary
-
-**🔄 Redemption:** Follow these steps to redeem your free Travelgoogoo eSIM:  Traveling should be about enjoying the journey, not worrying about staying connected
-
----
-
 
 ### 💰 Reward Points
 
-#### 1. [Axis Bank EDGE Rewards/Miles Major Changes: Accor Returns, ITC Removed](https://cardinsider.com/blog/axis-bank-edge-rewards-miles-major-changes/)
+#### 1. [Turn Every Dyson Purchase into More Rewards with HSBC Credit Cards](https://cardinsider.com/blog/dyson-purchase-rewards-hsbc-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 30 Sep 2026 07:00:37 +0000  
+**💳 Card:** with HSBC Credit Card  
+
+**📝 Summary:** Thinking about buying a Dyson product.
+
+---
+
+#### 2. [Axis Bank EDGE Rewards/Miles Major Changes: Accor Returns, ITC Removed](https://cardinsider.com/blog/axis-bank-edge-rewards-miles-major-changes/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 23 Sep 2026 05:00:03 +0000  
@@ -165,7 +146,7 @@
 
 ---
 
-#### 2. [Best Credit Cards for Amazon Great Indian Festival 2026](https://cardinsider.com/blog/best-credit-cards-for-amazon-great-indian-festival-sale/)
+#### 3. [Best Credit Cards for Amazon Great Indian Festival 2026](https://cardinsider.com/blog/best-credit-cards-for-amazon-great-indian-festival-sale/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 12:00:04 +0000  
@@ -182,7 +163,7 @@
 
 ---
 
-#### 3. [Best Credit Cards for Apple Purchases in India](https://cardinsider.com/blog/best-credit-cards-apple-purchases-india/)
+#### 4. [Best Credit Cards for Apple Purchases in India](https://cardinsider.com/blog/best-credit-cards-apple-purchases-india/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 07:30:09 +0000  
@@ -199,7 +180,7 @@
 
 ---
 
-#### 4. [SBI Credit Card Shop & Earn Cashback Offer: Get ₹500 Cashback](https://cardinsider.com/blog/sbi-credit-card-shop-earn-cashback-offer/)
+#### 5. [SBI Credit Card Shop & Earn Cashback Offer: Get ₹500 Cashback](https://cardinsider.com/blog/sbi-credit-card-shop-earn-cashback-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 22 Sep 2026 07:15:31 +0000  
@@ -210,32 +191,36 @@
 
 ---
 
-#### 5. [BOBCARD Etihad Premium Credit Card Spend & Win Offer – Get Up to ₹10,000 in Gift Vouchers](https://cardinsider.com/blog/bobcard-etihad-premium-credit-card-spend-win-offer/)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 22 Sep 2026 05:30:03 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** Etihad Premium Credit Card  
+### ✈️ Travel Benefits
 
-**📝 Summary:** The BOBCARD Etihad Co-Branded Credit Cards have gained quite a bit of popularity, especially because both cards come with premium Etihad status and benefits such as low forex charges on internation...
+#### 1. [EV Charging: Home vs Public, where will you spend less](https://economictimes.indiatimes.com/wealth/spend/credit-cards/ev-charging-home-vs-public-where-will-you-spend-less/slideshow/134581022.cms)
 
-**✨ Benefits:** Milestone Benefit
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 30 Sep 2026 09:29:01 +0530  
+
+**📝 Summary:** Buying an EV can cut your fuel bill—but where you charge it can make a big difference to your running costs.
 
 ---
 
 
-### ✈️ Travel Benefits
+### 💡 Tricks & Tips
 
-#### 1. [Kotak Bank Customers Can Get Anantara Vacation Club Stays Starting at USD 399](https://cardinsider.com/blog/kotak-bank-customers-get-anantara-vacation-club-stays/)
+#### 1. [IndiGo IDFC FIRST Credit Card Now Offers Up to 10,000 IndiGo BluChips Vouchers for New Cardholders](https://cardinsider.com/blog/indigo-idfc-first-credit-card-indigo-bluchips-voucher-cardholders/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Tue, 22 Sep 2026 04:30:55 +0000  
-**🏦 Bank:** KOTAK  
-**💳 Card:** Kotak Solitaire Credit Card  
+**📅 Published:** Wed, 30 Sep 2026 05:50:29 +0000  
+**🏦 Bank:** AXIS  
+**💳 Card:** IDFC FIRST Credit Card  
+**💵 Fee:** ₹4  
 
-**📝 Summary:** Kotak Mahindra Bank has partnered with Anantara Vacation Club (AVC) to offer select customers discounted stays at luxury vacation properties in Thailand, Bali and Dubai.
+**📝 Summary:** From time to time, credit card issuers launch special offers that allow new cardholders to earn additional welcome benefits.
 
-**🔄 Redemption:** The offer is available exclusively to select Kotak Solitaire Credit Card, Kotak Private Banking, and White Reserve customers and can be redeemed once per user during the offer period
+**✨ Benefits:** Welcome Bonus
+
+**💡 Optimization Tips:**
+
+- Those considering the card or looking for an airline co-branded credit card may find this a good time to apply and maximize the welcome benefits
 
 ---
 
