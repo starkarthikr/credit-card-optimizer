@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-01 04:44:37 IST
+**Last Updated:** 2026-10-01 12:39:09 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -83,7 +83,19 @@
 
 ### 🎁 New Offer
 
-#### 1. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
+#### 1. [Axis Bank Grab Deals Offers – October 2026](https://cardinsider.com/blog/axis-bank-grab-deals/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 01 Oct 2026 07:30:25 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** debit and credit card  
+**💰 Reward:** 5% cashback  
+
+**📝 Summary:** Axis Bank has an online shopping portal for its customers.
+
+---
+
+#### 2. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 30 Sep 2026 11:30:55 +0000  
@@ -94,100 +106,74 @@
 
 ---
 
-#### 2. [Get 20% Off on Hotel Bookings With ALL Accor App Days](https://cardinsider.com/blog/hotel-booking-offer-all-accor-app-days/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 22 Sep 2026 11:30:44 +0000  
-
-**📝 Summary:** ALL Accor is currently running a limited-period App Days offer, allowing customers to get 20% off on eligible hotel bookings made through the ALL Accor app.
-
----
-
-#### 3. [Flipkart Axis Bank Credit Card Now With Zero Joining Charges – FYF Limited Time Offer](https://cardinsider.com/blog/flipkart-axis-bank-credit-card-zero-joining-charges/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 22 Sep 2026 10:15:31 +0000  
-**🏦 Bank:** AXIS  
-**💳 Card:** Axis Bank Credit Card  
-**💰 Reward:** 5% cashback  
-
-**📝 Summary:** Axis Bank is currently offering its popular Flipkart Axis Credit Card at zero joining charges.
-
-**✨ Benefits:** Lounge Access
-
----
-
 
 ### 💰 Reward Points
 
-#### 1. [Turn Every Dyson Purchase into More Rewards with HSBC Credit Cards](https://cardinsider.com/blog/dyson-purchase-rewards-hsbc-credit-cards/)
+#### 1. [HDFC Bank SmartBuy Credit Card Offers](https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 01 Oct 2026 09:30:46 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** Bank SmartBuy Credit Card  
+**💰 Reward:** 10% cashback  
+
+**📝 Summary:** HDFC SmartBuy is an exclusive rewards platform that allows cardholders to earn accelerated reward points on spends across categories such as travel bookings, online shopping, and gift vouchers.
+
+---
+
+#### 2. [Up to 20X MR Points With American Express Reward Xcelerator – October 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 01 Oct 2026 09:30:41 +0000  
+**🏦 Bank:** AMEX  
+**💳 Card:** American Express Credit Card  
+
+**📝 Summary:** American Express has just introduced its Reward Xcelerator program in India, offering great shopping rewards.
+
+**💡 Optimization Tips:**
+
+- It can be considered an upgraded and more premium version of the Rewards Multiplier
+
+---
+
+#### 3. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 01 Oct 2026 07:30:52 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** ICICI Bank Credit Card  
+
+**📝 Summary:** ICICI Bank has launched its own rewards portal called iShop Rewards 360.
+
+---
+
+#### 4. [American Express Credit Cards Reward Multiplier – October 2026](https://cardinsider.com/blog/american-express-reward-multiplier/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 01 Oct 2026 06:30:57 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** American Express Credit Card  
+
+**📝 Summary:** Many top credit card issuers like HDFC Bank, ICICI Bank, and Axis Bank have their reward offers portals like Smartbuy, iShop, and Grab Deals, where you can get accelerated reward points and massive...
+
+**💡 Optimization Tips:**
+
+- / Blog / American Express Credit Cards Reward Multiplier – October 2026 
+1 October, 2026
+				· By Rajat Gaur
+ Many top credit card issuers like HDFC Bank, ICICI Bank, and Axis Bank have their reward offers portals like Smartbuy, iShop, and Grab Deals
+- Similar to these programs, American Express has its Reward Multiplier program, where you have a chance to earn Membership Rewards points at an accelerated rate
+- The American Express Reward Multiplier is a shopping portal where you can shop with your desired brand and earn accelerated reward points
+
+---
+
+#### 5. [Turn Every Dyson Purchase into More Rewards with HSBC Credit Cards](https://cardinsider.com/blog/dyson-purchase-rewards-hsbc-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 30 Sep 2026 07:00:37 +0000  
 **💳 Card:** with HSBC Credit Card  
 
 **📝 Summary:** Thinking about buying a Dyson product.
-
----
-
-#### 2. [Axis Bank EDGE Rewards/Miles Major Changes: Accor Returns, ITC Removed](https://cardinsider.com/blog/axis-bank-edge-rewards-miles-major-changes/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 23 Sep 2026 05:00:03 +0000  
-**🏦 Bank:** AXIS  
-**💳 Card:** through a credit card  
-
-**📝 Summary:** While earning rewards through a credit card is a major factor to consider, points redemption is equally important.
-
-**🔄 Redemption:** / Blog / Axis Bank EDGE Rewards/Miles Major Changes: Accor Returns, ITC Removed 
-23 September, 2026
-				· By Kartik Kanwar
- While earning rewards through a credit card is a major factor to consider, points redemption is equally important
-
----
-
-#### 3. [Best Credit Cards for Amazon Great Indian Festival 2026](https://cardinsider.com/blog/best-credit-cards-for-amazon-great-indian-festival-sale/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 22 Sep 2026 12:00:04 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** your SBI credit card  
-**💰 Reward:** 5% cashback  
-**💵 Fee:** ₹1  
-
-**📝 Summary:** Amazon, a leading online shopping platform, presents customers with exciting deals and sales each year.
-
-**💡 Optimization Tips:**
-
-- However, to maximize your benefits during the sale, you should also be aware of which credit cards are going to give you the best deal
-
----
-
-#### 4. [Best Credit Cards for Apple Purchases in India](https://cardinsider.com/blog/best-credit-cards-apple-purchases-india/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 22 Sep 2026 07:30:09 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** with various credit card  
-**💰 Reward:** 5% cashback  
-**💵 Fee:** ₹500  
-
-**📝 Summary:** Ever since the recent launch of the latest iPhone 18 series, Apple has caused a frenzy with its products.
-
-**💡 Optimization Tips:**
-
-- On Amazon, you can make multiple transactions, but the maximum total discount is ₹15,000 per card
-
----
-
-#### 5. [SBI Credit Card Shop & Earn Cashback Offer: Get ₹500 Cashback](https://cardinsider.com/blog/sbi-credit-card-shop-earn-cashback-offer/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 22 Sep 2026 07:15:31 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** selected SBI Credit Card  
-
-**📝 Summary:** SBI Card has introduced a limited-period Shop &#38; Earn Cashback Offer under which selected SBI Credit Cardholders can earn ₹500 cashback on meeting the required spending criteria.
 
 ---
 
