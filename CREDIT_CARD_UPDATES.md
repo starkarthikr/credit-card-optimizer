@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-09-30 21:58:32 IST
+**Last Updated:** 2026-10-01 04:44:37 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -188,18 +188,6 @@
 **💳 Card:** selected SBI Credit Card  
 
 **📝 Summary:** SBI Card has introduced a limited-period Shop &#38; Earn Cashback Offer under which selected SBI Credit Cardholders can earn ₹500 cashback on meeting the required spending criteria.
-
----
-
-
-### ✈️ Travel Benefits
-
-#### 1. [EV Charging: Home vs Public, where will you spend less](https://economictimes.indiatimes.com/wealth/spend/credit-cards/ev-charging-home-vs-public-where-will-you-spend-less/slideshow/134581022.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 30 Sep 2026 09:29:01 +0530  
-
-**📝 Summary:** Buying an EV can cut your fuel bill—but where you charge it can make a big difference to your running costs.
 
 ---
 
