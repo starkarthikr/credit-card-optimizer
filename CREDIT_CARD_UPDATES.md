@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-04 20:59:19 IST
+**Last Updated:** 2026-10-05 04:38:09 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -195,6 +195,33 @@
 **💡 Optimization Tips:**
 
 - Those considering the card or looking for an airline co-branded credit card may find this a good time to apply and maximize the welcome benefits
+
+---
+
+#### 2. ['Only 2 left!’, ‘FREE SHIPPING above ₹999!' Simple tips to avoid these shopping traps during festive season sales](https://economictimes.indiatimes.com/wealth/spend/only-2-left-free-shipping-above-999-simple-tips-to-avoid-these-shopping-traps-during-festive-season-sales/articleshow/134653154.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 05 Oct 2026 06:30:00 +0530  
+
+**📝 Summary:** Bala had saved ₹2,000 for headphones.
+
+---
+
+#### 3. [Hackers can target your wealth adviser’s WhatsApp: How to protect your money](https://economictimes.indiatimes.com/wealth/invest/hackers-can-target-your-wealth-advisers-whatsapp-how-to-protect-your-money/articleshow/134652123.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 05 Oct 2026 06:30:00 +0530  
+
+**📝 Summary:** Recent incidents highlight the increasing threat of compromised WhatsApp accounts among financial advisers in India.
+
+---
+
+#### 4. [Hidden cost of travel: Visa fees, card markups, optional tours and tips that can add 25-40% to budget; here's how to plan for them](https://economictimes.indiatimes.com/wealth/spend/hidden-cost-of-travel-visa-fees-card-markups-optional-tours-and-tips-that-can-add-25-40-to-budget-heres-how-to-plan-for-them/articleshow/134651425.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 05 Oct 2026 06:30:00 +0530  
+
+**📝 Summary:** Many travelers fail to account for hidden costs while planning international journeys, often only considering major expenses.
 
 ---
 
