@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-05 04:38:09 IST
+**Last Updated:** 2026-10-05 13:58:39 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -15,20 +15,6 @@
 **💳 Card:** a new credit card  
 
 **📝 Summary:** SBI Card appears to be gearing up to launch a new credit card in India called the ETERNAL SBI Card.
-
----
-
-#### 2. [Earn Up to 30,000 Bonus Points with Marriott Bonvoy HDFC Credit Card Anniversary Offer](https://cardinsider.com/blog/earn-bonus-points-marriott-bonvoy-hdfc-credit-card-anniversary-offer/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 30 Sep 2026 06:00:09 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** Bonvoy HDFC Credit Card  
-**💵 Fee:** ₹3  
-
-**📝 Summary:** The Marriott Bonvoy HDFC Credit Card is one of the most popular hotel-focused credit cards in India, particularly among customers who frequently stay at Marriott properties.
-
-**✨ Benefits:** Lounge Access, Complimentary
 
 ---
 
@@ -83,7 +69,36 @@
 
 ### 🎁 New Offer
 
-#### 1. [Axis Bank Grab Deals Offers – October 2026](https://cardinsider.com/blog/axis-bank-grab-deals/)
+#### 1. [BOBCARD ETERNA Credit Card Now First Year Free – No Joining Charges](https://cardinsider.com/blog/bobcard-eterna-credit-card-now-lifetime-free/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 05 Oct 2026 07:40:46 +0000  
+**💳 Card:** BOBCARD ETERNA Credit Card  
+**💵 Fee:** ₹75  
+
+**📝 Summary:** The Eterna Credit Card, which is one of the most premium cards issued by BOBCARD, is now available without any joining charges for a limited time.
+
+**✨ Benefits:** Complimentary
+
+---
+
+#### 2. [BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till November 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 05 Oct 2026 06:30:13 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** BOBCARD Etihad Credit Card  
+**💵 Fee:** ₹50  
+
+**📝 Summary:** BOBCARD has announced a limited-period welcome miles offer on its Etihad Guest co-branded credit cards for new customers.
+
+**✨ Benefits:** Welcome Bonus
+
+**🔄 Redemption:** , which can later be redeemed for flights, upgrades, hotel stays, and more through the Etihad Guest program
+
+---
+
+#### 3. [Axis Bank Grab Deals Offers – October 2026](https://cardinsider.com/blog/axis-bank-grab-deals/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 01 Oct 2026 07:30:25 +0000  
@@ -95,7 +110,7 @@
 
 ---
 
-#### 2. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
+#### 4. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 30 Sep 2026 11:30:55 +0000  
@@ -178,50 +193,32 @@
 ---
 
 
-### 💡 Tricks & Tips
+### ✈️ Travel Benefits
 
-#### 1. [IndiGo IDFC FIRST Credit Card Now Offers Up to 10,000 IndiGo BluChips Vouchers for New Cardholders](https://cardinsider.com/blog/indigo-idfc-first-credit-card-indigo-bluchips-voucher-cardholders/)
+#### 1. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Wed, 30 Sep 2026 05:50:29 +0000  
-**🏦 Bank:** AXIS  
-**💳 Card:** IDFC FIRST Credit Card  
-**💵 Fee:** ₹4  
+**📅 Published:** Mon, 05 Oct 2026 12:15:54 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** Your Visa Credit Card  
 
-**📝 Summary:** From time to time, credit card issuers launch special offers that allow new cardholders to earn additional welcome benefits.
-
-**✨ Benefits:** Welcome Bonus
+**📝 Summary:** There have hardly been any offers as rewarding as the Visa Power Travel offer in recent times.
 
 **💡 Optimization Tips:**
 
-- Those considering the card or looking for an airline co-branded credit card may find this a good time to apply and maximize the welcome benefits
+- Visa Power Travel offers multiple ways to earn additional rewards on your international spends
 
 ---
 
-#### 2. ['Only 2 left!’, ‘FREE SHIPPING above ₹999!' Simple tips to avoid these shopping traps during festive season sales](https://economictimes.indiatimes.com/wealth/spend/only-2-left-free-shipping-above-999-simple-tips-to-avoid-these-shopping-traps-during-festive-season-sales/articleshow/134653154.cms)
+
+### 💡 Tricks & Tips
+
+#### 1. ['Only 2 left!’, ‘FREE SHIPPING above ₹999!' Simple tips to avoid these shopping traps during festive season sales](https://economictimes.indiatimes.com/wealth/spend/only-2-left-free-shipping-above-999-simple-tips-to-avoid-these-shopping-traps-during-festive-season-sales/articleshow/134653154.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Mon, 05 Oct 2026 06:30:00 +0530  
 
 **📝 Summary:** Bala had saved ₹2,000 for headphones.
-
----
-
-#### 3. [Hackers can target your wealth adviser’s WhatsApp: How to protect your money](https://economictimes.indiatimes.com/wealth/invest/hackers-can-target-your-wealth-advisers-whatsapp-how-to-protect-your-money/articleshow/134652123.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 05 Oct 2026 06:30:00 +0530  
-
-**📝 Summary:** Recent incidents highlight the increasing threat of compromised WhatsApp accounts among financial advisers in India.
-
----
-
-#### 4. [Hidden cost of travel: Visa fees, card markups, optional tours and tips that can add 25-40% to budget; here's how to plan for them](https://economictimes.indiatimes.com/wealth/spend/hidden-cost-of-travel-visa-fees-card-markups-optional-tours-and-tips-that-can-add-25-40-to-budget-heres-how-to-plan-for-them/articleshow/134651425.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 05 Oct 2026 06:30:00 +0530  
-
-**📝 Summary:** Many travelers fail to account for hidden costs while planning international journeys, often only considering major expenses.
 
 ---
 
