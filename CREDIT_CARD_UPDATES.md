@@ -1,22 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-06 05:24:06 IST
+**Last Updated:** 2026-10-06 12:57:06 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 💵 Annual Fee
-
-#### 1. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 30 Sep 2026 08:00:06 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** a new credit card  
-
-**📝 Summary:** SBI Card appears to be gearing up to launch a new credit card in India called the ETERNAL SBI Card.
-
----
 
 
 ### 📰 General Updates
@@ -124,7 +110,20 @@
 
 ### 💰 Reward Points
 
-#### 1. [HDFC Bank SmartBuy Credit Card Offers](https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/)
+#### 1. [Best Zero Forex Credit Cards With Rewards in India](https://cardinsider.com/blog/best-zero-forex-credit-cards-with-rewards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 06 Oct 2026 07:30:00 +0000  
+**🏦 Bank:** IDFC  
+**💳 Card:** Zero Forex Credit Card  
+
+**📝 Summary:** International travel has become more popular than ever, with destinations like Vietnam, Malaysia, and Thailand attracting a growing number of Indian travelers.
+
+**✨ Benefits:** Lounge Access, Complimentary
+
+---
+
+#### 2. [HDFC Bank SmartBuy Credit Card Offers](https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 01 Oct 2026 09:30:46 +0000  
@@ -136,7 +135,7 @@
 
 ---
 
-#### 2. [Up to 20X MR Points With American Express Reward Xcelerator – October 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
+#### 3. [Up to 20X MR Points With American Express Reward Xcelerator – October 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 01 Oct 2026 09:30:41 +0000  
@@ -151,7 +150,7 @@
 
 ---
 
-#### 3. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
+#### 4. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 01 Oct 2026 07:30:52 +0000  
@@ -162,7 +161,7 @@
 
 ---
 
-#### 4. [American Express Credit Cards Reward Multiplier – October 2026](https://cardinsider.com/blog/american-express-reward-multiplier/)
+#### 5. [American Express Credit Cards Reward Multiplier – October 2026](https://cardinsider.com/blog/american-express-reward-multiplier/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 01 Oct 2026 06:30:57 +0000  
@@ -182,23 +181,26 @@
 
 ---
 
-#### 5. [Turn Every Dyson Purchase into More Rewards with HSBC Credit Cards](https://cardinsider.com/blog/dyson-purchase-rewards-hsbc-credit-cards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 30 Sep 2026 07:00:37 +0000  
-**💳 Card:** with HSBC Credit Card  
-
-**📝 Summary:** Thinking about buying a Dyson product.
-
----
-
 
 ### ✈️ Travel Benefits
 
-#### 1. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+#### 1. [How to Use Your Credit Card for Free Lounge Access – October 2026 Travel Guide](https://cardinsider.com/blog/how-use-credit-card-free-lounge-access-travel-guide/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Mon, 05 Oct 2026 12:15:54 +0000  
+**📅 Published:** Tue, 06 Oct 2026 11:30:04 +0000  
+**🏦 Bank:** AMERICAN EXPRESS  
+**💳 Card:** Use Your Credit Card  
+
+**📝 Summary:** Transferring points to airlines, accumulating enough points with your American Express Card to transfer to Marriott, free food at airports (if you know you know), there’s so much that involves cred...
+
+**✨ Benefits:** Lounge Access, Complimentary
+
+---
+
+#### 2. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 06 Oct 2026 07:00:54 +0000  
 **🏦 Bank:** AU  
 **💳 Card:** Your Visa Credit Card  
 
