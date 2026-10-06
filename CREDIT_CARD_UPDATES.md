@@ -1,8 +1,22 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-05 23:50:50 IST
+**Last Updated:** 2026-10-06 05:24:06 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 💵 Annual Fee
+
+#### 1. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 30 Sep 2026 08:00:06 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** a new credit card  
+
+**📝 Summary:** SBI Card appears to be gearing up to launch a new credit card in India called the ETERNAL SBI Card.
+
+---
 
 
 ### 📰 General Updates
@@ -53,14 +67,146 @@
 ---
 
 
-### 💡 Tricks & Tips
+### 🎁 New Offer
 
-#### 1. ['Only 2 left!’, ‘FREE SHIPPING above ₹999!' Simple tips to avoid these shopping traps during festive season sales](https://economictimes.indiatimes.com/wealth/spend/only-2-left-free-shipping-above-999-simple-tips-to-avoid-these-shopping-traps-during-festive-season-sales/articleshow/134653154.cms)
+#### 1. [BOBCARD ETERNA Credit Card Now First Year Free – No Joining Charges](https://cardinsider.com/blog/bobcard-eterna-credit-card-now-lifetime-free/)
 
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 05 Oct 2026 06:30:00 +0530  
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 05 Oct 2026 07:40:46 +0000  
+**💳 Card:** BOBCARD ETERNA Credit Card  
+**💵 Fee:** ₹75  
 
-**📝 Summary:** Bala had saved ₹2,000 for headphones.
+**📝 Summary:** The Eterna Credit Card, which is one of the most premium cards issued by BOBCARD, is now available without any joining charges for a limited time.
+
+**✨ Benefits:** Complimentary
+
+---
+
+#### 2. [BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till November 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 05 Oct 2026 06:30:13 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** BOBCARD Etihad Credit Card  
+**💵 Fee:** ₹50  
+
+**📝 Summary:** BOBCARD has announced a limited-period welcome miles offer on its Etihad Guest co-branded credit cards for new customers.
+
+**✨ Benefits:** Welcome Bonus
+
+**🔄 Redemption:** , which can later be redeemed for flights, upgrades, hotel stays, and more through the Etihad Guest program
+
+---
+
+#### 3. [Axis Bank Grab Deals Offers – October 2026](https://cardinsider.com/blog/axis-bank-grab-deals/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 01 Oct 2026 07:30:25 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** debit and credit card  
+**💰 Reward:** 5% cashback  
+
+**📝 Summary:** Axis Bank has an online shopping portal for its customers.
+
+---
+
+#### 4. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 30 Sep 2026 11:30:55 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** promotion for credit card  
+
+**📝 Summary:** HSBC has officially rolled out its rewarding zero-forex promotion for credit cardholders in India.
+
+---
+
+
+### 💰 Reward Points
+
+#### 1. [HDFC Bank SmartBuy Credit Card Offers](https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 01 Oct 2026 09:30:46 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** Bank SmartBuy Credit Card  
+**💰 Reward:** 10% cashback  
+
+**📝 Summary:** HDFC SmartBuy is an exclusive rewards platform that allows cardholders to earn accelerated reward points on spends across categories such as travel bookings, online shopping, and gift vouchers.
+
+---
+
+#### 2. [Up to 20X MR Points With American Express Reward Xcelerator – October 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 01 Oct 2026 09:30:41 +0000  
+**🏦 Bank:** AMEX  
+**💳 Card:** American Express Credit Card  
+
+**📝 Summary:** American Express has just introduced its Reward Xcelerator program in India, offering great shopping rewards.
+
+**💡 Optimization Tips:**
+
+- It can be considered an upgraded and more premium version of the Rewards Multiplier
+
+---
+
+#### 3. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 01 Oct 2026 07:30:52 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** ICICI Bank Credit Card  
+
+**📝 Summary:** ICICI Bank has launched its own rewards portal called iShop Rewards 360.
+
+---
+
+#### 4. [American Express Credit Cards Reward Multiplier – October 2026](https://cardinsider.com/blog/american-express-reward-multiplier/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 01 Oct 2026 06:30:57 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** American Express Credit Card  
+
+**📝 Summary:** Many top credit card issuers like HDFC Bank, ICICI Bank, and Axis Bank have their reward offers portals like Smartbuy, iShop, and Grab Deals, where you can get accelerated reward points and massive...
+
+**💡 Optimization Tips:**
+
+- / Blog / American Express Credit Cards Reward Multiplier – October 2026 
+1 October, 2026
+				· By Rajat Gaur
+ Many top credit card issuers like HDFC Bank, ICICI Bank, and Axis Bank have their reward offers portals like Smartbuy, iShop, and Grab Deals
+- Similar to these programs, American Express has its Reward Multiplier program, where you have a chance to earn Membership Rewards points at an accelerated rate
+- The American Express Reward Multiplier is a shopping portal where you can shop with your desired brand and earn accelerated reward points
+
+---
+
+#### 5. [Turn Every Dyson Purchase into More Rewards with HSBC Credit Cards](https://cardinsider.com/blog/dyson-purchase-rewards-hsbc-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 30 Sep 2026 07:00:37 +0000  
+**💳 Card:** with HSBC Credit Card  
+
+**📝 Summary:** Thinking about buying a Dyson product.
+
+---
+
+
+### ✈️ Travel Benefits
+
+#### 1. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 05 Oct 2026 12:15:54 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** Your Visa Credit Card  
+
+**📝 Summary:** There have hardly been any offers as rewarding as the Visa Power Travel offer in recent times.
+
+**💡 Optimization Tips:**
+
+- Visa Power Travel offers multiple ways to earn additional rewards on your international spends
 
 ---
 
