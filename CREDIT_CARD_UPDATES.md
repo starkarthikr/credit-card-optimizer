@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-07 04:53:07 IST
+**Last Updated:** 2026-10-07 12:51:13 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -110,7 +110,24 @@
 
 ### 💰 Reward Points
 
-#### 1. [Best Zero Forex Credit Cards With Rewards in India](https://cardinsider.com/blog/best-zero-forex-credit-cards-with-rewards/)
+#### 1. [SBI Card PULSE Vs SBI Prime Credit Card](https://cardinsider.com/blog/sbi-card-pulse-vs-sbi-prime-credit-card/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 07 Oct 2026 11:00:54 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** SBI Prime Credit Card  
+
+**📝 Summary:** SBI PULSE Credit Card is specially curated for fitness enthusiasts who love an active lifestyle.
+
+**✨ Benefits:** Lounge Access, Fuel Surcharge, Movie Ticket, Complimentary, Insurance
+
+**💡 Optimization Tips:**
+
+- On one hand, the PULSE Card, known as the fitness card, helps you earn accelerated reward points while spending on Pharmacy and chemist purchases, while the Prime Card helps you earn multiplied reward points on dining, movies, groceries, and departme
+
+---
+
+#### 2. [Best Zero Forex Credit Cards With Rewards in India](https://cardinsider.com/blog/best-zero-forex-credit-cards-with-rewards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 06 Oct 2026 07:30:00 +0000  
@@ -123,7 +140,7 @@
 
 ---
 
-#### 2. [HDFC Bank SmartBuy Credit Card Offers](https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/)
+#### 3. [HDFC Bank SmartBuy Credit Card Offers](https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 01 Oct 2026 09:30:46 +0000  
@@ -135,7 +152,7 @@
 
 ---
 
-#### 3. [Up to 20X MR Points With American Express Reward Xcelerator – October 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
+#### 4. [Up to 20X MR Points With American Express Reward Xcelerator – October 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 01 Oct 2026 09:30:41 +0000  
@@ -150,7 +167,7 @@
 
 ---
 
-#### 4. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
+#### 5. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 01 Oct 2026 07:30:52 +0000  
@@ -158,26 +175,6 @@
 **💳 Card:** ICICI Bank Credit Card  
 
 **📝 Summary:** ICICI Bank has launched its own rewards portal called iShop Rewards 360.
-
----
-
-#### 5. [American Express Credit Cards Reward Multiplier – October 2026](https://cardinsider.com/blog/american-express-reward-multiplier/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 01 Oct 2026 06:30:57 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** American Express Credit Card  
-
-**📝 Summary:** Many top credit card issuers like HDFC Bank, ICICI Bank, and Axis Bank have their reward offers portals like Smartbuy, iShop, and Grab Deals, where you can get accelerated reward points and massive...
-
-**💡 Optimization Tips:**
-
-- / Blog / American Express Credit Cards Reward Multiplier – October 2026 
-1 October, 2026
-				· By Rajat Gaur
- Many top credit card issuers like HDFC Bank, ICICI Bank, and Axis Bank have their reward offers portals like Smartbuy, iShop, and Grab Deals
-- Similar to these programs, American Express has its Reward Multiplier program, where you have a chance to earn Membership Rewards points at an accelerated rate
-- The American Express Reward Multiplier is a shopping portal where you can shop with your desired brand and earn accelerated reward points
 
 ---
 
@@ -209,6 +206,17 @@
 **💡 Optimization Tips:**
 
 - Visa Power Travel offers multiple ways to earn additional rewards on your international spends
+
+---
+
+#### 3. [ICICI Bank Festive Bonanza 2026: Check discounts on iPhone, LG, Samsung, MakeMyTrip and more](https://economictimes.indiatimes.com/wealth/spend/icici-bank-festive-bonanza-2026-check-discounts-on-iphone-lg-samsung-makemytrip-and-more/slideshow/134756817.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 07 Oct 2026 10:44:57 +0530  
+**🏦 Bank:** ICICI  
+**💳 Card:** debit card  
+
+**📝 Summary:** ICICI Bank has announced its annual ‘Festive Bonanza’ with attractive offers across leading brands on online shopping.
 
 ---
 

@@ -71,6 +71,33 @@
   },
   {
     "source": "Cardinsider",
+    "title": "SBI Card PULSE Vs SBI Prime Credit Card",
+    "link": "https://cardinsider.com/blog/sbi-card-pulse-vs-sbi-prime-credit-card/",
+    "published": "Wed, 07 Oct 2026 11:00:54 +0000",
+    "summary": "SBI PULSE Credit Card is specially curated for fitness enthusiasts who love an active lifestyle.",
+    "card_info": {
+      "card_name": "SBI Prime Credit Card",
+      "bank": "SBI",
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [
+        "Lounge Access",
+        "Fuel Surcharge",
+        "Movie Ticket",
+        "Complimentary",
+        "Insurance"
+      ],
+      "optimization_tips": [
+        "On one hand, the PULSE Card, known as the fitness card, helps you earn accelerated reward points while spending on Pharmacy and chemist purchases, while the Prime Card helps you earn multiplied reward points on dining, movies, groceries, and departme"
+      ],
+      "redemption_info": null,
+      "category": "Reward Points"
+    }
+  },
+  {
+    "source": "Cardinsider",
     "title": "How to Use Your Credit Card for Free Lounge Access – October 2026 Travel Guide",
     "link": "https://cardinsider.com/blog/how-use-credit-card-free-lounge-access-travel-guide/",
     "published": "Tue, 06 Oct 2026 11:30:04 +0000",
@@ -297,14 +324,14 @@
     }
   },
   {
-    "source": "Cardinsider",
-    "title": "Apple Pay Now Live in India, Axis Bank Visa Credit Cards Can Be Added to Apple Wallet",
-    "link": "https://cardinsider.com/blog/apple-pay-axis-bank-visa-credit-cards-apple-wallet/",
-    "published": "Wed, 30 Sep 2026 08:15:36 +0000",
-    "summary": "Apple Pay has finally made its way to India, giving eligible cardholders a new way to use their credit cards through Apple&#8217;s digital wallet.",
+    "source": "Economic Times",
+    "title": "Highest senior citizen FD interest rates after RBI repo rate hike: Public vs private vs small finance bank rates of 3 and 5-year fixed deposits",
+    "link": "https://economictimes.indiatimes.com/wealth/invest/highest-senior-citizen-fd-interest-rates-after-rbi-repo-rate-hike-public-vs-private-vs-small-finance-bank-rates-of-3-and-5-year-fixed-deposits/articleshow/134766145.cms",
+    "published": "Wed, 07 Oct 2026 18:01:22 +0530",
+    "summary": "The Reserve Bank of India raised the repo rate to 5.",
     "card_info": {
-      "card_name": "Bank Visa Credit Card",
-      "bank": "AXIS",
+      "card_name": null,
+      "bank": "CITI",
       "offer_type": null,
       "cashback_rate": null,
       "annual_fee": null,
@@ -313,6 +340,234 @@
       "optimization_tips": [],
       "redemption_info": null,
       "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "Lowest home loan interest rates after RBI repo rate hike: Check rates of above Rs 30 lakh to 75 lakh loans at public &amp; private banks, HFCs",
+    "link": "https://economictimes.indiatimes.com/wealth/borrow/lowest-home-loan-interest-rates-after-rbi-repo-rate-hike-check-emi-on-above-rs-30-lakh-to-75-lakh-loans-at-public-private-banks-hfcs/articleshow/134763682.cms",
+    "published": "Wed, 07 Oct 2026 16:27:22 +0530",
+    "summary": "In a recent move, the Reserve Bank of India has lifted the repo rate to 5.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "‘Increase maximum EDLI benefit to Rs 10.50 lakh’: Why this BJP MP wants government to take immediate action",
+    "link": "https://economictimes.indiatimes.com/wealth/insure/epf-wage-ceiling-hike-increase-maximum-edli-benefit-to-rs-10-50-lakh-bjp-mp-writes-to-pm-modi-to-increase-insurance/articleshow/134761255.cms",
+    "published": "Wed, 07 Oct 2026 15:32:47 +0530",
+    "summary": "In a bid for better financial security, BJP MP Ajit Gopchade has urged Prime Minister Narendra Modi to enhance the Employees' Deposit Linked Insurance (EDLI) coverage.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "Grandmother seeks maintenance and share in family pension from granddaughter and daughter-in-law; loses case in Kerala HC",
+    "link": "https://economictimes.indiatimes.com/wealth/legal/will/grandmother-seeks-maintenance-and-share-in-family-pension-from-granddaughter-and-daughter-in-law-loses-case-in-kerala-hc/articleshow/134761141.cms",
+    "published": "Wed, 07 Oct 2026 15:08:35 +0530",
+    "summary": "In a recent incident in Kerala, a grandmother filed court case asking for a share of her late son's family pension AND Rs 15,000 maintenance.",
+    "card_info": {
+      "card_name": null,
+      "bank": "AU",
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "Bajaj Finance raises FD interest rates by up to 40 bps: Regular fixed depositors can get up to 7.75% rate; senior citizens can earn up to 8.15%",
+    "link": "https://economictimes.indiatimes.com/wealth/invest/bajaj-finance-fd-interest-rate-increase-after-rbi-repo-rate-hike-regular-fixed-depositors-can-get-up-to-7-75-rate-senior-citizens-can-earn-up-to-8-15/articleshow/134761015.cms",
+    "published": "Wed, 07 Oct 2026 14:27:30 +0530",
+    "summary": "FD interest rate: Bajaj Finance has increased its fixed deposit rates effective October 7, 2026.",
+    "card_info": {
+      "card_name": null,
+      "bank": "CITI",
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "Be a gharjamai: Is wife asking her husband to leave his ageing parents and live in her parents' house as a househusband cruelty? Jharkhand HC judgement answers",
+    "link": "https://economictimes.indiatimes.com/wealth/legal/will/be-a-gharjamai-is-wife-asking-her-husband-to-leave-his-ageing-parents-and-live-in-her-parents-house-as-a-househusband-cruelty-jharkhand-hc-judgment-answers/articleshow/134756394.cms",
+    "published": "Wed, 07 Oct 2026 14:10:26 +0530",
+    "summary": "In many marriages, each party can, if it so wills, discover many a cause for complaint, but such grievances arise mostly from temperamental disharmony.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "Gold rate today (October 7, 2026): Check 24k, 22k, 20k, 18k gold jewellery prices from IBJA, Malabar Gold &amp; Diamonds, Joyalukkas, Kalyan Jewellers and Tanishq",
+    "link": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-october-7-2026-check-18k-20k-24k-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas-delhi-hyderabad-bengaluru/articleshow/134759505.cms",
+    "published": "Wed, 07 Oct 2026 13:04:12 +0530",
+    "summary": "Gold rate today: On October 7, 2026, gold and silver prices saw notable changes among leading jewellery retailers.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "Good news for HDFC Bank borrowers: Bank cuts lending rates across tenures by up to 15 bps; check latest list",
+    "link": "https://economictimes.indiatimes.com/wealth/borrow/good-news-for-hdfc-bank-borrowers-bank-cuts-lending-rates-across-tenures-by-up-to-15-bps-check-latest-list/articleshow/134758224.cms",
+    "published": "Wed, 07 Oct 2026 12:15:44 +0530",
+    "summary": "In a move aimed at easing financial burdens for home loan borrowers, HDFC Bank has announced a decrease in its MCLR rates, effective from October 7, 2026.",
+    "card_info": {
+      "card_name": null,
+      "bank": "HDFC",
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "Hyderabad hosts global real estate dialogue as IREC 2026 brings 2,000+ delegates to HITEX",
+    "link": "https://economictimes.indiatimes.com/wealth/real-estate/hyderabad-hosts-global-real-estate-dialogue-as-irec-2026-brings-2000-delegates-to-hitex/articleshow/134757349.cms",
+    "published": "Wed, 07 Oct 2026 11:50:52 +0530",
+    "summary": "Hyderabad recently welcomed the 7th International Real Estate Conference, gathering over 2,000 delegates from 35 nations.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "ITR filing and Income tax audit deadline extended: check 5 critical things taxpayers must know",
+    "link": "https://economictimes.indiatimes.com/wealth/tax/itr-filing-and-income-tax-audit-deadline-extended-check-5-critical-things-taxpayers-must-know/slideshow/134758102.cms",
+    "published": "Wed, 07 Oct 2026 11:50:20 +0530",
+    "summary": "The CBDT has extended the income tax return filing deadline for certain taxpayers whose accounts are subject to audit.",
+    "card_info": {
+      "card_name": null,
+      "bank": "AU",
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "SBI FD interest rates: How much will Rs 1 lakh become in 1, 3, 5, and 10 years?",
+    "link": "https://economictimes.indiatimes.com/wealth/invest/sbi-fd-interest-rates-how-much-will-rs-1-lakh-become-in-1-3-5-and-10-years/slideshow/134757702.cms",
+    "published": "Wed, 07 Oct 2026 11:29:35 +0530",
+    "summary": "Many investors choose State Bank of India (SBI) fixed deposits (FDs) for predictable returns.",
+    "card_info": {
+      "card_name": null,
+      "bank": "SBI",
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "Soon, FD details will be part of your CAS statement; Here’s how it helps you",
+    "link": "https://economictimes.indiatimes.com/wealth/save/soon-fd-details-will-be-part-of-your-cas-statement-heres-how-it-helps-you/articleshow/134757204.cms",
+    "published": "Wed, 07 Oct 2026 11:26:40 +0530",
+    "summary": "Soon you will get to see your fixed deposit (FD) details in CAS statements.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "ICICI Bank Festive Bonanza 2026: Check discounts on iPhone, LG, Samsung, MakeMyTrip and more",
+    "link": "https://economictimes.indiatimes.com/wealth/spend/icici-bank-festive-bonanza-2026-check-discounts-on-iphone-lg-samsung-makemytrip-and-more/slideshow/134756817.cms",
+    "published": "Wed, 07 Oct 2026 10:44:57 +0530",
+    "summary": "ICICI Bank has announced its annual ‘Festive Bonanza’ with attractive offers across leading brands on online shopping.",
+    "card_info": {
+      "card_name": "debit card",
+      "bank": "ICICI",
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "Travel Benefits"
     }
   },
   {
@@ -343,253 +598,6 @@
     "card_info": {
       "card_name": null,
       "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "Can banks raise FD interest rates now as RBI increases repo rate by 25bps?",
-    "link": "https://economictimes.indiatimes.com/wealth/invest/rbi-mpc-october-2026-repo-date-decision-25-bps-hike-can-banks-raise-fd-interest-rates-now-as-reserve-bank-increases-rate/articleshow/134746120.cms",
-    "published": "Wed, 07 Oct 2026 10:05:12 +0530",
-    "summary": "RBI MPC October 2026: The Reserve Bank of India has increased the repo rate by 25 bps from 5.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "End of low-interest rate cycle for many home loan borrowers as RBI increases repo rate by 25bps",
-    "link": "https://economictimes.indiatimes.com/wealth/borrow/rbi-mpc-date-october-2026-decision-25-bps-hike-end-of-low-interest-rate-cycle-for-many-home-loan-borrowers-as-rbi-increases-rate/articleshow/134747645.cms",
-    "published": "Wed, 07 Oct 2026 10:03:48 +0530",
-    "summary": "RBI MPC repo rate: Borrowers with home loans linked to External Benchmark Linked Rates will see an increase in their EMIs.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "Buying a car before Diwali? 8 things buyers in Hyderabad, Mumbai and Bengaluru must check before paying",
-    "link": "https://economictimes.indiatimes.com/wealth/save/buying-a-car-before-diwali-8-things-buyers-in-hyderabad-mumbai-and-bengaluru-must-check-before-paying/slideshow/134755672.cms",
-    "published": "Wed, 07 Oct 2026 09:43:32 +0530",
-    "summary": "Diwali is one of the biggest car-buying periods of the year, with dealerships offering discounts, exchange benefits and other incentives.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "₹5 lakh credit card limit but you only use ₹70k? Can unused credit help your CIBIL score",
-    "link": "https://economictimes.indiatimes.com/wealth/borrow/5-lakh-credit-card-limit-but-you-only-use-70k-can-unused-credit-help-your-cibil-score/articleshow/134755444.cms",
-    "published": "Wed, 07 Oct 2026 09:37:26 +0530",
-    "summary": "Learn about the crucial impact of your credit card utilization ratio on your CIBIL score and recognize what a balanced ratio looks like.",
-    "card_info": {
-      "card_name": "5 lakh credit card",
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "Is your loan waived or just written off? The difference can wreck your credit score",
-    "link": "https://economictimes.indiatimes.com/wealth/borrow/is-your-loan-waived-or-just-written-off-the-difference-can-wreck-your-credit-score/slideshow/134755498.cms",
-    "published": "Wed, 07 Oct 2026 09:35:45 +0530",
-    "summary": "Banks use both terms, and most borrowers mix them up.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "New Aadhaar name correction rules: How to change your name in Aadhaar; what is not allowed; and documents required",
-    "link": "https://economictimes.indiatimes.com/wealth/save/new-aadhaar-name-correction-rules-how-to-change-your-name-in-aadhaar-what-is-not-allowed-and-documents-required/articleshow/134737333.cms",
-    "published": "Tue, 06 Oct 2026 16:29:18 +0530",
-    "summary": "UIDAI has updated Standard Operating Procedure for changing names in Aadhaar cards, detailing the necessary documentation and scenarios for different types of name alterations.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "Son fights for full share in father’s property after stepmother transfers it to daughter, who sells it; SC rejects his claim",
-    "link": "https://economictimes.indiatimes.com/wealth/legal/will/son-fights-for-full-share-in-fathers-property-after-stepmother-transfers-it-to-daughter-who-sells-it-sc-rejects-his-claim/articleshow/134730927.cms",
-    "published": "Tue, 06 Oct 2026 16:26:23 +0530",
-    "summary": "Son claims to fully inherit father’s property under Mitakshara Hindu law, however, stepmother gave it to step-sisters who sold it; Supreme court upholds step-mother's right and so step-son lost case.",
-    "card_info": {
-      "card_name": null,
-      "bank": "AU",
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "How to choose a trading app in India: Features, costs and trading tools",
-    "link": "https://economictimes.indiatimes.com/wealth/invest/how-to-choose-a-trading-app-in-india-features-costs-and-trading-tools/articleshow/134737330.cms",
-    "published": "Tue, 06 Oct 2026 16:09:34 +0530",
-    "summary": "When selecting a trading app, it's crucial to examine the features that best suit your trading style.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "Gold rate today (October 6, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold &amp; Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq &amp; IBJA in Delhi, Mumbai, Hyderabad &amp; more cities",
-    "link": "https://economictimes.indiatimes.com/wealth/invest/gold-silver-rate-today-october-6-2026-18k-20k-24k-delhi-hyderabad-bengaluru-citywise-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas/articleshow/134728187.cms",
-    "published": "Tue, 06 Oct 2026 13:37:44 +0530",
-    "summary": "Gold rate today: On October 6, 2026, gold and silver prices saw a minor decline across major jewelry outlets in India.",
-    "card_info": {
-      "card_name": null,
-      "bank": "CITI",
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "I will need Rs 30 lakh for my child’s studies in 3 years. Should I move my Rs 1.2 crore portfolio to safe assets?",
-    "link": "https://economictimes.indiatimes.com/wealth/plan/i-will-need-rs-30-lakh-for-my-childs-studies-in-3-years-should-i-move-my-rs-1-2-crore-portfolio-to-safe-assets/articleshow/134725795.cms",
-    "published": "Tue, 06 Oct 2026 12:43:48 +0530",
-    "summary": "ET Wealth Reader's Query: I am 42 and have been investing through SIPs for over a decade.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "Jeevan Pramaan 2026: Can all senior citizens submit Digital Life Certificate (DLC) from October 1, 2026? Check eligibility",
-    "link": "https://economictimes.indiatimes.com/wealth/save/jeevan-pramaan-2026-can-all-senior-citizens-submit-digital-life-certificate-dlc-from-october-1-2026-check-eligibility/articleshow/134726294.cms",
-    "published": "Tue, 06 Oct 2026 12:41:06 +0530",
-    "summary": "Digital Life Certificate: Senior pensioners aged 80 and above can submit their Digital Life Certificate from October 1, 2026.",
-    "card_info": {
-      "card_name": null,
-      "bank": "CITI",
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "PPF, SCSS, NSC interest rates: Has the government changed rates for October- December 2026?",
-    "link": "https://economictimes.indiatimes.com/wealth/save/ppf-scss-nsc-interest-rates-has-the-government-changed-rates-for-october-december-2026/slideshow/134724859.cms",
-    "published": "Tue, 06 Oct 2026 11:29:29 +0530",
-    "summary": "The Finance Ministry has kept small savings scheme interest rates unchanged for the October- December 2026 quarter.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "PNB Utsav Festivities 2026: Check the bank’s special offers on home, car, mortgage loans and more",
-    "link": "https://economictimes.indiatimes.com/wealth/borrow/pnb-utsav-festivities-2026-check-the-banks-special-offers-on-home-car-mortgage-loans-and-more/slideshow/134723459.cms",
-    "published": "Tue, 06 Oct 2026 10:20:59 +0530",
-    "summary": "PNB has launched 'PNB Utsav Festivities 2026', a festive retail loan campaign that offers many benefits to its customers.",
-    "card_info": {
-      "card_name": null,
-      "bank": "AU",
       "offer_type": null,
       "cashback_rate": null,
       "annual_fee": null,
