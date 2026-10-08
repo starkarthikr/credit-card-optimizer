@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-07 22:51:43 IST
+**Last Updated:** 2026-10-08 05:03:56 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -206,17 +206,6 @@
 **💡 Optimization Tips:**
 
 - Visa Power Travel offers multiple ways to earn additional rewards on your international spends
-
----
-
-#### 3. [ICICI Bank Festive Bonanza 2026: Check discounts on iPhone, LG, Samsung, MakeMyTrip and more](https://economictimes.indiatimes.com/wealth/spend/icici-bank-festive-bonanza-2026-check-discounts-on-iphone-lg-samsung-makemytrip-and-more/slideshow/134756817.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 07 Oct 2026 10:44:57 +0530  
-**🏦 Bank:** ICICI  
-**💳 Card:** debit card  
-
-**📝 Summary:** ICICI Bank has announced its annual ‘Festive Bonanza’ with attractive offers across leading brands on online shopping.
 
 ---
 
