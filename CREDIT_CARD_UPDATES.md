@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-09 05:06:23 IST
+**Last Updated:** 2026-10-09 12:46:21 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,23 +55,10 @@
 
 ### 🎁 New Offer
 
-#### 1. [BOBCARD ETERNA Credit Card Now First Year Free – No Joining Charges](https://cardinsider.com/blog/bobcard-eterna-credit-card-now-lifetime-free/)
+#### 1. [BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till November 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Mon, 05 Oct 2026 07:40:46 +0000  
-**💳 Card:** BOBCARD ETERNA Credit Card  
-**💵 Fee:** ₹75  
-
-**📝 Summary:** The Eterna Credit Card, which is one of the most premium cards issued by BOBCARD, is now available without any joining charges for a limited time.
-
-**✨ Benefits:** Complimentary
-
----
-
-#### 2. [BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till November 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Mon, 05 Oct 2026 06:30:13 +0000  
+**📅 Published:** Fri, 09 Oct 2026 06:30:13 +0000  
 **🏦 Bank:** SBI  
 **💳 Card:** BOBCARD Etihad Credit Card  
 **💵 Fee:** ₹50  
@@ -81,6 +68,19 @@
 **✨ Benefits:** Welcome Bonus
 
 **🔄 Redemption:** , which can later be redeemed for flights, upgrades, hotel stays, and more through the Etihad Guest program
+
+---
+
+#### 2. [BOBCARD ETERNA Credit Card Now First Year Free – No Joining Charges](https://cardinsider.com/blog/bobcard-eterna-credit-card-now-lifetime-free/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Fri, 09 Oct 2026 04:40:46 +0000  
+**💳 Card:** BOBCARD ETERNA Credit Card  
+**💵 Fee:** ₹75  
+
+**📝 Summary:** The Eterna Credit Card, which is one of the most premium cards issued by BOBCARD, is now available without any joining charges for a limited time.
+
+**✨ Benefits:** Complimentary
 
 ---
 
@@ -96,21 +96,21 @@
 
 ---
 
-#### 4. [HSBC Credit Cards Get 0% Forex Mark-Up on International Spends for a Limited Time](https://cardinsider.com/blog/hsbc-credit-cards-zero-forex-mark-up-international-spends-offer/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 30 Sep 2026 11:30:55 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** promotion for credit card  
-
-**📝 Summary:** HSBC has officially rolled out its rewarding zero-forex promotion for credit cardholders in India.
-
----
-
 
 ### 💰 Reward Points
 
-#### 1. [SBI Card PULSE Vs SBI Prime Credit Card](https://cardinsider.com/blog/sbi-card-pulse-vs-sbi-prime-credit-card/)
+#### 1. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Fri, 09 Oct 2026 05:30:52 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** ICICI Bank Credit Card  
+
+**📝 Summary:** ICICI Bank has launched its own rewards portal called iShop Rewards 360.
+
+---
+
+#### 2. [SBI Card PULSE Vs SBI Prime Credit Card](https://cardinsider.com/blog/sbi-card-pulse-vs-sbi-prime-credit-card/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 07 Oct 2026 11:00:54 +0000  
@@ -127,7 +127,7 @@
 
 ---
 
-#### 2. [Best Zero Forex Credit Cards With Rewards in India](https://cardinsider.com/blog/best-zero-forex-credit-cards-with-rewards/)
+#### 3. [Best Zero Forex Credit Cards With Rewards in India](https://cardinsider.com/blog/best-zero-forex-credit-cards-with-rewards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 06 Oct 2026 07:30:00 +0000  
@@ -140,7 +140,7 @@
 
 ---
 
-#### 3. [HDFC Bank SmartBuy Credit Card Offers](https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/)
+#### 4. [HDFC Bank SmartBuy Credit Card Offers](https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 01 Oct 2026 09:30:46 +0000  
@@ -152,7 +152,7 @@
 
 ---
 
-#### 4. [Up to 20X MR Points With American Express Reward Xcelerator – October 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
+#### 5. [Up to 20X MR Points With American Express Reward Xcelerator – October 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 01 Oct 2026 09:30:41 +0000  
@@ -167,21 +167,25 @@
 
 ---
 
-#### 5. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 01 Oct 2026 07:30:52 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** ICICI Bank Credit Card  
-
-**📝 Summary:** ICICI Bank has launched its own rewards portal called iShop Rewards 360.
-
----
-
 
 ### ✈️ Travel Benefits
 
-#### 1. [How to Use Your Credit Card for Free Lounge Access – October 2026 Travel Guide](https://cardinsider.com/blog/how-use-credit-card-free-lounge-access-travel-guide/)
+#### 1. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Fri, 09 Oct 2026 06:00:54 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** Your Visa Credit Card  
+
+**📝 Summary:** There have hardly been any offers as rewarding as the Visa Power Travel offer in recent times.
+
+**💡 Optimization Tips:**
+
+- Visa Power Travel offers multiple ways to earn additional rewards on your international spends
+
+---
+
+#### 2. [How to Use Your Credit Card for Free Lounge Access – October 2026 Travel Guide](https://cardinsider.com/blog/how-use-credit-card-free-lounge-access-travel-guide/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 06 Oct 2026 11:30:04 +0000  
@@ -194,18 +198,43 @@
 
 ---
 
-#### 2. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+
+### 💡 Tricks & Tips
+
+#### 1. [IndiGo IDFC FIRST Credit Card Now Offers Up to 10,000 IndiGo BluChips Vouchers for New Cardholders](https://cardinsider.com/blog/indigo-idfc-first-credit-card-indigo-bluchips-voucher-cardholders/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Tue, 06 Oct 2026 07:00:54 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** Your Visa Credit Card  
+**📅 Published:** Fri, 09 Oct 2026 07:30:29 +0000  
+**🏦 Bank:** AXIS  
+**💳 Card:** IDFC FIRST Credit Card  
+**💵 Fee:** ₹4  
 
-**📝 Summary:** There have hardly been any offers as rewarding as the Visa Power Travel offer in recent times.
+**📝 Summary:** From time to time, credit card issuers launch special offers that allow new cardholders to earn additional welcome benefits.
+
+**✨ Benefits:** Welcome Bonus
+
+**🔄 Redemption:** Redeem accumulated BluChips against IndiGo flight bookings and maximize the value of your travel spending
 
 **💡 Optimization Tips:**
 
-- Visa Power Travel offers multiple ways to earn additional rewards on your international spends
+- Those considering the card or looking for an airline co-branded credit card may find this a good time to apply and maximize the welcome benefits
+- Redeem accumulated BluChips against IndiGo flight bookings and maximize the value of your travel spending
+
+---
+
+#### 2. [Planning a ₹2 lakh foreign holiday? These hidden costs can push your trip budget up by 25–40%](https://economictimes.indiatimes.com/wealth/spend/planning-a-2-lakh-foreign-holiday-these-hidden-costs-can-push-your-trip-budget-up-by-2540/slideshow/134808918.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 09 Oct 2026 10:29:38 +0530  
+**💵 Fee:** ₹2  
+
+**📝 Summary:** An overseas holiday can become significantly more expensive once you add costs that are easy to overlook.
+
+**✨ Benefits:** Insurance
+
+**💡 Optimization Tips:**
+
+- Flights and hotels may dominate your initial budget, but food, local transport, currency conversion, visa fees, sightseeing, insurance and tips can quickly add up
 
 ---
 
