@@ -1,8 +1,20 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-09 12:46:21 IST
+**Last Updated:** 2026-10-09 22:23:50 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 💵 Annual Fee
+
+#### 1. [Good news: If penalty is imposed for misreporting of income or other cases you can apply for waiver of penalty using revised Form 161; Check the details](https://economictimes.indiatimes.com/wealth/tax/good-news-if-penalty-is-imposed-for-misreporting-of-income-or-other-cases-you-can-apply-for-waiver-of-penalty-using-revised-form-161-check-the-details/articleshow/134834280.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 09 Oct 2026 18:22:21 +0530  
+
+**📝 Summary:** On October 8, 2026, the Central Board of Direct Taxes introduced a revised Form 161 for taxpayers.
+
+---
 
 
 ### 📰 General Updates
