@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-09 22:23:50 IST
+**Last Updated:** 2026-10-10 04:52:06 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -231,22 +231,6 @@
 
 - Those considering the card or looking for an airline co-branded credit card may find this a good time to apply and maximize the welcome benefits
 - Redeem accumulated BluChips against IndiGo flight bookings and maximize the value of your travel spending
-
----
-
-#### 2. [Planning a ₹2 lakh foreign holiday? These hidden costs can push your trip budget up by 25–40%](https://economictimes.indiatimes.com/wealth/spend/planning-a-2-lakh-foreign-holiday-these-hidden-costs-can-push-your-trip-budget-up-by-2540/slideshow/134808918.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 09 Oct 2026 10:29:38 +0530  
-**💵 Fee:** ₹2  
-
-**📝 Summary:** An overseas holiday can become significantly more expensive once you add costs that are easy to overlook.
-
-**✨ Benefits:** Insurance
-
-**💡 Optimization Tips:**
-
-- Flights and hotels may dominate your initial budget, but food, local transport, currency conversion, visa fees, sightseeing, insurance and tips can quickly add up
 
 ---
 
