@@ -1,8 +1,46 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-12 04:59:42 IST
+**Last Updated:** 2026-10-12 14:43:12 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 💵 Annual Fee
+
+#### 1. [1838 Reserve ICICI Bank Credit Card Launched](https://cardinsider.com/blog/1838-reserve-icici-bank-credit-card-launched/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 12 Oct 2026 06:00:59 +0000  
+**🏦 Bank:** ICICI  
+**💳 Card:** ICICI Bank Credit Card  
+
+**📝 Summary:** ICICI Bank has officially launched the much-awaited 1838 Reserve Credit Card, an ultra-premium offering designed for high-net-worth individuals.
+
+**✨ Benefits:** Complimentary, Concierge
+
+---
+
+#### 2. [Revised Form 161: How taxpayers can seek penalty waiver and avoid litigation](https://economictimes.indiatimes.com/wealth/tax/revised-form-161-how-taxpayers-can-seek-penalty-waiver-and-avoid-litigation/slideshow/134891957.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 12 Oct 2026 17:03:57 +0530  
+
+**📝 Summary:** The Central Board of Direct Taxes’ (CBDT) revised Form 161, which qualifying taxpayers, including individuals, can use to request a remission of a penalty imposed on them owing to income misreporti...
+
+---
+
+
+### ⚠️ Devaluation
+
+#### 1. [Bank reduced interest on Rs 5.89 crore FD from 7.75% to 3.5% citing non-renewal; Delhi HC rejects arbitrary rate cut on this ground](https://economictimes.indiatimes.com/wealth/legal/will/bank-reduced-interest-on-rs-5-89-crore-fd-from-7-75-to-3-5-citing-non-renewal-delhi-hc-rejects-arbitrary-rate-cut-on-this-ground/articleshow/134884399.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 12 Oct 2026 12:17:13 +0530  
+**🏦 Bank:** CITI  
+
+**📝 Summary:** Bank reduced FD rate from 7.
+
+---
 
 
 ### 📰 General Updates
@@ -195,15 +233,6 @@
 **📝 Summary:** Transferring points to airlines, accumulating enough points with your American Express Card to transfer to Marriott, free food at airports (if you know you know), there’s so much that involves cred...
 
 **✨ Benefits:** Lounge Access, Complimentary
-
----
-
-#### 3. [Visa denied, trip cancelled: Can travel insurance help you recover your losses?](https://economictimes.indiatimes.com/wealth/insure/visa-denied-trip-cancelled-can-travel-insurance-help-you-recover-your-losses/articleshow/134846954.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 12 Oct 2026 06:30:00 +0530  
-
-**📝 Summary:** Some insurers now reimburse visa fees if your application is rejected.
 
 ---
 
