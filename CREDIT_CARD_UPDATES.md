@@ -1,20 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-11 21:37:19 IST
+**Last Updated:** 2026-10-12 04:59:42 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 💵 Annual Fee
-
-#### 1. [Good news: If penalty is imposed for misreporting of income or other cases you can apply for waiver of penalty using revised Form 161; Check the details](https://economictimes.indiatimes.com/wealth/tax/good-news-if-penalty-is-imposed-for-misreporting-of-income-or-other-cases-you-can-apply-for-waiver-of-penalty-using-revised-form-161-check-the-details/articleshow/134834280.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 09 Oct 2026 18:22:21 +0530  
-
-**📝 Summary:** On October 8, 2026, the Central Board of Direct Taxes introduced a revised Form 161 for taxpayers.
-
----
 
 
 ### 📰 General Updates
@@ -207,6 +195,15 @@
 **📝 Summary:** Transferring points to airlines, accumulating enough points with your American Express Card to transfer to Marriott, free food at airports (if you know you know), there’s so much that involves cred...
 
 **✨ Benefits:** Lounge Access, Complimentary
+
+---
+
+#### 3. [Visa denied, trip cancelled: Can travel insurance help you recover your losses?](https://economictimes.indiatimes.com/wealth/insure/visa-denied-trip-cancelled-can-travel-insurance-help-you-recover-your-losses/articleshow/134846954.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 12 Oct 2026 06:30:00 +0530  
+
+**📝 Summary:** Some insurers now reimburse visa fees if your application is rejected.
 
 ---
 
