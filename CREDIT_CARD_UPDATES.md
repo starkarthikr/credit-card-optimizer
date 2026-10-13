@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-13 00:16:52 IST
+**Last Updated:** 2026-10-13 13:46:07 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -20,25 +20,16 @@
 
 ---
 
-#### 2. [Revised Form 161: How taxpayers can seek penalty waiver and avoid litigation](https://economictimes.indiatimes.com/wealth/tax/revised-form-161-how-taxpayers-can-seek-penalty-waiver-and-avoid-litigation/slideshow/134891957.cms)
+
+### 🏆 Best Card
+
+#### 1. [Rs 7 lakh in SCSS vs SBI FD: Which gives senior citizens higher quarterly income? Compare interest rates and payouts](https://economictimes.indiatimes.com/wealth/invest/rs-7-lakh-in-scss-vs-sbi-fd-which-gives-senior-citizens-higher-quarterly-income-compare-interest-rates-and-payouts/slideshow/134910154.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 12 Oct 2026 17:03:57 +0530  
+**📅 Published:** Tue, 13 Oct 2026 11:57:01 +0530  
+**🏦 Bank:** SBI  
 
-**📝 Summary:** The Central Board of Direct Taxes’ (CBDT) revised Form 161, which qualifying taxpayers, including individuals, can use to request a remission of a penalty imposed on them owing to income misreporti...
-
----
-
-
-### ⚠️ Devaluation
-
-#### 1. [Bank reduced interest on Rs 5.89 crore FD from 7.75% to 3.5% citing non-renewal; Delhi HC rejects arbitrary rate cut on this ground](https://economictimes.indiatimes.com/wealth/legal/will/bank-reduced-interest-on-rs-5-89-crore-fd-from-7-75-to-3-5-citing-non-renewal-delhi-hc-rejects-arbitrary-rate-cut-on-this-ground/articleshow/134884399.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 12 Oct 2026 12:17:13 +0530  
-**🏦 Bank:** CITI  
-
-**📝 Summary:** Bank reduced FD rate from 7.
+**📝 Summary:** Senior citizens often compare SCSS and bank fixed deposits to generate income from their savings.
 
 ---
 
