@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-14 03:58:39 IST
+**Last Updated:** 2026-10-14 11:23:35 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -17,19 +17,6 @@
 **📝 Summary:** ICICI Bank has officially launched the much-awaited 1838 Reserve Credit Card, an ultra-premium offering designed for high-net-worth individuals.
 
 **✨ Benefits:** Complimentary, Concierge
-
----
-
-
-### 🏆 Best Card
-
-#### 1. [Rs 7 lakh in SCSS vs SBI FD: Which gives senior citizens higher quarterly income? Compare interest rates and payouts](https://economictimes.indiatimes.com/wealth/invest/rs-7-lakh-in-scss-vs-sbi-fd-which-gives-senior-citizens-higher-quarterly-income-compare-interest-rates-and-payouts/slideshow/134910154.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Tue, 13 Oct 2026 11:57:01 +0530  
-**🏦 Bank:** SBI  
-
-**📝 Summary:** Senior citizens often compare SCSS and bank fixed deposits to generate income from their savings.
 
 ---
 
@@ -113,18 +100,6 @@
 
 ---
 
-#### 3. [Axis Bank Grab Deals Offers – October 2026](https://cardinsider.com/blog/axis-bank-grab-deals/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 01 Oct 2026 07:30:25 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** debit and credit card  
-**💰 Reward:** 5% cashback  
-
-**📝 Summary:** Axis Bank has an online shopping portal for its customers.
-
----
-
 
 ### 💰 Reward Points
 
@@ -199,7 +174,18 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+#### 1. [10% Discount on Klook Bookings with AU Bank Credit Cards](https://cardinsider.com/blog/au-bank-credit-card-klook-discount/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 14 Oct 2026 05:15:03 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** AU Bank Credit Card  
+
+**📝 Summary:** AU Bank credit cardholders can save on their travel bookings through Klook, a platform offering travel activities, tourist attractions, transportation, and experiences across popular destinations w...
+
+---
+
+#### 2. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 09 Oct 2026 06:00:54 +0000  
@@ -214,7 +200,7 @@
 
 ---
 
-#### 2. [How to Use Your Credit Card for Free Lounge Access – October 2026 Travel Guide](https://cardinsider.com/blog/how-use-credit-card-free-lounge-access-travel-guide/)
+#### 3. [How to Use Your Credit Card for Free Lounge Access – October 2026 Travel Guide](https://cardinsider.com/blog/how-use-credit-card-free-lounge-access-travel-guide/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 06 Oct 2026 11:30:04 +0000  
