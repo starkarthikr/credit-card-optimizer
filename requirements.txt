@@ -12,7 +12,7 @@ beautifulsoup4>=4.12.0
 feedparser>=6.0.10
 
 # Date handling
-python-dateutil>=2.8.2
+python-dateutil>=2.9.0.post0
 
 # Data analysis for expense import
 pandas>=2.2.0
