@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-14 11:23:35 IST
+**Last Updated:** 2026-10-14 16:45:07 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -17,6 +17,15 @@
 **📝 Summary:** ICICI Bank has officially launched the much-awaited 1838 Reserve Credit Card, an ultra-premium offering designed for high-net-worth individuals.
 
 **✨ Benefits:** Complimentary, Concierge
+
+---
+
+#### 2. [Property tax waiver extended for residents of this part of Delhi: Check the new deadline to pay tax](https://economictimes.indiatimes.com/wealth/save/mcd-delhi-property-tax-under-suniyo-scheme-waiver-extended-for-residents-check-december-31-2026-deadline-to-pay-tax/articleshow/134940215.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 14 Oct 2026 16:51:58 +0530  
+
+**📝 Summary:** Delhi property tax: The Municipal Corporation of Delhi has introduced SUNIYO 2.
 
 ---
 
@@ -210,6 +219,15 @@
 **📝 Summary:** Transferring points to airlines, accumulating enough points with your American Express Card to transfer to Marriott, free food at airports (if you know you know), there’s so much that involves cred...
 
 **✨ Benefits:** Lounge Access, Complimentary
+
+---
+
+#### 4. [Travel insurance mandatory for all railway passengers including offline tickets bought at rail counters from this date, Supreme Court order; Know how this helps](https://economictimes.indiatimes.com/wealth/insure/travel-insurance-mandatory-for-all-railway-passengers-including-offline-tickets-bought-at-rail-counters-from-this-date-supreme-court-order-know-how-this-helps/articleshow/134943352.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 14 Oct 2026 18:28:46 +0530  
+
+**📝 Summary:** The Supreme Court of India has ruled that all train tickets must include mandatory travel insurance starting October 27, 2026.
 
 ---
 
