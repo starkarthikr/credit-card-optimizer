@@ -3,7 +3,7 @@
 # All versions pinned to secure releases
 
 # HTTP library - Fixed CVE-2024-47081, CVE-2024-35195, CVE-2023-32681
-requests>=2.32.4
+requests>=2.33.1
 
 # Web scraping
 beautifulsoup4>=4.12.0
