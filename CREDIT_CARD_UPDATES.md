@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-15 11:00:38 IST
+**Last Updated:** 2026-10-15 16:30:26 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -159,12 +159,18 @@
 
 ---
 
-#### 5. [294% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.94 lakh](https://economictimes.indiatimes.com/wealth/invest/294-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-94-lakh/articleshow/134962123.cms)
+#### 5. [Eternal SBI Card launched: SBI credit card offers 10% discount and 5% cashback with limits](https://economictimes.indiatimes.com/wealth/spend/eternal-sbi-card-launched-sbi-credit-card-offers-10-discount-and-5-cashback-with-limits/slideshow/134967270.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 15 Oct 2026 14:03:55 +0530  
+**📅 Published:** Thu, 15 Oct 2026 17:22:07 +0530  
+**🏦 Bank:** SBI  
+**💳 Card:** SBI Card  
 
-**📝 Summary:** Sovereign Gold Bond: The Reserve Bank of India has announced that the premature redemption price for Sovereign Gold Bonds will be set for October 2026.
+**📝 Summary:** SBI Card and Eternal Limited (formerly known as Zomato Limited) today announced the launch & ‘early access’ to Eternal SBI Card, a co-branded credit card designed for customers across Eternal and i...
+
+**💡 Optimization Tips:**
+
+- The card offers instant discounts across multiple brands within one ecosystem
 
 ---
 
@@ -218,15 +224,6 @@
 **📝 Summary:** Transferring points to airlines, accumulating enough points with your American Express Card to transfer to Marriott, free food at airports (if you know you know), there’s so much that involves cred...
 
 **✨ Benefits:** Lounge Access, Complimentary
-
----
-
-#### 5. [Travel insurance mandatory for all railway passengers including offline tickets bought at rail counters from this date, Supreme Court order; Know how this helps](https://economictimes.indiatimes.com/wealth/insure/travel-insurance-mandatory-for-all-railway-passengers-including-offline-tickets-bought-at-rail-counters-from-this-date-supreme-court-order-know-how-this-helps/articleshow/134943352.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 14 Oct 2026 18:28:46 +0530  
-
-**📝 Summary:** The Supreme Court of India has ruled that all train tickets must include mandatory travel insurance starting October 27, 2026.
 
 ---
 
