@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-15 03:41:00 IST
+**Last Updated:** 2026-10-15 11:00:38 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -17,15 +17,6 @@
 **📝 Summary:** ICICI Bank has officially launched the much-awaited 1838 Reserve Credit Card, an ultra-premium offering designed for high-net-worth individuals.
 
 **✨ Benefits:** Complimentary, Concierge
-
----
-
-#### 2. [Property tax waiver extended for residents of this part of Delhi: Check the new deadline to pay tax](https://economictimes.indiatimes.com/wealth/save/mcd-delhi-property-tax-under-suniyo-scheme-waiver-extended-for-residents-check-december-31-2026-deadline-to-pay-tax/articleshow/134940215.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 14 Oct 2026 16:51:58 +0530  
-
-**📝 Summary:** Delhi property tax: The Municipal Corporation of Delhi has introduced SUNIYO 2.
 
 ---
 
@@ -112,7 +103,22 @@
 
 ### 💰 Reward Points
 
-#### 1. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
+#### 1. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 15 Oct 2026 05:00:06 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** a new credit card  
+**💰 Reward:** 5% cashback  
+**💵 Fee:** ₹2  
+
+**📝 Summary:** SBI Card appears to be gearing up to launch a new credit card in India called the ETERNAL SBI Card.
+
+**✨ Benefits:** Movie Ticket
+
+---
+
+#### 2. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 09 Oct 2026 05:30:52 +0000  
@@ -123,7 +129,7 @@
 
 ---
 
-#### 2. [SBI Card PULSE Vs SBI Prime Credit Card](https://cardinsider.com/blog/sbi-card-pulse-vs-sbi-prime-credit-card/)
+#### 3. [SBI Card PULSE Vs SBI Prime Credit Card](https://cardinsider.com/blog/sbi-card-pulse-vs-sbi-prime-credit-card/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 07 Oct 2026 11:00:54 +0000  
@@ -140,7 +146,7 @@
 
 ---
 
-#### 3. [Best Zero Forex Credit Cards With Rewards in India](https://cardinsider.com/blog/best-zero-forex-credit-cards-with-rewards/)
+#### 4. [Best Zero Forex Credit Cards With Rewards in India](https://cardinsider.com/blog/best-zero-forex-credit-cards-with-rewards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 06 Oct 2026 07:30:00 +0000  
@@ -153,37 +159,30 @@
 
 ---
 
-#### 4. [HDFC Bank SmartBuy Credit Card Offers](https://cardinsider.com/blog/hdfc-bank-smartbuy-rewards-program-offers/)
+#### 5. [294% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.94 lakh](https://economictimes.indiatimes.com/wealth/invest/294-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-94-lakh/articleshow/134962123.cms)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 01 Oct 2026 09:30:46 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** Bank SmartBuy Credit Card  
-**💰 Reward:** 10% cashback  
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 15 Oct 2026 14:03:55 +0530  
 
-**📝 Summary:** HDFC SmartBuy is an exclusive rewards platform that allows cardholders to earn accelerated reward points on spends across categories such as travel bookings, online shopping, and gift vouchers.
-
----
-
-#### 5. [Up to 20X MR Points With American Express Reward Xcelerator – October 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 01 Oct 2026 09:30:41 +0000  
-**🏦 Bank:** AMEX  
-**💳 Card:** American Express Credit Card  
-
-**📝 Summary:** American Express has just introduced its Reward Xcelerator program in India, offering great shopping rewards.
-
-**💡 Optimization Tips:**
-
-- It can be considered an upgraded and more premium version of the Rewards Multiplier
+**📝 Summary:** Sovereign Gold Bond: The Reserve Bank of India has announced that the premature redemption price for Sovereign Gold Bonds will be set for October 2026.
 
 ---
 
 
 ### ✈️ Travel Benefits
 
-#### 1. [10% Discount on Klook Bookings with AU Bank Credit Cards](https://cardinsider.com/blog/au-bank-credit-card-klook-discount/)
+#### 1. [RBL Bank Credit Card Top Spender Campaign – Top 100 Customers to Win Exciting Rewards](https://cardinsider.com/blog/rbl-bank-credit-card-top-spender-campaign-win-exciting-rewards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 15 Oct 2026 07:00:09 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** RBL Bank Credit Card  
+
+**📝 Summary:** The festive season is here, and several platforms have kicked off their online sales.
+
+---
+
+#### 2. [10% Discount on Klook Bookings with AU Bank Credit Cards](https://cardinsider.com/blog/au-bank-credit-card-klook-discount/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 14 Oct 2026 05:15:03 +0000  
@@ -194,7 +193,7 @@
 
 ---
 
-#### 2. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+#### 3. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 09 Oct 2026 06:00:54 +0000  
@@ -209,7 +208,7 @@
 
 ---
 
-#### 3. [How to Use Your Credit Card for Free Lounge Access – October 2026 Travel Guide](https://cardinsider.com/blog/how-use-credit-card-free-lounge-access-travel-guide/)
+#### 4. [How to Use Your Credit Card for Free Lounge Access – October 2026 Travel Guide](https://cardinsider.com/blog/how-use-credit-card-free-lounge-access-travel-guide/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 06 Oct 2026 11:30:04 +0000  
@@ -222,7 +221,7 @@
 
 ---
 
-#### 4. [Travel insurance mandatory for all railway passengers including offline tickets bought at rail counters from this date, Supreme Court order; Know how this helps](https://economictimes.indiatimes.com/wealth/insure/travel-insurance-mandatory-for-all-railway-passengers-including-offline-tickets-bought-at-rail-counters-from-this-date-supreme-court-order-know-how-this-helps/articleshow/134943352.cms)
+#### 5. [Travel insurance mandatory for all railway passengers including offline tickets bought at rail counters from this date, Supreme Court order; Know how this helps](https://economictimes.indiatimes.com/wealth/insure/travel-insurance-mandatory-for-all-railway-passengers-including-offline-tickets-bought-at-rail-counters-from-this-date-supreme-court-order-know-how-this-helps/articleshow/134943352.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Wed, 14 Oct 2026 18:28:46 +0530  
