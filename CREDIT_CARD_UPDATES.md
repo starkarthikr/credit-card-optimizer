@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-16 03:36:45 IST
+**Last Updated:** 2026-10-16 10:56:17 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -156,21 +156,6 @@
 **📝 Summary:** International travel has become more popular than ever, with destinations like Vietnam, Malaysia, and Thailand attracting a growing number of Indian travelers.
 
 **✨ Benefits:** Lounge Access, Complimentary
-
----
-
-#### 5. [Eternal SBI Card launched: SBI credit card offers 10% discount and 5% cashback with limits](https://economictimes.indiatimes.com/wealth/spend/eternal-sbi-card-launched-sbi-credit-card-offers-10-discount-and-5-cashback-with-limits/slideshow/134967270.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 15 Oct 2026 17:22:07 +0530  
-**🏦 Bank:** SBI  
-**💳 Card:** SBI Card  
-
-**📝 Summary:** SBI Card and Eternal Limited (formerly known as Zomato Limited) today announced the launch & ‘early access’ to Eternal SBI Card, a co-branded credit card designed for customers across Eternal and i...
-
-**💡 Optimization Tips:**
-
-- The card offers instant discounts across multiple brands within one ecosystem
 
 ---
 
