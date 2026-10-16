@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-16 10:56:17 IST
+**Last Updated:** 2026-10-16 16:15:47 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -233,15 +233,6 @@
 
 - Those considering the card or looking for an airline co-branded credit card may find this a good time to apply and maximize the welcome benefits
 - Redeem accumulated BluChips against IndiGo flight bookings and maximize the value of your travel spending
-
----
-
-#### 2. [With Rs 50,000 salary, does a 6-month emergency fund mean having Rs 3 lakh? Practical tips to achieve the right amount](https://economictimes.indiatimes.com/wealth/save/with-rs-50000-salary-does-a-6-month-emergency-fund-mean-having-rs-3-lakh-practical-tips-to-achieve-the-right-amount/articleshow/134964942.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 16 Oct 2026 08:05:00 +0530  
-
-**📝 Summary:** 6-month emergency fund with Rs 50,000 salary: While calculating the amount, you should count everything that still needs to be paid even when salary stops.
 
 ---
 
