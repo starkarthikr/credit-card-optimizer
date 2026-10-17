@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-17 10:18:08 IST
+**Last Updated:** 2026-10-17 15:09:51 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -146,20 +146,7 @@
 
 ---
 
-#### 4. [Best Zero Forex Credit Cards With Rewards in India](https://cardinsider.com/blog/best-zero-forex-credit-cards-with-rewards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 06 Oct 2026 07:30:00 +0000  
-**🏦 Bank:** IDFC  
-**💳 Card:** Zero Forex Credit Card  
-
-**📝 Summary:** International travel has become more popular than ever, with destinations like Vietnam, Malaysia, and Thailand attracting a growing number of Indian travelers.
-
-**✨ Benefits:** Lounge Access, Complimentary
-
----
-
-#### 5. [192% return on SGB premature redemption: Gold bond turns Rs 1 lakh investment into Rs 2.92 lakh](https://economictimes.indiatimes.com/wealth/invest/192-return-on-sgb-premature-redemption-gold-bond-turns-rs-1-lakh-investment-into-rs-2-92-lakh/articleshow/135006757.cms)
+#### 4. [192% return on SGB premature redemption: Gold bond turns Rs 1 lakh investment into Rs 2.92 lakh](https://economictimes.indiatimes.com/wealth/invest/192-return-on-sgb-premature-redemption-gold-bond-turns-rs-1-lakh-investment-into-rs-2-92-lakh/articleshow/135006757.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Sat, 17 Oct 2026 09:23:45 +0530  
@@ -171,7 +158,20 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [RBL Bank Credit Card Top Spender Campaign – Top 100 Customers to Win Exciting Rewards](https://cardinsider.com/blog/rbl-bank-credit-card-top-spender-campaign-win-exciting-rewards/)
+#### 1. [Get Up to ₹4,000 on Domestic Flight Cancellations With Mastercard CFAR Benefit](https://cardinsider.com/blog/mastercard-cfar-domestic-flight-cancellation-benefit/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Sat, 17 Oct 2026 10:30:07 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** eligible card  
+
+**📝 Summary:** Mastercard has introduced a Cancellation For Any Reason (CFAR) benefit for eligible cardholders in India.
+
+**✨ Benefits:** Insurance
+
+---
+
+#### 2. [RBL Bank Credit Card Top Spender Campaign – Top 100 Customers to Win Exciting Rewards](https://cardinsider.com/blog/rbl-bank-credit-card-top-spender-campaign-win-exciting-rewards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 15 Oct 2026 07:00:09 +0000  
@@ -182,7 +182,7 @@
 
 ---
 
-#### 2. [10% Discount on Klook Bookings with AU Bank Credit Cards](https://cardinsider.com/blog/au-bank-credit-card-klook-discount/)
+#### 3. [10% Discount on Klook Bookings with AU Bank Credit Cards](https://cardinsider.com/blog/au-bank-credit-card-klook-discount/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 14 Oct 2026 05:15:03 +0000  
@@ -193,7 +193,7 @@
 
 ---
 
-#### 3. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+#### 4. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 09 Oct 2026 06:00:54 +0000  
@@ -208,7 +208,7 @@
 
 ---
 
-#### 4. [How to Use Your Credit Card for Free Lounge Access – October 2026 Travel Guide](https://cardinsider.com/blog/how-use-credit-card-free-lounge-access-travel-guide/)
+#### 5. [How to Use Your Credit Card for Free Lounge Access – October 2026 Travel Guide](https://cardinsider.com/blog/how-use-credit-card-free-lounge-access-travel-guide/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 06 Oct 2026 11:30:04 +0000  
