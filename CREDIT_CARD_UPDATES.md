@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-17 03:26:46 IST
+**Last Updated:** 2026-10-17 10:18:08 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -156,6 +156,15 @@
 **📝 Summary:** International travel has become more popular than ever, with destinations like Vietnam, Malaysia, and Thailand attracting a growing number of Indian travelers.
 
 **✨ Benefits:** Lounge Access, Complimentary
+
+---
+
+#### 5. [192% return on SGB premature redemption: Gold bond turns Rs 1 lakh investment into Rs 2.92 lakh](https://economictimes.indiatimes.com/wealth/invest/192-return-on-sgb-premature-redemption-gold-bond-turns-rs-1-lakh-investment-into-rs-2-92-lakh/articleshow/135006757.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 17 Oct 2026 09:23:45 +0530  
+
+**📝 Summary:** Sovereign Gold Bond: The Reserve Bank of India has announced the redemption price for Sovereign Gold Bonds 2020-21 Series VII, allowing investors to redeem on October 19, 2026.
 
 ---
 
