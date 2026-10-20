@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-20 03:55:09 IST
+**Last Updated:** 2026-10-20 11:04:38 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -71,7 +71,20 @@
 
 ### 🎁 New Offer
 
-#### 1. [BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till November 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
+#### 1. [Mastercard Offers Up to 50% Off Pickleball & Padel Court Bookings in India](https://cardinsider.com/blog/mastercard-pickleball-padel-court-offers-india/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 20 Oct 2026 07:30:46 +0000  
+**🏦 Bank:** CITI  
+**💳 Card:** owning a credit card  
+
+**📝 Summary:** Mastercard has partnered with Courtly to offer exclusive pickleball and padel benefits to eligible Mastercard World and World Elite credit and debit cardholders in India.
+
+**🔄 Redemption:** Follow these steps to redeem the benefits:   Both Mastercard and Visa have been introducing exciting new offers that make owning a credit card even more rewarding
+
+---
+
+#### 2. [BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till November 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 09 Oct 2026 06:30:13 +0000  
@@ -87,7 +100,7 @@
 
 ---
 
-#### 2. [BOBCARD ETERNA Credit Card Now First Year Free – No Joining Charges](https://cardinsider.com/blog/bobcard-eterna-credit-card-now-lifetime-free/)
+#### 3. [BOBCARD ETERNA Credit Card Now First Year Free – No Joining Charges](https://cardinsider.com/blog/bobcard-eterna-credit-card-now-lifetime-free/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 09 Oct 2026 04:40:46 +0000  
@@ -103,7 +116,21 @@
 
 ### 💰 Reward Points
 
-#### 1. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
+#### 1. [Swiggy ORNGE HDFC Credit Card vs Eternal SBI Credit Card](https://cardinsider.com/blog/swiggy-ornge-hdfc-vs-eternal-sbi-credit-card/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 20 Oct 2026 06:30:56 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** ORNGE HDFC Credit Card  
+**💵 Fee:** ₹500  
+
+**📝 Summary:** The Swiggy ORNGE HDFC Credit Card is one of the most popular co-branded credit cards for food orders and dining, alongside the Swiggy BLCK Credit Card.
+
+**✨ Benefits:** Complimentary
+
+---
+
+#### 2. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 15 Oct 2026 05:00:06 +0000  
@@ -118,7 +145,7 @@
 
 ---
 
-#### 2. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
+#### 3. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 09 Oct 2026 05:30:52 +0000  
@@ -129,65 +156,13 @@
 
 ---
 
-#### 3. [SBI Card PULSE Vs SBI Prime Credit Card](https://cardinsider.com/blog/sbi-card-pulse-vs-sbi-prime-credit-card/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 07 Oct 2026 11:00:54 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** SBI Prime Credit Card  
-
-**📝 Summary:** SBI PULSE Credit Card is specially curated for fitness enthusiasts who love an active lifestyle.
-
-**✨ Benefits:** Lounge Access, Fuel Surcharge, Movie Ticket, Complimentary, Insurance
-
-**💡 Optimization Tips:**
-
-- On one hand, the PULSE Card, known as the fitness card, helps you earn accelerated reward points while spending on Pharmacy and chemist purchases, while the Prime Card helps you earn multiplied reward points on dining, movies, groceries, and departme
-
----
-
 
 ### ✈️ Travel Benefits
 
-#### 1. [Get Up to ₹4,000 on Domestic Flight Cancellations With Mastercard CFAR Benefit](https://cardinsider.com/blog/mastercard-cfar-domestic-flight-cancellation-benefit/)
+#### 1. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Sat, 17 Oct 2026 10:30:07 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** eligible card  
-
-**📝 Summary:** Mastercard has introduced a Cancellation For Any Reason (CFAR) benefit for eligible cardholders in India.
-
-**✨ Benefits:** Insurance
-
----
-
-#### 2. [RBL Bank Credit Card Top Spender Campaign – Top 100 Customers to Win Exciting Rewards](https://cardinsider.com/blog/rbl-bank-credit-card-top-spender-campaign-win-exciting-rewards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 15 Oct 2026 07:00:09 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** RBL Bank Credit Card  
-
-**📝 Summary:** The festive season is here, and several platforms have kicked off their online sales.
-
----
-
-#### 3. [10% Discount on Klook Bookings with AU Bank Credit Cards](https://cardinsider.com/blog/au-bank-credit-card-klook-discount/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 14 Oct 2026 05:15:03 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** AU Bank Credit Card  
-
-**📝 Summary:** AU Bank credit cardholders can save on their travel bookings through Klook, a platform offering travel activities, tourist attractions, transportation, and experiences across popular destinations w...
-
----
-
-#### 4. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 09 Oct 2026 06:00:54 +0000  
+**📅 Published:** Tue, 20 Oct 2026 08:00:54 +0000  
 **🏦 Bank:** AU  
 **💳 Card:** Your Visa Credit Card  
 
@@ -199,16 +174,38 @@
 
 ---
 
-#### 5. [How to Use Your Credit Card for Free Lounge Access – October 2026 Travel Guide](https://cardinsider.com/blog/how-use-credit-card-free-lounge-access-travel-guide/)
+#### 2. [Get Up to ₹4,000 on Domestic Flight Cancellations With Mastercard CFAR Benefit](https://cardinsider.com/blog/mastercard-cfar-domestic-flight-cancellation-benefit/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Tue, 06 Oct 2026 11:30:04 +0000  
-**🏦 Bank:** AMERICAN EXPRESS  
-**💳 Card:** Use Your Credit Card  
+**📅 Published:** Tue, 20 Oct 2026 06:45:07 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** eligible card  
 
-**📝 Summary:** Transferring points to airlines, accumulating enough points with your American Express Card to transfer to Marriott, free food at airports (if you know you know), there’s so much that involves cred...
+**📝 Summary:** Mastercard has introduced a Cancellation For Any Reason (CFAR) benefit for eligible cardholders in India.
 
-**✨ Benefits:** Lounge Access, Complimentary
+**✨ Benefits:** Insurance
+
+---
+
+#### 3. [RBL Bank Credit Card Top Spender Campaign – Top 100 Customers to Win Exciting Rewards](https://cardinsider.com/blog/rbl-bank-credit-card-top-spender-campaign-win-exciting-rewards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 15 Oct 2026 07:00:09 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** RBL Bank Credit Card  
+
+**📝 Summary:** The festive season is here, and several platforms have kicked off their online sales.
+
+---
+
+#### 4. [10% Discount on Klook Bookings with AU Bank Credit Cards](https://cardinsider.com/blog/au-bank-credit-card-klook-discount/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 14 Oct 2026 05:15:03 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** AU Bank Credit Card  
+
+**📝 Summary:** AU Bank credit cardholders can save on their travel bookings through Klook, a platform offering travel activities, tourist attractions, transportation, and experiences across popular destinations w...
 
 ---
 
