@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-21 11:21:26 IST
+**Last Updated:** 2026-10-21 16:47:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -88,7 +88,18 @@
 
 ### 🎁 New Offer
 
-#### 1. [Mastercard Offers Up to 50% Off Pickleball & Padel Court Bookings in India](https://cardinsider.com/blog/mastercard-pickleball-padel-court-offers-india/)
+#### 1. [Huge Discounts Up to ₹15,000 on Apple Products With American Express Credit Cards](https://cardinsider.com/blog/huge-discounts-apple-products-american-express-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 21 Oct 2026 11:30:49 +0000  
+**🏦 Bank:** AMERICAN EXPRESS  
+**💳 Card:** American Express Credit Card  
+
+**📝 Summary:** Apple is an extremely popular global brand with an ever-expanding presence in India.
+
+---
+
+#### 2. [Mastercard Offers Up to 50% Off Pickleball & Padel Court Bookings in India](https://cardinsider.com/blog/mastercard-pickleball-padel-court-offers-india/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 07:30:46 +0000  
@@ -101,39 +112,26 @@
 
 ---
 
-#### 2. [BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till November 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 09 Oct 2026 06:30:13 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** BOBCARD Etihad Credit Card  
-**💵 Fee:** ₹50  
-
-**📝 Summary:** BOBCARD has announced a limited-period welcome miles offer on its Etihad Guest co-branded credit cards for new customers.
-
-**✨ Benefits:** Welcome Bonus
-
-**🔄 Redemption:** , which can later be redeemed for flights, upgrades, hotel stays, and more through the Etihad Guest program
-
----
-
-#### 3. [BOBCARD ETERNA Credit Card Now First Year Free – No Joining Charges](https://cardinsider.com/blog/bobcard-eterna-credit-card-now-lifetime-free/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 09 Oct 2026 04:40:46 +0000  
-**💳 Card:** BOBCARD ETERNA Credit Card  
-**💵 Fee:** ₹75  
-
-**📝 Summary:** The Eterna Credit Card, which is one of the most premium cards issued by BOBCARD, is now available without any joining charges for a limited time.
-
-**✨ Benefits:** Complimentary
-
----
-
 
 ### 💰 Reward Points
 
-#### 1. [Swiggy ORNGE HDFC Credit Card vs Eternal SBI Credit Card](https://cardinsider.com/blog/swiggy-ornge-hdfc-vs-eternal-sbi-credit-card/)
+#### 1. [Federal Bank ValueMax Credit Card Set to Launch in India](https://cardinsider.com/blog/federal-bank-valuemax-credit-card-launch/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 21 Oct 2026 12:30:32 +0000  
+**🏦 Bank:** STANDARD CHARTERED  
+**💳 Card:** Bank ValueMax Credit Card  
+**💵 Fee:** ₹499  
+
+**📝 Summary:** Federal Bank is set to launch its new ValueMax Credit Card, with the card expected to offer accelerated reward points on fuel, utility, and dining spends.
+
+**✨ Benefits:** Insurance
+
+**🔄 Redemption:** The card is expected to have a ₹99 reward redemption fee waived for the ValueMax variant
+
+---
+
+#### 2. [Swiggy ORNGE HDFC Credit Card vs Eternal SBI Credit Card](https://cardinsider.com/blog/swiggy-ornge-hdfc-vs-eternal-sbi-credit-card/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 06:30:56 +0000  
@@ -147,7 +145,7 @@
 
 ---
 
-#### 2. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
+#### 3. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 15 Oct 2026 05:00:06 +0000  
@@ -162,21 +160,25 @@
 
 ---
 
-#### 3. [ICICI Bank iShop Rewards Portal – Earn Accelerated Reward Points](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 09 Oct 2026 05:30:52 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** ICICI Bank Credit Card  
-
-**📝 Summary:** ICICI Bank has launched its own rewards portal called iShop Rewards 360.
-
----
-
 
 ### ✈️ Travel Benefits
 
-#### 1. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+#### 1. [Get Free eSIMs with Visa and Mastercard Credit Cards for Your Next International Trip](https://cardinsider.com/blog/free-esims-visa-mastercard-credit-cards-international-travel/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 21 Oct 2026 12:00:57 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** and Mastercard Credit Card  
+
+**📝 Summary:** Those who frequently travel abroad know how quickly international roaming charges, global data packs, and other connectivity costs can add up.
+
+**✨ Benefits:** Complimentary
+
+**🔄 Redemption:** Follow these simple steps to check your eligibility and redeem your GigSky benefits through the app:
+
+---
+
+#### 2. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 08:00:54 +0000  
@@ -191,7 +193,7 @@
 
 ---
 
-#### 2. [Get Up to ₹4,000 on Domestic Flight Cancellations With Mastercard CFAR Benefit](https://cardinsider.com/blog/mastercard-cfar-domestic-flight-cancellation-benefit/)
+#### 3. [Get Up to ₹4,000 on Domestic Flight Cancellations With Mastercard CFAR Benefit](https://cardinsider.com/blog/mastercard-cfar-domestic-flight-cancellation-benefit/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 06:45:07 +0000  
@@ -204,7 +206,7 @@
 
 ---
 
-#### 3. [RBL Bank Credit Card Top Spender Campaign – Top 100 Customers to Win Exciting Rewards](https://cardinsider.com/blog/rbl-bank-credit-card-top-spender-campaign-win-exciting-rewards/)
+#### 4. [RBL Bank Credit Card Top Spender Campaign – Top 100 Customers to Win Exciting Rewards](https://cardinsider.com/blog/rbl-bank-credit-card-top-spender-campaign-win-exciting-rewards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 15 Oct 2026 07:00:09 +0000  
@@ -215,7 +217,7 @@
 
 ---
 
-#### 4. [10% Discount on Klook Bookings with AU Bank Credit Cards](https://cardinsider.com/blog/au-bank-credit-card-klook-discount/)
+#### 5. [10% Discount on Klook Bookings with AU Bank Credit Cards](https://cardinsider.com/blog/au-bank-credit-card-klook-discount/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 14 Oct 2026 05:15:03 +0000  
