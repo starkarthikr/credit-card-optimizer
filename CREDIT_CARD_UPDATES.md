@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-22 11:20:55 IST
+**Last Updated:** 2026-10-22 16:48:17 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -82,7 +82,18 @@
 
 ### 💰 Reward Points
 
-#### 1. [Flipkart SuperCoins Festive Offers Earn Up to 50% Bonus Avios, 33% Bonus Maharaja Points & More](https://cardinsider.com/blog/flipkart-supercoins-festive-offers-bonus-rewards/)
+#### 1. [Spend ₹1 Lakh Internationally & Get Amazon Vouchers With ICICI Bank Credit Cards](https://cardinsider.com/blog/icici-bank-credit-card-international-spends-amazon-vouchers/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 22 Oct 2026 12:00:38 +0000  
+**🏦 Bank:** ICICI  
+**💳 Card:** ICICI Bank Credit Card  
+
+**📝 Summary:** With the festive season bringing plenty of spend-based offers from credit card issuers, cardholders have more opportunities to earn additional rewards on their regular spending.
+
+---
+
+#### 2. [Flipkart SuperCoins Festive Offers Earn Up to 50% Bonus Avios, 33% Bonus Maharaja Points & More](https://cardinsider.com/blog/flipkart-supercoins-festive-offers-bonus-rewards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 22 Oct 2026 07:15:59 +0000  
@@ -97,7 +108,7 @@
 
 ---
 
-#### 2. [Federal Bank ValueMax Credit Card Set to Launch in India](https://cardinsider.com/blog/federal-bank-valuemax-credit-card-launch/)
+#### 3. [Federal Bank ValueMax Credit Card Set to Launch in India](https://cardinsider.com/blog/federal-bank-valuemax-credit-card-launch/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 21 Oct 2026 12:30:32 +0000  
@@ -113,7 +124,7 @@
 
 ---
 
-#### 3. [Swiggy ORNGE HDFC Credit Card vs Eternal SBI Credit Card](https://cardinsider.com/blog/swiggy-ornge-hdfc-vs-eternal-sbi-credit-card/)
+#### 4. [Swiggy ORNGE HDFC Credit Card vs Eternal SBI Credit Card](https://cardinsider.com/blog/swiggy-ornge-hdfc-vs-eternal-sbi-credit-card/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 06:30:56 +0000  
@@ -127,7 +138,7 @@
 
 ---
 
-#### 4. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
+#### 5. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 15 Oct 2026 05:00:06 +0000  
