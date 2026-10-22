@@ -1,41 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-22 03:44:43 IST
+**Last Updated:** 2026-10-22 11:20:55 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 💵 Annual Fee
-
-#### 1. [1838 Reserve ICICI Bank Credit Card Launched](https://cardinsider.com/blog/1838-reserve-icici-bank-credit-card-launched/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Mon, 12 Oct 2026 06:00:59 +0000  
-**🏦 Bank:** ICICI  
-**💳 Card:** ICICI Bank Credit Card  
-
-**📝 Summary:** ICICI Bank has officially launched the much-awaited 1838 Reserve Credit Card, an ultra-premium offering designed for high-net-worth individuals.
-
-**✨ Benefits:** Complimentary, Concierge
-
----
-
-
-### 🏆 Best Card
-
-#### 1. [8th Pay Commission: Can Level 1 salary reach ₹69,000? Check Level 1-5 estimates](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-can-level-1-salary-reach-69000-check-level-1-5-estimates/slideshow/135084227.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 21 Oct 2026 11:57:24 +0530  
-
-**📝 Summary:** The fitment factor recommended by employee and pensioner organisations will play a key role in determining the proposed salary hike under the 8th Pay Commission.
-
-**💡 Optimization Tips:**
-
-- Among the recommended multipliers, 3
-- The National Council of the Joint Consultative Machinery (NC-JCM), the All India Defence Employees' Federation (AIDEF) and the Federation of National Postal Organisations (FNPO), among others, have proposed this multiplier
-
----
 
 
 ### 📰 General Updates
@@ -115,7 +82,22 @@
 
 ### 💰 Reward Points
 
-#### 1. [Federal Bank ValueMax Credit Card Set to Launch in India](https://cardinsider.com/blog/federal-bank-valuemax-credit-card-launch/)
+#### 1. [Flipkart SuperCoins Festive Offers Earn Up to 50% Bonus Avios, 33% Bonus Maharaja Points & More](https://cardinsider.com/blog/flipkart-supercoins-festive-offers-bonus-rewards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 22 Oct 2026 07:15:59 +0000  
+
+**📝 Summary:** Flipkart SuperCoins users can get more value from their rewards through festive transfer offers across airline and hotel loyalty programs.
+
+**🔄 Redemption:** Among the available options, Qatar Airways Privilege Club and ALL Accor are worth highlighting for travel enthusiasts, particularly those who already have a redemption plan in mind
+
+**💡 Optimization Tips:**
+
+- Flipkart’s Maximize-powered transfer campaign also opens up additional options for users looking to convert SuperCoins into travel loyalty rewards
+
+---
+
+#### 2. [Federal Bank ValueMax Credit Card Set to Launch in India](https://cardinsider.com/blog/federal-bank-valuemax-credit-card-launch/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 21 Oct 2026 12:30:32 +0000  
@@ -131,7 +113,7 @@
 
 ---
 
-#### 2. [Swiggy ORNGE HDFC Credit Card vs Eternal SBI Credit Card](https://cardinsider.com/blog/swiggy-ornge-hdfc-vs-eternal-sbi-credit-card/)
+#### 3. [Swiggy ORNGE HDFC Credit Card vs Eternal SBI Credit Card](https://cardinsider.com/blog/swiggy-ornge-hdfc-vs-eternal-sbi-credit-card/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 06:30:56 +0000  
@@ -145,7 +127,7 @@
 
 ---
 
-#### 3. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
+#### 4. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 15 Oct 2026 05:00:06 +0000  
@@ -163,7 +145,17 @@
 
 ### ✈️ Travel Benefits
 
-#### 1. [Get Free eSIMs with Visa and Mastercard Credit Cards for Your Next International Trip](https://cardinsider.com/blog/free-esims-visa-mastercard-credit-cards-international-travel/)
+#### 1. [Get Up to 12% Off on GetYourGuide Bookings With Mastercard](https://cardinsider.com/blog/getyourguide-bookings-discount-mastercard/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 22 Oct 2026 06:30:03 +0000  
+**💳 Card:** eligible card  
+
+**📝 Summary:** Mastercard has partnered with GetYourGuide to offer eligible cardholders an exclusive 12% discount on bookings.
+
+---
+
+#### 2. [Get Free eSIMs with Visa and Mastercard Credit Cards for Your Next International Trip](https://cardinsider.com/blog/free-esims-visa-mastercard-credit-cards-international-travel/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 21 Oct 2026 12:00:57 +0000  
@@ -178,7 +170,7 @@
 
 ---
 
-#### 2. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+#### 3. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 08:00:54 +0000  
@@ -193,7 +185,7 @@
 
 ---
 
-#### 3. [Get Up to ₹4,000 on Domestic Flight Cancellations With Mastercard CFAR Benefit](https://cardinsider.com/blog/mastercard-cfar-domestic-flight-cancellation-benefit/)
+#### 4. [Get Up to ₹4,000 on Domestic Flight Cancellations With Mastercard CFAR Benefit](https://cardinsider.com/blog/mastercard-cfar-domestic-flight-cancellation-benefit/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 06:45:07 +0000  
@@ -206,7 +198,7 @@
 
 ---
 
-#### 4. [RBL Bank Credit Card Top Spender Campaign – Top 100 Customers to Win Exciting Rewards](https://cardinsider.com/blog/rbl-bank-credit-card-top-spender-campaign-win-exciting-rewards/)
+#### 5. [RBL Bank Credit Card Top Spender Campaign – Top 100 Customers to Win Exciting Rewards](https://cardinsider.com/blog/rbl-bank-credit-card-top-spender-campaign-win-exciting-rewards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 15 Oct 2026 07:00:09 +0000  
@@ -214,41 +206,6 @@
 **💳 Card:** RBL Bank Credit Card  
 
 **📝 Summary:** The festive season is here, and several platforms have kicked off their online sales.
-
----
-
-#### 5. [10% Discount on Klook Bookings with AU Bank Credit Cards](https://cardinsider.com/blog/au-bank-credit-card-klook-discount/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 14 Oct 2026 05:15:03 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** AU Bank Credit Card  
-
-**📝 Summary:** AU Bank credit cardholders can save on their travel bookings through Klook, a platform offering travel activities, tourist attractions, transportation, and experiences across popular destinations w...
-
----
-
-
-### 💡 Tricks & Tips
-
-#### 1. [IndiGo IDFC FIRST Credit Card Now Offers Up to 10,000 IndiGo BluChips Vouchers for New Cardholders](https://cardinsider.com/blog/indigo-idfc-first-credit-card-indigo-bluchips-voucher-cardholders/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 09 Oct 2026 07:30:29 +0000  
-**🏦 Bank:** AXIS  
-**💳 Card:** IDFC FIRST Credit Card  
-**💵 Fee:** ₹4  
-
-**📝 Summary:** From time to time, credit card issuers launch special offers that allow new cardholders to earn additional welcome benefits.
-
-**✨ Benefits:** Welcome Bonus
-
-**🔄 Redemption:** Redeem accumulated BluChips against IndiGo flight bookings and maximize the value of your travel spending
-
-**💡 Optimization Tips:**
-
-- Those considering the card or looking for an airline co-branded credit card may find this a good time to apply and maximize the welcome benefits
-- Redeem accumulated BluChips against IndiGo flight bookings and maximize the value of your travel spending
 
 ---
 
