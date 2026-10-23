@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-23 11:11:02 IST
+**Last Updated:** 2026-10-23 16:39:22 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,7 +55,23 @@
 
 ### 🎁 New Offer
 
-#### 1. [Huge Discounts Up to ₹15,000 on Apple Products With American Express Credit Cards](https://cardinsider.com/blog/huge-discounts-apple-products-american-express-credit-cards/)
+#### 1. [BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till November 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Fri, 23 Oct 2026 12:30:13 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** BOBCARD Etihad Credit Card  
+**💵 Fee:** ₹100  
+
+**📝 Summary:** BOBCARD has announced a limited-period welcome miles offer on its Etihad Guest co-branded credit cards for new customers.
+
+**✨ Benefits:** Welcome Bonus
+
+**🔄 Redemption:** , which can later be redeemed for flights, upgrades, hotel stays, and more through the Etihad Guest program
+
+---
+
+#### 2. [Huge Discounts Up to ₹15,000 on Apple Products With American Express Credit Cards](https://cardinsider.com/blog/huge-discounts-apple-products-american-express-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 21 Oct 2026 11:30:49 +0000  
@@ -66,7 +82,7 @@
 
 ---
 
-#### 2. [Mastercard Offers Up to 50% Off Pickleball & Padel Court Bookings in India](https://cardinsider.com/blog/mastercard-pickleball-padel-court-offers-india/)
+#### 3. [Mastercard Offers Up to 50% Off Pickleball & Padel Court Bookings in India](https://cardinsider.com/blog/mastercard-pickleball-padel-court-offers-india/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 07:30:46 +0000  
@@ -82,7 +98,17 @@
 
 ### 💰 Reward Points
 
-#### 1. [Spend ₹1 Lakh Internationally & Get Amazon Vouchers With ICICI Bank Credit Cards](https://cardinsider.com/blog/icici-bank-credit-card-international-spends-amazon-vouchers/)
+#### 1. [Equitas PowerMiles Credit Card Adds Air India Maharaja Club as First Transfer Partner](https://cardinsider.com/blog/equitas-powermiles-adds-air-india-maharaja-club-transfer-partner/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Fri, 23 Oct 2026 12:00:52 +0000  
+**💳 Card:** Equitas PowerMiles Credit Card  
+
+**📝 Summary:** Equitas Small Finance Bank has added Air India Maharaja Club as the first transfer partner for its PowerMiles Credit Card, bringing the card&#8217;s long-awaited reward points transfer facility clo...
+
+---
+
+#### 2. [Spend ₹1 Lakh Internationally & Get Amazon Vouchers With ICICI Bank Credit Cards](https://cardinsider.com/blog/icici-bank-credit-card-international-spends-amazon-vouchers/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 22 Oct 2026 12:00:38 +0000  
@@ -93,7 +119,7 @@
 
 ---
 
-#### 2. [Flipkart SuperCoins Festive Offers Earn Up to 50% Bonus Avios, 33% Bonus Maharaja Points & More](https://cardinsider.com/blog/flipkart-supercoins-festive-offers-bonus-rewards/)
+#### 3. [Flipkart SuperCoins Festive Offers Earn Up to 50% Bonus Avios, 33% Bonus Maharaja Points & More](https://cardinsider.com/blog/flipkart-supercoins-festive-offers-bonus-rewards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 22 Oct 2026 07:15:59 +0000  
@@ -108,7 +134,7 @@
 
 ---
 
-#### 3. [Federal Bank ValueMax Credit Card Set to Launch in India](https://cardinsider.com/blog/federal-bank-valuemax-credit-card-launch/)
+#### 4. [Federal Bank ValueMax Credit Card Set to Launch in India](https://cardinsider.com/blog/federal-bank-valuemax-credit-card-launch/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 21 Oct 2026 12:30:32 +0000  
@@ -124,7 +150,7 @@
 
 ---
 
-#### 4. [Swiggy ORNGE HDFC Credit Card vs Eternal SBI Credit Card](https://cardinsider.com/blog/swiggy-ornge-hdfc-vs-eternal-sbi-credit-card/)
+#### 5. [Swiggy ORNGE HDFC Credit Card vs Eternal SBI Credit Card](https://cardinsider.com/blog/swiggy-ornge-hdfc-vs-eternal-sbi-credit-card/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 06:30:56 +0000  
@@ -135,21 +161,6 @@
 **📝 Summary:** The Swiggy ORNGE HDFC Credit Card is one of the most popular co-branded credit cards for food orders and dining, alongside the Swiggy BLCK Credit Card.
 
 **✨ Benefits:** Complimentary
-
----
-
-#### 5. [SBI Card Set to Launch New ETERNAL Co-Branded Credit Card with Up to 10% Instant Discount](https://cardinsider.com/blog/sbi-card-launch-new-eternal-co-branded-credit-card-with-instant-discount/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 15 Oct 2026 05:00:06 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** a new credit card  
-**💰 Reward:** 5% cashback  
-**💵 Fee:** ₹2  
-
-**📝 Summary:** SBI Card appears to be gearing up to launch a new credit card in India called the ETERNAL SBI Card.
-
-**✨ Benefits:** Movie Ticket
 
 ---
 
@@ -206,17 +217,6 @@
 **📝 Summary:** Mastercard has introduced a Cancellation For Any Reason (CFAR) benefit for eligible cardholders in India.
 
 **✨ Benefits:** Insurance
-
----
-
-#### 5. [RBL Bank Credit Card Top Spender Campaign – Top 100 Customers to Win Exciting Rewards](https://cardinsider.com/blog/rbl-bank-credit-card-top-spender-campaign-win-exciting-rewards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 15 Oct 2026 07:00:09 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** RBL Bank Credit Card  
-
-**📝 Summary:** The festive season is here, and several platforms have kicked off their online sales.
 
 ---
 
