@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-26 12:27:24 IST
+**Last Updated:** 2026-10-26 22:23:59 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -96,23 +96,23 @@
 
 ---
 
-#### 4. [Mastercard Offers Up to 50% Off Pickleball & Padel Court Bookings in India](https://cardinsider.com/blog/mastercard-pickleball-padel-court-offers-india/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 20 Oct 2026 07:30:46 +0000  
-**🏦 Bank:** CITI  
-**💳 Card:** owning a credit card  
-
-**📝 Summary:** Mastercard has partnered with Courtly to offer exclusive pickleball and padel benefits to eligible Mastercard World and World Elite credit and debit cardholders in India.
-
-**🔄 Redemption:** Follow these steps to redeem the benefits:   Both Mastercard and Visa have been introducing exciting new offers that make owning a credit card even more rewarding
-
----
-
 
 ### 💰 Reward Points
 
-#### 1. [Equitas PowerMiles Credit Card Adds Air India Maharaja Club as First Transfer Partner](https://cardinsider.com/blog/equitas-powermiles-adds-air-india-maharaja-club-transfer-partner/)
+#### 1. [Standard Chartered Credit Cards Transitioning to Federal Bank (Card Mapping, Rewards and Benefits Explained)](https://cardinsider.com/blog/standard-chartered-credit-cards-transition-federal-bank/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 26 Oct 2026 12:00:42 +0000  
+**🏦 Bank:** STANDARD CHARTERED  
+**💳 Card:** Standard Chartered Credit Card  
+
+**📝 Summary:** Standard Chartered credit cardholders in India will transition to Federal Bank as part of the transfer of Standard Chartered&#8217;s credit card portfolio, a process communicated to customers in Ju...
+
+**✨ Benefits:** Lounge Access
+
+---
+
+#### 2. [Equitas PowerMiles Credit Card Adds Air India Maharaja Club as First Transfer Partner](https://cardinsider.com/blog/equitas-powermiles-adds-air-india-maharaja-club-transfer-partner/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 23 Oct 2026 12:00:52 +0000  
@@ -122,7 +122,7 @@
 
 ---
 
-#### 2. [Spend ₹1 Lakh Internationally & Get Amazon Vouchers With ICICI Bank Credit Cards](https://cardinsider.com/blog/icici-bank-credit-card-international-spends-amazon-vouchers/)
+#### 3. [Spend ₹1 Lakh Internationally & Get Amazon Vouchers With ICICI Bank Credit Cards](https://cardinsider.com/blog/icici-bank-credit-card-international-spends-amazon-vouchers/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 22 Oct 2026 12:00:38 +0000  
@@ -133,7 +133,7 @@
 
 ---
 
-#### 3. [Flipkart SuperCoins Festive Offers Earn Up to 50% Bonus Avios, 33% Bonus Maharaja Points & More](https://cardinsider.com/blog/flipkart-supercoins-festive-offers-bonus-rewards/)
+#### 4. [Flipkart SuperCoins Festive Offers Earn Up to 50% Bonus Avios, 33% Bonus Maharaja Points & More](https://cardinsider.com/blog/flipkart-supercoins-festive-offers-bonus-rewards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 22 Oct 2026 07:15:59 +0000  
@@ -148,7 +148,7 @@
 
 ---
 
-#### 4. [Federal Bank ValueMax Credit Card Set to Launch in India](https://cardinsider.com/blog/federal-bank-valuemax-credit-card-launch/)
+#### 5. [Federal Bank ValueMax Credit Card Set to Launch in India](https://cardinsider.com/blog/federal-bank-valuemax-credit-card-launch/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 21 Oct 2026 12:30:32 +0000  
@@ -161,19 +161,6 @@
 **✨ Benefits:** Insurance
 
 **🔄 Redemption:** The card is expected to have a ₹99 reward redemption fee waived for the ValueMax variant
-
----
-
-#### 5. [8% instant discount vs 10% cashback vs 1,000 reward points: Are they all the same? Know exactly which one will save more money](https://economictimes.indiatimes.com/wealth/spend/8-instant-discount-vs-10-cashback-vs-1000-reward-points-are-they-all-the-same-know-exactly-which-one-will-save-more-money/articleshow/135207042.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 26 Oct 2026 14:35:13 +0530  
-
-**📝 Summary:** 8% instant discount vs 10% cashback vs 1,000 reward points: Suppose you shop for Rs 10,000 online and are now getting a choice between an 8% discount, 1000 reward points or 10% cashback.
-
-**💡 Optimization Tips:**
-
-- Practical tips to achieve the right amount (Join our ETWealth WhatsApp channel for all the latest updates) (Catch all the Personal Finance News, Breaking News, Budget 2025 Events and Latest News Updates on The Economic Times
 
 ---
 
