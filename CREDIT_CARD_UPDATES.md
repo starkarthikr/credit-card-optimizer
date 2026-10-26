@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-26 03:45:06 IST
+**Last Updated:** 2026-10-26 12:27:24 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,7 +55,21 @@
 
 ### 🎁 New Offer
 
-#### 1. [BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till November 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
+#### 1. [Axis Bank Now Offering My Zone Credit Card as LifeTime Free](https://cardinsider.com/blog/axis-bank-is-now-offering-my-zone-credit-card-as-lifetime-free/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 26 Oct 2026 09:30:02 +0000  
+**🏦 Bank:** AXIS  
+**💳 Card:** My Zone Credit Card  
+**💵 Fee:** ₹500  
+
+**📝 Summary:** The My Zone Credit Card issued by Axis Bank is one of the most popular cards in India in the basic category.
+
+**✨ Benefits:** Lounge Access
+
+---
+
+#### 2. [BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till November 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 23 Oct 2026 12:30:13 +0000  
@@ -71,7 +85,7 @@
 
 ---
 
-#### 2. [Huge Discounts Up to ₹15,000 on Apple Products With American Express Credit Cards](https://cardinsider.com/blog/huge-discounts-apple-products-american-express-credit-cards/)
+#### 3. [Huge Discounts Up to ₹15,000 on Apple Products With American Express Credit Cards](https://cardinsider.com/blog/huge-discounts-apple-products-american-express-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 21 Oct 2026 11:30:49 +0000  
@@ -82,7 +96,7 @@
 
 ---
 
-#### 3. [Mastercard Offers Up to 50% Off Pickleball & Padel Court Bookings in India](https://cardinsider.com/blog/mastercard-pickleball-padel-court-offers-india/)
+#### 4. [Mastercard Offers Up to 50% Off Pickleball & Padel Court Bookings in India](https://cardinsider.com/blog/mastercard-pickleball-padel-court-offers-india/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 07:30:46 +0000  
@@ -150,24 +164,36 @@
 
 ---
 
-#### 5. [Swiggy ORNGE HDFC Credit Card vs Eternal SBI Credit Card](https://cardinsider.com/blog/swiggy-ornge-hdfc-vs-eternal-sbi-credit-card/)
+#### 5. [8% instant discount vs 10% cashback vs 1,000 reward points: Are they all the same? Know exactly which one will save more money](https://economictimes.indiatimes.com/wealth/spend/8-instant-discount-vs-10-cashback-vs-1000-reward-points-are-they-all-the-same-know-exactly-which-one-will-save-more-money/articleshow/135207042.cms)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 20 Oct 2026 06:30:56 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** ORNGE HDFC Credit Card  
-**💵 Fee:** ₹500  
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 26 Oct 2026 14:35:13 +0530  
 
-**📝 Summary:** The Swiggy ORNGE HDFC Credit Card is one of the most popular co-branded credit cards for food orders and dining, alongside the Swiggy BLCK Credit Card.
+**📝 Summary:** 8% instant discount vs 10% cashback vs 1,000 reward points: Suppose you shop for Rs 10,000 online and are now getting a choice between an 8% discount, 1000 reward points or 10% cashback.
 
-**✨ Benefits:** Complimentary
+**💡 Optimization Tips:**
+
+- Practical tips to achieve the right amount (Join our ETWealth WhatsApp channel for all the latest updates) (Catch all the Personal Finance News, Breaking News, Budget 2025 Events and Latest News Updates on The Economic Times
 
 ---
 
 
 ### ✈️ Travel Benefits
 
-#### 1. [Get Up to 12% Off on GetYourGuide Bookings With Mastercard](https://cardinsider.com/blog/getyourguide-bookings-discount-mastercard/)
+#### 1. [RuPay EKAA Credit Cards Now Come With ALL Accor+ Explorer Membership](https://cardinsider.com/blog/rupay-ekaa-credit-cards-all-accor-explorer-membership/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 26 Oct 2026 05:30:21 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** RuPay EKAA Credit Card  
+
+**📝 Summary:** RuPay EKAA, one of the most premium and rewarding variants in the RuPay ecosystem, has just become even more attractive with the addition of a new travel benefit.
+
+**✨ Benefits:** Dining Discount, Complimentary
+
+---
+
+#### 2. [Get Up to 12% Off on GetYourGuide Bookings With Mastercard](https://cardinsider.com/blog/getyourguide-bookings-discount-mastercard/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 22 Oct 2026 06:30:03 +0000  
@@ -177,7 +203,7 @@
 
 ---
 
-#### 2. [Get Free eSIMs with Visa and Mastercard Credit Cards for Your Next International Trip](https://cardinsider.com/blog/free-esims-visa-mastercard-credit-cards-international-travel/)
+#### 3. [Get Free eSIMs with Visa and Mastercard Credit Cards for Your Next International Trip](https://cardinsider.com/blog/free-esims-visa-mastercard-credit-cards-international-travel/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 21 Oct 2026 12:00:57 +0000  
@@ -192,7 +218,7 @@
 
 ---
 
-#### 3. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+#### 4. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 20 Oct 2026 08:00:54 +0000  
@@ -204,19 +230,6 @@
 **💡 Optimization Tips:**
 
 - Visa Power Travel offers multiple ways to earn additional rewards on your international spends
-
----
-
-#### 4. [Get Up to ₹4,000 on Domestic Flight Cancellations With Mastercard CFAR Benefit](https://cardinsider.com/blog/mastercard-cfar-domestic-flight-cancellation-benefit/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 20 Oct 2026 06:45:07 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** eligible card  
-
-**📝 Summary:** Mastercard has introduced a Cancellation For Any Reason (CFAR) benefit for eligible cardholders in India.
-
-**✨ Benefits:** Insurance
 
 ---
 
