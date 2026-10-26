@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-25 20:31:03 IST
+**Last Updated:** 2026-10-26 03:45:06 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -217,6 +217,15 @@
 **📝 Summary:** Mastercard has introduced a Cancellation For Any Reason (CFAR) benefit for eligible cardholders in India.
 
 **✨ Benefits:** Insurance
+
+---
+
+#### 5. [Diwali travel rush: How to save on last-minute flight tickets and when to stop waiting for discounts](https://economictimes.indiatimes.com/wealth/save/diwali-travel-rush-how-to-save-on-last-minute-flight-tickets-and-when-to-stop-waiting-for-discounts/articleshow/135161375.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 26 Oct 2026 06:30:00 +0530  
+
+**📝 Summary:** Waiting until the last minute in the hope of a sale can be costly.
 
 ---
 
