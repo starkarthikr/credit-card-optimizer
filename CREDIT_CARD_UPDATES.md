@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-27 04:08:12 IST
+**Last Updated:** 2026-10-27 11:46:01 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -85,21 +85,31 @@
 
 ---
 
-#### 3. [Huge Discounts Up to ₹15,000 on Apple Products With American Express Credit Cards](https://cardinsider.com/blog/huge-discounts-apple-products-american-express-credit-cards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 21 Oct 2026 11:30:49 +0000  
-**🏦 Bank:** AMERICAN EXPRESS  
-**💳 Card:** American Express Credit Card  
-
-**📝 Summary:** Apple is an extremely popular global brand with an ever-expanding presence in India.
-
----
-
 
 ### 💰 Reward Points
 
-#### 1. [Standard Chartered Credit Cards Transitioning to Federal Bank (Card Mapping, Rewards and Benefits Explained)](https://cardinsider.com/blog/standard-chartered-credit-cards-transition-federal-bank/)
+#### 1. [Get ₹900 Cashback on Spends of ₹15,000 or More With Kotak Credit Cards](https://cardinsider.com/blog/spend-based-offer-kotak-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 27 Oct 2026 11:00:06 +0000  
+**🏦 Bank:** KOTAK  
+**💳 Card:** With Kotak Credit Card  
+
+**📝 Summary:** From launching new co-branded credit cards to rolling out exclusive limited-time offers, Kotak Mahindra Bank is steadily making its way back into the credit card game.
+
+---
+
+#### 2. [Rent Payments With Your Credit Card](https://cardinsider.com/blog/latest-offers-on-rent-payments-via-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 27 Oct 2026 07:15:08 +0000  
+**💳 Card:** With Your Credit Card  
+
+**📝 Summary:** Many individuals in our country do not own their own homes, and monthly rent takes up a significant part of their budget.
+
+---
+
+#### 3. [Standard Chartered Credit Cards Transitioning to Federal Bank (Card Mapping, Rewards and Benefits Explained)](https://cardinsider.com/blog/standard-chartered-credit-cards-transition-federal-bank/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Mon, 26 Oct 2026 12:00:42 +0000  
@@ -112,7 +122,7 @@
 
 ---
 
-#### 2. [Equitas PowerMiles Credit Card Adds Air India Maharaja Club as First Transfer Partner](https://cardinsider.com/blog/equitas-powermiles-adds-air-india-maharaja-club-transfer-partner/)
+#### 4. [Equitas PowerMiles Credit Card Adds Air India Maharaja Club as First Transfer Partner](https://cardinsider.com/blog/equitas-powermiles-adds-air-india-maharaja-club-transfer-partner/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 23 Oct 2026 12:00:52 +0000  
@@ -122,7 +132,7 @@
 
 ---
 
-#### 3. [Spend ₹1 Lakh Internationally & Get Amazon Vouchers With ICICI Bank Credit Cards](https://cardinsider.com/blog/icici-bank-credit-card-international-spends-amazon-vouchers/)
+#### 5. [Spend ₹1 Lakh Internationally & Get Amazon Vouchers With ICICI Bank Credit Cards](https://cardinsider.com/blog/icici-bank-credit-card-international-spends-amazon-vouchers/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 22 Oct 2026 12:00:38 +0000  
@@ -130,37 +140,6 @@
 **💳 Card:** ICICI Bank Credit Card  
 
 **📝 Summary:** With the festive season bringing plenty of spend-based offers from credit card issuers, cardholders have more opportunities to earn additional rewards on their regular spending.
-
----
-
-#### 4. [Flipkart SuperCoins Festive Offers Earn Up to 50% Bonus Avios, 33% Bonus Maharaja Points & More](https://cardinsider.com/blog/flipkart-supercoins-festive-offers-bonus-rewards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 22 Oct 2026 07:15:59 +0000  
-
-**📝 Summary:** Flipkart SuperCoins users can get more value from their rewards through festive transfer offers across airline and hotel loyalty programs.
-
-**🔄 Redemption:** Among the available options, Qatar Airways Privilege Club and ALL Accor are worth highlighting for travel enthusiasts, particularly those who already have a redemption plan in mind
-
-**💡 Optimization Tips:**
-
-- Flipkart’s Maximize-powered transfer campaign also opens up additional options for users looking to convert SuperCoins into travel loyalty rewards
-
----
-
-#### 5. [Federal Bank ValueMax Credit Card Set to Launch in India](https://cardinsider.com/blog/federal-bank-valuemax-credit-card-launch/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 21 Oct 2026 12:30:32 +0000  
-**🏦 Bank:** STANDARD CHARTERED  
-**💳 Card:** Bank ValueMax Credit Card  
-**💵 Fee:** ₹499  
-
-**📝 Summary:** Federal Bank is set to launch its new ValueMax Credit Card, with the card expected to offer accelerated reward points on fuel, utility, and dining spends.
-
-**✨ Benefits:** Insurance
-
-**🔄 Redemption:** The card is expected to have a ₹99 reward redemption fee waived for the ValueMax variant
 
 ---
 
@@ -190,42 +169,15 @@
 
 ---
 
-#### 3. [Get Free eSIMs with Visa and Mastercard Credit Cards for Your Next International Trip](https://cardinsider.com/blog/free-esims-visa-mastercard-credit-cards-international-travel/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 21 Oct 2026 12:00:57 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** and Mastercard Credit Card  
-
-**📝 Summary:** Those who frequently travel abroad know how quickly international roaming charges, global data packs, and other connectivity costs can add up.
-
-**✨ Benefits:** Complimentary
-
-**🔄 Redemption:** Follow these simple steps to check your eligibility and redeem your GigSky benefits through the app:
-
----
-
-#### 4. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 20 Oct 2026 08:00:54 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** Your Visa Credit Card  
-
-**📝 Summary:** There have hardly been any offers as rewarding as the Visa Power Travel offer in recent times.
-
-**💡 Optimization Tips:**
-
-- Visa Power Travel offers multiple ways to earn additional rewards on your international spends
-
----
-
-#### 5. [Diwali travel rush: How to save on last-minute flight tickets and when to stop waiting for discounts](https://economictimes.indiatimes.com/wealth/save/diwali-travel-rush-how-to-save-on-last-minute-flight-tickets-and-when-to-stop-waiting-for-discounts/articleshow/135161375.cms)
+#### 3. [5 most elite credit cards in India: Joining fees go up to ₹5 lakh; what do you get?](https://economictimes.indiatimes.com/wealth/spend/5-most-elite-credit-cards-in-india-joining-fees-go-up-to-5-lakh-what-do-you-get/slideshow/135231256.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 26 Oct 2026 06:30:00 +0530  
+**📅 Published:** Tue, 27 Oct 2026 15:59:48 +0530  
+**💳 Card:** most elite credit card  
 
-**📝 Summary:** Waiting until the last minute in the hope of a sale can be costly.
+**📝 Summary:** Think credit cards are just a tool to make payments and earn rewards.
+
+**✨ Benefits:** Lounge Access
 
 ---
 
