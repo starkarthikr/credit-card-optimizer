@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-28 04:35:54 IST
+**Last Updated:** 2026-10-28 12:18:39 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -69,26 +69,48 @@
 
 ---
 
-#### 2. [BOBCARD Etihad Credit Cards Offer Up to 15,000 Welcome Miles Till November 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 23 Oct 2026 12:30:13 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** BOBCARD Etihad Credit Card  
-**💵 Fee:** ₹100  
-
-**📝 Summary:** BOBCARD has announced a limited-period welcome miles offer on its Etihad Guest co-branded credit cards for new customers.
-
-**✨ Benefits:** Welcome Bonus
-
-**🔄 Redemption:** , which can later be redeemed for flights, upgrades, hotel stays, and more through the Etihad Guest program
-
----
-
 
 ### 💰 Reward Points
 
-#### 1. [Get ₹900 Cashback on Spends of ₹15,000 or More With Kotak Credit Cards](https://cardinsider.com/blog/spend-based-offer-kotak-credit-cards/)
+#### 1. [SBI Rewardz Carnival – Earn Up to 6X Reward Points on SBI Debit Card Spends](https://cardinsider.com/blog/sbi-rewardz-carnival-debit-card-rewards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 28 Oct 2026 08:26:32 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** Debit Card  
+**💰 Reward:** 6X Reward  
+
+**📝 Summary:** State Bank of India (SBI) has launched Rewardz Carnival 7.
+
+---
+
+#### 2. [Air India and SBI Card to Launch New Co-Branded Credit Card Soon](https://cardinsider.com/blog/air-india-sbi-card-launches-new-co-branded-credit-card/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 28 Oct 2026 08:15:31 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** role of credit card  
+
+**📝 Summary:** The much-awaited news is finally here.
+
+**✨ Benefits:** Lounge Access
+
+**🔄 Redemption:** Air India’s Maharaja Club allows members to earn and redeem Maharaja Points on eligible flights operated by Air India and Air India Express, as well as flights operated by participating Star Alliance airlines
+
+---
+
+#### 3. [Get 10% Instant Discount on Flipkart’s Big Bang Diwali Sale With SBI Credit Cards](https://cardinsider.com/blog/instant-discount-flipkarts-big-bang-diwali-sale-sbi-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 28 Oct 2026 06:30:06 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** With SBI Credit Card  
+
+**📝 Summary:** All those who missed shopping during Flipkart’s Big Billion Days Sale can now make the most of the Big Bang Diwali Sale and enjoy up to 10% instant discount using their SBI Credit Card.
+
+---
+
+#### 4. [Get ₹900 Cashback on Spends of ₹15,000 or More With Kotak Credit Cards](https://cardinsider.com/blog/spend-based-offer-kotak-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 27 Oct 2026 11:00:06 +0000  
@@ -99,47 +121,13 @@
 
 ---
 
-#### 2. [Rent Payments With Your Credit Card](https://cardinsider.com/blog/latest-offers-on-rent-payments-via-credit-cards/)
+#### 5. [Rent Payments With Your Credit Card](https://cardinsider.com/blog/latest-offers-on-rent-payments-via-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 27 Oct 2026 07:15:08 +0000  
 **💳 Card:** With Your Credit Card  
 
 **📝 Summary:** Many individuals in our country do not own their own homes, and monthly rent takes up a significant part of their budget.
-
----
-
-#### 3. [Standard Chartered Credit Cards Transitioning to Federal Bank (Card Mapping, Rewards and Benefits Explained)](https://cardinsider.com/blog/standard-chartered-credit-cards-transition-federal-bank/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Mon, 26 Oct 2026 12:00:42 +0000  
-**🏦 Bank:** STANDARD CHARTERED  
-**💳 Card:** Standard Chartered Credit Card  
-
-**📝 Summary:** Standard Chartered credit cardholders in India will transition to Federal Bank as part of the transfer of Standard Chartered&#8217;s credit card portfolio, a process communicated to customers in Ju...
-
-**✨ Benefits:** Lounge Access
-
----
-
-#### 4. [Equitas PowerMiles Credit Card Adds Air India Maharaja Club as First Transfer Partner](https://cardinsider.com/blog/equitas-powermiles-adds-air-india-maharaja-club-transfer-partner/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 23 Oct 2026 12:00:52 +0000  
-**💳 Card:** Equitas PowerMiles Credit Card  
-
-**📝 Summary:** Equitas Small Finance Bank has added Air India Maharaja Club as the first transfer partner for its PowerMiles Credit Card, bringing the card&#8217;s long-awaited reward points transfer facility clo...
-
----
-
-#### 5. [Spend ₹1 Lakh Internationally & Get Amazon Vouchers With ICICI Bank Credit Cards](https://cardinsider.com/blog/icici-bank-credit-card-international-spends-amazon-vouchers/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 22 Oct 2026 12:00:38 +0000  
-**🏦 Bank:** ICICI  
-**💳 Card:** ICICI Bank Credit Card  
-
-**📝 Summary:** With the festive season bringing plenty of spend-based offers from credit card issuers, cardholders have more opportunities to earn additional rewards on their regular spending.
 
 ---
 
@@ -159,25 +147,24 @@
 
 ---
 
-#### 2. [Get Up to 12% Off on GetYourGuide Bookings With Mastercard](https://cardinsider.com/blog/getyourguide-bookings-discount-mastercard/)
+#### 2. [5 smart ways to save on flight tickets, hotel bookings and travel expenses during this festive season](https://economictimes.indiatimes.com/wealth/save/5-smart-ways-to-save-on-flight-tickets-hotel-bookings-and-travel-expenses-during-this-festive-season/articleshow/135257220.cms)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 22 Oct 2026 06:30:03 +0000  
-**💳 Card:** eligible card  
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 28 Oct 2026 13:24:50 +0530  
 
-**📝 Summary:** Mastercard has partnered with GetYourGuide to offer eligible cardholders an exclusive 12% discount on bookings.
+**📝 Summary:** Planning a festive getaway doesn't have to break the bank.
 
 ---
 
-#### 3. [5 most elite credit cards in India: Joining fees go up to ₹5 lakh; what do you get?](https://economictimes.indiatimes.com/wealth/spend/5-most-elite-credit-cards-in-india-joining-fees-go-up-to-5-lakh-what-do-you-get/slideshow/135231256.cms)
+
+### 💡 Tricks & Tips
+
+#### 1. [Gold purity test ahead of Dhanteras and Diwali: 5 tips to spot whether gold Jewellery you bought is worth it](https://economictimes.indiatimes.com/wealth/invest/gold-purity-test-ahead-of-dhanteras-and-diwali-5-tips-to-spot-whether-gold-jewellery-you-bought-is-worth-it/articleshow/135260838.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Tue, 27 Oct 2026 15:59:48 +0530  
-**💳 Card:** most elite credit card  
+**📅 Published:** Wed, 28 Oct 2026 15:40:38 +0530  
 
-**📝 Summary:** Think credit cards are just a tool to make payments and earn rewards.
-
-**✨ Benefits:** Lounge Access
+**📝 Summary:** With the festive season nearing, it’s the perfect time for many to buy gold jewellery.
 
 ---
 
