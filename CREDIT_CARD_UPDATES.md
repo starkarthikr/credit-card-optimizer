@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-28 12:18:39 IST
+**Last Updated:** 2026-10-28 22:19:21 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -53,38 +53,9 @@
 ---
 
 
-### 🎁 New Offer
-
-#### 1. [Axis Bank Now Offering My Zone Credit Card as LifeTime Free](https://cardinsider.com/blog/axis-bank-is-now-offering-my-zone-credit-card-as-lifetime-free/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Mon, 26 Oct 2026 09:30:02 +0000  
-**🏦 Bank:** AXIS  
-**💳 Card:** My Zone Credit Card  
-**💵 Fee:** ₹500  
-
-**📝 Summary:** The My Zone Credit Card issued by Axis Bank is one of the most popular cards in India in the basic category.
-
-**✨ Benefits:** Lounge Access
-
----
-
-
 ### 💰 Reward Points
 
-#### 1. [SBI Rewardz Carnival – Earn Up to 6X Reward Points on SBI Debit Card Spends](https://cardinsider.com/blog/sbi-rewardz-carnival-debit-card-rewards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 28 Oct 2026 08:26:32 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** Debit Card  
-**💰 Reward:** 6X Reward  
-
-**📝 Summary:** State Bank of India (SBI) has launched Rewardz Carnival 7.
-
----
-
-#### 2. [Air India and SBI Card to Launch New Co-Branded Credit Card Soon](https://cardinsider.com/blog/air-india-sbi-card-launches-new-co-branded-credit-card/)
+#### 1. [Air India and SBI Card to Launch New Co-Branded Credit Card Soon](https://cardinsider.com/blog/air-india-sbi-card-launches-new-co-branded-credit-card/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 28 Oct 2026 08:15:31 +0000  
@@ -99,7 +70,7 @@
 
 ---
 
-#### 3. [Get 10% Instant Discount on Flipkart’s Big Bang Diwali Sale With SBI Credit Cards](https://cardinsider.com/blog/instant-discount-flipkarts-big-bang-diwali-sale-sbi-credit-cards/)
+#### 2. [Get 10% Instant Discount on Flipkart’s Big Bang Diwali Sale With SBI Credit Cards](https://cardinsider.com/blog/instant-discount-flipkarts-big-bang-diwali-sale-sbi-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 28 Oct 2026 06:30:06 +0000  
@@ -110,7 +81,7 @@
 
 ---
 
-#### 4. [Get ₹900 Cashback on Spends of ₹15,000 or More With Kotak Credit Cards](https://cardinsider.com/blog/spend-based-offer-kotak-credit-cards/)
+#### 3. [Get ₹900 Cashback on Spends of ₹15,000 or More With Kotak Credit Cards](https://cardinsider.com/blog/spend-based-offer-kotak-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 27 Oct 2026 11:00:06 +0000  
@@ -121,7 +92,7 @@
 
 ---
 
-#### 5. [Rent Payments With Your Credit Card](https://cardinsider.com/blog/latest-offers-on-rent-payments-via-credit-cards/)
+#### 4. [Rent Payments With Your Credit Card](https://cardinsider.com/blog/latest-offers-on-rent-payments-via-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 27 Oct 2026 07:15:08 +0000  
@@ -131,19 +102,32 @@
 
 ---
 
+#### 5. [Standard Chartered Credit Cards Transitioning to Federal Bank (Card Mapping, Rewards and Benefits Explained)](https://cardinsider.com/blog/standard-chartered-credit-cards-transition-federal-bank/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 26 Oct 2026 12:00:42 +0000  
+**🏦 Bank:** STANDARD CHARTERED  
+**💳 Card:** Standard Chartered Credit Card  
+
+**📝 Summary:** Standard Chartered credit cardholders in India will transition to Federal Bank as part of the transfer of Standard Chartered&#8217;s credit card portfolio, a process communicated to customers in Ju...
+
+**✨ Benefits:** Lounge Access
+
+---
+
 
 ### ✈️ Travel Benefits
 
-#### 1. [RuPay EKAA Credit Cards Now Come With ALL Accor+ Explorer Membership](https://cardinsider.com/blog/rupay-ekaa-credit-cards-all-accor-explorer-membership/)
+#### 1. [Why Air Accident Cover With Credit Cards Matters More Than Ever](https://cardinsider.com/blog/why-air-accident-cover-with-credit-cards-matters-more-than-ever/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Mon, 26 Oct 2026 05:30:21 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** RuPay EKAA Credit Card  
+**📅 Published:** Wed, 28 Oct 2026 12:00:43 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** Cover With Credit Card  
 
-**📝 Summary:** RuPay EKAA, one of the most premium and rewarding variants in the RuPay ecosystem, has just become even more attractive with the addition of a new travel benefit.
+**📝 Summary:** While credit cards are steadily becoming mainstream, there’s still a lack of awareness about some of the valuable benefits they offer.
 
-**✨ Benefits:** Dining Discount, Complimentary
+**✨ Benefits:** Complimentary, Insurance
 
 ---
 
