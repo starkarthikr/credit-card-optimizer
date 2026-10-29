@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-28 22:19:21 IST
+**Last Updated:** 2026-10-29 04:50:23 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -55,7 +55,19 @@
 
 ### 💰 Reward Points
 
-#### 1. [Air India and SBI Card to Launch New Co-Branded Credit Card Soon](https://cardinsider.com/blog/air-india-sbi-card-launches-new-co-branded-credit-card/)
+#### 1. [SBI Rewardz Carnival – Earn Up to 6X Reward Points on SBI Debit Card Spends](https://cardinsider.com/blog/sbi-rewardz-carnival-debit-card-rewards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 28 Oct 2026 08:26:32 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** Debit Card  
+**💰 Reward:** 6X Reward  
+
+**📝 Summary:** State Bank of India (SBI) has launched Rewardz Carnival 7.
+
+---
+
+#### 2. [Air India and SBI Card to Launch New Co-Branded Credit Card Soon](https://cardinsider.com/blog/air-india-sbi-card-launches-new-co-branded-credit-card/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 28 Oct 2026 08:15:31 +0000  
@@ -70,7 +82,7 @@
 
 ---
 
-#### 2. [Get 10% Instant Discount on Flipkart’s Big Bang Diwali Sale With SBI Credit Cards](https://cardinsider.com/blog/instant-discount-flipkarts-big-bang-diwali-sale-sbi-credit-cards/)
+#### 3. [Get 10% Instant Discount on Flipkart’s Big Bang Diwali Sale With SBI Credit Cards](https://cardinsider.com/blog/instant-discount-flipkarts-big-bang-diwali-sale-sbi-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 28 Oct 2026 06:30:06 +0000  
@@ -81,7 +93,7 @@
 
 ---
 
-#### 3. [Get ₹900 Cashback on Spends of ₹15,000 or More With Kotak Credit Cards](https://cardinsider.com/blog/spend-based-offer-kotak-credit-cards/)
+#### 4. [Get ₹900 Cashback on Spends of ₹15,000 or More With Kotak Credit Cards](https://cardinsider.com/blog/spend-based-offer-kotak-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 27 Oct 2026 11:00:06 +0000  
@@ -92,26 +104,13 @@
 
 ---
 
-#### 4. [Rent Payments With Your Credit Card](https://cardinsider.com/blog/latest-offers-on-rent-payments-via-credit-cards/)
+#### 5. [Rent Payments With Your Credit Card](https://cardinsider.com/blog/latest-offers-on-rent-payments-via-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 27 Oct 2026 07:15:08 +0000  
 **💳 Card:** With Your Credit Card  
 
 **📝 Summary:** Many individuals in our country do not own their own homes, and monthly rent takes up a significant part of their budget.
-
----
-
-#### 5. [Standard Chartered Credit Cards Transitioning to Federal Bank (Card Mapping, Rewards and Benefits Explained)](https://cardinsider.com/blog/standard-chartered-credit-cards-transition-federal-bank/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Mon, 26 Oct 2026 12:00:42 +0000  
-**🏦 Bank:** STANDARD CHARTERED  
-**💳 Card:** Standard Chartered Credit Card  
-
-**📝 Summary:** Standard Chartered credit cardholders in India will transition to Federal Bank as part of the transfer of Standard Chartered&#8217;s credit card portfolio, a process communicated to customers in Ju...
-
-**✨ Benefits:** Lounge Access
 
 ---
 
@@ -128,15 +127,6 @@
 **📝 Summary:** While credit cards are steadily becoming mainstream, there’s still a lack of awareness about some of the valuable benefits they offer.
 
 **✨ Benefits:** Complimentary, Insurance
-
----
-
-#### 2. [5 smart ways to save on flight tickets, hotel bookings and travel expenses during this festive season](https://economictimes.indiatimes.com/wealth/save/5-smart-ways-to-save-on-flight-tickets-hotel-bookings-and-travel-expenses-during-this-festive-season/articleshow/135257220.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 28 Oct 2026 13:24:50 +0530  
-
-**📝 Summary:** Planning a festive getaway doesn't have to break the bank.
 
 ---
 

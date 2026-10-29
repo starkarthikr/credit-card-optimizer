@@ -115,7 +115,19 @@
     "title": "SBI Rewardz Carnival – Earn Up to 6X Reward Points on SBI Debit Card Spends",
     "link": "https://cardinsider.com/blog/sbi-rewardz-carnival-debit-card-rewards/",
     "published": "Wed, 28 Oct 2026 08:26:32 +0000",
-    "summary": "State Bank of India (SBI) has launched Rewardz Carnival 7."
+    "summary": "State Bank of India (SBI) has launched Rewardz Carnival 7.",
+    "card_info": {
+      "card_name": "Debit Card",
+      "bank": "SBI",
+      "offer_type": null,
+      "cashback_rate": "6X Reward",
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "Reward Points"
+    }
   },
   {
     "source": "Cardinsider",
@@ -300,6 +312,120 @@
   },
   {
     "source": "Economic Times",
+    "title": "Know your legal rights: 9 types of civil suits in India and when to file them",
+    "link": "https://economictimes.indiatimes.com/wealth/legal/will/know-your-legal-rights-9-types-of-civil-suits-in-india-and-when-to-file-them/slideshow/135289376.cms",
+    "published": "Thu, 29 Oct 2026 09:34:23 +0530",
+    "summary": "A family property dispute, a tenant refusing to vacate a house or a borrower who keeps delaying repayment can turn into a serious legal headache.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "8th Pay Commission salary calculator: What 7% increment rate means for employees with Rs 53,100, Rs 56,100 and Rs 67,700 basic pays",
+    "link": "https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-latest-salary-fitment-factor-calculator-news-what-7-increment-means-for-rs-53100-rs-56100-and-rs-67700-basic-pays/articleshow/135258351.cms",
+    "published": "Thu, 29 Oct 2026 08:14:43 +0530",
+    "summary": "8th Pay Commisssion newsThe 8th Pay Commission held its final meetings in Mumbai, focusing on salary and pension reform for central government employees.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "Bank holiday on Karva Chauth: Are banks open or closed today on October 29, 2026?",
+    "link": "https://economictimes.indiatimes.com/wealth/save/bank-holiday-on-karva-chauth-are-banks-open-or-closed-today-on-october-29-2026/articleshow/135264684.cms",
+    "published": "Thu, 29 Oct 2026 07:00:00 +0530",
+    "summary": "bank holiday today: Today, as the Karva Chauth festival is celebrated, banks in only one state are closed, contrasting with operations in other states.",
+    "card_info": {
+      "card_name": null,
+      "bank": "AU",
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "No job or regular income? Husband cannot avoid wife’s maintenance, says Allahabad HC",
+    "link": "https://economictimes.indiatimes.com/wealth/legal/will/no-job-or-regular-income-husband-cannot-avoid-wifes-maintenance-says-allahabad-hc/articleshow/135231204.cms",
+    "published": "Thu, 29 Oct 2026 06:30:00 +0530",
+    "summary": "The Allahabad High Court has delivered a landmark decision affirming that a husband's assertion of being unemployed does not absolve him of his duty to provide maintenance.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "Indians working in UK: Per diem paid by Indian company may be tax-free in India if these conditions are met",
+    "link": "https://economictimes.indiatimes.com/wealth/tax/indians-working-in-uk-per-diem-paid-by-indian-company-may-be-tax-free-in-india-if-these-conditions-are-met/articleshow/135284557.cms",
+    "published": "Thu, 29 Oct 2026 05:46:15 +0530",
+    "summary": "Indians working in the UK may receive per diem payments from their Indian employers.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "From inheritance to wealth stewardship: How Indian families can protect generational wealth and prevent family business conflicts",
+    "link": "https://economictimes.indiatimes.com/wealth/legal/will/from-inheritance-to-wealth-stewardship-how-indian-families-can-protect-generational-wealth-and-prevent-family-business-conflicts/articleshow/135284166.cms",
+    "published": "Thu, 29 Oct 2026 05:31:19 +0530",
+    "summary": "As Indian business families navigate the intricate landscape of wealth transfers, they confront significant hurdles in succession planning.",
+    "card_info": {
+      "card_name": null,
+      "bank": null,
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
     "title": "Bank holidays in November 2026: Check state-wise list of bank closures and festival dates",
     "link": "https://economictimes.indiatimes.com/wealth/save/bank-holidays-in-november-2026-check-state-wise-list-of-bank-closures-and-festival-dates/articleshow/135265057.cms",
     "published": "Wed, 28 Oct 2026 18:03:39 +0530",
@@ -459,120 +585,6 @@
     "card_info": {
       "card_name": null,
       "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "5 smart ways to save on flight tickets, hotel bookings and travel expenses during this festive season",
-    "link": "https://economictimes.indiatimes.com/wealth/save/5-smart-ways-to-save-on-flight-tickets-hotel-bookings-and-travel-expenses-during-this-festive-season/articleshow/135257220.cms",
-    "published": "Wed, 28 Oct 2026 13:24:50 +0530",
-    "summary": "Planning a festive getaway doesn't have to break the bank.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "Travel Benefits"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "Industrial DA hike for CPSE employees: Rate rises to 59.1% from October 1; check revised rates for 1997, 2007 and 2017 pay scales",
-    "link": "https://economictimes.indiatimes.com/wealth/save/ida-hike-for-cpse-employees-rate-rises-to-59-1-from-october-1-check-revised-rates-for-1997-2007-and-2017-pay-scales/articleshow/135255118.cms",
-    "published": "Wed, 28 Oct 2026 12:51:45 +0530",
-    "summary": "The Ministry of Finance announced a revision in the Industrial Dearness Allowance rates for certain CPSE employees.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "NPS to OPS migration: New rules for death, disability cases; 5 things pensioners and families should know",
-    "link": "https://economictimes.indiatimes.com/wealth/save/nps-to-ops-migration-new-rules-for-death-disability-cases-5-things-pensioners-and-families-should-know/slideshow/135254812.cms",
-    "published": "Wed, 28 Oct 2026 11:51:25 +0530",
-    "summary": "The Central Pension Accounting Office (CPAO) has revised the process for migrating eligible death and disability cases from the National Pension System (NPS) to the Old Pension Scheme (OPS).",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "209% return on SGB premature redemption: Gold bond turns Rs 1 lakh investment into Rs 3.09 lakh",
-    "link": "https://economictimes.indiatimes.com/wealth/invest/209-return-on-sgb-premature-redemption-gold-bond-turns-rs-1-lakh-investment-into-rs-3-09-lakh/articleshow/135253883.cms",
-    "published": "Wed, 28 Oct 2026 11:27:06 +0530",
-    "summary": "The Reserve Bank of India has announced the premature redemption price for the Sovereign Gold Bond 2020-21 Series I, permitting investors to redeem on October 28, 2026.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "Reward Points"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "DA hike news:  Has the government announced 3% DA hike for central government employees today?",
-    "link": "https://economictimes.indiatimes.com/wealth/save/da-hike-news-h-the-government-announce-3-da-hike-for-central-government-employees-todayas/slideshow/135253676.cms",
-    "published": "Wed, 28 Oct 2026 11:15:08 +0530",
-    "summary": "The central government has announced a 3% dearness allowance (DA) hike for July 2026.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "Bank stocks in Q2 FY27: Why ICICI, SBI, Kotak and AU Bank are Motilal Oswal's top picks",
-    "link": "https://economictimes.indiatimes.com/wealth/invest/bank-stocks-q2-fy27-25-profit-jump-likely-as-fcnrb-inflows-surge-why-icici-sbi-kotak-and-au-bank-are-motilal-oswals-top-picks/slideshow/135251940.cms",
-    "published": "Wed, 28 Oct 2026 09:56:09 +0530",
-    "summary": "Motilal Oswal Financial Services' brokerage estimates point to a strong earnings season for Indian banks.",
-    "card_info": {
-      "card_name": null,
-      "bank": "SBI",
       "offer_type": null,
       "cashback_rate": null,
       "annual_fee": null,
