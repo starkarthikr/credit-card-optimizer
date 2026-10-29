@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-29 04:50:23 IST
+**Last Updated:** 2026-10-29 12:28:38 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -49,6 +49,23 @@
 **📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
 
 **📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
+
+---
+
+
+### 🎁 New Offer
+
+#### 1. [Axis Privilege Visa Credit Card Now Lifetime Free](https://cardinsider.com/blog/axis-privilege-credit-card-lifetime-free/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 29 Oct 2026 11:35:19 +0000  
+**🏦 Bank:** AXIS  
+**💳 Card:** Privilege Visa Credit Card  
+**💵 Fee:** ₹1  
+
+**📝 Summary:** The Axis Privilege Credit Card is considered a mid-range sub-premium credit card that offers good lifestyle features and a reasonable rewards rate.
+
+**✨ Benefits:** Lounge Access, Milestone Benefit, Complimentary
 
 ---
 
@@ -127,18 +144,6 @@
 **📝 Summary:** While credit cards are steadily becoming mainstream, there’s still a lack of awareness about some of the valuable benefits they offer.
 
 **✨ Benefits:** Complimentary, Insurance
-
----
-
-
-### 💡 Tricks & Tips
-
-#### 1. [Gold purity test ahead of Dhanteras and Diwali: 5 tips to spot whether gold Jewellery you bought is worth it](https://economictimes.indiatimes.com/wealth/invest/gold-purity-test-ahead-of-dhanteras-and-diwali-5-tips-to-spot-whether-gold-jewellery-you-bought-is-worth-it/articleshow/135260838.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 28 Oct 2026 15:40:38 +0530  
-
-**📝 Summary:** With the festive season nearing, it’s the perfect time for many to buy gold jewellery.
 
 ---
 
