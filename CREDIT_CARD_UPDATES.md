@@ -1,8 +1,25 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-30 04:50:13 IST
+**Last Updated:** 2026-10-30 12:19:58 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
+
+
+### 💵 Annual Fee
+
+#### 1. [Earn Up to 30,000 Bonus Points with Marriott Bonvoy HDFC Credit Card Anniversary Offer](https://cardinsider.com/blog/earn-bonus-points-marriott-bonvoy-hdfc-credit-card-anniversary-offer/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Fri, 30 Oct 2026 06:00:09 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** Bonvoy HDFC Credit Card  
+**💵 Fee:** ₹3  
+
+**📝 Summary:** The Marriott Bonvoy HDFC Credit Card is one of the most popular hotel-focused credit cards in India, particularly among customers who frequently stay at Marriott properties.
+
+**✨ Benefits:** Lounge Access, Complimentary
+
+---
 
 
 ### 📰 General Updates
@@ -58,7 +75,7 @@
 #### 1. [Axis Privilege Visa Credit Card Now Lifetime Free](https://cardinsider.com/blog/axis-privilege-credit-card-lifetime-free/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Thu, 29 Oct 2026 11:35:19 +0000  
+**📅 Published:** Fri, 30 Oct 2026 04:35:19 +0000  
 **🏦 Bank:** AXIS  
 **💳 Card:** Privilege Visa Credit Card  
 **💵 Fee:** ₹1  
@@ -121,20 +138,32 @@
 
 ---
 
-#### 5. [Rent Payments With Your Credit Card](https://cardinsider.com/blog/latest-offers-on-rent-payments-via-credit-cards/)
+#### 5. [Gold bond turns Rs 1 lakh investment into Rs 3.76 lakh: Check SGB premature redemption date, price and other details](https://economictimes.indiatimes.com/wealth/invest/sgb-series-vi-premature-redemption-date-today-october-30-2026-check-return-on-rs-1-lakh-investment-ibja-price-details/articleshow/135347009.cms)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 27 Oct 2026 07:15:08 +0000  
-**💳 Card:** With Your Credit Card  
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 30 Oct 2026 11:45:15 +0530  
 
-**📝 Summary:** Many individuals in our country do not own their own homes, and monthly rent takes up a significant part of their budget.
+**📝 Summary:** The Reserve Bank of India has announced that the SGB 2019-20 Series VI will be eligible for premature redemption on October 30, 2026.
 
 ---
 
 
 ### ✈️ Travel Benefits
 
-#### 1. [Why Air Accident Cover With Credit Cards Matters More Than Ever](https://cardinsider.com/blog/why-air-accident-cover-with-credit-cards-matters-more-than-ever/)
+#### 1. [IndusInd Bank Offers Complimentary Taj Benefits to Grande & Pioneer Savings Account Holders](https://cardinsider.com/blog/indusind-grande-pioneer-savings-account-taj-benefits/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Fri, 30 Oct 2026 08:01:53 +0000  
+**🏦 Bank:** INDUSIND  
+**💳 Card:** debit card  
+
+**📝 Summary:** IndusInd Bank has introduced exclusive Taj benefits for its Indus Grande and Indus Pioneer Savings Account holders.
+
+**✨ Benefits:** Complimentary
+
+---
+
+#### 2. [Why Air Accident Cover With Credit Cards Matters More Than Ever](https://cardinsider.com/blog/why-air-accident-cover-with-credit-cards-matters-more-than-ever/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 28 Oct 2026 12:00:43 +0000  
