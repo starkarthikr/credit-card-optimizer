@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-30 12:19:58 IST
+**Last Updated:** 2026-10-30 22:00:27 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -127,18 +127,7 @@
 
 ---
 
-#### 4. [Get ₹900 Cashback on Spends of ₹15,000 or More With Kotak Credit Cards](https://cardinsider.com/blog/spend-based-offer-kotak-credit-cards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 27 Oct 2026 11:00:06 +0000  
-**🏦 Bank:** KOTAK  
-**💳 Card:** With Kotak Credit Card  
-
-**📝 Summary:** From launching new co-branded credit cards to rolling out exclusive limited-time offers, Kotak Mahindra Bank is steadily making its way back into the credit card game.
-
----
-
-#### 5. [Gold bond turns Rs 1 lakh investment into Rs 3.76 lakh: Check SGB premature redemption date, price and other details](https://economictimes.indiatimes.com/wealth/invest/sgb-series-vi-premature-redemption-date-today-october-30-2026-check-return-on-rs-1-lakh-investment-ibja-price-details/articleshow/135347009.cms)
+#### 4. [Gold bond turns Rs 1 lakh investment into Rs 3.76 lakh: Check SGB premature redemption date, price and other details](https://economictimes.indiatimes.com/wealth/invest/sgb-series-vi-premature-redemption-date-today-october-30-2026-check-return-on-rs-1-lakh-investment-ibja-price-details/articleshow/135347009.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 30 Oct 2026 11:45:15 +0530  

@@ -71,6 +71,27 @@
   },
   {
     "source": "Cardinsider",
+    "title": "Get Complimentary Padel & Pickleball Court Bookings with Select HSBC Credit Cards",
+    "link": "https://cardinsider.com/blog/hsbc-serve-complimentary-padel-pickleball-bookings/",
+    "published": "Fri, 30 Oct 2026 12:52:15 +0000",
+    "summary": "HSBC has introduced HSBC Serve, a new racquet sports program that offers exclusive access to premium padel and pickleball facilities across India.",
+    "card_info": {
+      "card_name": "Select HSBC Credit Card",
+      "bank": "CITI",
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [
+        "Complimentary"
+      ],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Cardinsider",
     "title": "IndusInd Bank Offers Complimentary Taj Benefits to Grande & Pioneer Savings Account Holders",
     "link": "https://cardinsider.com/blog/indusind-grande-pioneer-savings-account-taj-benefits/",
     "published": "Fri, 30 Oct 2026 08:01:53 +0000",
@@ -295,13 +316,32 @@
     }
   },
   {
-    "source": "Cardinsider",
-    "title": "Get ₹900 Cashback on Spends of ₹15,000 or More With Kotak Credit Cards",
-    "link": "https://cardinsider.com/blog/spend-based-offer-kotak-credit-cards/",
-    "published": "Tue, 27 Oct 2026 11:00:06 +0000",
-    "summary": "From launching new co-branded credit cards to rolling out exclusive limited-time offers, Kotak Mahindra Bank is steadily making its way back into the credit card game.",
+    "source": "Economic Times",
+    "title": "From Trader to Investor: Dheeraj Gaur on Protecting Your Wealth",
+    "link": "https://economictimes.indiatimes.com/wealth/save/from-trader-to-investor-dheeraj-gaur-on-protecting-your-wealth/videoshow/135364614.cms",
+    "published": "Fri, 30 Oct 2026 19:10:05 +0530",
+    "summary": "Dheeraj Gaur, Chief Investment Strategy Officer, Choice Wealth, explains why risk management is key to preserving wealth and protecting investment returns at the ET Wealth Expo in Mumbai.",
     "card_info": {
-      "card_name": "With Kotak Credit Card",
+      "card_name": null,
+      "bank": "AU",
+      "offer_type": null,
+      "cashback_rate": null,
+      "annual_fee": null,
+      "reward_rate": null,
+      "benefits": [],
+      "optimization_tips": [],
+      "redemption_info": null,
+      "category": "General Updates"
+    }
+  },
+  {
+    "source": "Economic Times",
+    "title": "How Investor Biases Can Turn Winning Stocks Into Bad Bets",
+    "link": "https://economictimes.indiatimes.com/wealth/save/how-investor-biases-can-turn-winning-stocks-into-bad-bets/videoshow/135364571.cms",
+    "published": "Fri, 30 Oct 2026 19:09:05 +0530",
+    "summary": "“Our biases spill over into our investments,” says Manish Kathuria, Chief Business Officer – Relationship and Private Client Group, Kotak Neo, as he explains why investors need a clear risk framewo...",
+    "card_info": {
+      "card_name": null,
       "bank": "KOTAK",
       "offer_type": null,
       "cashback_rate": null,
@@ -310,7 +350,7 @@
       "benefits": [],
       "optimization_tips": [],
       "redemption_info": null,
-      "category": "Reward Points"
+      "category": "General Updates"
     }
   },
   {
@@ -558,44 +598,6 @@
       "optimization_tips": [],
       "redemption_info": null,
       "category": "Reward Points"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "EPS Pension news: Can EPFO increase minimum pension from ₹1,000 on November 19?",
-    "link": "https://economictimes.indiatimes.com/wealth/save/eps-pension-news-can-epfo-increase-minimum-pension-from-1000-on-november-19/slideshow/135346151.cms",
-    "published": "Fri, 30 Oct 2026 11:13:28 +0530",
-    "summary": "The Employees' Provident Fund Organisation (EPFO) is likely to consider the long-pending demand for increasing the minimum monthly pension under the Employees' Pension Scheme (EPS) at its next Cent...",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
-    }
-  },
-  {
-    "source": "Economic Times",
-    "title": "PM-KISAN 24th instalment today: PM Modi to disburse Rs 2,000 each to farmer beneficiaries; check eligibility and how to complete eKYC",
-    "link": "https://economictimes.indiatimes.com/wealth/invest/pm-kisan-24th-instalment-today-october-30-2026-pm-modi-to-disburse-rs-2000-each-to-farmer-beneficiaries-check-eligibility-and-ekyc-details/articleshow/135345070.cms",
-    "published": "Fri, 30 Oct 2026 10:45:05 +0530",
-    "summary": "Prime Minister Narendra Modi will release the 24th instalment of Rs 2,000 of the PM Kisan samman yojana scheme today in Gujarat.",
-    "card_info": {
-      "card_name": null,
-      "bank": null,
-      "offer_type": null,
-      "cashback_rate": null,
-      "annual_fee": null,
-      "reward_rate": null,
-      "benefits": [],
-      "optimization_tips": [],
-      "redemption_info": null,
-      "category": "General Updates"
     }
   }
 ]
