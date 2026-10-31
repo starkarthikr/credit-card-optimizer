@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-10-30 22:00:27 IST
+**Last Updated:** 2026-10-31 04:35:11 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -124,15 +124,6 @@
 **💳 Card:** With SBI Credit Card  
 
 **📝 Summary:** All those who missed shopping during Flipkart’s Big Billion Days Sale can now make the most of the Big Bang Diwali Sale and enjoy up to 10% instant discount using their SBI Credit Card.
-
----
-
-#### 4. [Gold bond turns Rs 1 lakh investment into Rs 3.76 lakh: Check SGB premature redemption date, price and other details](https://economictimes.indiatimes.com/wealth/invest/sgb-series-vi-premature-redemption-date-today-october-30-2026-check-return-on-rs-1-lakh-investment-ibja-price-details/articleshow/135347009.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 30 Oct 2026 11:45:15 +0530  
-
-**📝 Summary:** The Reserve Bank of India has announced that the SGB 2019-20 Series VI will be eligible for premature redemption on October 30, 2026.
 
 ---
 
