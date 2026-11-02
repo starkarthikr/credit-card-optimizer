@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-02 04:56:29 IST
+**Last Updated:** 2026-11-02 15:00:02 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -124,6 +124,16 @@
 **💳 Card:** With SBI Credit Card  
 
 **📝 Summary:** All those who missed shopping during Flipkart’s Big Billion Days Sale can now make the most of the Big Bang Diwali Sale and enjoy up to 10% instant discount using their SBI Credit Card.
+
+---
+
+#### 4. [How jewellers calculate gold jewellery price: This formula reveals the final bill - Don't ignore these costs](https://economictimes.indiatimes.com/wealth/spend/how-jewellers-calculate-gold-jewellery-price-this-formula-reveals-the-final-bill-dont-ignore-these-costs/articleshow/135452611.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 02 Nov 2026 16:36:35 +0530  
+**💳 Card:** credit card  
+
+**📝 Summary:** Gold jewellery price calculation: Gold jewellery is available in different purities, including 22KT, 18KT and the increasingly popular 9KT, with higher karatage indicating greater gold content.
 
 ---
 
