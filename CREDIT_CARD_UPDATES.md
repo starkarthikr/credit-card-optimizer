@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-01 21:48:05 IST
+**Last Updated:** 2026-11-02 04:56:29 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -153,22 +153,6 @@
 **📝 Summary:** While credit cards are steadily becoming mainstream, there’s still a lack of awareness about some of the valuable benefits they offer.
 
 **✨ Benefits:** Complimentary, Insurance
-
----
-
-
-### 💡 Tricks & Tips
-
-#### 1. [Old or new tax regime? Your ability to claim Rs 8 lakh in tax deductions could make the difference](https://economictimes.indiatimes.com/wealth/save/old-or-new-tax-regime-your-ability-to-claim-rs-8-lakh-in-tax-deductions-could-make-the-difference/videoshow/135401384.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Sat, 31 Oct 2026 18:11:45 +0530  
-
-**📝 Summary:** "Rahul Charkha, Partner, Economic Laws Practice, Rajashree Sarna, Partner – Global People Solutions, Grant Thornton Bharat, Mousami Nagarsenkar, Partner- Tax, Deloitte, and Suresh Surana, Chartered...
-
-**💡 Optimization Tips:**
-
-- How to maximize savings on capital gains
 
 ---
 
