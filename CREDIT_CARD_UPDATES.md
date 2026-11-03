@@ -1,13 +1,27 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-03 00:41:08 IST
+**Last Updated:** 2026-11-03 13:47:21 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
 
 ### 💵 Annual Fee
 
-#### 1. [Earn Up to 30,000 Bonus Points with Marriott Bonvoy HDFC Credit Card Anniversary Offer](https://cardinsider.com/blog/earn-bonus-points-marriott-bonvoy-hdfc-credit-card-anniversary-offer/)
+#### 1. [Kotak Private Credit Card Teased (₹49,000 Annual Fee & Exclusive Invite-Only Access)](https://cardinsider.com/blog/kotak-private-credit-card-annual-fee/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 03 Nov 2026 07:14:21 +0000  
+**🏦 Bank:** ICICI  
+**💳 Card:** Kotak Private Credit Card  
+**💵 Fee:** ₹10  
+
+**📝 Summary:** After the Kotak Solitaire Credit Card, Kotak Mahindra Bank is preparing to introduce another ultra-premium offering, the Kotak Private Credit Card.
+
+**✨ Benefits:** Fuel Surcharge
+
+---
+
+#### 2. [Earn Up to 30,000 Bonus Points with Marriott Bonvoy HDFC Credit Card Anniversary Offer](https://cardinsider.com/blog/earn-bonus-points-marriott-bonvoy-hdfc-credit-card-anniversary-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 30 Oct 2026 06:00:09 +0000  
@@ -72,7 +86,43 @@
 
 ### 🎁 New Offer
 
-#### 1. [Axis Privilege Visa Credit Card Now Lifetime Free](https://cardinsider.com/blog/axis-privilege-credit-card-lifetime-free/)
+#### 1. [Issuance Fee Waiver on All HDFC ForexPlus Cards](https://cardinsider.com/blog/issuance-fee-waiver-on-all-hdfc-forexplus-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 03 Nov 2026 10:50:43 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** ForexPlus Card  
+
+**📝 Summary:** HDFC Bank offers a wide range of Forex cards that are useful for individuals traveling abroad for vacation, work, or higher studies.
+
+**✨ Benefits:** Lounge Access, Complimentary, Insurance, Concierge
+
+---
+
+#### 2. [Get 20% Off on Klook Bookings with SBI Visa Credit Cards](https://cardinsider.com/blog/discount-klook-bookings-sbi-visa-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 03 Nov 2026 07:20:48 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** SBI Visa Credit Card  
+
+**📝 Summary:** Planning your summer escape.
+
+---
+
+#### 3. [Axis Bank Grab Deals Offers – November 2026](https://cardinsider.com/blog/axis-bank-grab-deals/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 03 Nov 2026 07:10:25 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** debit and credit card  
+**💰 Reward:** 5% cashback  
+
+**📝 Summary:** Axis Bank has an online shopping portal for its customers.
+
+---
+
+#### 4. [Axis Privilege Visa Credit Card Now Lifetime Free](https://cardinsider.com/blog/axis-privilege-credit-card-lifetime-free/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 30 Oct 2026 04:35:19 +0000  
@@ -89,58 +139,49 @@
 
 ### 💰 Reward Points
 
-#### 1. [SBI Rewardz Carnival – Earn Up to 6X Reward Points on SBI Debit Card Spends](https://cardinsider.com/blog/sbi-rewardz-carnival-debit-card-rewards/)
+#### 1. [ICICI Bank iShop Rewards Portal November 2026 Update](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Wed, 28 Oct 2026 08:26:32 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** Debit Card  
-**💰 Reward:** 6X Reward  
+**📅 Published:** Tue, 03 Nov 2026 07:10:52 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** ICICI Bank Credit Card  
 
-**📝 Summary:** State Bank of India (SBI) has launched Rewardz Carnival 7.
+**📝 Summary:** ICICI Bank has launched its own rewards portal called iShop Rewards 360.
 
 ---
 
-#### 2. [Air India and SBI Card to Launch New Co-Branded Credit Card Soon](https://cardinsider.com/blog/air-india-sbi-card-launches-new-co-branded-credit-card/)
+#### 2. [Up to 20X MR Points With American Express Reward Xcelerator – November 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Wed, 28 Oct 2026 08:15:31 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** role of credit card  
+**📅 Published:** Tue, 03 Nov 2026 07:00:41 +0000  
+**🏦 Bank:** AMEX  
+**💳 Card:** American Express Credit Card  
 
-**📝 Summary:** The much-awaited news is finally here.
+**📝 Summary:** American Express has just introduced its Reward Xcelerator program in India, offering great shopping rewards.
 
-**✨ Benefits:** Lounge Access
+**💡 Optimization Tips:**
 
-**🔄 Redemption:** Air India’s Maharaja Club allows members to earn and redeem Maharaja Points on eligible flights operated by Air India and Air India Express, as well as flights operated by participating Star Alliance airlines
-
----
-
-#### 3. [Get 10% Instant Discount on Flipkart’s Big Bang Diwali Sale With SBI Credit Cards](https://cardinsider.com/blog/instant-discount-flipkarts-big-bang-diwali-sale-sbi-credit-cards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 28 Oct 2026 06:30:06 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** With SBI Credit Card  
-
-**📝 Summary:** All those who missed shopping during Flipkart’s Big Billion Days Sale can now make the most of the Big Bang Diwali Sale and enjoy up to 10% instant discount using their SBI Credit Card.
-
----
-
-#### 4. [How jewellers calculate gold jewellery price: This formula reveals the final bill - Don't ignore these costs](https://economictimes.indiatimes.com/wealth/spend/how-jewellers-calculate-gold-jewellery-price-this-formula-reveals-the-final-bill-dont-ignore-these-costs/articleshow/135452611.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 02 Nov 2026 16:36:35 +0530  
-**💳 Card:** credit card  
-
-**📝 Summary:** Gold jewellery price calculation: Gold jewellery is available in different purities, including 22KT, 18KT and the increasingly popular 9KT, with higher karatage indicating greater gold content.
+- It can be considered an upgraded and more premium version of the Rewards Multiplier
 
 ---
 
 
 ### ✈️ Travel Benefits
 
-#### 1. [IndusInd Bank Offers Complimentary Taj Benefits to Grande & Pioneer Savings Account Holders](https://cardinsider.com/blog/indusind-grande-pioneer-savings-account-taj-benefits/)
+#### 1. [Indian Students Now Get a Free ISIC or IYTC Card with a Mastercard Forex Prepaid Card](https://cardinsider.com/blog/indian-students-free-isic-iytc-card-mastercard-forex-prepaid-card/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 03 Nov 2026 11:02:49 +0000  
+**💳 Card:** IYTC Card  
+**💵 Fee:** ₹218  
+
+**📝 Summary:** Indian students planning to travel abroad now have a special reason to celebrate.
+
+**✨ Benefits:** Complimentary
+
+---
+
+#### 2. [IndusInd Bank Offers Complimentary Taj Benefits to Grande & Pioneer Savings Account Holders](https://cardinsider.com/blog/indusind-grande-pioneer-savings-account-taj-benefits/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 30 Oct 2026 08:01:53 +0000  
@@ -150,19 +191,6 @@
 **📝 Summary:** IndusInd Bank has introduced exclusive Taj benefits for its Indus Grande and Indus Pioneer Savings Account holders.
 
 **✨ Benefits:** Complimentary
-
----
-
-#### 2. [Why Air Accident Cover With Credit Cards Matters More Than Ever](https://cardinsider.com/blog/why-air-accident-cover-with-credit-cards-matters-more-than-ever/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 28 Oct 2026 12:00:43 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** Cover With Credit Card  
-
-**📝 Summary:** While credit cards are steadily becoming mainstream, there’s still a lack of awareness about some of the valuable benefits they offer.
-
-**✨ Benefits:** Complimentary, Insurance
 
 ---
 
