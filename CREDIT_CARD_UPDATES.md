@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-03 22:59:20 IST
+**Last Updated:** 2026-11-04 05:19:02 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -191,6 +191,15 @@
 **📝 Summary:** IndusInd Bank has introduced exclusive Taj benefits for its Indus Grande and Indus Pioneer Savings Account holders.
 
 **✨ Benefits:** Complimentary
+
+---
+
+#### 3. [Cancelled flight ticket? GSTAT says airlines can refund GST to passengers and claim it back from the government](https://economictimes.indiatimes.com/wealth/tax/cancelled-flight-ticket-gstat-says-airlines-can-refund-gst-to-passengers-and-claim-it-back-from-the-government/articleshow/135488189.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 04 Nov 2026 09:48:11 +0530  
+
+**📝 Summary:** Taxpayer wins GST refund denial case after depositing GST on airline ticket with the govt and later refunding the GST back to passengers due to cancelled ticket; GSTAT orders GST department to issu...
 
 ---
 
