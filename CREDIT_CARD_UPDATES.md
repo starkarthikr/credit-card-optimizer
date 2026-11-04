@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-04 05:19:02 IST
+**Last Updated:** 2026-11-04 13:55:35 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -18,20 +18,6 @@
 **📝 Summary:** After the Kotak Solitaire Credit Card, Kotak Mahindra Bank is preparing to introduce another ultra-premium offering, the Kotak Private Credit Card.
 
 **✨ Benefits:** Fuel Surcharge
-
----
-
-#### 2. [Earn Up to 30,000 Bonus Points with Marriott Bonvoy HDFC Credit Card Anniversary Offer](https://cardinsider.com/blog/earn-bonus-points-marriott-bonvoy-hdfc-credit-card-anniversary-offer/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 30 Oct 2026 06:00:09 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** Bonvoy HDFC Credit Card  
-**💵 Fee:** ₹3  
-
-**📝 Summary:** The Marriott Bonvoy HDFC Credit Card is one of the most popular hotel-focused credit cards in India, particularly among customers who frequently stay at Marriott properties.
-
-**✨ Benefits:** Lounge Access, Complimentary
 
 ---
 
@@ -86,7 +72,19 @@
 
 ### 🎁 New Offer
 
-#### 1. [Issuance Fee Waiver on All HDFC ForexPlus Cards](https://cardinsider.com/blog/issuance-fee-waiver-on-all-hdfc-forexplus-cards/)
+#### 1. [HSBC Credit Cardholders Can Earn Up to 6X Rewards on Apple Products via Unicorn Portal](https://cardinsider.com/blog/hsbc-credit-cardholders-earn-rewards-apple-products-unicorn-portal/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 04 Nov 2026 10:00:12 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** the Indian credit card  
+**💰 Reward:** 6X Reward  
+
+**📝 Summary:** HSBC has been expanding aggressively in the Indian credit card market with card revamps, new launches, and attractive offers.
+
+---
+
+#### 2. [Issuance Fee Waiver on All HDFC ForexPlus Cards](https://cardinsider.com/blog/issuance-fee-waiver-on-all-hdfc-forexplus-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 03 Nov 2026 10:50:43 +0000  
@@ -99,7 +97,7 @@
 
 ---
 
-#### 2. [Get 20% Off on Klook Bookings with SBI Visa Credit Cards](https://cardinsider.com/blog/discount-klook-bookings-sbi-visa-credit-cards/)
+#### 3. [Get 20% Off on Klook Bookings with SBI Visa Credit Cards](https://cardinsider.com/blog/discount-klook-bookings-sbi-visa-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 03 Nov 2026 07:20:48 +0000  
@@ -110,7 +108,7 @@
 
 ---
 
-#### 3. [Axis Bank Grab Deals Offers – November 2026](https://cardinsider.com/blog/axis-bank-grab-deals/)
+#### 4. [Axis Bank Grab Deals Offers – November 2026](https://cardinsider.com/blog/axis-bank-grab-deals/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 03 Nov 2026 07:10:25 +0000  
@@ -122,24 +120,32 @@
 
 ---
 
-#### 4. [Axis Privilege Visa Credit Card Now Lifetime Free](https://cardinsider.com/blog/axis-privilege-credit-card-lifetime-free/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 30 Oct 2026 04:35:19 +0000  
-**🏦 Bank:** AXIS  
-**💳 Card:** Privilege Visa Credit Card  
-**💵 Fee:** ₹1  
-
-**📝 Summary:** The Axis Privilege Credit Card is considered a mid-range sub-premium credit card that offers good lifestyle features and a reasonable rewards rate.
-
-**✨ Benefits:** Lounge Access, Milestone Benefit, Complimentary
-
----
-
 
 ### 💰 Reward Points
 
-#### 1. [ICICI Bank iShop Rewards Portal November 2026 Update](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
+#### 1. [Get Up to ₹7,500 Off on Jewellery Purchases With SBI Credit Cards Festive Offers 2026](https://cardinsider.com/blog/sbi-credit-cards-festive-offers/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 04 Nov 2026 11:45:08 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** With SBI Credit Card  
+
+**📝 Summary:** SBI Card has rolled out its festive offers for 2026, bringing attractive discounts and cashback deals across several popular brands in India.
+
+---
+
+#### 2. [Get 5% Cashback on International Spends + 0% Forex Markup With HSBC RuPay JCB Credit Cards](https://cardinsider.com/blog/hsbc-rupay-jcb-credit-cards-cashback-international-spends/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Wed, 04 Nov 2026 11:41:55 +0000  
+**💳 Card:** RuPay JCB Credit Card  
+**💰 Reward:** 5% Cashback  
+
+**📝 Summary:** HSBC has been introducing some attractive offers for its Indian credit cardholders.
+
+---
+
+#### 3. [ICICI Bank iShop Rewards Portal November 2026 Update](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 03 Nov 2026 07:10:52 +0000  
@@ -150,7 +156,7 @@
 
 ---
 
-#### 2. [Up to 20X MR Points With American Express Reward Xcelerator – November 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
+#### 4. [Up to 20X MR Points With American Express Reward Xcelerator – November 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 03 Nov 2026 07:00:41 +0000  
@@ -191,15 +197,6 @@
 **📝 Summary:** IndusInd Bank has introduced exclusive Taj benefits for its Indus Grande and Indus Pioneer Savings Account holders.
 
 **✨ Benefits:** Complimentary
-
----
-
-#### 3. [Cancelled flight ticket? GSTAT says airlines can refund GST to passengers and claim it back from the government](https://economictimes.indiatimes.com/wealth/tax/cancelled-flight-ticket-gstat-says-airlines-can-refund-gst-to-passengers-and-claim-it-back-from-the-government/articleshow/135488189.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 04 Nov 2026 09:48:11 +0530  
-
-**📝 Summary:** Taxpayer wins GST refund denial case after depositing GST on airline ticket with the govt and later refunding the GST back to passengers due to cancelled ticket; GSTAT orders GST department to issu...
 
 ---
 
