@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-05 05:39:10 IST
+**Last Updated:** 2026-11-05 14:12:34 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -123,7 +123,17 @@
 
 ### 💰 Reward Points
 
-#### 1. [Get Up to ₹7,500 Off on Jewellery Purchases With SBI Credit Cards Festive Offers 2026](https://cardinsider.com/blog/sbi-credit-cards-festive-offers/)
+#### 1. [Turn Every Dyson Purchase into More Rewards with HSBC Credit Cards](https://cardinsider.com/blog/dyson-purchase-rewards-hsbc-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 05 Nov 2026 07:31:37 +0000  
+**💳 Card:** with HSBC Credit Card  
+
+**📝 Summary:** Thinking about buying a Dyson product.
+
+---
+
+#### 2. [Get Up to ₹7,500 Off on Jewellery Purchases With SBI Credit Cards Festive Offers 2026](https://cardinsider.com/blog/sbi-credit-cards-festive-offers/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 04 Nov 2026 11:45:08 +0000  
@@ -134,7 +144,7 @@
 
 ---
 
-#### 2. [Get 5% Cashback on International Spends + 0% Forex Markup With HSBC RuPay JCB Credit Cards](https://cardinsider.com/blog/hsbc-rupay-jcb-credit-cards-cashback-international-spends/)
+#### 3. [Get 5% Cashback on International Spends + 0% Forex Markup With HSBC RuPay JCB Credit Cards](https://cardinsider.com/blog/hsbc-rupay-jcb-credit-cards-cashback-international-spends/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Wed, 04 Nov 2026 11:41:55 +0000  
@@ -145,7 +155,7 @@
 
 ---
 
-#### 3. [ICICI Bank iShop Rewards Portal November 2026 Update](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
+#### 4. [ICICI Bank iShop Rewards Portal November 2026 Update](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 03 Nov 2026 07:10:52 +0000  
@@ -156,7 +166,7 @@
 
 ---
 
-#### 4. [Up to 20X MR Points With American Express Reward Xcelerator – November 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
+#### 5. [Up to 20X MR Points With American Express Reward Xcelerator – November 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 03 Nov 2026 07:00:41 +0000  
@@ -187,16 +197,20 @@
 
 ---
 
-#### 2. [IndusInd Bank Offers Complimentary Taj Benefits to Grande & Pioneer Savings Account Holders](https://cardinsider.com/blog/indusind-grande-pioneer-savings-account-taj-benefits/)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 30 Oct 2026 08:01:53 +0000  
-**🏦 Bank:** INDUSIND  
-**💳 Card:** debit card  
+### 💡 Tricks & Tips
 
-**📝 Summary:** IndusInd Bank has introduced exclusive Taj benefits for its Indus Grande and Indus Pioneer Savings Account holders.
+#### 1. [Don’t fall prey to scammer tricks while shopping for Dhanteras and Diwali: NPCI shares 5 tips to stay away from festive season scams](https://economictimes.indiatimes.com/wealth/invest/dont-fall-prey-to-scammer-tricks-while-shopping-for-dhanteras-and-diwali-npci-shares-5-tips-to-stay-away-from-festive-season-scams/slideshow/135573685.cms)
 
-**✨ Benefits:** Complimentary
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 05 Nov 2026 17:57:40 +0530  
+
+**📝 Summary:** In this festive frenzy, many people may make impulsive decisions to grab a ‘too-good-to-be-true’ deal.
+
+**💡 Optimization Tips:**
+
+- The NPCI has issued these 5 safety tips to consider to stay away from scammers
+- 5 NPCI tips to stay away from festive season scams
 
 ---
 
