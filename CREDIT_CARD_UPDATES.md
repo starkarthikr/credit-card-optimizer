@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-10 01:16:34 IST
+**Last Updated:** 2026-11-10 14:29:49 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -52,30 +52,31 @@
 
 ---
 
-#### 3. [Stop your SIP too early or start your SWP too soon? Here’s how to get the timing right](https://economictimes.indiatimes.com/wealth/save/sip-vs-swp-how-to-pace-your-investments-and-time-your-withdrawals/slideshow/135670556.cms)
+#### 3. [8th Pay Commission: ₹69,000 minimum pay, ₹15,768 more HRA? Check 5 key NC-JCM demands](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-69000-minimum-pay-15768-more-hra-check-5-key-nc-jcm-demands/slideshow/135700478.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 09 Nov 2026 09:37:20 +0530  
+**📅 Published:** Tue, 10 Nov 2026 10:53:05 +0530  
 
-**📝 Summary:** Learn how to pace SIPs during your earning years and when to start an SWP in retirement, with simple rules to keep your money growing and your corpus safe.
+**📝 Summary:** The National Council of the Joint Consultative Machinery (NC-JCM), the main central government employees’ body, has submitted its recommendations to the 8th Pay Commission.
 
 ---
 
-#### 4. [Group health insurance claims: 5 common claim deductions and disputes employees should know about](https://economictimes.indiatimes.com/wealth/insure/group-health-insurance-claims-5-common-claim-deductions-and-disputes-employees-should-know-about/articleshow/135615845.cms)
+#### 4. [Need ₹8 lakh a year in retirement? Know the ideal withdrawal rate for your ₹2-crore corpus](https://economictimes.indiatimes.com/wealth/plan/need-8-lakh-a-year-in-retirement-know-the-ideal-withdrawal-rate-for-your-2-crore-corpus/slideshow/135700043.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 09 Nov 2026 06:30:00 +0530  
+**📅 Published:** Tue, 10 Nov 2026 10:31:28 +0530  
 
-**📝 Summary:** Most group plans cover pre-existing diseases from day one, and individual employees are not medically underwritten.
+**📝 Summary:** When it comes to retirement planning, we all keep reading about investment strategies on amassing a certain amount.
 
 ---
 
-#### 5. [Indian parents getting US residency? 6 financial implications to consider before applying](https://economictimes.indiatimes.com/wealth/plan/indian-parents-getting-us-residency-6-financial-implications-to-consider-before-applying/articleshow/135614307.cms)
+#### 5. [Financial planning for DINK couples in India: 10 money moves for two incomes](https://economictimes.indiatimes.com/wealth/plan/financial-planning-for-dink-couples-in-india-10-money-moves-for-two-incomes/slideshow/135699515.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 09 Nov 2026 06:30:00 +0530  
+**📅 Published:** Tue, 10 Nov 2026 10:07:14 +0530  
+**🏦 Bank:** AU  
 
-**📝 Summary:** Investments in bank accounts, mutual funds, shares and other assets will have to be reviewed and modified.
+**📝 Summary:** Two salaries don’t automatically mean more wealth.
 
 ---
 
