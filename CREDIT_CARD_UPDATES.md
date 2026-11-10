@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-09 15:29:54 IST
+**Last Updated:** 2026-11-10 01:16:34 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -24,48 +24,58 @@
 
 ### 📰 General Updates
 
-#### 1. [Club ITC Offer: Earn up to 50,000 Bonus Green Points on Your Hotel Stays](https://www.cardexpert.in/club-itc-offer-50000-bonus-green-points/)
+#### 1. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
 
 **📡 Source:** Cardexpert  
-**📅 Published:** Fri, 21 Aug 2026 07:03:06 +0000  
+**📅 Published:** Thu, 30 Apr 2026 12:14:21 +0000  
+**🏦 Bank:** AXIS  
+**💳 Card:** s Select Credit Card  
 
-**📝 Summary:** Most hotel loyalty offers give you a small benefit, including most Marriott offers these days.
+**📝 Summary:** Federal Bank said on 30th April 2026 that its board has approved a plan to buy a select portfolio of retail credit cards from Standard Chartered Bank&#8217;s India unit.
+
+**💡 Optimization Tips:**
+
+- Standard Chartered has been scaling down parts of its retail business in India to focus on wealth solutions, international banking and customers who use multiple products
 
 ---
 
-#### 2. [Amex Membership Rewards Just Got Better: Improved Transfers to Virgin Atlantic & Hilton](https://www.cardexpert.in/amex-mr-points-improved-transfers-virgin-atlantic-hilton/)
+#### 2. [Get Complimentary Padel & Pickleball Court Bookings with Select HSBC Credit Cards](https://cardinsider.com/blog/hsbc-serve-complimentary-padel-pickleball-bookings/)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Thu, 20 Aug 2026 17:34:05 +0000  
+**📡 Source:** Cardinsider  
+**📅 Published:** Fri, 30 Oct 2026 12:52:15 +0000  
+**🏦 Bank:** CITI  
+**💳 Card:** Select HSBC Credit Card  
 
-**📝 Summary:** After a long time of repetitive bad news for Amex India cardholders, we finally have something to smile about.
+**📝 Summary:** HSBC has introduced HSBC Serve, a new racquet sports program that offers exclusive access to premium padel and pickleball facilities across India.
 
----
-
-#### 3. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
-
-**📡 Source:** Cardexpert  
-**📅 Published:** Wed, 13 May 2026 12:37:59 +0000  
-
-**📝 Summary:** Good news for frequent travellers in the UK as American Express has now added ALL Accor as a new Membership Rewards transfer partner.
+**✨ Benefits:** Complimentary
 
 ---
 
-#### 4. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
+#### 3. [Stop your SIP too early or start your SWP too soon? Here’s how to get the timing right](https://economictimes.indiatimes.com/wealth/save/sip-vs-swp-how-to-pace-your-investments-and-time-your-withdrawals/slideshow/135670556.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 09 Nov 2026 09:37:20 +0530  
 
-**📝 Summary:** Air India is back with its much-loved&#160;Maharaja Club Points Fest, and this year it is bigger than ever.
+**📝 Summary:** Learn how to pace SIPs during your earning years and when to start an SWP in retirement, with simple rules to keep your money growing and your corpus safe.
 
 ---
 
-#### 5. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
+#### 4. [Group health insurance claims: 5 common claim deductions and disputes employees should know about](https://economictimes.indiatimes.com/wealth/insure/group-health-insurance-claims-5-common-claim-deductions-and-disputes-employees-should-know-about/articleshow/135615845.cms)
 
-**📡 Source:** Cardexpert  
-**📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 09 Nov 2026 06:30:00 +0530  
 
-**📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
+**📝 Summary:** Most group plans cover pre-existing diseases from day one, and individual employees are not medically underwritten.
+
+---
+
+#### 5. [Indian parents getting US residency? 6 financial implications to consider before applying](https://economictimes.indiatimes.com/wealth/plan/indian-parents-getting-us-residency-6-financial-implications-to-consider-before-applying/articleshow/135614307.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 09 Nov 2026 06:30:00 +0530  
+
+**📝 Summary:** Investments in bank accounts, mutual funds, shares and other assets will have to be reviewed and modified.
 
 ---
 
@@ -123,68 +133,86 @@
 
 ### 💰 Reward Points
 
-#### 1. [Turn Every Dyson Purchase into More Rewards with HSBC Credit Cards](https://cardinsider.com/blog/dyson-purchase-rewards-hsbc-credit-cards/)
+#### 1. [Amex Membership Rewards Just Got Better: Improved Transfers to Virgin Atlantic & Hilton](https://www.cardexpert.in/amex-mr-points-improved-transfers-virgin-atlantic-hilton/)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 05 Nov 2026 07:31:37 +0000  
-**💳 Card:** with HSBC Credit Card  
-
-**📝 Summary:** Thinking about buying a Dyson product.
-
----
-
-#### 2. [Get Up to ₹7,500 Off on Jewellery Purchases With SBI Credit Cards Festive Offers 2026](https://cardinsider.com/blog/sbi-credit-cards-festive-offers/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 04 Nov 2026 11:45:08 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** With SBI Credit Card  
-
-**📝 Summary:** SBI Card has rolled out its festive offers for 2026, bringing attractive discounts and cashback deals across several popular brands in India.
-
----
-
-#### 3. [Get 5% Cashback on International Spends + 0% Forex Markup With HSBC RuPay JCB Credit Cards](https://cardinsider.com/blog/hsbc-rupay-jcb-credit-cards-cashback-international-spends/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Wed, 04 Nov 2026 11:41:55 +0000  
-**💳 Card:** RuPay JCB Credit Card  
-**💰 Reward:** 5% Cashback  
-
-**📝 Summary:** HSBC has been introducing some attractive offers for its Indian credit cardholders.
-
----
-
-#### 4. [ICICI Bank iShop Rewards Portal November 2026 Update](https://cardinsider.com/blog/icici-bank-ishop-rewards-portal/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 03 Nov 2026 07:10:52 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** ICICI Bank Credit Card  
-
-**📝 Summary:** ICICI Bank has launched its own rewards portal called iShop Rewards 360.
-
----
-
-#### 5. [Up to 20X MR Points With American Express Reward Xcelerator – November 2026](https://cardinsider.com/blog/amex-launches-reward-xcelerator-program-earn-20x-10x-rps/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 03 Nov 2026 07:00:41 +0000  
+**📡 Source:** Cardexpert  
+**📅 Published:** Thu, 20 Aug 2026 17:34:05 +0000  
 **🏦 Bank:** AMEX  
-**💳 Card:** American Express Credit Card  
+**💳 Card:** India card  
 
-**📝 Summary:** American Express has just introduced its Reward Xcelerator program in India, offering great shopping rewards.
+**📝 Summary:** After a long time of repetitive bad news for Amex India cardholders, we finally have something to smile about.
 
-**💡 Optimization Tips:**
+**✨ Benefits:** Complimentary
 
-- It can be considered an upgraded and more premium version of the Rewards Multiplier
+**🔄 Redemption:** My experience: I have used Virgin points for a couple of good redemptions, an intra-Europe hop in Business Class on KLM for ~8K points (outstanding value) and recently EU-India in Air France Business Class for ~60K points (average value)
+
+---
+
+#### 2. [Air India Maharaja Club Points Fest 2026: Earn Up to 50% Bonus Points](https://www.cardexpert.in/air-india-maharaja-club-points-fest-may-2026/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 01 May 2026 08:54:04 +0000  
+**🏦 Bank:** SBI  
+**💳 Card:** India Signature Credit Card  
+
+**📝 Summary:** Air India is back with its much-loved&#160;Maharaja Club Points Fest, and this year it is bigger than ever.
+
+---
+
+#### 3. [Accor and Uber’s New Loyalty Deal: Great for Earning, Silent on Burning](https://www.cardexpert.in/accor-uber-new-loyalty-deal/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 01 May 2026 06:16:27 +0000  
+**🏦 Bank:** AU  
+
+**📝 Summary:** Accor has announced a new multi-market loyalty partnership with Uber that links the two companies&#8217; accounts and lets ALL Accor members earn hotel points on Uber rides and Uber Eats orders.
+
+**🔄 Redemption:** There’s no mention of redeeming ALL Accor points to pay for an Uber ride
+
+---
+
+#### 4. [Transfer Club ITC Points to Marriott Bonvoy: Everything You Need to Know](https://www.cardexpert.in/transfer-itc-points-to-marriott-bonvoy/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 29 Apr 2026 17:06:40 +0000  
+**🏦 Bank:** AXIS  
+
+**📝 Summary:** If you have Club ITC Green Points sitting idle in your account, you can convert them into Marriott Bonvoy points and use them at over 9,500 hotels worldwide.
+
+**🔄 Redemption:** The currency of Club ITC loyalty program is Green Points and it carries a static value which can redeemed seemlesly for stays/dining
+
+---
+
+#### 5. [Equitas Bank Selfe Credit Card Review](https://www.cardexpert.in/equitas-selfe-credit-card-review/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Tue, 28 Apr 2026 14:17:51 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** Bank Selfe Credit Card  
+**💰 Reward:** 5X Reward  
+
+**📝 Summary:** Equitas Small Finance Bank has been making some interesting moves in the credit card space, and the Selfe Credit Card is their mid-range offering that sits between the entry-level Tiga and the prem...
+
+**✨ Benefits:** Lounge Access, Complimentary
+
+**🔄 Redemption:** Table of ContentsOverviewFees & BenefitsChoose Your DesignRewards5X RewardsPrivilege ProgramRedemptionsAirport Lounge AccessShould you get it
 
 ---
 
 
 ### ✈️ Travel Benefits
 
-#### 1. [Indian Students Now Get a Free ISIC or IYTC Card with a Mastercard Forex Prepaid Card](https://cardinsider.com/blog/indian-students-free-isic-iytc-card-mastercard-forex-prepaid-card/)
+#### 1. [Club ITC Offer: Earn up to 50,000 Bonus Green Points on Your Hotel Stays](https://www.cardexpert.in/club-itc-offer-50000-bonus-green-points/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Fri, 21 Aug 2026 07:03:06 +0000  
+**🏦 Bank:** AU  
+
+**📝 Summary:** Most hotel loyalty offers give you a small benefit, including most Marriott offers these days.
+
+---
+
+#### 2. [Indian Students Now Get a Free ISIC or IYTC Card with a Mastercard Forex Prepaid Card](https://cardinsider.com/blog/indian-students-free-isic-iytc-card-mastercard-forex-prepaid-card/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 03 Nov 2026 11:02:49 +0000  
@@ -200,7 +228,24 @@
 
 ### 💡 Tricks & Tips
 
-#### 1. [Don’t fall prey to scammer tricks while shopping for Dhanteras and Diwali: NPCI shares 5 tips to stay away from festive season scams](https://economictimes.indiatimes.com/wealth/invest/dont-fall-prey-to-scammer-tricks-while-shopping-for-dhanteras-and-diwali-npci-shares-5-tips-to-stay-away-from-festive-season-scams/slideshow/135573685.cms)
+#### 1. [American Express adds Accor as Points Transfer Partner but in the UK](https://www.cardexpert.in/amex-adds-accor-as-transfer-partner-in-uk/)
+
+**📡 Source:** Cardexpert  
+**📅 Published:** Wed, 13 May 2026 12:37:59 +0000  
+**🏦 Bank:** AXIS  
+**💳 Card:** the right credit card  
+
+**📝 Summary:** Good news for frequent travellers in the UK as American Express has now added ALL Accor as a new Membership Rewards transfer partner.
+
+**🔄 Redemption:** This means eligible American Express cardholders in the UK can now transfer their Membership Rewards points directly to the ALL Accor loyalty programme and redeem them for hotel stays across Accor’s global network
+
+**💡 Optimization Tips:**
+
+- Helping Indians pick the right credit cards, maximize rewards, and travel in style for less using points and miles
+
+---
+
+#### 2. [Don’t fall prey to scammer tricks while shopping for Dhanteras and Diwali: NPCI shares 5 tips to stay away from festive season scams](https://economictimes.indiatimes.com/wealth/invest/dont-fall-prey-to-scammer-tricks-while-shopping-for-dhanteras-and-diwali-npci-shares-5-tips-to-stay-away-from-festive-season-scams/slideshow/135573685.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Thu, 05 Nov 2026 17:57:40 +0530  
