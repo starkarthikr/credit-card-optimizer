@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-10 22:57:08 IST
+**Last Updated:** 2026-11-11 05:09:37 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -52,31 +52,30 @@
 
 ---
 
-#### 3. [8th Pay Commission: ₹69,000 minimum pay, ₹15,768 more HRA? Check 5 key NC-JCM demands](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-69000-minimum-pay-15768-more-hra-check-5-key-nc-jcm-demands/slideshow/135700478.cms)
+#### 3. [Who inherits a woman’s property in India when she dies without a Will? Rules by religion](https://economictimes.indiatimes.com/wealth/legal/will/who-inherits-a-womans-property-in-india-when-she-dies-without-a-will-rules-by-religion/slideshow/135725827.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Tue, 10 Nov 2026 10:53:05 +0530  
+**📅 Published:** Wed, 11 Nov 2026 10:05:17 +0530  
 
-**📝 Summary:** The National Council of the Joint Consultative Machinery (NC-JCM), the main central government employees’ body, has submitted its recommendations to the 8th Pay Commission.
+**📝 Summary:** A simple guide for Hindu, Muslim, Christian and Parsi families, in 8 slides.
 
 ---
 
-#### 4. [Need ₹8 lakh a year in retirement? Know the ideal withdrawal rate for your ₹2-crore corpus](https://economictimes.indiatimes.com/wealth/plan/need-8-lakh-a-year-in-retirement-know-the-ideal-withdrawal-rate-for-your-2-crore-corpus/slideshow/135700043.cms)
+#### 4. [Should your NPS equity share depend only on age? See how LC75, LC50 and LC25 work, and what else decides the right NPS mix](https://economictimes.indiatimes.com/wealth/insure/should-your-nps-equity-share-depend-only-on-age-see-how-lc75-lc50-and-lc25-work-and-what-else-decides-the-right-nps-mix/slideshow/135725411.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Tue, 10 Nov 2026 10:31:28 +0530  
+**📅 Published:** Wed, 11 Nov 2026 09:39:42 +0530  
 
-**📝 Summary:** When it comes to retirement planning, we all keep reading about investment strategies on amassing a certain amount.
+**📝 Summary:** Age is the main factor in splitting your National Pension System money between equity and debt.
 
 ---
 
-#### 5. [Financial planning for DINK couples in India: 10 money moves for two incomes](https://economictimes.indiatimes.com/wealth/plan/financial-planning-for-dink-couples-in-india-10-money-moves-for-two-incomes/slideshow/135699515.cms)
+#### 5. [Bank holiday today: Are banks open or closed in your state today on November 11, 2026?](https://economictimes.indiatimes.com/wealth/save/bank-holiday-today-wednesday-november-11-2026-on-diwali-bhai-dooj-laxmi-puja-will-banks-open-or-close-rbi-calendar/articleshow/135712499.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Tue, 10 Nov 2026 10:07:14 +0530  
-**🏦 Bank:** AU  
+**📅 Published:** Wed, 11 Nov 2026 07:00:00 +0530  
 
-**📝 Summary:** Two salaries don’t automatically mean more wealth.
+**📝 Summary:** On November 11, 2026, banks will observe holidays in specific states for various regional festivals.
 
 ---
 
