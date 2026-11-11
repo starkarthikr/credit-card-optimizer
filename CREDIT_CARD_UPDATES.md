@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-11 05:09:37 IST
+**Last Updated:** 2026-11-11 13:44:34 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -52,30 +52,30 @@
 
 ---
 
-#### 3. [Who inherits a woman’s property in India when she dies without a Will? Rules by religion](https://economictimes.indiatimes.com/wealth/legal/will/who-inherits-a-womans-property-in-india-when-she-dies-without-a-will-rules-by-religion/slideshow/135725827.cms)
+#### 3. [7 schemes offering 7.5% or higher interest rates: SCSS, NSC, RBI floating rate bond](https://economictimes.indiatimes.com/wealth/invest/7-schemes-offering-7-5-or-higher-interest-rates-scss-nsc-rbi-floating-rate-bond/slideshow/135736973.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 11 Nov 2026 10:05:17 +0530  
+**📅 Published:** Wed, 11 Nov 2026 17:38:48 +0530  
 
-**📝 Summary:** A simple guide for Hindu, Muslim, Christian and Parsi families, in 8 slides.
+**📝 Summary:** Many investors with a low-risk appetite or seeking a stable income look for an investment where they can generate a high interest income after investing a lump sum amount.
 
 ---
 
-#### 4. [Should your NPS equity share depend only on age? See how LC75, LC50 and LC25 work, and what else decides the right NPS mix](https://economictimes.indiatimes.com/wealth/insure/should-your-nps-equity-share-depend-only-on-age-see-how-lc75-lc50-and-lc25-work-and-what-else-decides-the-right-nps-mix/slideshow/135725411.cms)
+#### 4. [Why is the glittering gold losing its sparkle?](https://economictimes.indiatimes.com/wealth/invest/why-is-the-glittering-gold-losing-its-sparkle/articleshow/135731127.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 11 Nov 2026 09:39:42 +0530  
+**📅 Published:** Wed, 11 Nov 2026 14:15:54 +0530  
 
-**📝 Summary:** Age is the main factor in splitting your National Pension System money between equity and debt.
+**📝 Summary:** After hitting a record near $5,600 an ounce in January 2026, gold has fallen roughly 29% from its peak.
 
 ---
 
-#### 5. [Bank holiday today: Are banks open or closed in your state today on November 11, 2026?](https://economictimes.indiatimes.com/wealth/save/bank-holiday-today-wednesday-november-11-2026-on-diwali-bhai-dooj-laxmi-puja-will-banks-open-or-close-rbi-calendar/articleshow/135712499.cms)
+#### 5. [Physical gold vs gold ETF: Which saves more tax when you sell your gold?](https://economictimes.indiatimes.com/wealth/tax/physical-gold-vs-gold-etf-which-saves-more-tax-when-you-sell-your-gold/slideshow/135726402.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 11 Nov 2026 07:00:00 +0530  
+**📅 Published:** Wed, 11 Nov 2026 10:30:08 +0530  
 
-**📝 Summary:** On November 11, 2026, banks will observe holidays in specific states for various regional festivals.
+**📝 Summary:** Buying gold this Diwali.
 
 ---
 
@@ -242,20 +242,6 @@
 **💡 Optimization Tips:**
 
 - Helping Indians pick the right credit cards, maximize rewards, and travel in style for less using points and miles
-
----
-
-#### 2. [Don’t fall prey to scammer tricks while shopping for Dhanteras and Diwali: NPCI shares 5 tips to stay away from festive season scams](https://economictimes.indiatimes.com/wealth/invest/dont-fall-prey-to-scammer-tricks-while-shopping-for-dhanteras-and-diwali-npci-shares-5-tips-to-stay-away-from-festive-season-scams/slideshow/135573685.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 05 Nov 2026 17:57:40 +0530  
-
-**📝 Summary:** In this festive frenzy, many people may make impulsive decisions to grab a ‘too-good-to-be-true’ deal.
-
-**💡 Optimization Tips:**
-
-- The NPCI has issued these 5 safety tips to consider to stay away from scammers
-- 5 NPCI tips to stay away from festive season scams
 
 ---
 
