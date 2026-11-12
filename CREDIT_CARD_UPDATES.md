@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-12 00:11:08 IST
+**Last Updated:** 2026-11-12 14:47:49 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -22,6 +22,26 @@
 ---
 
 
+### ⚠️ Devaluation
+
+#### 1. [ICICI Bank Credit Card Devaluation November 2026 – Air Accident Insurance and INOX Benefits Discontinued, Fees Revised](https://cardinsider.com/blog/icici-bank-credit-card-devaluation-benefits-and-fees/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 12 Nov 2026 06:31:18 +0000  
+**🏦 Bank:** ICICI  
+**💳 Card:** ICICI Bank Credit Card  
+
+**📝 Summary:** At this point, credit card users have become accustomed to periodic devaluation notices, whether from Axis Bank, ICICI Bank, or other major issuers.
+
+**✨ Benefits:** Complimentary, Insurance
+
+**💡 Optimization Tips:**
+
+- These changes cover multiple aspects of its credit card portfolio, including the discontinuation of complimentary insurance covers, changes to movie benefits, and an increase in various card replacement and DCC charges
+
+---
+
+
 ### 📰 General Updates
 
 #### 1. [Federal Bank to Acquire Standard Chartered’s Select Credit Card Customers in India](https://www.cardexpert.in/federal-bank-to-buy-part-of-stan-chart-india-credit-cards/)
@@ -39,43 +59,41 @@
 
 ---
 
-#### 2. [Get Complimentary Padel & Pickleball Court Bookings with Select HSBC Credit Cards](https://cardinsider.com/blog/hsbc-serve-complimentary-padel-pickleball-bookings/)
+#### 2. [Get Amazon Vouchers Worth Up to ₹5,000 With HDFC Bank Forex Card](https://cardinsider.com/blog/hdfc-bank-forex-card-amazon-vouchers/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Fri, 30 Oct 2026 12:52:15 +0000  
-**🏦 Bank:** CITI  
-**💳 Card:** Select HSBC Credit Card  
+**📅 Published:** Thu, 12 Nov 2026 09:00:57 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** Forex Card  
 
-**📝 Summary:** HSBC has introduced HSBC Serve, a new racquet sports program that offers exclusive access to premium padel and pickleball facilities across India.
-
-**✨ Benefits:** Complimentary
+**📝 Summary:** HDFC Bank is offering Amazon vouchers worth up to ₹5,000 to customers loading or reloading their eligible Forex Cards.
 
 ---
 
-#### 3. [7 schemes offering 7.5% or higher interest rates: SCSS, NSC, RBI floating rate bond](https://economictimes.indiatimes.com/wealth/invest/7-schemes-offering-7-5-or-higher-interest-rates-scss-nsc-rbi-floating-rate-bond/slideshow/135736973.cms)
+#### 3. [Don't overpay for gold jewellery! Understand this pricing formula jewellers use before buying wedding jewellery](https://economictimes.indiatimes.com/wealth/spend/dont-overpay-for-gold-jewellery-understand-this-pricing-formula-jewellers-use-before-buying-wedding-jewellery/slideshow/135761417.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 11 Nov 2026 17:38:48 +0530  
+**📅 Published:** Thu, 12 Nov 2026 13:43:01 +0530  
 
-**📝 Summary:** Many investors with a low-risk appetite or seeking a stable income look for an investment where they can generate a high interest income after investing a lump sum amount.
+**📝 Summary:** After the annual festive season, buyers and jewellers are gearing up for the annual wedding season, when the demand for gold rises further.
 
 ---
 
-#### 4. [Why is the glittering gold losing its sparkle?](https://economictimes.indiatimes.com/wealth/invest/why-is-the-glittering-gold-losing-its-sparkle/articleshow/135731127.cms)
+#### 4. [Can I withdraw my EPF to repay home loan principal; will I have to pay tax on it?](https://economictimes.indiatimes.com/wealth/plan/can-i-withdraw-my-epf-to-repay-home-loan-principal-will-i-have-to-pay-tax-on-it/articleshow/135758343.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 11 Nov 2026 14:15:54 +0530  
+**📅 Published:** Thu, 12 Nov 2026 12:17:43 +0530  
 
-**📝 Summary:** After hitting a record near $5,600 an ounce in January 2026, gold has fallen roughly 29% from its peak.
+**📝 Summary:** ET Wealth Reader's Query: Can I withdraw my Provident Fund to repay my home loan principal.
 
 ---
 
-#### 5. [Physical gold vs gold ETF: Which saves more tax when you sell your gold?](https://economictimes.indiatimes.com/wealth/tax/physical-gold-vs-gold-etf-which-saves-more-tax-when-you-sell-your-gold/slideshow/135726402.cms)
+#### 5. [EPS pension news: EPFO meeting on November 19; will minimum pension rise from ₹1,000 to ₹3,000?](https://economictimes.indiatimes.com/wealth/save/eps-pension-news-epfo-meeting-on-november-19-will-minimum-pension-rise-from-1000-to-3000/slideshow/135758010.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 11 Nov 2026 10:30:08 +0530  
+**📅 Published:** Thu, 12 Nov 2026 11:42:19 +0530  
 
-**📝 Summary:** Buying gold this Diwali.
+**📝 Summary:** The Employees' Provident Fund Organisation (EPFO) has shifted the venue of its 240th Central Board of Trustees (CBT) meeting from Gir, Gujarat, to New Delhi.
 
 ---
 
@@ -115,18 +133,6 @@
 **💳 Card:** SBI Visa Credit Card  
 
 **📝 Summary:** Planning your summer escape.
-
----
-
-#### 4. [Axis Bank Grab Deals Offers – November 2026](https://cardinsider.com/blog/axis-bank-grab-deals/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 03 Nov 2026 07:10:25 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** debit and credit card  
-**💰 Reward:** 5% cashback  
-
-**📝 Summary:** Axis Bank has an online shopping portal for its customers.
 
 ---
 
@@ -212,7 +218,20 @@
 
 ---
 
-#### 2. [Indian Students Now Get a Free ISIC or IYTC Card with a Mastercard Forex Prepaid Card](https://cardinsider.com/blog/indian-students-free-isic-iytc-card-mastercard-forex-prepaid-card/)
+#### 2. [Why Air Accident Cover With Credit Cards Matters More Than Ever](https://cardinsider.com/blog/why-air-accident-cover-with-credit-cards-matters-more-than-ever/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 12 Nov 2026 06:00:43 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** Cover With Credit Card  
+
+**📝 Summary:** While credit cards are steadily becoming mainstream, there’s still a lack of awareness about some of the valuable benefits they offer.
+
+**✨ Benefits:** Complimentary, Insurance
+
+---
+
+#### 3. [Indian Students Now Get a Free ISIC or IYTC Card with a Mastercard Forex Prepaid Card](https://cardinsider.com/blog/indian-students-free-isic-iytc-card-mastercard-forex-prepaid-card/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 03 Nov 2026 11:02:49 +0000  
