@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-12 23:17:42 IST
+**Last Updated:** 2026-11-13 05:35:27 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -70,30 +70,32 @@
 
 ---
 
-#### 3. [Don't overpay for gold jewellery! Understand this pricing formula jewellers use before buying wedding jewellery](https://economictimes.indiatimes.com/wealth/spend/dont-overpay-for-gold-jewellery-understand-this-pricing-formula-jewellers-use-before-buying-wedding-jewellery/slideshow/135761417.cms)
+#### 3. [Retirement calculator: Could 9% inflation exhaust your ₹1 crore corpus 11 years earlier?](https://economictimes.indiatimes.com/wealth/invest/retirement-calculator-could-9-inflation-exhaust-your-1-crore-corpus-11-years-earlier/slideshow/135789825.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 13 Nov 2026 10:14:19 +0530  
+**🏦 Bank:** AU  
+
+**📝 Summary:** A retirement corpus that looks sufficient today may not last as long as you expect.
+
+---
+
+#### 4. [EMIs now eat up to 60% of income: How easy credit is draining India’s youth](https://economictimes.indiatimes.com/wealth/borrow/emis-now-eat-up-to-60-of-income-how-easy-credit-is-draining-indias-youth/slideshow/135788279.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 13 Nov 2026 09:07:25 +0530  
+**💳 Card:** such as credit card  
+
+**📝 Summary:** Household debt has passed 45.
+
+---
+
+#### 5. [Don't overpay for gold jewellery! Understand this pricing formula jewellers use before buying wedding jewellery](https://economictimes.indiatimes.com/wealth/spend/dont-overpay-for-gold-jewellery-understand-this-pricing-formula-jewellers-use-before-buying-wedding-jewellery/slideshow/135761417.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Thu, 12 Nov 2026 13:43:01 +0530  
 
 **📝 Summary:** After the annual festive season, buyers and jewellers are gearing up for the annual wedding season, when the demand for gold rises further.
-
----
-
-#### 4. [Can I withdraw my EPF to repay home loan principal; will I have to pay tax on it?](https://economictimes.indiatimes.com/wealth/plan/can-i-withdraw-my-epf-to-repay-home-loan-principal-will-i-have-to-pay-tax-on-it/articleshow/135758343.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 12 Nov 2026 12:17:43 +0530  
-
-**📝 Summary:** ET Wealth Reader's Query: Can I withdraw my Provident Fund to repay my home loan principal.
-
----
-
-#### 5. [EPS pension news: EPFO meeting on November 19; will minimum pension rise from ₹1,000 to ₹3,000?](https://economictimes.indiatimes.com/wealth/save/eps-pension-news-epfo-meeting-on-november-19-will-minimum-pension-rise-from-1000-to-3000/slideshow/135758010.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 12 Nov 2026 11:42:19 +0530  
-
-**📝 Summary:** The Employees' Provident Fund Organisation (EPFO) has shifted the venue of its 240th Central Board of Trustees (CBT) meeting from Gir, Gujarat, to New Delhi.
 
 ---
 
