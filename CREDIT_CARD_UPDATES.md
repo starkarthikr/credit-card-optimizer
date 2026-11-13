@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-13 05:35:27 IST
+**Last Updated:** 2026-11-13 14:06:23 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -70,32 +70,32 @@
 
 ---
 
-#### 3. [Retirement calculator: Could 9% inflation exhaust your ₹1 crore corpus 11 years earlier?](https://economictimes.indiatimes.com/wealth/invest/retirement-calculator-could-9-inflation-exhaust-your-1-crore-corpus-11-years-earlier/slideshow/135789825.cms)
+#### 3. [Are cheque book rules changing from January 1, 2027? RBI clarifies after viral WhatsApp message; here's what customers should know](https://economictimes.indiatimes.com/wealth/save/are-cheque-book-rules-changing-from-january-1-2027-rbi-clarifies-after-viral-whatsapp-message-heres-what-customers-should-know/slideshow/135802429.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Fri, 13 Nov 2026 10:14:19 +0530  
+**📅 Published:** Fri, 13 Nov 2026 17:31:56 +0530  
 **🏦 Bank:** AU  
 
-**📝 Summary:** A retirement corpus that looks sufficient today may not last as long as you expect.
+**📝 Summary:** A message is making the rounds on WhatsApp and other social media channels, claiming that the Reserve Bank of India (RBI) will implement new cheque book rules from January 1, 2027.
 
 ---
 
-#### 4. [EMIs now eat up to 60% of income: How easy credit is draining India’s youth](https://economictimes.indiatimes.com/wealth/borrow/emis-now-eat-up-to-60-of-income-how-easy-credit-is-draining-indias-youth/slideshow/135788279.cms)
+#### 4. [The infrastructure shift: Why tokenised bonds matter now](https://economictimes.indiatimes.com/wealth/invest/the-infrastructure-shift-why-tokenised-bonds-matter-now/articleshow/135798716.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Fri, 13 Nov 2026 09:07:25 +0530  
-**💳 Card:** such as credit card  
+**📅 Published:** Fri, 13 Nov 2026 16:10:07 +0530  
 
-**📝 Summary:** Household debt has passed 45.
+**📝 Summary:** Credit card update: The infrastructure shift: Why tokenised bonds matter now
 
 ---
 
-#### 5. [Don't overpay for gold jewellery! Understand this pricing formula jewellers use before buying wedding jewellery](https://economictimes.indiatimes.com/wealth/spend/dont-overpay-for-gold-jewellery-understand-this-pricing-formula-jewellers-use-before-buying-wedding-jewellery/slideshow/135761417.cms)
+#### 5. [SCSS vs MIS interest rates: How much will a ₹15 lakh investment earn in 5 years?](https://economictimes.indiatimes.com/wealth/invest/scss-vs-mis-interest-rates-how-much-will-a-15-lakh-investment-earn-in-5-years/slideshow/135792771.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 12 Nov 2026 13:43:01 +0530  
+**📅 Published:** Fri, 13 Nov 2026 12:02:14 +0530  
+**🏦 Bank:** CITI  
 
-**📝 Summary:** After the annual festive season, buyers and jewellers are gearing up for the annual wedding season, when the demand for gold rises further.
+**📝 Summary:** Senior citizens looking for regular income have several investment options.
 
 ---
 
