@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-13 23:20:47 IST
+**Last Updated:** 2026-11-14 05:26:23 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -70,7 +70,16 @@
 
 ---
 
-#### 3. [Are cheque book rules changing from January 1, 2027? RBI clarifies after viral WhatsApp message; here's what customers should know](https://economictimes.indiatimes.com/wealth/save/are-cheque-book-rules-changing-from-january-1-2027-rbi-clarifies-after-viral-whatsapp-message-heres-what-customers-should-know/slideshow/135802429.cms)
+#### 3. [8th Pay Commission: Higher fitment factor vs higher annual increment rate— which can give bigger salary hike to employees?](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-higher-fitment-factor-vs-higher-annual-increment-rate-which-can-give-bigger-salary-hike-to-employees/slideshow/135822910.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 14 Nov 2026 10:00:45 +0530  
+
+**📝 Summary:** What matters more for central government employees under the 8th Pay Commission over 10 years: a higher fitment factor at the time of pay revision or a higher annual increment every year.
+
+---
+
+#### 4. [Are cheque book rules changing from January 1, 2027? RBI clarifies after viral WhatsApp message; here's what customers should know](https://economictimes.indiatimes.com/wealth/save/are-cheque-book-rules-changing-from-january-1-2027-rbi-clarifies-after-viral-whatsapp-message-heres-what-customers-should-know/slideshow/135802429.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 13 Nov 2026 17:31:56 +0530  
@@ -80,22 +89,12 @@
 
 ---
 
-#### 4. [The infrastructure shift: Why tokenised bonds matter now](https://economictimes.indiatimes.com/wealth/invest/the-infrastructure-shift-why-tokenised-bonds-matter-now/articleshow/135798716.cms)
+#### 5. [The infrastructure shift: Why tokenised bonds matter now](https://economictimes.indiatimes.com/wealth/invest/the-infrastructure-shift-why-tokenised-bonds-matter-now/articleshow/135798716.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 13 Nov 2026 16:10:07 +0530  
 
 **📝 Summary:** Credit card update: The infrastructure shift: Why tokenised bonds matter now
-
----
-
-#### 5. [SCSS vs MIS interest rates: How much will a ₹15 lakh investment earn in 5 years?](https://economictimes.indiatimes.com/wealth/invest/scss-vs-mis-interest-rates-how-much-will-a-15-lakh-investment-earn-in-5-years/slideshow/135792771.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 13 Nov 2026 12:02:14 +0530  
-**🏦 Bank:** CITI  
-
-**📝 Summary:** Senior citizens looking for regular income have several investment options.
 
 ---
 
