@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-15 22:34:52 IST
+**Last Updated:** 2026-11-16 05:21:40 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -70,31 +70,31 @@
 
 ---
 
-#### 3. [8th Pay Commission: Higher fitment factor vs higher annual increment rate— which can give bigger salary hike to employees?](https://economictimes.indiatimes.com/wealth/save/8th-pay-commission-higher-fitment-factor-vs-higher-annual-increment-rate-which-can-give-bigger-salary-hike-to-employees/slideshow/135822910.cms)
+#### 3. [Retirement planning: 3 budgets you must prepare before you retire](https://economictimes.indiatimes.com/wealth/plan/retirement-planning-3-budgets-you-must-prepare-before-you-retire/slideshow/135822682.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Sat, 14 Nov 2026 10:00:45 +0530  
-
-**📝 Summary:** What matters more for central government employees under the 8th Pay Commission over 10 years: a higher fitment factor at the time of pay revision or a higher annual increment every year.
-
----
-
-#### 4. [Are cheque book rules changing from January 1, 2027? RBI clarifies after viral WhatsApp message; here's what customers should know](https://economictimes.indiatimes.com/wealth/save/are-cheque-book-rules-changing-from-january-1-2027-rbi-clarifies-after-viral-whatsapp-message-heres-what-customers-should-know/slideshow/135802429.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 13 Nov 2026 17:31:56 +0530  
+**📅 Published:** Mon, 16 Nov 2026 09:30:00 +0530  
 **🏦 Bank:** AU  
 
-**📝 Summary:** A message is making the rounds on WhatsApp and other social media channels, claiming that the Reserve Bank of India (RBI) will implement new cheque book rules from January 1, 2027.
+**📝 Summary:** A large retirement corpus may look reassuring, but it does not automatically guarantee financial security.
 
 ---
 
-#### 5. [The infrastructure shift: Why tokenised bonds matter now](https://economictimes.indiatimes.com/wealth/invest/the-infrastructure-shift-why-tokenised-bonds-matter-now/articleshow/135798716.cms)
+#### 4. [Daily chai to festive season: How saving ₹60 a day adds up to ₹21,900 a year, &amp; 14 more good micro money habits](https://economictimes.indiatimes.com/wealth/save/daily-chai-to-festive-season-how-saving-60-a-day-adds-up-to-21900-a-year-14-more-good-micro-money-habits/slideshow/135822156.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Fri, 13 Nov 2026 16:10:07 +0530  
+**📅 Published:** Mon, 16 Nov 2026 09:15:00 +0530  
 
-**📝 Summary:** Credit card update: The infrastructure shift: Why tokenised bonds matter now
+**📝 Summary:** You don’t need a big salary or a strict budget to feel in control of your money.
+
+---
+
+#### 5. [Insurance Ombudsman explained: How the common man can resolve disputes with insurers affordably and fairly](https://economictimes.indiatimes.com/wealth/insure/insurance-ombudsman-explained-how-the-common-man-can-resolve-disputes-with-insurers-affordably-and-fairly/articleshow/135807680.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 16 Nov 2026 06:30:00 +0530  
+
+**📝 Summary:** If mediation remains elusive, the ombudsman will decide the case impartially by issuing an award.
 
 ---
 
