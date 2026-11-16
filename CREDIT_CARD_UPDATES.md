@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-16 05:21:40 IST
+**Last Updated:** 2026-11-16 15:08:00 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -59,7 +59,19 @@
 
 ---
 
-#### 2. [Get Amazon Vouchers Worth Up to ₹5,000 With HDFC Bank Forex Card](https://cardinsider.com/blog/hdfc-bank-forex-card-amazon-vouchers/)
+#### 2. [Save Up to ₹1,000 on District & Zomato Dining With RuPay Credit Cards](https://cardinsider.com/blog/district-zomato-dining-rupay-credit-card-offer/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Mon, 16 Nov 2026 09:30:42 +0000  
+**💳 Card:** With RuPay Credit Card  
+
+**📝 Summary:** RuPay has been coming up with some interesting offers recently, with the complimentary ALL Accor membership on RuPay Ekaa Credit Cards being a notable addition to its premium card benefits.
+
+**✨ Benefits:** Complimentary
+
+---
+
+#### 3. [Get Amazon Vouchers Worth Up to ₹5,000 With HDFC Bank Forex Card](https://cardinsider.com/blog/hdfc-bank-forex-card-amazon-vouchers/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 12 Nov 2026 09:00:57 +0000  
@@ -70,31 +82,21 @@
 
 ---
 
-#### 3. [Retirement planning: 3 budgets you must prepare before you retire](https://economictimes.indiatimes.com/wealth/plan/retirement-planning-3-budgets-you-must-prepare-before-you-retire/slideshow/135822682.cms)
+#### 4. [A Smarter Way to Invest in Real Estate | Senthil Kumar | ET Wealth Expo 2026](https://economictimes.indiatimes.com/wealth/real-estate/a-smarter-way-to-invest-in-real-estate-senthil-kumar-et-wealth-expo-2026/videoshow/135886737.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 16 Nov 2026 09:30:00 +0530  
-**🏦 Bank:** AU  
+**📅 Published:** Mon, 16 Nov 2026 16:52:04 +0530  
 
-**📝 Summary:** A large retirement corpus may look reassuring, but it does not automatically guarantee financial security.
+**📝 Summary:** Can REITs offer the benefits of real estate investment without owning physical property.
 
 ---
 
-#### 4. [Daily chai to festive season: How saving ₹60 a day adds up to ₹21,900 a year, &amp; 14 more good micro money habits](https://economictimes.indiatimes.com/wealth/save/daily-chai-to-festive-season-how-saving-60-a-day-adds-up-to-21900-a-year-14-more-good-micro-money-habits/slideshow/135822156.cms)
+#### 5. [Retirement Planning: 3 Buckets to Protect &amp; Grow Your Wealth | ET Wealth Expo 2026](https://economictimes.indiatimes.com/wealth/invest/retirement-planning-3-buckets-to-protect-grow-your-wealth-et-wealth-expo-2026/videoshow/135884187.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 16 Nov 2026 09:15:00 +0530  
+**📅 Published:** Mon, 16 Nov 2026 15:59:58 +0530  
 
-**📝 Summary:** You don’t need a big salary or a strict budget to feel in control of your money.
-
----
-
-#### 5. [Insurance Ombudsman explained: How the common man can resolve disputes with insurers affordably and fairly](https://economictimes.indiatimes.com/wealth/insure/insurance-ombudsman-explained-how-the-common-man-can-resolve-disputes-with-insurers-affordably-and-fairly/articleshow/135807680.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 16 Nov 2026 06:30:00 +0530  
-
-**📝 Summary:** If mediation remains elusive, the ombudsman will decide the case impartially by issuing an award.
+**📝 Summary:** How can you build a retirement portfolio that generates regular income while protecting your wealth against inflation.
 
 ---
 
