@@ -1,25 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-17 01:42:18 IST
+**Last Updated:** 2026-11-17 15:39:13 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### 💵 Annual Fee
-
-#### 1. [Kotak Private Credit Card Teased (₹49,000 Annual Fee & Exclusive Invite-Only Access)](https://cardinsider.com/blog/kotak-private-credit-card-annual-fee/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 03 Nov 2026 07:14:21 +0000  
-**🏦 Bank:** ICICI  
-**💳 Card:** Kotak Private Credit Card  
-**💵 Fee:** ₹10  
-
-**📝 Summary:** After the Kotak Solitaire Credit Card, Kotak Mahindra Bank is preparing to introduce another ultra-premium offering, the Kotak Private Credit Card.
-
-**✨ Benefits:** Fuel Surcharge
-
----
 
 
 ### ⚠️ Devaluation
@@ -59,7 +42,18 @@
 
 ---
 
-#### 2. [Save Up to ₹1,000 on District & Zomato Dining With RuPay Credit Cards](https://cardinsider.com/blog/district-zomato-dining-rupay-credit-card-offer/)
+#### 2. [Up to ₹125 Off on Zepto with Kotak Credit Cards](https://cardinsider.com/blog/discount-on-zepto-with-kotak-credit-cards/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 17 Nov 2026 07:00:38 +0000  
+**🏦 Bank:** KOTAK  
+**💳 Card:** with Kotak Credit Card  
+
+**📝 Summary:** Kotak Mahindra has a long list of offers for its credit card users.
+
+---
+
+#### 3. [Save Up to ₹1,000 on District & Zomato Dining With RuPay Credit Cards](https://cardinsider.com/blog/district-zomato-dining-rupay-credit-card-offer/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Mon, 16 Nov 2026 09:30:42 +0000  
@@ -71,7 +65,7 @@
 
 ---
 
-#### 3. [Get Amazon Vouchers Worth Up to ₹5,000 With HDFC Bank Forex Card](https://cardinsider.com/blog/hdfc-bank-forex-card-amazon-vouchers/)
+#### 4. [Get Amazon Vouchers Worth Up to ₹5,000 With HDFC Bank Forex Card](https://cardinsider.com/blog/hdfc-bank-forex-card-amazon-vouchers/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 12 Nov 2026 09:00:57 +0000  
@@ -82,60 +76,42 @@
 
 ---
 
-#### 4. [A Smarter Way to Invest in Real Estate | Senthil Kumar | ET Wealth Expo 2026](https://economictimes.indiatimes.com/wealth/real-estate/a-smarter-way-to-invest-in-real-estate-senthil-kumar-et-wealth-expo-2026/videoshow/135886737.cms)
+#### 5. [Private Equity vs Debt: What should investors choose? Ashish Mehrotra explains](https://economictimes.indiatimes.com/wealth/save/private-equity-vs-debt-what-should-investors-choose-ashish-mehrotra-explains/videoshow/135927757.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 16 Nov 2026 16:52:04 +0530  
+**📅 Published:** Tue, 17 Nov 2026 19:01:48 +0530  
 
-**📝 Summary:** Can REITs offer the benefits of real estate investment without owning physical property.
-
----
-
-#### 5. [Retirement Planning: 3 Buckets to Protect &amp; Grow Your Wealth | ET Wealth Expo 2026](https://economictimes.indiatimes.com/wealth/invest/retirement-planning-3-buckets-to-protect-grow-your-wealth-et-wealth-expo-2026/videoshow/135884187.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Mon, 16 Nov 2026 15:59:58 +0530  
-
-**📝 Summary:** How can you build a retirement portfolio that generates regular income while protecting your wealth against inflation.
+**📝 Summary:** Ashish Mehrotra, MD & CEO, Northern Arc Capital, discusses growing investor selectivity, India's investment potential and 3 key risks to watch: credit, liquidity and structure.
 
 ---
 
 
 ### 🎁 New Offer
 
-#### 1. [HSBC Credit Cardholders Can Earn Up to 6X Rewards on Apple Products via Unicorn Portal](https://cardinsider.com/blog/hsbc-credit-cardholders-earn-rewards-apple-products-unicorn-portal/)
+#### 1. [Free Seat Selection, Fast Forward, Forex Benefits & More for a Limited Time with Kotak IndiGo Credit Cards](https://cardinsider.com/blog/kotak-indigo-credit-card-limited-time-benefits/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Wed, 04 Nov 2026 10:00:12 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** the Indian credit card  
-**💰 Reward:** 6X Reward  
+**📅 Published:** Tue, 17 Nov 2026 11:52:43 +0000  
+**🏦 Bank:** KOTAK  
+**💳 Card:** Kotak IndiGo Credit Card  
 
-**📝 Summary:** HSBC has been expanding aggressively in the Indian credit card market with card revamps, new launches, and attractive offers.
+**📝 Summary:** Kotak IndiGo Credit Cards are popular co-branded airline cards, particularly suited for those who frequently fly with IndiGo.
+
+**✨ Benefits:** Complimentary
 
 ---
 
-#### 2. [Issuance Fee Waiver on All HDFC ForexPlus Cards](https://cardinsider.com/blog/issuance-fee-waiver-on-all-hdfc-forexplus-cards/)
+#### 2. [BOBCARD Etihad Credit Cards Offer Up to 10,000 Welcome Miles Till December 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
 
 **📡 Source:** Cardinsider  
-**📅 Published:** Tue, 03 Nov 2026 10:50:43 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** ForexPlus Card  
+**📅 Published:** Tue, 17 Nov 2026 08:30:13 +0000  
+**💳 Card:** BOBCARD Etihad Credit Card  
 
-**📝 Summary:** HDFC Bank offers a wide range of Forex cards that are useful for individuals traveling abroad for vacation, work, or higher studies.
+**📝 Summary:** BOBCARD has announced a new limited-period welcome and promotional miles offer on its Etihad Guest co-branded credit cards.
 
-**✨ Benefits:** Lounge Access, Complimentary, Insurance, Concierge
+**✨ Benefits:** Welcome Bonus
 
----
-
-#### 3. [Get 20% Off on Klook Bookings with SBI Visa Credit Cards](https://cardinsider.com/blog/discount-klook-bookings-sbi-visa-credit-cards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 03 Nov 2026 07:20:48 +0000  
-**🏦 Bank:** SBI  
-**💳 Card:** SBI Visa Credit Card  
-
-**📝 Summary:** Planning your summer escape.
+**🔄 Redemption:** , which can later be redeemed for flights, upgrades, hotel stays, and more through the Etihad Guest program
 
 ---
 
@@ -221,7 +197,22 @@
 
 ---
 
-#### 2. [Why Air Accident Cover With Credit Cards Matters More Than Ever](https://cardinsider.com/blog/why-air-accident-cover-with-credit-cards-matters-more-than-ever/)
+#### 2. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Tue, 17 Nov 2026 11:45:54 +0000  
+**🏦 Bank:** AU  
+**💳 Card:** Your Visa Credit Card  
+
+**📝 Summary:** There have hardly been any offers as rewarding as the Visa Power Travel offer in recent times.
+
+**💡 Optimization Tips:**
+
+- Visa Power Travel offers multiple ways to earn additional rewards on your international spends
+
+---
+
+#### 3. [Why Air Accident Cover With Credit Cards Matters More Than Ever](https://cardinsider.com/blog/why-air-accident-cover-with-credit-cards-matters-more-than-ever/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 12 Nov 2026 06:00:43 +0000  
@@ -231,19 +222,6 @@
 **📝 Summary:** While credit cards are steadily becoming mainstream, there’s still a lack of awareness about some of the valuable benefits they offer.
 
 **✨ Benefits:** Complimentary, Insurance
-
----
-
-#### 3. [Indian Students Now Get a Free ISIC or IYTC Card with a Mastercard Forex Prepaid Card](https://cardinsider.com/blog/indian-students-free-isic-iytc-card-mastercard-forex-prepaid-card/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 03 Nov 2026 11:02:49 +0000  
-**💳 Card:** IYTC Card  
-**💵 Fee:** ₹218  
-
-**📝 Summary:** Indian students planning to travel abroad now have a special reason to celebrate.
-
-**✨ Benefits:** Complimentary
 
 ---
 
