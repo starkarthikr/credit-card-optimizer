@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-18 00:41:13 IST
+**Last Updated:** 2026-11-18 15:17:34 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -76,12 +76,12 @@
 
 ---
 
-#### 5. [Private Equity vs Debt: What should investors choose? Ashish Mehrotra explains](https://economictimes.indiatimes.com/wealth/save/private-equity-vs-debt-what-should-investors-choose-ashish-mehrotra-explains/videoshow/135927757.cms)
+#### 5. [SIP investment: Are retail investors helping FIIs exit Indian stocks? 4 myths explained](https://economictimes.indiatimes.com/wealth/invest/sip-investment-are-retail-investors-helping-fiis-exit-indian-stocks-4-myths-explained/slideshow/135953857.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Tue, 17 Nov 2026 19:01:48 +0530  
+**📅 Published:** Wed, 18 Nov 2026 12:49:00 +0530  
 
-**📝 Summary:** Ashish Mehrotra, MD & CEO, Northern Arc Capital, discusses growing investor selectivity, India's investment potential and 3 key risks to watch: credit, liquidity and structure.
+**📝 Summary:** With the rupee under pressure and foreign institutional investors (FIIs) selling Indian equities, some market voices argue that domestic mutual fund SIP inflows are providing an easy exit to foreig...
 
 ---
 
