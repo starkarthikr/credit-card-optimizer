@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-18 23:59:39 IST
+**Last Updated:** 2026-11-19 07:10:08 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -76,12 +76,12 @@
 
 ---
 
-#### 5. [SIP investment: Are retail investors helping FIIs exit Indian stocks? 4 myths explained](https://economictimes.indiatimes.com/wealth/invest/sip-investment-are-retail-investors-helping-fiis-exit-indian-stocks-4-myths-explained/slideshow/135953857.cms)
+#### 5. [Loan against PPF: Borrow up to 25% of your balance; check how much you can get](https://economictimes.indiatimes.com/wealth/borrow/loan-against-ppf-borrow-up-to-25-of-your-balance-check-how-much-you-can-get/slideshow/135979585.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 18 Nov 2026 12:49:00 +0530  
+**📅 Published:** Thu, 19 Nov 2026 11:33:39 +0530  
 
-**📝 Summary:** With the rupee under pressure and foreign institutional investors (FIIs) selling Indian equities, some market voices argue that domestic mutual fund SIP inflows are providing an easy exit to foreig...
+**📝 Summary:** The Public Provident Fund (PPF) is a long-term investment option that helps build a tax-free retirement corpus.
 
 ---
 
