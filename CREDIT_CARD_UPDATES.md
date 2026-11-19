@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-19 07:10:08 IST
+**Last Updated:** 2026-11-19 20:07:16 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -76,12 +76,12 @@
 
 ---
 
-#### 5. [Loan against PPF: Borrow up to 25% of your balance; check how much you can get](https://economictimes.indiatimes.com/wealth/borrow/loan-against-ppf-borrow-up-to-25-of-your-balance-check-how-much-you-can-get/slideshow/135979585.cms)
+#### 5. [Understanding InvITs: How They Work, Generate Returns and Manage Risks](https://economictimes.indiatimes.com/wealth/invest/invits-are-not-fds-equities-or-reits-so-what-exactly-are-they-indigrids-harsh-shah-explains/articleshow/135985207.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 19 Nov 2026 11:33:39 +0530  
+**📅 Published:** Thu, 19 Nov 2026 15:20:08 +0530  
 
-**📝 Summary:** The Public Provident Fund (PPF) is a long-term investment option that helps build a tax-free retirement corpus.
+**📝 Summary:** IndiGrid MD Harsh Shah explains how InvITs work, where they fit into an investor’s portfolio, how returns are generated, what risks investors should consider and why he believes the asset class cou...
 
 ---
 
