@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-19 20:07:16 IST
+**Last Updated:** 2026-11-20 06:12:04 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -76,12 +76,12 @@
 
 ---
 
-#### 5. [Understanding InvITs: How They Work, Generate Returns and Manage Risks](https://economictimes.indiatimes.com/wealth/invest/invits-are-not-fds-equities-or-reits-so-what-exactly-are-they-indigrids-harsh-shah-explains/articleshow/135985207.cms)
+#### 5. [EPFO news: SWP approved for retirees; how could your Rs 50 lakh corpus grow?](https://economictimes.indiatimes.com/wealth/save/epfo-news-swp-approved-for-retirees-how-could-your-rs-50-lakh-corpus-grow/slideshow/136014510.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Thu, 19 Nov 2026 15:20:08 +0530  
+**📅 Published:** Fri, 20 Nov 2026 10:51:14 +0530  
 
-**📝 Summary:** IndiGrid MD Harsh Shah explains how InvITs work, where they fit into an investor’s portfolio, how returns are generated, what risks investors should consider and why he believes the asset class cou...
+**📝 Summary:** The Employees' Provident Fund Organisation (EPFO) has approved a proposal to allow retirees to make systematic withdrawals from their EPF corpus instead of withdrawing the entire amount at retirement.
 
 ---
 
@@ -197,7 +197,18 @@
 
 ---
 
-#### 2. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
+#### 2. [Get Up to 10% Off on Qatar Airways Flights With Visa Credit Cards](https://cardinsider.com/blog/qatar-airways-flights-visa-card-discount/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Fri, 20 Nov 2026 04:20:44 +0000  
+**🏦 Bank:** INDUSIND  
+**💳 Card:** With Visa Credit Card  
+
+**📝 Summary:** Qatar Airways is a popular choice among frequent flyers, especially credit card enthusiasts, as its Avios loyalty program is a transfer partner of several credit cards.
+
+---
+
+#### 3. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 17 Nov 2026 11:45:54 +0000  
@@ -212,7 +223,7 @@
 
 ---
 
-#### 3. [Why Air Accident Cover With Credit Cards Matters More Than Ever](https://cardinsider.com/blog/why-air-accident-cover-with-credit-cards-matters-more-than-ever/)
+#### 4. [Why Air Accident Cover With Credit Cards Matters More Than Ever](https://cardinsider.com/blog/why-air-accident-cover-with-credit-cards-matters-more-than-ever/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Thu, 12 Nov 2026 06:00:43 +0000  
