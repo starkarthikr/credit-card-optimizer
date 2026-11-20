@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-20 06:12:04 IST
+**Last Updated:** 2026-11-20 19:43:19 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -76,12 +76,12 @@
 
 ---
 
-#### 5. [EPFO news: SWP approved for retirees; how could your Rs 50 lakh corpus grow?](https://economictimes.indiatimes.com/wealth/save/epfo-news-swp-approved-for-retirees-how-could-your-rs-50-lakh-corpus-grow/slideshow/136014510.cms)
+#### 5. [Family pension rules 2026: Who gets it first after a central govt employee dies?](https://economictimes.indiatimes.com/wealth/save/family-pension-rules-2026-who-gets-it-first-after-a-central-govt-employee-dies/slideshow/136016325.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Fri, 20 Nov 2026 10:51:14 +0530  
+**📅 Published:** Fri, 20 Nov 2026 11:57:29 +0530  
 
-**📝 Summary:** The Employees' Provident Fund Organisation (EPFO) has approved a proposal to allow retirees to make systematic withdrawals from their EPF corpus instead of withdrawing the entire amount at retirement.
+**📝 Summary:** The Department of Pension and Pensioners’ Welfare has restated the order in which family members qualify for family pension.
 
 ---
 
