@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-20 19:43:19 IST
+**Last Updated:** 2026-11-21 06:01:44 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -76,12 +76,12 @@
 
 ---
 
-#### 5. [Family pension rules 2026: Who gets it first after a central govt employee dies?](https://economictimes.indiatimes.com/wealth/save/family-pension-rules-2026-who-gets-it-first-after-a-central-govt-employee-dies/slideshow/136016325.cms)
+#### 5. [ETO-NEXT-GEN INVESTING WHAT MATTERS](https://economictimes.indiatimes.com/wealth/save/eto-next-gen-investing-what-matters/videoshow/136025260.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Fri, 20 Nov 2026 11:57:29 +0530  
+**📅 Published:** Sat, 21 Nov 2026 10:00:00 +0530  
 
-**📝 Summary:** The Department of Pension and Pensioners’ Welfare has restated the order in which family members qualify for family pension.
+**📝 Summary:** Rajesh Saluja, MD & CEO, ASK Private Wealth, highlights why building a resilient portfolio and avoiding permanent capital loss should be key priorities for young investors at the ET Wealth Expo in ...
 
 ---
 
