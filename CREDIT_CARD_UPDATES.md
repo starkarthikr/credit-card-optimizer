@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-22 23:21:46 IST
+**Last Updated:** 2026-11-23 06:20:37 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -76,12 +76,12 @@
 
 ---
 
-#### 5. [ETO-NEXT-GEN INVESTING WHAT MATTERS](https://economictimes.indiatimes.com/wealth/save/eto-next-gen-investing-what-matters/videoshow/136025260.cms)
+#### 5. [EPF SWP calculator: How much monthly retirement income can ₹25 lakh, ₹50 lakh and ₹1 crore generate?](https://economictimes.indiatimes.com/wealth/save/epf-swp-calculator-how-much-monthly-retirement-income-can-25-lakh-50-lakh-and-1-crore-generate/slideshow/136090749.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Sat, 21 Nov 2026 10:00:00 +0530  
+**📅 Published:** Mon, 23 Nov 2026 10:58:17 +0530  
 
-**📝 Summary:** Rajesh Saluja, MD & CEO, ASK Private Wealth, highlights why building a resilient portfolio and avoiding permanent capital loss should be key priorities for young investors at the ET Wealth Expo in ...
+**📝 Summary:** EPF subscribers will be able to opt for a Systematic Withdrawal Plan (SWP) after retirement, allowing them to receive their accumulated PF savings in instalments.
 
 ---
 
@@ -233,6 +233,15 @@
 **📝 Summary:** While credit cards are steadily becoming mainstream, there’s still a lack of awareness about some of the valuable benefits they offer.
 
 **✨ Benefits:** Complimentary, Insurance
+
+---
+
+#### 5. [Luxury air travel: Are business class and premium cabins worth the extra cost?](https://economictimes.indiatimes.com/wealth/spend/luxury-air-travel-are-business-class-and-premium-cabins-worth-the-extra-cost/articleshow/136043937.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Mon, 23 Nov 2026 06:30:00 +0530  
+
+**📝 Summary:** Why are airlines spending so much money on these cabins.
 
 ---
 
