@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-23 06:20:37 IST
+**Last Updated:** 2026-11-23 23:31:38 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -76,12 +76,12 @@
 
 ---
 
-#### 5. [EPF SWP calculator: How much monthly retirement income can ₹25 lakh, ₹50 lakh and ₹1 crore generate?](https://economictimes.indiatimes.com/wealth/save/epf-swp-calculator-how-much-monthly-retirement-income-can-25-lakh-50-lakh-and-1-crore-generate/slideshow/136090749.cms)
+#### 5. [How To Stay Ahead When Markets Shift Faster Than Ever | Prateek Agrawal, MD &amp; CEO, Motilal Oswal AMC](https://economictimes.indiatimes.com/wealth/invest/how-to-stay-ahead-when-markets-shift-faster-than-ever-prateek-agrawal-md-ceo-motilal-oswal-amc/videoshow/136107697.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 23 Nov 2026 10:58:17 +0530  
+**📅 Published:** Mon, 23 Nov 2026 20:59:03 +0530  
 
-**📝 Summary:** EPF subscribers will be able to opt for a Systematic Withdrawal Plan (SWP) after retirement, allowing them to receive their accumulated PF savings in instalments.
+**📝 Summary:** Markets have been shifting faster than ever, with geopolitical tensions, tariff wars, and rapid sector rotations testing investor patience.
 
 ---
 
