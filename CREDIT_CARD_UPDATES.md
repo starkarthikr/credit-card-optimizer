@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-23 23:31:38 IST
+**Last Updated:** 2026-11-24 08:54:29 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -76,12 +76,13 @@
 
 ---
 
-#### 5. [How To Stay Ahead When Markets Shift Faster Than Ever | Prateek Agrawal, MD &amp; CEO, Motilal Oswal AMC](https://economictimes.indiatimes.com/wealth/invest/how-to-stay-ahead-when-markets-shift-faster-than-ever-prateek-agrawal-md-ceo-motilal-oswal-amc/videoshow/136107697.cms)
+#### 5. [India's white-collar jobs outlook 2027: 1.38 crore openings, hottest sectors and cities](https://economictimes.indiatimes.com/wealth/earn/indias-white-collar-jobs-outlook-2027-1-38-crore-openings-hottest-sectors-and-cities/slideshow/136118893.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Mon, 23 Nov 2026 20:59:03 +0530  
+**📅 Published:** Tue, 24 Nov 2026 09:25:59 +0530  
+**🏦 Bank:** CITI  
 
-**📝 Summary:** Markets have been shifting faster than ever, with geopolitical tensions, tariff wars, and rapid sector rotations testing investor patience.
+**📝 Summary:** White-collar hiring in India is set to grow 8.
 
 ---
 
