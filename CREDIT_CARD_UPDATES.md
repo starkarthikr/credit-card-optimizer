@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-25 07:30:43 IST
+**Last Updated:** 2026-11-25 21:14:38 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -76,12 +76,12 @@
 
 ---
 
-#### 5. [Dubai property boom: Prices hit 4-year high, but 38,116 new homes could test demand](https://economictimes.indiatimes.com/wealth/real-estate/dubai-property-boom-prices-hit-4-year-high-but-38116-new-homes-could-test-demand/slideshow/136151644.cms)
+#### 5. [Does customer loyalty affect gold loan interest rates?](https://economictimes.indiatimes.com/wealth/borrow/loan/headline-does-customer-loyalty-affect-gold-loan-interest-rates/articleshow/136155633.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 25 Nov 2026 12:23:24 +0530  
+**📅 Published:** Wed, 25 Nov 2026 15:11:40 +0530  
 
-**📝 Summary:** Dubai's housing market has reached a new price milestone.
+**📝 Summary:** Gold loan interest rates can vary significantly for borrowers due to the implementation of tiered pricing models.
 
 ---
 
