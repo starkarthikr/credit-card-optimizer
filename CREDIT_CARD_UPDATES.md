@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-25 21:14:38 IST
+**Last Updated:** 2026-11-26 07:19:34 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -76,12 +76,12 @@
 
 ---
 
-#### 5. [Does customer loyalty affect gold loan interest rates?](https://economictimes.indiatimes.com/wealth/borrow/loan/headline-does-customer-loyalty-affect-gold-loan-interest-rates/articleshow/136155633.cms)
+#### 5. [I am retired and live on rent. Am I eligible for any income tax deduction or exemption like HRA?](https://economictimes.indiatimes.com/wealth/tax/i-am-retired-and-live-on-rent-am-i-eligible-for-any-income-tax-deduction-or-exemption-like-hra/articleshow/136179997.cms)
 
 **📡 Source:** Economic Times  
-**📅 Published:** Wed, 25 Nov 2026 15:11:40 +0530  
+**📅 Published:** Thu, 26 Nov 2026 11:47:20 +0530  
 
-**📝 Summary:** Gold loan interest rates can vary significantly for borrowers due to the implementation of tiered pricing models.
+**📝 Summary:** ET Wealth Reader's Query: I am a retired defence pensioner living in a rented house.
 
 ---
 
