@@ -1,28 +1,8 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-26 07:19:34 IST
+**Last Updated:** 2026-11-26 21:03:26 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
-
-
-### ⚠️ Devaluation
-
-#### 1. [ICICI Bank Credit Card Devaluation November 2026 – Air Accident Insurance and INOX Benefits Discontinued, Fees Revised](https://cardinsider.com/blog/icici-bank-credit-card-devaluation-benefits-and-fees/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 12 Nov 2026 06:31:18 +0000  
-**🏦 Bank:** ICICI  
-**💳 Card:** ICICI Bank Credit Card  
-
-**📝 Summary:** At this point, credit card users have become accustomed to periodic devaluation notices, whether from Axis Bank, ICICI Bank, or other major issuers.
-
-**✨ Benefits:** Complimentary, Insurance
-
-**💡 Optimization Tips:**
-
-- These changes cover multiple aspects of its credit card portfolio, including the discontinuation of complimentary insurance covers, changes to movie benefits, and an increase in various card replacement and DCC charges
-
----
 
 
 ### 📰 General Updates
@@ -53,26 +33,21 @@
 
 ---
 
-#### 3. [Save Up to ₹1,000 on District & Zomato Dining With RuPay Credit Cards](https://cardinsider.com/blog/district-zomato-dining-rupay-credit-card-offer/)
+#### 3. [Food prices surge up to 100% in one year: Can your 10% salary hike keep up with rising grocery bills?](https://economictimes.indiatimes.com/wealth/spend/food-prices-surge-up-to-100-in-one-year-can-your-10-salary-hike-keep-up-with-rising-grocery-bills/slideshow/136183748.cms)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Mon, 16 Nov 2026 09:30:42 +0000  
-**💳 Card:** With RuPay Credit Card  
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 26 Nov 2026 13:34:07 +0530  
 
-**📝 Summary:** RuPay has been coming up with some interesting offers recently, with the complimentary ALL Accor membership on RuPay Ekaa Credit Cards being a notable addition to its premium card benefits.
-
-**✨ Benefits:** Complimentary
+**📝 Summary:** There’s a chance that you might get a decent salary hike this year, and maybe even a promotion.
 
 ---
 
-#### 4. [Get Amazon Vouchers Worth Up to ₹5,000 With HDFC Bank Forex Card](https://cardinsider.com/blog/hdfc-bank-forex-card-amazon-vouchers/)
+#### 4. [My 3 Lakh/Month Passive Income System | Harsh Vira](https://economictimes.indiatimes.com/wealth/earn/my-3-lakh/month-passive-income-system-harsh-vira/videoshow/136182960.cms)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 12 Nov 2026 09:00:57 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** Forex Card  
+**📡 Source:** Economic Times  
+**📅 Published:** Thu, 26 Nov 2026 13:03:53 +0530  
 
-**📝 Summary:** HDFC Bank is offering Amazon vouchers worth up to ₹5,000 to customers loading or reloading their eligible Forex Cards.
+**📝 Summary:** Harsh Vira breaks down the system he says earns him ₹3 lakh a month in passive income, and the four assets behind it: REITs, InvITs, bonds and P2P lending.
 
 ---
 
@@ -88,7 +63,21 @@
 
 ### 🎁 New Offer
 
-#### 1. [Free Seat Selection, Fast Forward, Forex Benefits & More for a Limited Time with Kotak IndiGo Credit Cards](https://cardinsider.com/blog/kotak-indigo-credit-card-limited-time-benefits/)
+#### 1. [PhonePe HDFC Bank Uno and Ultimo Credit Cards Now Lifetime Free for a Limited Time](https://cardinsider.com/blog/phonepe-hdfc-uno-ultimo-credit-cards-lifetime-free/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 26 Nov 2026 10:00:41 +0000  
+**🏦 Bank:** HDFC  
+**💳 Card:** and Ultimo Credit Card  
+**💵 Fee:** ₹499  
+
+**📝 Summary:** PhonePe and HDFC Bank have announced a limited-period offer under which both co-branded credit cards, the PhonePe HDFC Bank Uno Credit Card and PhonePe HDFC Bank Ultimo Credit Card, are available w...
+
+**✨ Benefits:** Lounge Access, Complimentary
+
+---
+
+#### 2. [Free Seat Selection, Fast Forward, Forex Benefits & More for a Limited Time with Kotak IndiGo Credit Cards](https://cardinsider.com/blog/kotak-indigo-credit-card-limited-time-benefits/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 17 Nov 2026 11:52:43 +0000  
@@ -101,7 +90,7 @@
 
 ---
 
-#### 2. [BOBCARD Etihad Credit Cards Offer Up to 10,000 Welcome Miles Till December 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
+#### 3. [BOBCARD Etihad Credit Cards Offer Up to 10,000 Welcome Miles Till December 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Tue, 17 Nov 2026 08:30:13 +0000  
@@ -197,7 +186,37 @@
 
 ---
 
-#### 2. [Get Up to 10% Off on Qatar Airways Flights With Visa Credit Cards](https://cardinsider.com/blog/qatar-airways-flights-visa-card-discount/)
+#### 2. [BOBCARD Etihad Guest Credit Cardholders Can Earn Up to 1,500 Bonus Miles on Etihad Airways Spends and 1,000 Miles on EMI Transactions](https://cardinsider.com/blog/bobcard-etihad-credit-card-bonus-miles-offer/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 26 Nov 2026 11:15:29 +0000  
+**💳 Card:** Etihad Guest Credit Card  
+
+**📝 Summary:** BOBCARD has announced two limited-period promotional offers for selected BOBCARD Etihad Guest and BOBCARD Etihad Guest Premium Credit Cardholders.
+
+---
+
+#### 3. [Get 30% Off at Participating Fairmont Hotels with Black Friday Sale](https://cardinsider.com/blog/fairmont-hotels-black-friday-sale/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 26 Nov 2026 10:20:03 +0000  
+**🏦 Bank:** AU  
+
+**📝 Summary:** Fairmont Hotels &#38; Resorts has announced its Black Friday sale, offering guests up to 30% off stays at participating hotels and resorts worldwide.
+
+---
+
+#### 4. [Get Discounts on Paytm Metro Bookings and Bill Payments with Visa Credit Cards](https://cardinsider.com/blog/paytm-metro-bill-payments-visa-card-discounts/)
+
+**📡 Source:** Cardinsider  
+**📅 Published:** Thu, 26 Nov 2026 09:15:39 +0000  
+**💳 Card:** with Visa Credit Card  
+
+**📝 Summary:** Visa cardholders can save on everyday transactions through promotional offers available on Paytm.
+
+---
+
+#### 5. [Get Up to 10% Off on Qatar Airways Flights With Visa Credit Cards](https://cardinsider.com/blog/qatar-airways-flights-visa-card-discount/)
 
 **📡 Source:** Cardinsider  
 **📅 Published:** Fri, 20 Nov 2026 04:20:44 +0000  
@@ -205,47 +224,6 @@
 **💳 Card:** With Visa Credit Card  
 
 **📝 Summary:** Qatar Airways is a popular choice among frequent flyers, especially credit card enthusiasts, as its Avios loyalty program is a transfer partner of several credit cards.
-
----
-
-#### 3. [Earn Up to 20% Rewards on International Spends with Your Visa Credit Card](https://cardinsider.com/blog/rewards-international-spends-visa-power-travel/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 17 Nov 2026 11:45:54 +0000  
-**🏦 Bank:** AU  
-**💳 Card:** Your Visa Credit Card  
-
-**📝 Summary:** There have hardly been any offers as rewarding as the Visa Power Travel offer in recent times.
-
-**💡 Optimization Tips:**
-
-- Visa Power Travel offers multiple ways to earn additional rewards on your international spends
-
----
-
-#### 4. [Why Air Accident Cover With Credit Cards Matters More Than Ever](https://cardinsider.com/blog/why-air-accident-cover-with-credit-cards-matters-more-than-ever/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 12 Nov 2026 06:00:43 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** Cover With Credit Card  
-
-**📝 Summary:** While credit cards are steadily becoming mainstream, there’s still a lack of awareness about some of the valuable benefits they offer.
-
-**✨ Benefits:** Complimentary, Insurance
-
----
-
-#### 5. [12 jobs that pay you to see the world (plus 13 you can do from anywhere)](https://economictimes.indiatimes.com/wealth/earn/12-jobs-that-pay-you-to-see-the-world-plus-13-you-can-do-from-anywhere/slideshow/136147065.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 25 Nov 2026 09:05:56 +0530  
-
-**📝 Summary:** Dreaming of a career with passport stamps.
-
-**💡 Optimization Tips:**
-
-- In this slideshow, you’ll find 12 careers that send you around the globe, 13 remote jobs you can do while traveling, and one budget-friendly trick for exploring the world as a volunteer
 
 ---
 
