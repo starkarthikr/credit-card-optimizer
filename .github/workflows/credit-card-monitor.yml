@@ -53,8 +53,7 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
-          pip install feedparser python-dateutil
+          pip install feedparser python-dateutil requests beautifulsoup4 pandas
           
       - name: Fetch Credit Card Updates
         run: python scripts/parse_credit_card_feeds.py
