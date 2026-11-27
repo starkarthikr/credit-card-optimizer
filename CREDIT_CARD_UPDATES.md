@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-27 07:15:56 IST
+**Last Updated:** 2026-11-27 20:48:22 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -22,86 +22,40 @@
 
 ---
 
-#### 2. [Up to ₹125 Off on Zepto with Kotak Credit Cards](https://cardinsider.com/blog/discount-on-zepto-with-kotak-credit-cards/)
+#### 2. [Gold rate today: Check 24K, 22K, 20K, 18K gold prices in Chennai, Delhi, Mumbai, Hyderabad &amp; other cities](https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-check-24k-22k-20k-18k-gold-prices-in-chennai-delhi-mumbai-hyderabad-other-cities/slideshow/136217252.cms)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 17 Nov 2026 07:00:38 +0000  
-**🏦 Bank:** KOTAK  
-**💳 Card:** with Kotak Credit Card  
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 27 Nov 2026 15:14:02 +0530  
+**🏦 Bank:** CITI  
 
-**📝 Summary:** Kotak Mahindra has a long list of offers for its credit card users.
+**📝 Summary:** As of November 27, 2026, Tanishq's price of 22k gold jewellery is Rs 11,650 per gram across Chennai showrooms.
 
 ---
 
-#### 3. [Who is eligible for compassionate appointment? 5% cap, 100-point score, 5-year myth &amp; more](https://economictimes.indiatimes.com/wealth/legal/will/who-is-eligible-for-compassionate-appointment-5-cap-100-point-score-5-year-myth-more/slideshow/136209498.cms)
+#### 3. [EPFO SWP: How to get monthly income from ₹50 lakh EPF corpus for life?](https://economictimes.indiatimes.com/wealth/invest/epfo-swp-how-to-get-monthly-income-from-50-lakh-epf-corpus-for-life/slideshow/136213883.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 27 Nov 2026 13:14:31 +0530  
+
+**📝 Summary:** The Employees' Provident Fund Organisation (EPFO) has approved a proposal to introduce a Systematic Withdrawal Plan (SWP) for retiring members.
+
+---
+
+#### 4. [Do employees really value work and company loyalty? 3 workplace paradoxes reveal surprising truths](https://economictimes.indiatimes.com/wealth/earn/do-employees-really-value-work-and-company-loyalty-3-workplace-paradoxes-reveal-surprising-truths/slideshow/136212961.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 27 Nov 2026 12:34:14 +0530  
+
+**📝 Summary:** Rising living costs are putting pressure on Indian employees, but that has not dampened their enthusiasm for technology.
+
+---
+
+#### 5. [Who is eligible for compassionate appointment? 5% cap, 100-point score, 5-year myth &amp; more](https://economictimes.indiatimes.com/wealth/legal/will/who-is-eligible-for-compassionate-appointment-5-cap-100-point-score-5-year-myth-more/slideshow/136209498.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 27 Nov 2026 10:17:43 +0530  
 
 **📝 Summary:** Who is eligible, which relatives can apply, how the 100-point merit score works and what the five-year deadline really means.
-
----
-
-#### 4. [Own a vacant plot in India? 8 property tax rules every landowner must know](https://economictimes.indiatimes.com/wealth/real-estate/own-a-vacant-plot-in-india-8-property-tax-rules-every-landowner-must-know/slideshow/136208932.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 27 Nov 2026 09:54:41 +0530  
-**🏦 Bank:** CITI  
-
-**📝 Summary:** Buying a plot and waiting for its value to rise can be a good long-term investment.
-
----
-
-#### 5. [Food prices surge up to 100% in one year: Can your 10% salary hike keep up with rising grocery bills?](https://economictimes.indiatimes.com/wealth/spend/food-prices-surge-up-to-100-in-one-year-can-your-10-salary-hike-keep-up-with-rising-grocery-bills/slideshow/136183748.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 26 Nov 2026 13:34:07 +0530  
-
-**📝 Summary:** There’s a chance that you might get a decent salary hike this year, and maybe even a promotion.
-
----
-
-
-### 🎁 New Offer
-
-#### 1. [PhonePe HDFC Bank Uno and Ultimo Credit Cards Now Lifetime Free for a Limited Time](https://cardinsider.com/blog/phonepe-hdfc-uno-ultimo-credit-cards-lifetime-free/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 26 Nov 2026 10:00:41 +0000  
-**🏦 Bank:** HDFC  
-**💳 Card:** and Ultimo Credit Card  
-**💵 Fee:** ₹499  
-
-**📝 Summary:** PhonePe and HDFC Bank have announced a limited-period offer under which both co-branded credit cards, the PhonePe HDFC Bank Uno Credit Card and PhonePe HDFC Bank Ultimo Credit Card, are available w...
-
-**✨ Benefits:** Lounge Access, Complimentary
-
----
-
-#### 2. [Free Seat Selection, Fast Forward, Forex Benefits & More for a Limited Time with Kotak IndiGo Credit Cards](https://cardinsider.com/blog/kotak-indigo-credit-card-limited-time-benefits/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 17 Nov 2026 11:52:43 +0000  
-**🏦 Bank:** KOTAK  
-**💳 Card:** Kotak IndiGo Credit Card  
-
-**📝 Summary:** Kotak IndiGo Credit Cards are popular co-branded airline cards, particularly suited for those who frequently fly with IndiGo.
-
-**✨ Benefits:** Complimentary
-
----
-
-#### 3. [BOBCARD Etihad Credit Cards Offer Up to 10,000 Welcome Miles Till December 2026](https://cardinsider.com/blog/bobcard-launches-limited-period-double-welcome-miles-offer-etihad-guest-credit-cards/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Tue, 17 Nov 2026 08:30:13 +0000  
-**💳 Card:** BOBCARD Etihad Credit Card  
-
-**📝 Summary:** BOBCARD has announced a new limited-period welcome and promotional miles offer on its Etihad Guest co-branded credit cards.
-
-**✨ Benefits:** Welcome Bonus
-
-**🔄 Redemption:** , which can later be redeemed for flights, upgrades, hotel stays, and more through the Etihad Guest program
 
 ---
 
@@ -187,44 +141,16 @@
 
 ---
 
-#### 2. [BOBCARD Etihad Guest Credit Cardholders Can Earn Up to 1,500 Bonus Miles on Etihad Airways Spends and 1,000 Miles on EMI Transactions](https://cardinsider.com/blog/bobcard-etihad-credit-card-bonus-miles-offer/)
+#### 2. [12 jobs that pay you to see the world (plus 13 you can do from anywhere)](https://economictimes.indiatimes.com/wealth/earn/12-jobs-that-pay-you-to-see-the-world-plus-13-you-can-do-from-anywhere/slideshow/136147065.cms)
 
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 26 Nov 2026 11:15:29 +0000  
-**💳 Card:** Etihad Guest Credit Card  
+**📡 Source:** Economic Times  
+**📅 Published:** Wed, 25 Nov 2026 09:05:56 +0530  
 
-**📝 Summary:** BOBCARD has announced two limited-period promotional offers for selected BOBCARD Etihad Guest and BOBCARD Etihad Guest Premium Credit Cardholders.
+**📝 Summary:** Dreaming of a career with passport stamps.
 
----
+**💡 Optimization Tips:**
 
-#### 3. [Get 30% Off at Participating Fairmont Hotels with Black Friday Sale](https://cardinsider.com/blog/fairmont-hotels-black-friday-sale/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 26 Nov 2026 10:20:03 +0000  
-**🏦 Bank:** AU  
-
-**📝 Summary:** Fairmont Hotels &#38; Resorts has announced its Black Friday sale, offering guests up to 30% off stays at participating hotels and resorts worldwide.
-
----
-
-#### 4. [Get Discounts on Paytm Metro Bookings and Bill Payments with Visa Credit Cards](https://cardinsider.com/blog/paytm-metro-bill-payments-visa-card-discounts/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Thu, 26 Nov 2026 09:15:39 +0000  
-**💳 Card:** with Visa Credit Card  
-
-**📝 Summary:** Visa cardholders can save on everyday transactions through promotional offers available on Paytm.
-
----
-
-#### 5. [Get Up to 10% Off on Qatar Airways Flights With Visa Credit Cards](https://cardinsider.com/blog/qatar-airways-flights-visa-card-discount/)
-
-**📡 Source:** Cardinsider  
-**📅 Published:** Fri, 20 Nov 2026 04:20:44 +0000  
-**🏦 Bank:** INDUSIND  
-**💳 Card:** With Visa Credit Card  
-
-**📝 Summary:** Qatar Airways is a popular choice among frequent flyers, especially credit card enthusiasts, as its Avios loyalty program is a transfer partner of several credit cards.
+- In this slideshow, you’ll find 12 careers that send you around the globe, 13 remote jobs you can do while traveling, and one budget-friendly trick for exploring the world as a volunteer
 
 ---
 
