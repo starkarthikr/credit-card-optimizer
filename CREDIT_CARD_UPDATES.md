@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-26 21:03:26 IST
+**Last Updated:** 2026-11-27 07:15:56 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -33,30 +33,31 @@
 
 ---
 
-#### 3. [Food prices surge up to 100% in one year: Can your 10% salary hike keep up with rising grocery bills?](https://economictimes.indiatimes.com/wealth/spend/food-prices-surge-up-to-100-in-one-year-can-your-10-salary-hike-keep-up-with-rising-grocery-bills/slideshow/136183748.cms)
+#### 3. [Who is eligible for compassionate appointment? 5% cap, 100-point score, 5-year myth &amp; more](https://economictimes.indiatimes.com/wealth/legal/will/who-is-eligible-for-compassionate-appointment-5-cap-100-point-score-5-year-myth-more/slideshow/136209498.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 27 Nov 2026 10:17:43 +0530  
+
+**📝 Summary:** Who is eligible, which relatives can apply, how the 100-point merit score works and what the five-year deadline really means.
+
+---
+
+#### 4. [Own a vacant plot in India? 8 property tax rules every landowner must know](https://economictimes.indiatimes.com/wealth/real-estate/own-a-vacant-plot-in-india-8-property-tax-rules-every-landowner-must-know/slideshow/136208932.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Fri, 27 Nov 2026 09:54:41 +0530  
+**🏦 Bank:** CITI  
+
+**📝 Summary:** Buying a plot and waiting for its value to rise can be a good long-term investment.
+
+---
+
+#### 5. [Food prices surge up to 100% in one year: Can your 10% salary hike keep up with rising grocery bills?](https://economictimes.indiatimes.com/wealth/spend/food-prices-surge-up-to-100-in-one-year-can-your-10-salary-hike-keep-up-with-rising-grocery-bills/slideshow/136183748.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Thu, 26 Nov 2026 13:34:07 +0530  
 
 **📝 Summary:** There’s a chance that you might get a decent salary hike this year, and maybe even a promotion.
-
----
-
-#### 4. [My 3 Lakh/Month Passive Income System | Harsh Vira](https://economictimes.indiatimes.com/wealth/earn/my-3-lakh/month-passive-income-system-harsh-vira/videoshow/136182960.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 26 Nov 2026 13:03:53 +0530  
-
-**📝 Summary:** Harsh Vira breaks down the system he says earns him ₹3 lakh a month in passive income, and the four assets behind it: REITs, InvITs, bonds and P2P lending.
-
----
-
-#### 5. [I am retired and live on rent. Am I eligible for any income tax deduction or exemption like HRA?](https://economictimes.indiatimes.com/wealth/tax/i-am-retired-and-live-on-rent-am-i-eligible-for-any-income-tax-deduction-or-exemption-like-hra/articleshow/136179997.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Thu, 26 Nov 2026 11:47:20 +0530  
-
-**📝 Summary:** ET Wealth Reader's Query: I am a retired defence pensioner living in a rented house.
 
 ---
 
