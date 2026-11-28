@@ -1,6 +1,6 @@
 # 💳 Credit Card Optimizer - India
 
-**Last Updated:** 2026-11-27 20:48:22 IST
+**Last Updated:** 2026-11-28 06:48:33 IST
 
 ## 🎯 Latest Offers & Updates (Last 7 Days)
 
@@ -22,7 +22,16 @@
 
 ---
 
-#### 2. [Gold rate today: Check 24K, 22K, 20K, 18K gold prices in Chennai, Delhi, Mumbai, Hyderabad &amp; other cities](https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-check-24k-22k-20k-18k-gold-prices-in-chennai-delhi-mumbai-hyderabad-other-cities/slideshow/136217252.cms)
+#### 2. [Wife sought Rs 1.80 lakh monthly maintenance, husband claims she earns Rs 1.30 lakh per month; Calcutta HC finds 'personal vengeance', penalises wife](https://economictimes.indiatimes.com/wealth/legal/will/wife-sought-rs-1-80-lakh-monthly-maintenance-husband-claims-she-earns-rs-1-30-lakh-per-month-calcutta-hc-finds-personal-vengeance-penalises-wife/articleshow/136237484.cms)
+
+**📡 Source:** Economic Times  
+**📅 Published:** Sat, 28 Nov 2026 11:22:38 +0530  
+
+**📝 Summary:** Mr Ghosh was ordered to pay Rs 45,000 per month in maintenance to his wife Mrs Ghosh.
+
+---
+
+#### 3. [Gold rate today: Check 24K, 22K, 20K, 18K gold prices in Chennai, Delhi, Mumbai, Hyderabad &amp; other cities](https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-check-24k-22k-20k-18k-gold-prices-in-chennai-delhi-mumbai-hyderabad-other-cities/slideshow/136217252.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 27 Nov 2026 15:14:02 +0530  
@@ -32,7 +41,7 @@
 
 ---
 
-#### 3. [EPFO SWP: How to get monthly income from ₹50 lakh EPF corpus for life?](https://economictimes.indiatimes.com/wealth/invest/epfo-swp-how-to-get-monthly-income-from-50-lakh-epf-corpus-for-life/slideshow/136213883.cms)
+#### 4. [EPFO SWP: How to get monthly income from ₹50 lakh EPF corpus for life?](https://economictimes.indiatimes.com/wealth/invest/epfo-swp-how-to-get-monthly-income-from-50-lakh-epf-corpus-for-life/slideshow/136213883.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 27 Nov 2026 13:14:31 +0530  
@@ -41,21 +50,12 @@
 
 ---
 
-#### 4. [Do employees really value work and company loyalty? 3 workplace paradoxes reveal surprising truths](https://economictimes.indiatimes.com/wealth/earn/do-employees-really-value-work-and-company-loyalty-3-workplace-paradoxes-reveal-surprising-truths/slideshow/136212961.cms)
+#### 5. [Do employees really value work and company loyalty? 3 workplace paradoxes reveal surprising truths](https://economictimes.indiatimes.com/wealth/earn/do-employees-really-value-work-and-company-loyalty-3-workplace-paradoxes-reveal-surprising-truths/slideshow/136212961.cms)
 
 **📡 Source:** Economic Times  
 **📅 Published:** Fri, 27 Nov 2026 12:34:14 +0530  
 
 **📝 Summary:** Rising living costs are putting pressure on Indian employees, but that has not dampened their enthusiasm for technology.
-
----
-
-#### 5. [Who is eligible for compassionate appointment? 5% cap, 100-point score, 5-year myth &amp; more](https://economictimes.indiatimes.com/wealth/legal/will/who-is-eligible-for-compassionate-appointment-5-cap-100-point-score-5-year-myth-more/slideshow/136209498.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Fri, 27 Nov 2026 10:17:43 +0530  
-
-**📝 Summary:** Who is eligible, which relatives can apply, how the 100-point merit score works and what the five-year deadline really means.
 
 ---
 
@@ -138,19 +138,6 @@
 **🏦 Bank:** AU  
 
 **📝 Summary:** Most hotel loyalty offers give you a small benefit, including most Marriott offers these days.
-
----
-
-#### 2. [12 jobs that pay you to see the world (plus 13 you can do from anywhere)](https://economictimes.indiatimes.com/wealth/earn/12-jobs-that-pay-you-to-see-the-world-plus-13-you-can-do-from-anywhere/slideshow/136147065.cms)
-
-**📡 Source:** Economic Times  
-**📅 Published:** Wed, 25 Nov 2026 09:05:56 +0530  
-
-**📝 Summary:** Dreaming of a career with passport stamps.
-
-**💡 Optimization Tips:**
-
-- In this slideshow, you’ll find 12 careers that send you around the globe, 13 remote jobs you can do while traveling, and one budget-friendly trick for exploring the world as a volunteer
 
 ---
 
